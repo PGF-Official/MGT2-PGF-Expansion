@@ -1,0 +1,679 @@
+﻿[ID]0
+[NAME EN]Without Engine
+[NAME GE]Ohne Engine
+[NAME CH]带师引擎
+[NAME TU]Motorsuz
+[DATE]JAN 1976
+[GENRE]-1
+[PLATFORM]-1
+[PRICE]0
+[SHARE]0
+
+[ID]1
+[NAME EN]Phaser Game Engine
+[NAME GE]Adventure Game Engine
+[NAME CH]冒险家引擎
+[NAME TU]Adventure Game Engine
+[DATE]MAR 1977
+[GENRE]2
+[PLATFORM]49
+[PRICE]5000
+[SHARE]5
+
+[ID]2
+[NAME EN]Phaser Game Engine II
+[NAME GE]Adventure Game Engine II
+[NAME CH]冒险家引擎 II            
+[NAME TU]Adventure Game Engine II
+[DATE]NOV 1977
+[GENRE]2
+[PLATFORM]49
+[PRICE]10000
+[SHARE]6
+
+[ID]3
+[NAME EN]Turbulenz Engine
+[NAME GE]SYS-Creative Engine
+[NAME CH]梦境引擎
+[NAME TU]SYS-Creative Engine
+[DATE]JAN 1979
+[GENRE]0
+[PLATFORM]80
+[PRICE]15000
+[SHARE]5
+
+[ID]4
+[NAME EN]Turbulenz Engine 2.0
+[NAME GE]SYS-Creative Engine 2.0
+[NAME CH]梦境引擎 2.0
+[NAME TU]SYS-Creative Engine 2.0
+[DATE]JUL 1980
+[GENRE]0
+[PLATFORM]80
+[PRICE]20000
+[SHARE]6
+
+[ID]5
+[NAME EN]Turbulenz Engine 3.0
+[NAME GE]SYS-Creative Engine 3.0
+[NAME CH]梦境引擎 3.0
+[NAME TU]SYS-Creative Engine 3.0
+[DATE]OCT 1981
+[GENRE]0
+[PLATFORM]80
+[PRICE]25000
+[SHARE]7
+
+[ID]6
+[NAME EN]Corona SDK
+[NAME GE]X-Work Engine
+[NAME CH]绝迹引擎
+[NAME TU]X-Work Engine
+[DATE]AUG 1983
+[GENRE]3
+[PLATFORM]6
+[PRICE]30000
+[SHARE]3
+
+[ID]7
+[NAME EN]Corona SDK 2
+[NAME GE]X-Work Engine 2
+[NAME CH]绝迹引擎 2
+[NAME TU]X-Work Engine 2
+[DATE]SEP 1984
+[GENRE]3
+[PLATFORM]15
+[PRICE]35000
+[SHARE]4
+
+[ID]8
+[NAME EN]Corona SDK 3
+[NAME GE]X-Work Engine 3
+[NAME CH]绝迹引擎 3
+[NAME TU]X-Work Engine 3
+[DATE]JUN 1985
+[GENRE]3
+[PLATFORM]48
+[PRICE]40000
+[SHARE]5
+
+[ID]9
+[NAME EN]GameSalad
+[NAME GE]Strategy Builder
+[NAME CH]战略家引擎
+[NAME TU]Strategy Builder
+[DATE]DEC 1987
+[GENRE]4
+[PLATFORM]5
+[PRICE]45000
+[SHARE]6
+
+[ID]10
+[NAME EN]Lumberyard 1.0
+[NAME GE]Action Creator 1.0
+[NAME CH]战略家引擎 1.0
+[NAME TU]Action Creator 1.0
+[DATE]OCT 1988
+[GENRE]5
+[PLATFORM]1
+[PRICE]50000
+[SHARE]6
+
+[ID]11
+[NAME EN]Lumberyard 2.0
+[NAME GE]Action Creator 2.0
+[NAME CH]战略家引擎 2.0
+[NAME TU]Action Creator 2.0
+[DATE]JUL 1990
+[GENRE]5
+[PLATFORM]9
+[PRICE]55000
+[SHARE]8
+
+[ID]12
+[NAME EN]HeroEngine I
+[NAME GE]Sim-Space Engine I
+[NAME CH]极客引擎         I
+[NAME TU]Sim-Space Engine I
+[DATE]APR 1991
+[GENRE]7
+[PLATFORM]25
+[PRICE]60000
+[SHARE]10
+
+[ID]13
+[NAME EN]HeroEngine II
+[NAME GE]Sim-Space Engine II
+[NAME CH]极客引擎         II
+[NAME TU]Sim-Space Engine II
+[DATE]DEC 1992
+[GENRE]7
+[PLATFORM]5
+[PLATFORM]25
+[PRICE]65000
+[SHARE]7
+
+[ID]14
+[NAME EN]Build Engine 1.0
+[NAME GE]3D Build Studio 1.0
+[NAME CH]三维数码引擎    1.0
+[NAME TU]3D Build Studio 1.0
+[DATE]DEC 1994
+[GENRE]14
+[PLATFORM]17
+[PRICE]70000
+[SHARE]5
+
+[ID]15
+[NAME EN]Build Engine 2.0
+[NAME GE]3D Build Studio 2.0
+[NAME CH]三维数码引擎    2.0
+[NAME TU]3D Build Studio 2.0
+[DATE]JUL 1996
+[GENRE]14
+[PLATFORM]17
+[PRICE]75000
+[SHARE]6
+
+[ID]16
+[NAME EN]Build Engine 3.0
+[NAME GE]3D Build Studio 3.0
+[NAME CH]三维数码引擎    3.0
+[NAME TU]3D Build Studio 3.0
+[DATE]SEP 1997
+[GENRE]14
+[PLATFORM]17
+[PRICE]80000
+[SHARE]7
+
+[ID]17
+[NAME EN]libGDX 1.0
+[NAME GE]JnR-Engine 1.0
+[NAME CH]红炎引擎 1.0
+[NAME TU]JnR-Engine 1.0
+[DATE]DEC 1998
+[GENRE]6
+[PLATFORM]18
+[PRICE]85000
+[SHARE]5
+
+[ID]18
+[NAME EN]libGDX 2.0
+[NAME GE]JnR-Engine 2.0
+[NAME CH]红炎引擎 2.0
+[NAME TU]JnR-Engine 2.0
+[DATE]DEC 2000
+[GENRE]6
+[PLATFORM]8
+[PRICE]90000
+[SHARE]7
+
+[ID]19
+[NAME EN]Stratagus 1
+[NAME GE]IT-Technology 1
+[NAME CH]黑魄 1
+[NAME TU]IT-Technology 1
+[DATE]JUL 2001
+[GENRE]16
+[PLATFORM]19
+[PRICE]95000
+[SHARE]6
+
+[ID]20
+[NAME EN]Stratagus 2
+[NAME GE]IT-Technology 2
+[NAME CH]黑魄 2
+[NAME TU]IT-Technology 2
+[DATE]DEC 2003
+[GENRE]16
+[PLATFORM]19
+[PRICE]100000
+[SHARE]8
+
+[ID]21
+[NAME EN]Stratagus 3
+[NAME GE]IT-Technology 3
+[NAME CH]黑魄 3
+[NAME TU]IT-Technology 3
+[DATE]OCT 2004
+[GENRE]16
+[PLATFORM]17
+[PRICE]105000
+[SHARE]10
+
+[ID]22
+[NAME EN]CryEngine 1.0
+[NAME GE]Realtime Builder 3D
+[NAME CH]构建者 引擎
+[NAME TU]Realtime Builder 3D
+[DATE]DEC 2006
+[GENRE]14
+[PLATFORM]30
+[PRICE]110000
+[SHARE]4
+
+[ID]23
+[NAME EN]CryEngine 2.0
+[NAME GE]Realtime Builder 3D Pro
+[NAME CH]构建者 引擎 Pro
+[NAME TU]Realtime Builder 3D Pro
+[DATE]AUG 2007
+[GENRE]14
+[PLATFORM]30
+[PRICE]115000
+[SHARE]6
+
+[ID]24
+[NAME EN]Quake Engine I
+[NAME GE]Game Code Engine I
+[NAME CH]源代码 引擎 I
+[NAME TU]Game Code Engine I
+[DATE]SEP 2008
+[GENRE]14
+[PLATFORM]20
+[PRICE]120000
+[SHARE]5
+
+[ID]25
+[NAME EN]Quake Engine II
+[NAME GE]Game Code Engine II
+[NAME CH]源代码 引擎 II
+[NAME TU]Game Code Engine II
+[DATE]OCT 2010
+[GENRE]14
+[PLATFORM]20
+[PRICE]125000
+[SHARE]10
+
+[ID]26
+[NAME EN]Source 1.0
+[NAME GE]Landscape Tech 1.0
+[NAME CH]环科 引擎 1.0
+[NAME TU]Landscape Tech 1.0
+[DATE]NOV 2011
+[GENRE]16
+[PLATFORM]17
+[PRICE]130000
+[SHARE]4
+
+[ID]27
+[NAME EN]Source 2.0
+[NAME GE]Landscape Tech 2.0
+[NAME CH]环科 引擎 2.0
+[NAME TU]Landscape Tech 2.0
+[DATE]NOV 2012
+[GENRE]16
+[PLATFORM]17
+[PRICE]135000
+[SHARE]6
+
+[ID]28
+[NAME EN]Unity 1.0
+[NAME GE]Rumble Engine 1.0
+[NAME CH]爆裂者 引擎 1.0
+[NAME TU]Rumble Engine 1.0
+[DATE]JUL 2014
+[GENRE]16
+[PLATFORM]21
+[PRICE]140000
+[SHARE]5
+
+[ID]29
+[NAME EN]Unity 2.0
+[NAME GE]Rumble Engine 2.0
+[NAME CH]爆裂者 引擎 2.0
+[NAME TU]Rumble Engine 2.0
+[DATE]OCT 2015
+[GENRE]16
+[PLATFORM]21
+[PRICE]145000
+[SHARE]7
+
+[ID]30
+[NAME EN]Unreal Engine 3
+[NAME GE]Interactive Tech 1.0
+[NAME CH]沉寂者 1.0
+[NAME TU]Interactive Tech 1.0
+[DATE]NOV 2016
+[GENRE]16
+[PLATFORM]32
+[PRICE]150000
+[SHARE]4
+
+[ID]31
+[NAME EN]Unreal Engine 4
+[NAME GE]Interactive Tech 2.0
+[NAME CH]沉寂者 2.0
+[NAME TU]Interactive Tech 2.0
+[DATE]JUN 2018
+[GENRE]16
+[PLATFORM]32
+[PRICE]155000
+[SHARE]6
+
+[ID]32
+[NAME EN]Havok 1.0
+[NAME GE]LightTech Engine 1.0
+[NAME CH]轻客 引擎 1.0
+[NAME TU]LightTech Engine 1.0
+[DATE]JUL 2019
+[GENRE]12
+[PLATFORM]82
+[PRICE]160000
+[SHARE]6
+
+[ID]33
+[NAME EN]Havok 2.0
+[NAME GE]LightTech Engine 2.0
+[NAME CH]轻客 引擎 2.0
+[NAME TU]LightTech Engine 2.0
+[DATE]DEC 2020
+[GENRE]12
+[PLATFORM]82
+[PRICE]165000
+[SHARE]7
+
+[ID]34
+[NAME EN]Havok 3.0
+[NAME GE]LightTech Engine 3.0
+[NAME CH]轻客 引擎 3.0
+[NAME TU]LightTech Engine 3.0
+[DATE]FEB 2023
+[GENRE]12
+[PLATFORM]28
+[PRICE]170000
+[SHARE]8
+
+[ID]35
+[NAME EN]Unreal Engine 5
+[NAME GE]Polycount 3D
+[NAME CH]聚数者 3D
+[NAME TU]Polycount 3D
+[DATE]JUN 2024
+[GENRE]16
+[PLATFORM]69
+[PRICE]175000
+[SHARE]5
+
+[ID]36
+[NAME EN]Unreal Engine 6
+[NAME GE]Quest Factory
+[NAME CH]探索者
+[NAME TU]Quest Factory
+[DATE]AUG 2025
+[GENRE]16
+[PLATFORM]17
+[PRICE]180000
+[SHARE]10
+
+[ID]37
+[NAME EN]Unity 3.0
+[NAME GE]RealTech Pro
+[NAME CH]盗梦者 Pro
+[NAME TU]RealTech Pro
+[DATE]AUG 2025
+[GENRE]13
+[PLATFORM]17
+[PRICE]185000
+[SHARE]8
+
+[ID]38
+[NAME EN]Unity 4.0
+[NAME GE]TitanCode 3D
+[NAME CH]泰坦 3D
+[NAME TU]TitanCode 3D
+[DATE]MAY 2026
+[GENRE]13
+[PLATFORM]67
+[PRICE]195000
+[SHARE]9
+
+[ID]39
+[NAME EN]Sierra’s Creative Interpreter
+[NAME GE]Sierra’s Creative Interpreter
+[NAME CH]Sierra’s Creative Interpreter
+[NAME TU]Sierra’s Creative Interpreter
+[NAME FR]Sierra’s Creative Interpreter
+[NAME HU]Sierra’s Creative Interpreter
+[NAME CT]Sierra’s Creative Interpreter
+[NAME CZ]Sierra’s Creative Interpreter
+[NAME PB]Sierra’s Creative Interpreter
+[NAME IT]Sierra’s Creative Interpreter
+[NAME JA]Sierra’s Creative Interpreter
+[NAME PL]Sierra’s Creative Interpreter
+[DATE]MAR 1977
+[GENRE]2
+[PLATFORM]49
+[PRICE]5000
+[SHARE]5
+
+[ID]40
+[NAME EN]SCUMM
+[NAME GE]SCUMM
+[NAME CH]SCUMM           
+[NAME TU]SCUMM
+[NAME FR]SCUMM
+[NAME HU]SCUMM
+[NAME CT]SCUMM
+[NAME CZ]SCUMM
+[NAME PB]SCUMM
+[NAME IT]SCUMM
+[NAME JA]SCUMM
+[NAME PL]SCUMM
+[DATE]NOV 1977
+[GENRE]2
+[PLATFORM]49
+[PRICE]10000
+[SHARE]6
+
+[ID]41
+[NAME EN]Freescape
+[NAME GE]Freescape
+[NAME CH]Freescape
+[NAME TU]Freescape
+[NAME FR]Freescape
+[NAME HU]Freescape
+[NAME CT]Freescape
+[NAME CZ]Freescape
+[NAME PB]Freescape
+[NAME IT]Freescape
+[NAME JA]Freescape
+[NAME PL]Freescape
+[DATE]JAN 1979
+[GENRE]0
+[PLATFORM]80
+[PRICE]15000
+[SHARE]5
+
+[ID]42
+[NAME EN]PRISM-16
+[NAME GE]PRISM-16
+[NAME CH]PRISM-16
+[NAME TU]PRISM-16
+[NAME FR]PRISM-16
+[NAME HU]PRISM-16
+[NAME CT]PRISM-16
+[NAME CZ]PRISM-16
+[NAME PB]PRISM-16
+[NAME IT]PRISM-16
+[NAME JA]PRISM-16
+[NAME PL]PRISM-16
+[DATE]OCT 1981
+[GENRE]0
+[PLATFORM]80
+[PRICE]25000
+[SHARE]7
+
+[ID]43
+[NAME EN]Frostbite Engine
+[NAME GE]Frostbite Engine
+[NAME CH]Frostbite Engine
+[NAME TU]Frostbite Engine
+[NAME FR]Frostbite Engine
+[NAME HU]Frostbite Engine
+[NAME CT]Frostbite Engine
+[NAME CZ]Frostbite Engine
+[NAME PB]Frostbite Engine
+[NAME IT]Frostbite Engine
+[NAME JA]Frostbite Engine
+[NAME PL]Frostbite Engine
+[DATE]SEP 2008
+[GENRE]3
+[PLATFORM]15
+[PRICE]35000
+[SHARE]4
+
+[ID]44
+[NAME EN]Frostbite 2
+[NAME GE]Frostbite 2
+[NAME CH]Frostbite 2
+[NAME TU]Frostbite 2
+[NAME FR]Frostbite 2
+[NAME HU]Frostbite 2
+[NAME CT]Frostbite 2
+[NAME CZ]Frostbite 2
+[NAME PB]Frostbite 2
+[NAME IT]Frostbite 2
+[NAME JA]Frostbite 2
+[NAME PL]Frostbite 2
+[DATE]SEP 2011
+[GENRE]3
+[PLATFORM]30
+[PRICE]100000
+[SHARE]10
+
+[ID]45
+[NAME EN]Frostbite 3
+[NAME GE]Frostbite 3
+[NAME CH]Frostbite 3
+[NAME TU]Frostbite 3
+[NAME FR]Frostbite 3
+[NAME HU]Frostbite 3
+[NAME CT]Frostbite 3
+[NAME CZ]Frostbite 3
+[NAME PB]Frostbite 3
+[NAME IT]Frostbite 3
+[NAME JA]Frostbite 3
+[NAME PL]Frostbite 3
+[DATE]SEP 2013
+[GENRE]3
+[PLATFORM]50
+[PRICE]400000
+[SHARE]10
+
+[ID]46
+[NAME EN]Frostbite 4
+[NAME GE]Frostbite 4
+[NAME CH]Frostbite 4
+[NAME TU]Frostbite 4
+[NAME FR]Frostbite 4
+[NAME HU]Frostbite 4
+[NAME CT]Frostbite 4
+[NAME CZ]Frostbite 4
+[NAME PB]Frostbite 4
+[NAME IT]Frostbite 4
+[NAME JA]Frostbite 4
+[NAME PL]Frostbite 4
+[DATE]SEP 2021
+[GENRE]3
+[PLATFORM]86
+[PRICE]7500000
+[SHARE]10
+
+[ID]47
+[NAME EN]Blender
+[NAME GE]Blender
+[NAME CH]Blender
+[NAME TU]Blender
+[NAME FR]Blender
+[NAME HU]Blender
+[NAME CT]Blender
+[NAME CZ]Blender
+[NAME PB]Blender
+[NAME IT]Blender
+[NAME JA]Blender
+[NAME PL]Blender
+[DATE]JUN 1985
+[GENRE]3
+[PLATFORM]48
+[PRICE]40000
+[SHARE]5
+
+[ID]48
+[NAME EN]RenderWare
+[NAME GE]RenderWare
+[NAME CH]RenderWare
+[NAME TU]RenderWare
+[NAME FR]RenderWare
+[NAME HU]RenderWare
+[NAME CT]RenderWare
+[NAME CZ]RenderWare
+[NAME PB]RenderWare
+[NAME IT]RenderWare
+[NAME JA]RenderWare
+[NAME PL]RenderWare
+[DATE]DEC 1987
+[GENRE]4
+[PLATFORM]5
+[PRICE]45000
+[SHARE]6
+
+[ID]49
+[NAME EN]Infinity Engine
+[NAME GE]Infinity Engine
+[NAME CH]Infinity Engine
+[NAME TU]Infinity Engine
+[NAME FR]Infinity Engine
+[NAME HU]Infinity Engine
+[NAME CT]Infinity Engine
+[NAME CZ]Infinity Engine
+[NAME PB]Infinity Engine
+[NAME IT]Infinity Engine
+[NAME JA]Infinity Engine
+[NAME PL]Infinity Engine
+[DATE]JUL 1990
+[GENRE]5
+[PLATFORM]9
+[PRICE]55000
+[SHARE]8
+
+[ID]50
+[NAME EN]LithTech
+[NAME GE]LithTech
+[NAME CH]LithTech
+[NAME TU]LithTech
+[NAME FR]LithTech
+[NAME HU]LithTech
+[NAME CT]LithTech
+[NAME CZ]LithTech
+[NAME PB]LithTech
+[NAME IT]LithTech
+[NAME JA]LithTech
+[NAME PL]LithTech
+[DATE]DEC 1992
+[GENRE]7
+[PLATFORM]5
+[PLATFORM]25
+[PRICE]65000
+[SHARE]7
+
+[ID]51
+[NAME EN]RAGE
+[NAME GE]RAGE
+[NAME CH]RAGE
+[NAME TU]RAGE
+[NAME FR]RAGE
+[NAME HU]RAGE
+[NAME CT]RAGE
+[NAME CZ]RAGE
+[NAME PB]RAGE
+[NAME IT]RAGE
+[NAME JA]ロックスター・アドバンスド・ゲーム・エンジン
+[NAME PL]RAGE
+[DATE]AUG 2007
+[GENRE]13
+[PLATFORM]30
+[PRICE]115000
+[SHARE]6
+
+[EOF]
