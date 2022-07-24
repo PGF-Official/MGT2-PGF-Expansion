@@ -1333,7 +1333,7 @@
 [COUNTRY]0
 
 [ID]92
-[NAME EN]Lucasfilm
+[NAME EN]LucasArts
 [DATE]JAN 1979
 [PIC]80
 [DEVELOPER]true
