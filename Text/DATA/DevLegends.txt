@@ -1,221 +1,317 @@
-﻿Aaron Garbut
-Aaron Halon
-Aki Hata
-Al Lowe
-Alan Miller
-Alexander Brandon
-Allan Alcorn
-Allen Adham
-Allister Brimble
-Amy Hennig <f>
-Andy Gavin
-Andy Wilson
-Angelo Badalamenti
-Arnab Basu
-Bill Brown
-Bill Budge
-Bill Gates
-Bll Budge
-Bob Whitehead
-Brenda Braithwate <f>
-Brenda Brathwaite
-Brent McLeod
-Brian Fargo
-Brian Green
-Brian Tuey
-Bruce Artwick
-Casey Hudson
-Chad Grenier
-Charles Deenen <f>
-Charlie Wen
-Chris Beatrice
-Chris Beatrice
-Chris Crawford
-Chris Lambert
-Chris Sawyer
-Christophe Héral
-Cliff Bleszinski
-Cliff Bleszinski
-Clint Bajakian
-Clive Barker
-Clive Barker
-Colin McComb
-Craig Houston
-Dale McGlone
-Dan Hess
-Dan Houser
-Daniel Bernstein
-Daniel Nelson
-Danny Baranowsky
-Dave Matthews
-David Bergeaud
-David Braben
-David Crane
-David Fox
-David Jaffe
-David Jaffe
-David Jones
-David Jones
-David Perry
-David Swenson
-David Vonderhaar
-Dean Hall
-Dino Dini
-Dino Dini
-Don Daglow
-Dona Bailey
-Doug Church
-Ed Boon
-Ed Boon
-Ed Lobb
-Edmund McMillen
-Elon Musk
-Eric Barone
-Eric Chahl
-Erik San Juan
-Eugene Jarvis
-Fabian Del Priore <f>
-Gary Monohan
-Gary Newman
-Gary Winnick
-Gillman Louie
-Glen Schofield
-Glyn Anderson
-Gokhan Ogut
-Greg Reisdorf
-Gregg Mayles
-Hideo Kojima
-Hidetaka Miyazaki
-Hirotaka Komiyama
-Howard Drossin
-Ikka Keranen
-Isamu Ohira
-Jack Lam
-Jakub Dvorsky
-James Dooley
-James Livingston
-James Maida
-Jane Jensen <f>
-Jarek Kolar
-Jason McCord
-Jason Pag
-Jason Rubin
-Jason West
-Jean Baudlot
-Jeff Braun
-Jeff Minter
-Jim Hedges
-Jim Levy
-Joe Basquez
-Johan Andersson
-John Wilhelm
-Jon Hare
-Jonathan Blow
-Jonathan Blow
-Josef Fares
-Josef Kates
-Judy Patterson <f>
-Julian Gollop
-Junichi Masuda
-Kazunori Yamauchi
-Kazunori Yamauchi
-Kelton Flinn
-Ken Levine
-Ken Lobb
-Ken Sugimori
-Kim Swift
-Kurt Harland <f>
-Kärtsy Hatakka
-Lorne Balfe
-Louis Lu
-Mac Seelig
-Marc Baril
-Marc Blank
-Marc Blank
-Marc Laidlaw
-Mark Cerny
-Mark Lamia
-Markus Persson
-Masahiro Andoh
-Masamichi Amano <f>
-Michael Abrash
-Michael Anderson
-Michael Bacon <f>
-Michael Boon
-Michel Ancel
-Mike Dailly
-Miki Higashino
-Mitch Garber
-Mohammad Alavi
-Neil Druckmann
-Norihiko Hibino
-Noriyuki Asakura
-Patrice Désilets
-Peter Molyneux
-RIchard Garriott
-Ralph Baer
-Rebecca Heineman
-Rich Carlson
-Richard Bartle
-Richard Bartle <f>
-Rick Raymer
-Rob Fulop
-Rob Pardo
-Robert Faiss
-Robin Walker
-Robyn Miller <f>
-Rod Abernethy
-Rom Di Prisco
-Ron Gillbert
-Ron Goudsmit
-Russell Brower
-Sam Houser
-Sandy Peterson
-Satoshi Tajiri
-Scott Adams
-Scott Cawthon
-Scott Orr
-Scott Rogers
-Seamus Blackley
-Shigeki Morimoto
-Shigeru Miyamoto
-Shinji Mikami
-Sid Meier
-Soren Johnson
-Stefano Gualeni
-Stephen Barton
-Steve "Scat" Caterson
-Steve Barcia
-Steve Ditko
-Steve Fawkner
-Steve Feak
-Steve Jobs
-Steve Meretzky
-Steve Rittvo
-Stieg Hedlund
-Stieg Hedlund
-Takeshi Kitano
-Takeshi Yokouchi
-Tarn Adams
-Teddy Blass <f>
-Terry Smith
-Tetsuya Mizuguchi
-Tim Anderson
-Tim Caine
-Tim Cook
-Toby Fox
-Toby Gard
-Todd Howard
-Tokuro Fujiwara
-Tom Barbalet
-Toshihiro Nishikado
-Trevor Chan
-Trip Hawkins
-Ursula Escher <f>
-Vince Zampella
-Vlad Putin
-Warren Spector
-Will Wright
-William Higinbotham
-William Pugh
-Yoshino Aoki
+﻿Aaron Garbut <G>
+Aaron Halon <P>
+Abhishek Arora <P>
+Adam Alcini <G>
+Aki Hata <S>
+Al Lowe <P><D><S>
+Alan Miller <P>
+Alexander Brandon <S>
+Allan Alcorn <P>
+Allister Brimble <S>
+Amos Hodge <D>
+Amy Hennig <T><f>
+Andy Gavin <P>
+Andy Gavin <P>
+Andy Wilson <P>
+Angelo Badalamenti <P>
+Arnab Basu <P>
+Ashton Williams <T><f>
+Benjamin Bastian <T>
+Benjamin Bloc <T>
+Bill Brown <P>
+Bill Budge <P>
+Bill Gates <P><D><S>
+Bill Stealey <P>
+Bll Budge <P>
+Bob Whitehead <P>
+Brenda Braithwate <P><f>
+Brent McLeod <P>
+Brian Fargo <P>
+Brian Green <P>
+Brian Raffel <P>
+Brian Reynolds <D>
+Brian Tuey <P>
+Bruce Artwick <P>
+Cale Dunlap <P>
+Cameron Dayton <D>
+Casey Hudson <P>
+Chad Grenier <P>
+Charles Deenen <P><f>
+Charlie Wen <P>
+Chris Beatrice <P>
+Chris Crawford <P>
+Chris Lambert <P>
+Chris Sawyer <P><D>
+Christophe Héral <P>
+Christopher Sainsbury <T>
+Christopher Stone <G>
+Cliff Bleszinski <P>
+Clint Bajakian <P>
+Clive Barker <P><D>
+Colin McComb <P>
+Cory Gagel <G>
+Craig Houston <P>
+Dale McGlone <P>
+Dan Hess <P>
+Dan Houser <T>
+Daniel Adamitskiy <T>
+Daniel Bernstein <P>
+Daniel Nelson <P>
+Danny Baranowsky <P>
+Dave Matthews <P>
+David Bergeaud <P>
+David Braben <P>
+David Crane <P>
+David Fox <P>
+David Jaffe <P>
+David Jones <P>
+David Perry <P>
+David Swenson <S>
+David Vonderhaar <P>
+Dean Hall <P>
+Dino Dini <P>
+Don Daglow <P>
+Dona Bailey <P>
+Doug Church <P>
+Ed Boon <P>
+Ed Lobb <P>
+Edmund McMillen <P>
+Edward Pereira <P>
+Elon Musk <D>
+Ergun Ismayilov <G>
+Eric Barone <P>
+Eric Chahl <P>
+Eric Pierce <G>
+Erik San Juan <P>
+Eugene Jarvis <P>
+Fabian Del Priore <P>
+Gary Monohan <P>
+Gary Newman <P>
+Gary Spinrad <S>
+Gary Winnick <P>
+Geoffrey Smith <P>
+Gillman Louie <P>
+Glen Schofield <P>
+Glyn Anderson <P>
+Gokhan Ogut <P>
+Grayson Cotrell <T>
+Greg Reisdorf <P>
+Gregg Mayles <P>
+Hailey Rio <G>
+Hideo Kojima <P>
+Hideo Kojima <D>
+Hideo Kojima <T>
+Hidetaka Miyazaki <P>
+Hirotaka Komiyama <P>
+Howard Drossin <P>
+Ikka Keranen <P>
+Isamu Ohira <P>
+Jack Grillo <S>
+Jack Lam <P>
+Jake Keating <D>
+Jakub Dvorsky <P>
+James Chung <G>
+James Dooley <P>
+James Livingston <P>
+James Maida <P>
+Jane Jensen <P>
+Jarek Kolar <P>
+Jason Gregory <P>
+Jason McCord <D>
+Jason Pag <P>
+Jason Rubin <D>
+Jason Schoonover <D>
+Jason West <T>
+Jean Baudlot <P>
+Jeff Braun <P>
+Jeff Briggs <D>
+Jeff Minter <P>
+Jeff Zaring <D>
+Jim Hedges<P>
+Jim Levy <P>
+Jimmy Zielinski <D>
+Joe Basquez <P>
+Joe Cecot <D>
+Joe Salud <G>
+Joel Emslie <G>
+Johan Andersson <P>
+John Bellomy <P>
+John Wilhelm <P>
+Jolyon Myers <D>
+Jon Hare <P>
+Jonathan Blow <P>
+Jonathan Simas <D>
+Josef Fares <P>
+Josef Kates <P>
+Judy Patterson <P><f>
+Julian Gollop <P>
+Junichi Masuda <P>
+Kazunori Yamauchi <P>
+Kelton Flinn <P>
+Ken Levine <P>
+Ken Lobb <P>
+Ken Sugimori <P>
+Kevin Chen <G>
+Kevin Levine <D>
+Kevin Sherwood <S>
+Khan Sweetman <P>
+Kim Swift <P>
+Kurt Harland <P>
+Kärtsy Hatakka <P>
+Lacey Bronson  <T><f>
+Leslie Benzies <T>
+Linda Rosemeier <S><f>
+Lorne Balfe <P>
+Louis Lu <P>
+Mac Seelig <P>
+Manuel Torres Pineda <G>
+Marc Baril <P>
+Marc Blank <P>
+Marc Laidlaw <P>
+Mark Cerny <P>
+Mark Cerny <D>
+Mark Grigsby <G>
+Mark Lamia <P>
+Markus Persson <P>
+Marshall Robin <P>
+Masahiro Andoh <P>
+Masamichi Amano <P><f>
+Mathew Gregory <P>
+Megan Steinberg <G><f>
+Michael Abrash <P>
+Michael Anderson <P>
+Michael Bacon <P><f>
+Michael Boon <P>
+Michael Gevorkyan <S>
+Michael Longley <S>
+Michael Miller <S>
+Michel Ancel <P>
+Mike Dailly <D>
+Mike Denny <D>
+Miki Higashino <P>
+Ming-Lun Chou <P>
+Mitch Garber <P>
+Mohammad Alavi  <D>
+Neil Druckmann <P>
+Norihiko Hibino <P>
+Noriyuki Asakura <P>
+Oliver Shannon-Lepper <P>
+Parikshit Saraswat <G>
+Patrice Désilets <P>
+Paul Sandler <D>
+Peter Molyneux <P>
+Peter Molyneux <D>
+RIchard Garriott <P>
+Ralph Baer <P>
+Raymond Lussier <T>
+Rebecca Heineman <P>
+Rich Carlson <P>
+Richard Bartle <P>
+Richard Cheek <T>
+Rick Raymer <P>
+Rob Fulop <P>
+Rob Pardo <P>
+Robert Faiss <P>
+Robin Walker <P>
+Robyn Miller <P><f>
+Rod Abernethy <P>
+Roger Abrahamsson <D>
+Rom Di Prisco <P>
+Ron Gillbert <P>
+Ron Goudsmit <P>
+Russell Brower <P>
+Russell Kay <D>
+Sam Houser <T>
+Sam Johnston <P>
+Sandeep Shekar <P>
+Sandy Peterson <P>
+Sarah Michael <T><f>
+Satoshi Tajiri <P>
+Scott Adams <P>
+Scott Cawthon v
+Scott Eckert <S>
+Scott Orr <P>
+Scott Rogers <P>
+Scott Whitney <T>
+Seamus Blackley <P>
+Shigeru Miyamoto <P>
+Shinji Mikami <P>
+Sid Meier <D>
+Sid Meier <G>
+Sid Meier <P>
+Simon Cournoyer <T>
+Soren Johnson <P>
+Stefano Gualeni <P>
+Stephen Barton <P>
+Steve "Scat" Caterson <P>
+Steve Barcia <P>
+Steve Ditko <G>
+Steve Fawkner <P>
+Steve Feak <P>
+Steve Jobs <P>
+Steve Meretzky <P>
+Steve Raffel <P>
+Steve Rittvo <P>
+Stieg Hedlund <P>
+Takeshi Kitano <P>
+Takeshi Yokouchi <P>
+Tarn Adams <P>
+Ted Timmins <D>
+Teddy Blass <P><f>
+Terry Smith <P>
+Tetsuya Mizuguchi <P>
+Tim Anderson <P>
+Tim Caine <P>
+Tim Cook <P>
+Toby Fox <P>
+Toby Gard <P>
+Todd Howard <P>
+Tokuro Fujiwara <P>
+Tom Barbalet <P>
+Tom Kuhn <P>
+Toshihiro Nishikado <P>
+Trevor Chan <P>
+Trip Hawkins <P>
+Ursula Escher <G><f>
+Ursula Escher <P><f>
+Vince Zampella <P>
+Vince Zampella <T>
+Warren Spector <P>
+Will Wright <D>
+William Cho <G>
+William Fine <T>
+William Higinbotham <P>
+William Pugh <P>
+Yoshino Aoki <P>
+Brian Chan <D>
+Eric Carter <D>
+Daniel Chace <D>
+Hupogrammos Alex <D>
+Andres Hdz <D>
+Mitchell Maglio <D>
+Matt Nolin <D>
+Rafael Kuhnen <D>
+Miquel Alomar <S>
+Shannon Slaton <S><f>
+Denys Henry <S>
+Jessica Arkoff <S><f>
+Yigit Tok <S>
+Scott Collier <D>
+Nyuk Sia <G>
+Lorenzo Vecchio <T>
+Victoria Prentice <T>
+Torben Ellert <D>
+Payl Haynes <D>
+Brian Merrill <D>
+Yogesh Patel <G>
+Matt Pickering <D>
+Zahid Jeelani <D>
+Alessio Mellina <S>
+Daniele Galante <S>
+Shora Farahani <G><f>
+Ivan Velez <T>
+Kyle Williams <G>
+Seth Kendall <G>
+Amanda Gates <P>
+Erik Irland <P>
+Lauren Stapleford <T><f>
