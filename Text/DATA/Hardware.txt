@@ -2931,7 +2931,7 @@
 [PIC]pHand7.png
 [ONLY_HANDHELD]
 
-[ID]159
+[ID]148
 [TYP]8
 [NAME EN]Case for handheld IX
 [NAME GE]Gehäuse für Handheld IX
