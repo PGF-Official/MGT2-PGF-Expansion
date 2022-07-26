@@ -400,5 +400,130 @@
 [DEV COSTS]34000
 [ENDLESS]
 
+[ID]37
+[NAME EN]Steam Bind v1.0
+[NAME GE]Steam Bind v1.0
+[NAME CH]Steam Bind v1.0
+[NAME TU]Steam Bind v1.0
+[NAME FR]Steam Bind v1.0
+[NAME CT]Steam Bind v1.0
+[NAME RU]Steam Bind v1.0
+[NAME IT]Steam Bind v1.0
+[NAME JA]Steam Bind v1.0
+[DATE]AUG 2010
+[PRICE]90000
+[DEV COSTS]17000
+
+[ID]38
+[NAME EN]Steam Bind v2.0
+[NAME GE]Steam Bind v2.0
+[NAME CH]Steam Bind v2.0
+[NAME TU]Steam Bind v2.0
+[NAME FR]Steam Bind v2.0
+[NAME CT]Steam Bind v2.0
+[NAME RU]Steam Bind v2.0
+[NAME IT]Steam Bind v2.0
+[NAME JA]Steam Bind v2.0
+[DATE]AUG 2012
+[PRICE]95000
+[DEV COSTS]18000
+
+[ID]39
+[NAME EN]Steam Bind v3.0
+[NAME GE]Steam Bind v3.0
+[NAME CH]Steam Bind v3.0
+[NAME TU]Steam Bind v3.0
+[NAME FR]Steam Bind v3.0
+[NAME CT]Steam Bind v3.0
+[NAME RU]Steam Bind v3.0
+[NAME IT]Steam Bind v3.0
+[NAME JA]Steam Bind v3.0
+[DATE]AUG 2014
+[PRICE]100000
+[DEV COSTS]19000
+
+[ID]40
+[NAME EN]Steamworks v1.0
+[NAME GE]Steamworks v1.0
+[NAME CH]Steamworks v1.0
+[NAME TU]Steamworks v1.0
+[NAME FR]Steamworks v1.0
+[NAME CT]Steamworks v1.0
+[NAME RU]Steamworks v1.0
+[NAME IT]Steamworks v1.0
+[NAME JA]Steamworks v1.0
+[DATE]AUG 2004
+[PRICE]75000
+[DEV COSTS]14000
+
+[ID]41
+[NAME EN]Steamworks v2.0
+[NAME GE]Steamworks v2.0
+[NAME CH]Steamworks v2.0
+[NAME TU]Steamworks v2.0
+[NAME FR]Steamworks v2.0
+[NAME CT]Steamworks v2.0
+[NAME RU]Steamworks v2.0
+[NAME IT]Steamworks v2.0
+[NAME JA]Steamworks v2.0
+[DATE]AUG 2006
+[PRICE]80000
+[DEV COSTS]15000
+
+[ID]42
+[NAME EN]Steamworks v3.0
+[NAME GE]Steamworks v3.0
+[NAME CH]Steamworks v3.0
+[NAME TU]Steamworks v3.0
+[NAME FR]Steamworks v3.0
+[NAME CT]Steamworks v3.0
+[NAME RU]Steamworks v3.0
+[NAME IT]Steamworks v3.0
+[NAME JA]Steamworks v3.0
+[DATE]AUG 2008
+[PRICE]85000
+[DEV COSTS]16000
+
+[ID]43
+[NAME EN]ActControl v1.0
+[NAME GE]ActControl v1.0
+[NAME CH]ActControl v1.0
+[NAME TU]ActControl v1.0
+[NAME FR]ActControl v1.0
+[NAME CT]ActControl v1.0
+[NAME RU]ActControl v1.0
+[NAME IT]ActControl v1.0
+[NAME JA]ActControl v1.0
+[DATE]AUG 1986
+[PRICE]30000
+[DEV COSTS]5000
+
+[ID]44
+[NAME EN]ActControl v2.0
+[NAME GE]ActControl v2.0
+[NAME CH]ActControl v2.0
+[NAME TU]ActControl v2.0
+[NAME FR]ActControl v2.0
+[NAME CT]ActControl v2.0
+[NAME RU]ActControl v2.0
+[NAME IT]ActControl v2.0
+[NAME JA]ActControl v2.0
+[DATE]AUG 1988
+[PRICE]35000
+[DEV COSTS]6000
+
+[ID]45
+[NAME EN]ActControl v3.0
+[NAME GE]ActControl v3.0
+[NAME CH]ActControl v3.0
+[NAME TU]ActControl v3.0
+[NAME FR]ActControl v3.0
+[NAME CT]ActControl v3.0
+[NAME RU]ActControl v3.0
+[NAME IT]ActControl v3.0
+[NAME JA]ActControl v3.0
+[DATE]AUG 1990
+[PRICE]40000
+[DEV COSTS]7000
 
 [EOF]
