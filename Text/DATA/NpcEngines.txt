@@ -676,4 +676,175 @@
 [PRICE]115000
 [SHARE]6
 
+[ID]52
+[NAME EN]UltraPower Engine
+[NAME GE]UltraPower Engine
+[NAME CH]UltraPower Engine
+[NAME TU]UltraPower Engine
+[NAME FR]UltraPower Engine
+[NAME HU]UltraPower Engine
+[NAME CT]UltraPower Engine
+[NAME CZ]UltraPower Engine
+[NAME PB]UltraPower Engine
+[NAME IT]UltraPower Engine
+[NAME JA]UltraPower Engine
+[NAME PL]UltraPower Engine
+[DATE]JAN 2028
+[GENRE]14
+[PLATFORM]136
+[PRICE]545000
+[SHARE]5
+
+[ID]53
+[NAME EN]Id Tech
+[NAME GE]Id Tech
+[NAME CH]Id Tech
+[NAME TU]Id Tech
+[NAME FR]Id Tech
+[NAME HU]Id Tech
+[NAME CT]Id Tech
+[NAME CZ]Id Tech
+[NAME PB]Id Tech
+[NAME IT]Id Tech
+[NAME JA]Id Tech
+[NAME PL]Id Tech
+[DATE]JUN 2024
+[GENRE]16
+[PLATFORM]69
+[PRICE]175000
+[SHARE]5
+
+[ID]54
+[NAME EN]Id Tech Plus
+[NAME GE]Id Tech Plus
+[NAME CH]Id Tech Plus
+[NAME TU]Id Tech Plus
+[NAME FR]Id Tech Plus
+[NAME HU]Id Tech Plus
+[NAME CT]Id Tech Plus
+[NAME CZ]Id Tech Plus
+[NAME PB]Id Tech Plus
+[NAME IT]Id Tech Plus
+[NAME JA]Id Tech Plus
+[NAME PL]Id Tech Plus
+[DATE]AUG 2025
+[GENRE]3
+[PLATFORM]17
+[PRICE]180000
+[SHARE]10
+
+[ID]55
+[NAME EN]Id Tech Pro
+[NAME GE]Id Tech Pro
+[NAME CH]Id Tech Pro
+[NAME TU]Id Tech Pro
+[NAME FR]Id Tech Pro
+[NAME HU]Id Tech Pro
+[NAME CT]Id Tech Pro
+[NAME CZ]Id Tech Pro
+[NAME PB]Id Tech Pro
+[NAME IT]Id Tech Pro
+[NAME JA]Id Tech Pro
+[NAME PL]Id Tech Pro
+[DATE]DEC 2025
+[GENRE]7
+[PLATFORM]17
+[PRICE]185000
+[SHARE]8
+
+[ID]56
+[NAME EN]Id Tech Excellence
+[NAME GE]Id Tech Excellence
+[NAME CH]Id Tech Excellence
+[NAME TU]Id Tech Excellence
+[NAME FR]Id Tech Excellence
+[NAME HU]Id Tech Excellence
+[NAME CT]Id Tech Excellence
+[NAME CZ]Id Tech Excellence
+[NAME PB]Id Tech Excellence
+[NAME IT]Id Tech Excellence
+[NAME JA]Id Tech Excellence
+[NAME PL]Id Tech Excellence
+[DATE]MAY 2026
+[GENRE]13
+[PLATFORM]67
+[PRICE]195000
+[SHARE]9
+
+[ID]57
+[NAME EN]Serious Engine
+[NAME GE]Serious Engine
+[NAME CH]Serious Engine
+[NAME TU]Serious Engine
+[NAME FR]Serious Engine
+[NAME HU]Serious Engine
+[NAME CT]Serious Engine
+[NAME CZ]Serious Engine
+[NAME PB]Serious Engine
+[NAME IT]Serious Engine
+[NAME JA]Serious Engine
+[NAME PL]Serious Engine
+[DATE]SEP 1997
+[GENRE]14
+[PLATFORM]17
+[PRICE]80000
+[SHARE]7
+
+[ID]58
+[NAME EN]Serious Engine 4
+[NAME GE]Serious Engine 4
+[NAME CH]Serious Engine 4
+[NAME TU]Serious Engine 4
+[NAME FR]Serious Engine 4
+[NAME HU]Serious Engine 4
+[NAME CT]Serious Engine 4
+[NAME CZ]Serious Engine 4
+[NAME PB]Serious Engine 4
+[NAME IT]Serious Engine 4
+[NAME JA]Serious Engine 4
+[NAME PL]Serious Engine 4
+[DATE]FEB 2023
+[GENRE]14
+[PLATFORM]17
+[PRICE]170000
+[SHARE]8
+
+[ID]59
+[NAME EN]Core
+[NAME GE]Core
+[NAME CH]Core
+[NAME TU]Core
+[NAME FR]Core
+[NAME HU]Core
+[NAME CT]Core
+[NAME CZ]Core
+[NAME PB]Core
+[NAME IT]Core
+[NAME JA]Core
+[NAME PL]Core
+[DATE]JUN 2018
+[GENRE]12
+[PLATFORM]32
+[PRICE]155000
+[SHARE]6
+
+[ID]60
+[NAME EN]AtmosFear
+[NAME GE]AtmosFear
+[NAME CH]AtmosFear
+[NAME TU]AtmosFear
+[NAME FR]AtmosFear
+[NAME HU]AtmosFear
+[NAME CT]AtmosFear
+[NAME CZ]AtmosFear
+[NAME PB]AtmosFear
+[NAME IT]AtmosFear
+[NAME JA]AtmosFear
+[NAME PL]AtmosFear
+[DATE]JUL 1996
+[GENRE]14
+[PLATFORM]17
+[PRICE]75000
+[SHARE]6
+
 [EOF]

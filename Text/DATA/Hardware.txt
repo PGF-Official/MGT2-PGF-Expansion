@@ -2931,4 +2931,25 @@
 [PIC]pHand7.png
 [ONLY_HANDHELD]
 
+[ID]159
+[TYP]8
+[NAME EN]Case for handheld IX
+[NAME GE]Gehäuse für Handheld IX
+[NAME TU]El Çantası IX
+[NAME ES]Carcasa para consola portatil IX
+[NAME PB]Carcaça para console portatil IX
+[NAME JA]ハンドヘルドIXのケース
+[NAME CH]手持 IX 外壳
+[NAME CT]第九代手提機外殼
+[NAME IT]Case per console portatile IX
+[NAME FR]Boitier pour console portable IX
+[NAME PL]IX Obudowa do konsoli przenośnej
+[DATE]MAR 2022
+[RES POINTS]4500
+[PRICE]14000000
+[DEV COSTS]25000000
+[TECHLEVEL]9
+[PIC]pHand8.png
+[ONLY_HANDHELD]
+
 [EOF]

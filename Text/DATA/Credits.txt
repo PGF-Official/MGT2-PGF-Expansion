@@ -5,26 +5,29 @@ Eggcode Games
 <size=10>Dale McGlone
 www.pgf.one</size>
 
-<b>DEVELOPMENT</b>
+<b>MGT2 DEVELOPMENT</b>
 Stefan Pohl
 
-<b>SOUNDS & MUSIC</b>
+<b>MGT2 SOUNDS & MUSIC</b>
 Audiohub
 Unity Assets
 
-<b>QUALITY ASSURANCE</b>
+<b>PGF EXPANSION QUALITY ASSURANCE</b>
+LMH01
+
+<b>MGT2 QUALITY ASSURANCE</b>
 Martin Barth & Patrick Lehmann
 
-<b>ENGINE</b>
+<b>MGT2 ENGINE</b>
 Unity
 www.unity.com
 
-<b>ADDITIONAL GRAPHICS</b>
+<b>MGT2 ADDITIONAL GRAPHICS</b>
 openclipart.org
 opengameart.org
 Unity Asset Store
 
-<b>TRANSLATION</b>
+<b>MGT2 TRANSLATION</b>
 Tanfus, fizzrocks & Astata
 Halil Kapağan & Mertcan Alsat
 Nihat Can Kabataş & Burak Ay
@@ -43,11 +46,6 @@ Isacovici Alexandru
 
 <b>SPECIAL THANKS</b>
 LMH01
-Michaela Tischmacher & Armida Accossu
-Tanja Westermann & Martina Barth
-FenomeN
-Rene Otto & Hermann Sukkau
-Amy, Loki & Mailo
 
 www.pgf.one
 www.xboxgamepass.co.uk
