@@ -3,7 +3,9 @@ Aaron Halon <P>
 Abhishek Arora <P>
 Adam Alcini <G>
 Aki Hata <S>
-Al Lowe <P><D><S>
+Al Lowe <P>
+Al Lowe <D>
+Al Lowe <S>
 Alan Miller <P>
 Alexander Brandon <S>
 Allan Alcorn <P>
@@ -20,7 +22,9 @@ Benjamin Bastian <T>
 Benjamin Bloc <T>
 Bill Brown <P>
 Bill Budge <P>
-Bill Gates <P><D><S>
+Bill Gates <P>
+Bill Gates <D>
+Bill Gates <S>
 Bill Stealey <P>
 Bll Budge <P>
 Bob Whitehead <P>
@@ -36,18 +40,20 @@ Cale Dunlap <P>
 Cameron Dayton <D>
 Casey Hudson <P>
 Chad Grenier <P>
-Charles Deenen <P><f>
+Charles Deenen <P>
 Charlie Wen <P>
 Chris Beatrice <P>
 Chris Crawford <P>
 Chris Lambert <P>
-Chris Sawyer <P><D>
+Chris Sawyer <P>
+Chris Sawyer <D>
 Christophe Héral <P>
 Christopher Sainsbury <T>
 Christopher Stone <G>
 Cliff Bleszinski <P>
 Clint Bajakian <P>
-Clive Barker <P><D>
+Clive Barker <P>
+Clive Barker <D>
 Colin McComb <P>
 Cory Gagel <G>
 Craig Houston <P>
@@ -139,6 +145,7 @@ John Bellomy <P>
 John Wilhelm <P>
 Jolyon Myers <D>
 Jon Hare <P>
+John Romero <D>
 Jonathan Blow <P>
 Jonathan Simas <D>
 Josef Fares <P>
@@ -228,7 +235,7 @@ Sandy Peterson <P>
 Sarah Michael <T><f>
 Satoshi Tajiri <P>
 Scott Adams <P>
-Scott Cawthon v
+Scott Cawthon <D>
 Scott Eckert <S>
 Scott Orr <P>
 Scott Rogers <P>
@@ -315,3 +322,4 @@ Seth Kendall <G>
 Amanda Gates <P>
 Erik Irland <P>
 Lauren Stapleford <T><f>
+Ryan Meier <D>
