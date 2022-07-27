@@ -30,8 +30,8 @@
 [NAME TU]Beceri
 [DESC TU]Oyuncunun hızlı tepki vermesi gerekir.<br> Sadece joystick ile değil, aynı zamanda kafa ile de.
 [DATE]JAN 1976
-[RES POINTS]1000
-[PRICE]100000
+[RES POINTS]500
+[PRICE]50000
 [DEV COSTS]10000
 [PIC]iconSkill.png
 [TGROUP]<KID><TEEN><ADULT><OLD><ALL>
@@ -84,8 +84,8 @@
 [NAME TU]Bulmaca
 [DESC TU]Zorlu bulmacaları çözmek isteyen<br> ve aksiyondan hoşlanmayan oyuncular bu türle emin ellerdedir.
 [DATE]JAN 1976
-[RES POINTS]1000
-[PRICE]100000
+[RES POINTS]500
+[PRICE]50000
 [DEV COSTS]10000
 [PIC]iconPuzzle.png
 [TGROUP]<TEEN><ADULT><OLD>
@@ -138,8 +138,8 @@
 [NAME TU]Macera
 [DESC TU]Mantıksal bulmacaları çözmek, aşırı şiddet yok<br> ve anlatımlı bir oyun bu türü karakterize ediyor.
 [DATE]JAN 1976
-[RES POINTS]1000
-[PRICE]100000
+[RES POINTS]500
+[PRICE]50000
 [DEV COSTS]10000
 [PIC]iconAdventure.png
 [TGROUP]<ADULT><OLD>
@@ -192,8 +192,8 @@
 [NAME TU]Rol Yapma
 [DESC TU]Karakter yönetimi, bulmaca çözme, canavarlarla savaşma.<br> Bu tür, diğer türlerin birçok oynanış unsurunu birleştirir.
 [DATE]JAN 1976
-[RES POINTS]1000
-[PRICE]100000
+[RES POINTS]500
+[PRICE]50000
 [DEV COSTS]10000
 [PIC]iconRPG.png
 [TGROUP]<ADULT><OLD>
@@ -246,8 +246,8 @@
 [NAME TU]Strateji
 [DESC TU]Bu tür, zeki rakiplere karşı taktiksel eylem gerektirir.<br> Oyuncuların joystick kullanımında profesyonel olmaları gerekmez,<br> ancak akıl gerekir.
 [DATE]JAN 1976
-[RES POINTS]1000
-[PRICE]100000
+[RES POINTS]500
+[PRICE]50000
 [DEV COSTS]10000
 [PIC]iconStrategy.png
 [TGROUP]<ADULT><OLD>
@@ -300,8 +300,8 @@
 [NAME TU]Aksiyon
 [DESC TU]Düşmanları ortadan kaldırmak bu türün özüdür. Hayranlar basit bir oyundan memnunlar, ancak harika grafikler ve gösterişli sesler talep ediyor.
 [DATE]JAN 1976
-[RES POINTS]1000
-[PRICE]100000
+[RES POINTS]500
+[PRICE]50000
 [DEV COSTS]10000
 [PIC]iconAction.png
 [TGROUP]<TEEN><ADULT>
@@ -354,8 +354,8 @@
 [NAME TU]Platform
 [DESC TU]Bu türün temel özellikleri koşma ve zıplamadır.<br> Küçük bulmacalar ve aksiyon sekansları da hoş karşılanır.
 [DATE]JAN 1976
-[RES POINTS]1000
-[PRICE]100000
+[RES POINTS]500
+[PRICE]50000
 [DEV COSTS]10000
 [PIC]iconJumpAndRun.png
 [TGROUP]<KID><TEEN>
@@ -408,8 +408,8 @@
 [NAME TU]Simülasyon
 [DESC TU]Bu türde yüksek gerçekçilik ve çığır açan grafikler gereklidir.<br> Ayrıca, hayranlar stratejik oynanış öğelerinden memnunlar.
 [DATE]JAN 1976
-[RES POINTS]1000
-[PRICE]100000
+[RES POINTS]500
+[PRICE]50000
 [DEV COSTS]10000
 [PIC]iconSimulation.png
 [TGROUP]<TEEN><ADULT>
@@ -462,8 +462,8 @@
 [NAME TU]Spor
 [DESC TU]Spor hayranları gerçekçilik ve iyi bir bilgisayar rakibi ister.<br> Harika grafikler ve ses şarttır.
 [DATE]JAN 1976
-[RES POINTS]1000
-[PRICE]100000
+[RES POINTS]500
+[PRICE]50000
 [DEV COSTS]10000
 [PIC]iconSport.png
 [TGROUP]<KID><TEEN><ADULT>
@@ -516,8 +516,8 @@
 [NAME TU]Ekonomik Simülasyon
 [DESC TU]Bu türdeki amaç para kazanmak ve bir ekonomik imparatorluk yaratmaktır.<br> Bu hedefe reflekslerle değil, stratejik bir yaklaşımla ulaşılmalıdır.
 [DATE]JAN 1976
-[RES POINTS]1000
-[PRICE]100000
+[RES POINTS]500
+[PRICE]50000
 [DEV COSTS]10000
 [PIC]iconEconomic.png
 [TGROUP]<ADULT><OLD>
@@ -570,8 +570,8 @@
 [NAME TU]Dövüş
 [DESC TU]İyi grafikler ve özellikle şiddet bu türün ana unsurlarıdır.<br> Burada hiçbir stratejik öğeye gerek yoktur, yalnızca duyarlılık.
 [DATE]JAN 1976
-[RES POINTS]1000
-[PRICE]100000
+[RES POINTS]500
+[PRICE]50000
 [DEV COSTS]10000
 [PIC]iconFighting.png
 [TGROUP]<TEEN><ADULT>
@@ -624,8 +624,8 @@
 [NAME TU]İnşa Etme
 [DESC TU]Bu türdeki amaç bir şehir, park veya benzeri bir şey inşa etmektir.<br> Ayrıca, temel amaç para kazanmaktır.
 [DATE]JAN 1976
-[RES POINTS]1000
-[PRICE]100000
+[RES POINTS]500
+[PRICE]50000
 [DEV COSTS]10000
 [PIC]iconBuild.png
 [TGROUP]<ADULT><OLD>
@@ -678,8 +678,8 @@
 [NAME TU]İnteraktif Film
 [DESC TU]Bu türün ana içeriği küçük bulmacalar ve bazı aksiyon içerikleridir.<br> Her şey bir filmde harmanlanır.
 [DATE]JAN 1976
-[RES POINTS]1000
-[PRICE]100000
+[RES POINTS]500
+[PRICE]50000
 [DEV COSTS]10000
 [PIC]iconMovie.png
 [TGROUP]<TEEN><ADULT><OLD>
@@ -732,8 +732,8 @@
 [NAME TU]Gerçek Zamanlı Strateji
 [DESC TU]Zeki bir rakibe karşı hızlı taktiksel aksiyon ve bir üs inşa etmek bu türün ana unsurlarıdır.
 [DATE]JAN 1976
-[RES POINTS]1000
-[PRICE]100000
+[RES POINTS]500
+[PRICE]50000
 [DEV COSTS]10000
 [PIC]iconRTS.png
 [TGROUP]<TEEN><ADULT>
@@ -786,8 +786,8 @@
 [NAME TU]Birinci Şahıs Nişancı
 [DESC TU]Aşırı şiddet ve kolay bulmaca görevleri<br> bu türün en önemli oynanış öğeleridir.<br> Burada kesinlikle hızlı tepkilere ihtiyaç vardır.
 [DATE]JAN 1976
-[RES POINTS]1000
-[PRICE]100000
+[RES POINTS]500
+[PRICE]50000
 [DEV COSTS]10000
 [PIC]iconFPS.png
 [TGROUP]<TEEN><ADULT>
@@ -840,8 +840,8 @@
 [NAME TU]Görsel Roman
 [DESC TU]Bu tür, düşünceli hikayeleriyle tanınır.<br> Burada odak noktası rahat oynanış ve aksiyondan daha azdır.
 [DATE]JAN 1976
-[RES POINTS]1000
-[PRICE]100000
+[RES POINTS]500
+[PRICE]50000
 [DEV COSTS]10000
 [PIC]iconVisualNovel.png
 [TGROUP]<KID><TEEN><ADULT><OLD><ALL>
@@ -894,8 +894,8 @@
 [NAME TU]Üçüncü Şahıs Nişancı
 [DESC TU]Zor atlama ve tırmanma pasajlarıyla birleştirilmiş aksiyon<br> buradaki en önemli oyun öğeleridir.<br> Hayranlar iyi grafikler talep etmektedir.
 [DATE]JAN 1976
-[RES POINTS]1000
-[PRICE]100000
+[RES POINTS]500
+[PRICE]50000
 [DEV COSTS]10000
 [PIC]iconTPS.png
 [TGROUP]<TEEN><ADULT>
@@ -948,8 +948,8 @@
 [NAME TU]Yarış
 [DESC TU]Yarış oyunları hayranları iyi bir kullanım ve harika grafikler ister.
 [DATE]JAN 1976
-[RES POINTS]1000
-[PRICE]100000
+[RES POINTS]500
+[PRICE]50000
 [DEV COSTS]10000
 [PIC]iconRacing.png
 [TGROUP]<KID><TEEN><ADULT><OLD><ALL>
@@ -974,8 +974,8 @@
 [DESC EN]A large group of people are put into an arena and fight to the death
 [NAME EN]Battle Royale
 [DATE]JAN 2005
-[RES POINTS]1000
-[PRICE]100000
+[RES POINTS]500
+[PRICE]50000
 [DEV COSTS]10000
 [PIC]iconBattle_Royale.png
 [TGROUP]<TEEN><ADULT><OLD>
@@ -984,6 +984,32 @@
 [SOUND]25
 [CONTROL]25
 [GENRE COMB]<5><2><14><6><17><13><3><8><4><16>
+[FOCUS0]5
+[FOCUS1]5
+[FOCUS2]5
+[FOCUS3]5
+[FOCUS4]5
+[FOCUS5]5
+[FOCUS6]5
+[FOCUS7]5
+[ALIGN0]5
+[ALIGN1]5
+[ALIGN2]5
+
+[ID]19
+[DESC EN]In MOBA games, two teams of players fight each other on a special kind of map..Each player controls one character from a certain list of available heroes,differing in characteristics and abilities.
+[NAME EN]MOBA
+[DATE]JAN 2006
+[RES POINTS]500
+[PRICE]50000
+[DEV COSTS]10000
+[PIC]iconMOBA.png
+[TGROUP]<TEEN><ADULT>
+[GAMEPLAY]25
+[GRAPHIC]25
+[SOUND]25
+[CONTROL]25
+[GENRE COMB]<5><2><14><6><13><3><8><4><16>
 [FOCUS0]5
 [FOCUS1]5
 [FOCUS2]5
