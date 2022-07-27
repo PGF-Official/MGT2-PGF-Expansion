@@ -1,80 +1,80 @@
-﻿Optimize graphics engine<0>
-Program an audio system<0>
-Develop a level editor<0>
-Optimize game physics<0>
-Write scripts for quests<0>
-Optimize enemy AI<0>
-Optimize loading times<0>
-Program a memory system<0>
-Create user interface<0>
-Program a database system<0>
-Program a game prototype<0>
-Develop a localization tool<0>
-Develop diagnostic tool<0>
-Compress game assets<0>
-Program a dialog system<0>
-Develop a collision system<0>
+﻿Optimize Graphics Engine<0>
+Program an Audio System<0>
+DeveloP a Level Editor<0>
+Optimize Game Physics<0>
+Write Scripts for Quests<0>
+Optimize Enemy AI<0>
+Optimize Loading Times<0>
+Program a Memory System<0>
+Create User Interface<0>
+Program a Database System<0>
+Program a Game Prototype<0>
+Develop a Localization Tools<0>
+Develop Diagnostic Tools<0>
+Compress Game Assets<0>
+Program a Dialogue System<0>
+Develop a Collision System<0>
 Program a File Browser<0>
-Program a level loader<0>
-Program an input manager<0>
-Program a sprite manager<0>
-Develop debug controller<0>
-Program an event manager<0>
-Develop an animation system<0>
-Develop a sprite editor<0>
-Develop drivers<0>
-Implement copy protection<0>
-Optimize a control system<1>
-Work on level design<1>
-General bug testing<1>
-Test out quests<1>
-Create a game concept<1>
-Test hardware compatibility<1>
-Test game stability<1>
-Analyze game performance<1>
-Test game updates<1>
-Optimize game balance<1>
+Program a Level Loader<0>
+Program an Input Manager<0>
+Program a Sprite Manager<0>
+Develop Debug Controller<0>
+Program an Event manager<0>
+Develop an Animation System<0>
+Develop a Sprite Editor<0>
+Develop Drivers<0>
+Implement Copy Protection<0>
+Optimize a Control System<1>
+Work on Level design<1>
+General Bug Testing<1>
+Test out Quests<1>
+Create a Game Concept<1>
+Test Hardware Compatibility<1>
+Test Game Stability<1>
+Analyze Game Performance<1>
+Test Game Updates<1>
+Optimize Game Balance<1>
 Test Plug-Ins<1>
-Analyze a prototype<1>
-Test a user interface<1>
-Create a storyboard<1>
-Write new dialogue<1>
-Create character sprites<2>
+Analyze a Prototype<1>
+Test a User Interface<1>
+Create a Storyboard<1>
+Write New Dialogue<1>
+Create Character Sprites<2>
 Draw backgrounds<2>
-Draw items<2>
-Draw user interface<2>
-Create concept graphics<2>
-Draw environment objects<2>
-Create special effects<2>
-Draw cover image<2>
+Draw Items<2>
+Draw User Interface<2>
+Create Concept Graphics<2>
+Draw Environment Objects<2>
+Create Special Effects<2>
+Draw Cover Image<2>
 Create Level Tileset<2>
-Design fonts<2>
-Animate characters<2>
-Creating a soundtrack<3>
+Design Fonts<2>
+Animate Characters<2>
+Creating a Soundtrack<3>
 Create Character Sounds<3>
-Record sounds of weapons<3>
-Create user interface sounds<3>
-Create dynamic sounds<3>
+Record Sounds of Weapons<3>
+Create User Interface Sounds<3>
+Create Dynamic Sounds<3>
 Create Ambience Sounds<3>
 Create Magic Sounds<3>
-Record animal noises<3>
-Create engine noises<3>
-Record classical music<3>
-Create robot sounds<3>
-Mixing explosion sounds<3>
-Record basic movements<4>
-Record martial arts animation<4>
-Create Cutscene animations<4>
-Create animal animations<4>
-Record swordplay animation<4>
-Create animations for monsters<4>
-Create dance animations<4>
-Record soccer players<4>
-Create emote animations<4>
-Record robot animations<4>
-Repair consoles<7>
-Design console prototype<7>
-Diagnose console prototype<7>
-Revise console mainboard<7>
-Performance test a prototype<7>
-Optimize cooling system<7>
+Record Animal Noises<3>
+Create Engine Noises<3>
+Record Classical Music<3>
+Create Robot Sounds<3>
+Mixing Explosion Sounds<3>
+Record Basic Movements<4>
+Record Martial Arts Animation<4>
+Create Cutscene Animations<4>
+Create Animal Animations<4>
+Record Swordplay Animation<4>
+Create Animations for Monsters<4>
+Create Dance Animations<4>
+Record Soccer Players<4>
+Create Emote Animations<4>
+Record Robot Animations<4>
+Repair Consoles<7>
+Design Console PrototyPe<7>
+Diagnose Console PrototyPe<7>
+Revise Console Mainboard<7>
+Performance Test a PrototyPe<7>
+Optimize Cooling System<7>
