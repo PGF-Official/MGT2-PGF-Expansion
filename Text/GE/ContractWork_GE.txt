@@ -1,0 +1,80 @@
+﻿Grafikengine optimieren<0>
+Audiosystem programmieren<0>
+Leveleditor entwickeln<0>
+Spielphysik optimieren<0>
+Quests scripten<0>
+Gegner-KI optimieren<0>
+Ladezeiten optimieren<0>
+Speichersystem programmieren<0>
+User-Interface erstellen<0>
+Datenbanksystem programmieren<0>
+Spielprototyp entwickeln<0>
+Lokalisationstool entwickeln<0>
+Diagnosetool entwickeln<0>
+Gameassets komprimieren<0>
+Dialogsystem programmieren<0>
+Kollisionssystem entwickeln<0>
+Datei-Browser programmieren<0>
+Levelloader programmieren<0>
+Inputmanager programmieren<0>
+Spritemanager programmieren<0>
+Debug-Controller entwickeln<0>
+Event-Manager programmieren<0>
+Animationssystem entwickeln<0>
+Spriteeditor entwickeln<0>
+Treiber entwickeln<0>
+Kopierschutz implementieren<0>
+Steuerung optimieren<1>
+Level designen<1>
+Allgemeines Bugtesting<1>
+Quests testen<1>
+Spielkonzept erstellen<1>
+Hardware Kompatibilitätstests<1>
+Game-Stabilität testen<1>
+Spielperformance analysieren<1>
+Gameupdate testen<1>
+Game Balancing optimieren<1>
+Plug-Ins testen<1>
+Prototyp analysieren<1>
+User-Interface testen<1>
+Storyboard erstellen<1>
+Dialoge schreiben<1>
+Charaktersprites erstellen<2>
+Hintergründe zeichnen<2>
+Items zeichnen<2>
+User-Interface zeichnen<2>
+Konzeptgrafiken erstellen<2>
+Umgebungsobjekte zeichnen<2>
+Spezialeffekte erstellen<2>
+Titelbild zeichnen<2>
+Level Tileset erstellen<2>
+Schriftarten designen<2>
+Charaktere animieren<2>
+Soundtrack erstellen<3>
+Charaktersounds erstellen<3>
+Waffensounds aufnehmen<3>
+User-Interface Sounds erstellen<3>
+Dynamische Sounds erstellen<3>
+Ambience Sounds erstellen<3>
+Magic Spells Sounds erstellen<3>
+Tiergeräusche aufnehmen<3>
+Motorengeräusche erstellen<3>
+Klassische Musik aufnehmen<3>
+Robotergeräusche erstellen<3>
+Explosionsgeräusche mixen<3>
+Grundbewegungen aufnehmen<4>
+Kampfsport-Animation aufnehmen<4>
+Cutscene-Animationen erstellen<4>
+Tier-Animationen erstellen<4>
+Schwertkampf-Animation aufnehmen<4>
+Animation für Monster erstellen<4>
+Tanz-Animationen erstellen<4>
+Fußballspieler aufnehmen<4>
+Emote-Animationen erstellen<4>
+Roboter-Animationen aufnehmen<4>
+Konsolen reparieren<7>
+Konsolenprototyp entwerfen<7>
+Diagnose eines Konsolenprototypen<7>
+Konsolenmainboard überarbeiten<7>
+Leistungstest eines Prototypen<7>
+Kühlsystem optimieren<7>

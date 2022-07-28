@@ -1,0 +1,80 @@
+﻿Grafikus motor optimalizálása<0>
+Az audiorendszer programozása<0>
+Pályaszerkesztő készítése<0>
+Fizika optimalizálása<0>
+Küldetés programozása<0>
+Ellenséges MI optimalizálása<0>
+Betöltőképernyők optimalizálása<0>
+A memóriarendszer programozása<0>
+Felhasználói felület létrehozása<0>
+Adatbázis-rendszer programozása<0>
+Játék prototípus kidolgozása<0>
+Lokalizációs eszköz fejlesztése<0>
+Diagnosztikai eszköz fejlesztése<0>
+Játék tömörítése<0>
+Párbeszédrendszer programozása<0>
+"Ütközési" eszköz fejlesztése<0>
+Fájlböngésző programozása<0>
+Pályabetöltő programozása<0>
+Bemeneti vezérlés programozása<0>
+Spritemanager programozása<0>
+Hibakeresési kontroller programozása<0>
+Eseménykezelő programozása<0>
+Animációs rendszer programozása<0>
+Sprite szerkesztő programozása<0>
+Fejlesztőprogramok fejlesztése<0>
+Másolásvédelem készítése<0>
+Vezérlőrendszer optimalizálása<1>
+Szintek tervezése<1>
+Általános hibajavítás<1>
+Küldetés tesztelése<1>
+Játékkoncepció készítése<1>
+Hardver kompatibilitási tesztek<1>
+Játék stabilitásának tesztelése<1>
+Játék teljesítményének elemzése<1>
+Játék frissítés tesztelése<1>
+Játékegyensúlyozást optimalizálása<1>
+Bővítmények tesztelése<1>
+Prototípus elemzése<1>
+Felhasználói felület tesztelése<1>
+Forgatókönyv létrehozása<1>
+Párbeszéd írása<1>
+Karakter spriteok létrehozása<2>
+Háttérkép rajzoláas<2>
+Tárgyak rajzolása<2>
+Felhasználói felület rajzolása<2>
+Koncepciógrafika készítése<2>
+Környezeti tárgyak rajzolása<2>
+Speciális effektusok készítése<2>
+Borítókép rajzolása<2>
+Tileset készítése<2>
+Betűtípusok rajzolása<2>
+Karakterek animálása<2>
+Játékzene rögzítése<3>
+Karakterhang rögzítése<3>
+Fegyverkhangok rögzítése<3>
+UI hang rögzítése<3>
+Dinamikus hangok rögzítése<3>
+Környezeti hangok rögzítése<3>
+Varázshangokat rögzítése<3>
+Állati zajok rögzítése<3>
+Motorhangok rögzítése<3>
+Klasszikus zene rögzítése<3>
+Robot hang rögzítése<3>
+Robbanási hangok keverése<3>
+Alapvető mozgások animálása<4>
+Karcművészeti animáció felvétele<4>
+Átvezető animáció felvétele<4>
+Állati animációkat felvétele<4>
+Kardjáték animálása<4>
+Szörnyek animálása<4>
+Táncanimáció készítése<4>
+Focijátékosok animáláas<4>
+Kifejezések animáláas<4>
+Robotanimációk felvétele<4>
+Konzolok javítása<7>
+Konzol prototípus tervezése<7>
+Konzol prototípusának diagnosztizálása<7>
+Konzol alaplapjának felülvizsgálata<7>
+Teljesítmény tesztelés egy konzolon<7>
+Hűtőrendszer optimalizálása<7>

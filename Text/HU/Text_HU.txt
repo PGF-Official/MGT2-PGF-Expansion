@@ -1,0 +1,2032 @@
+﻿<b>Szobák építése</b><br>Itt tudsz szobákat építeni
+-
+-
+-
+Technológiai szint
+Tapasztalat
+Fejlesztési költségek
+$
+A tapasztalati szint növekedésével a fejlesztési költségek csökkennek. <br> Emellett a játékmenet, a grafika, a technológia és a hangpontok növekednek.
+Grafika
+Hang
+Mesterséges intelligencia
+Fizika
+Játékmenet
+Irányítás
+Többjátékos
+Minden be/kikapcsolása
+Szoba építése
+Bezár
+Játékfejlesztés
+Kutatások
+Minőségbiztosítás
+Grafikus stúdió
+Hangstúdió
+Marketing részleg
+Ügyfélszolgálat
+Konzol fejlesztése
+Raktár
+MoCap stúdió
+WC
+Társalgó
+Gyakorló szoba
+Gyártás
+Szerverszoba
+A <color=blue>Játékfejlesztés</color>-i szobában játékokat és játékmotort is tudsz készíteni egyaránt.
+Ebben a szobában új technológiákat fejleszthetsz
+A <color=blue>Minőségbiztosítás</color>-nál a játékmenet és a hibákat tudod javítani.
+A <color=blue>Grafikus stúdió></color>-ban a játék grafikáját tudod jobbá tenni.
+A <color=blue>Hangstúdió</color>-ban kiváló minőségű hangokat készithetsz játékaidhoz.
+A <color=blue>Marketing részleg</color>-en hirdetheted játékaidat.
+Az <color=blue>Ügyfélszolgálati részleg</color>-en a rajongóid panaszaira tudsz válaszolni.
+The <color=blue>console development</color> is needed to develop your own consoles.
+A <color=blue>Raktár</color>-ban a gyártott játékokat tudod raktározni.
+A <color=blue>MoCap Stúdió</color>-ban profi animációkat tudsz készíteni.
+A <color=blue>WC</color> szükséges, ha az egyik alkalmazottnak ki kell menni-e a mellékhelyiségbe.
+A <color=blue>Társalgó</color>-ban az alkalmazottjaid kikapcsolódhatnak és motivációhoz jutnak.
+A <color=blue>Gyakorló szoba</color> ideális megoldás az alkalmazottak képzésében.
+Ebben a szobában előállíthatod a játékaidat
+A <color=blue>Szerverszoba</color> akkor szükséges, ha F2P/MMO játékot szeretnél készíteni.
+f
+*
+A "Minőségbiztosítás"-t az <color=blue>"Egyéb"</color> címszó alatt tudod kifejleszteni.
+A "Grafikus stúdió"-t az <color=blue>"Egyéb"</color> címszó alatt tudod kifejleszteni.
+A "Hangstúdió"-t az <color=blue>"Egyéb"</color> címszó alatt tudod kifejleszteni.
+A "Marketing részleg"-et az <color=blue>"Egyéb"</color> címszó alatt tudod kifejleszteni.
+Az "Ügyfélszolgálat"-ot az <color=blue>"Egyéb"</color> címszó alatt tudod kifejleszteni.
+You can research console development under the heading <color=blue>"Miscellaneous"</color>.
+A "Raktár"-t a <color=blue>"Terjesztési lehetőségek"</color> címszó alatt tudod kifejleszteni.
+Feloldásra kerül ekkor: <color=blue>1993 November</color>.
+*
+*
+A "Gyakorló szobát" az <color=blue>"Egyéb"</color> címszó alatt tudod kifejleszteni.
+A "Terjesztési lehetőségek" az <color=blue>"Egyéb"</color> címszó alatt tudod kifejleszteni.
+Elérhető lesz, hogy ha kifejlesztetted a <color=blue>Többjátékos mód</color>-ot.
+Elrendezés
+<b>Szoba kialakítása</b><br>Nyomd meg  a(z) <color=blue>Bal Shift</color>-et, hogy eltávolítsd a szobát.
+<b>Szoba eltávolítása</b><br>Alternatív megoldásként tartsd lenyomva a(z) <br><color=blue>Bal Shift</color>-et a szoba eltávolításához.
+<b>Ajtó elhelyezése</b><br>Az ajtót össze kell kötnöd a folyosóval. A <color=blue>DEL gomb</color><br> lenyomásával eltávolíthatod az ajtót.
+<b>Ablakok elhelyezése</b><br>Nyomd meg a(z) <color=blue>Bal Shift</color>-et, <br>hogy eltávolítsd az ablakot.
+Elfogad
+Négyzetméterár
+Négyzetméter
+m²
+▪ Nem mindegyik szoba elérhető
+Technológia
+▪ A minimum méret <NUM>-nek/nak kell lennie.
+▪ Hiányzik az ajtó.
+<b>Tárgyak vásárlása</b><br>Itt tudsz tárgyakat vásárolni.
+Tárgy vásárlása
+Tárgy forgatása
+Tárgy elhelyezése
+Ez nem a megfelelő szoba!
+Ez az épületen kívül van!
+Gyors tárgy forgatás
+Tárgy mozgatása
+Tárgy eladása
+Alkalmazott kirúgása
+Gyorsgomb:
+Értékesítési ár
+<b>Vezetőség</b><br>Itt tudod megtalálni a vállalat működtetéséhez szükséges összes funkciót.
+<b>Statisztika</b><br>Itt tudod megtekinteni a pénzügyekkel, játékokkal vagy platformokkal kapcsolatos statisztikákat.
+<b>Alkalmazottak</b><br>Itt tudod felvenni, vagy kezelni az alkalmazottjaidat.
+Folyosó
+Ezzel be / kikapcsolhatod az alkalmazottak felemelését.
+Ezzel be / kikapcsolhatod a tárgyak felemelését.
+Kikapcsolja az összes szoba megjelenítését.
+Pénz
+Rajongók
+Minden alkalmazottat a(z) MI irányítson
+▲
+▼
+■
+Év:
+Hónap:
+Hét:
+Játék megállítása
+Normál sebesség
+Gyors sebesség
+<b>Tárgyak vásárlása ehhez a szobához</b>
+Motiváció
+NONE
+NONE
+NONE
+Raktár leírás
+Szerver leírás
+Gép leírás
+Mindig tartsd tisztán az irodákat! <br> A magas szennyezés miatt az alkalmazottjaid kiléphetnek <br> és emiatt további alkalmazottak nem fognak hozzád csatlakozni.
+Alkalmazottok
+Alkalmazott lerakása
+Játékdízájn
+Programozás
+Grafika és dízájn
+Zene és hang
+Marketing és ügyfélszolgálat
+Játéktesztelés
+Hardverkezelés
+Kutatás
+Fizetés
+Alkalmazottak kirúgása
+<b>Sztárdízájner</b><br> A sztárdízájnerek hype-ot kreálnak, miközben a játékokon dolgoznak.
+<b>Kimeríthetetlen</b><br>A kimeríthetetlen alkalmazottaknak nincs szükségük szünetekre.
+<b>Hibamentes</b><br>A hibamentes alkalmazottak sose fognak hibát véteni munkájuk során.
+<b>Hűséges</b><br>A hűséges alkalmazottak sose mondanak fel.
+<b>Tehetséges</b><br>A tehetséges alkalmazottak gyorsabban tanulnak.
+<b>Szerencse</b><br>A kritikus munka eredményei lényegesen gyakrabban fordulnak elő.
+<b>Sportos</b><br>Gyorsabb mozgási sebesség
+<b>Tisztántartó</b><br>A tisztántartó alkalmazottak sose szemetelnek.
+Játéktervező
+Programozó
+Grafikus
+Hangművész
+Irodai dolgozó
+Játék tesztelő
+Technikus
+Tudós
+Jelenlegi munka szüneteltetése / folytatása
+Beosztott alkalmazottak ebben a szobában
+MI kikapcsolása ebben a szobában
+Szoba átnevezése
+Szoba átalakítása
+Szoba lebontása
+Kérlek, add meg a szoba új nevét
+Bezárás
+Biztos, hogy le akarod bontani ezt a szobát?<br>Ha eladod, <color=green><NUM></color> fog vissza térülni.
+Kutatás
+Kutasson mindent automatikusan
+<NUM> Kutatási pontok
+Kutatás folytatása
+Műfajok
+Témák
+Játékmotor funkciók
+Játékmenet funkciók
+Hardver
+Egyéb
+Új kutatás érhető el
+A kutatás befejeződött
+Feladat törlése
+Feladat áthelyezése
+Automata kikapcsolása
+Az automata aktív
+Az összes üzenet törlése
+Lapkakészlet
+Kontroller
+Külső memória
+Belső memória
+RAM
+Számítógépház
+Monitor
+Kézitok
+A feladat áthelyezéséhez kattints egy azonos típusú szobára a <color=blue>bal egér gomb</color>-al.
+Törlés
+Ajtó eltávolítása
+<b>Motiváció</b><br>A motiválatlan alkalmazottak lassabban dolgoznak
+Név
+<NUM> Alkalmazottak
+Alkalmazottak kirúgása
+Biztos, hogy kirúgod <NAME>-t?
+Összes alkamazott
+Megmutatja, hogy hány alkalmazott dolgozik ezen a területen.
+Alkalmazottak feladat nélkül
+Motiváció
+Munkapiac
+Csoport vezetőség
+Alkalmazottak ebben a szobában
+Alkalmazottak adatai
+Alkalmaz
+Kirúgás
+Kiválaszt
+<NUM> Alkalmazások
+Részletek
+havonta <NUM>
+Üres alkalmazottak
+Csoport
+Csoport kiválasztása
+Vezetőség
+DevKit vásárlása
+Játékmotor vásárlása
+Másolásvédelem vásárlása
+Licencek vásárlása
+Kiadói ajánlatok
+Bank
+Ingatlan
+Cégnév és céglogó
+Játék kivonása a piacról
+Vásárólható DevKitek
+Birtokolt DevKitek
+Gyártó
+Megjelenés
+Vételár
+Piaci részesedés
+Elérhető játékok
+Január
+Február
+Március
+Április
+Május
+Június
+Július
+Augusztus
+Szeptember
+Október
+November
+December
+Ez az eszköz már nem érhető el.
+Nincs elég pénzed!
+Biztos, hogy meg akarod venni ezt a DevKitet?
+Új platform áll rendelkezésre
+Egy platformot levettek a piacról
+A piacról kivont platformok megjelenítése
+Csoport hozzárendelése
+Játékmotor készítése
+Új játékmotor készítése
+Régi játékmotor újítása
+Játékmotor neve
+Véletlenszerű név
+Különleges műfaj
+Játékmotor licenc eladása
+Fejlesztés elkezdése
+<color=red>???</color>
+Az összes engedélyezése / letiltása
+Információ
+Különleges műfajt kell választanod!
+Nevet kell adnod a játékmotornak!
+Legalább egy új játékmotorfunkciót kell hozzáadnod!
+<color=black>Játékmenet: <NUM></color>
+<color=black>Grafika: <NUM></color>
+<color=black>Hang: <NUM></color>
+<color=black>Technológia: <NUM></color>
+Birtokolt játékmotorok
+Melyik játékmotort szeretnéd frissíteni?
+Profitmegosztás
+Játékok ezzel a játékmotorral
+Saját Játékmotor
+Válaszd ki a játékmotor funkcióit
+Válaszd ki a speciális műfajt
+Új játékmotor elérhető
+Vásárólható játékmotorok
+Birtokolt játékmotorok
+Eladott licencek
+Játékmotor részletek
+Vásárlás
+Játékok
+Jellemzők
+Műfaj
+Fejlesztő
+Eladások
+Forgalom
+Vélemények
+Vélemény
+TALÁLAT!
+SZAR!
+Cégnév
+Logó
+Kérlek válasz egy céglogót.
+Motor teljesítve
+Elavult másolásvédelem elrejtése
+Hatékonyság
+Másolásvédelem megvásárolható
+Vásárolt másolásvédelem
+Új másolásvédelem elérhető
+Biztos, hogy meg akarod venni ezt a másolásvédelmet?
+Licenc vásárlása
+Licenc eladása
+A hivatalos licencel rendelkező játékok növelhetik az eladási adatokat.
+A saját játékmotorjaiddal drága licencengedményeket takaríthatsz meg. A játékmotorjaidat el is adhatod versenytársaid számára is.
+Vásárólható licencek
+Birtokolt licencek
+<NUM> Játékok
+Film licenc
+Könyv licenc
+Sport licenc
+Ezt a licencet <NUM> játéknál használhatod.
+Népszerűség
+A lista üres!
+Licenc típusa
+Használatok
+Biztos, hogy meg akarod venni ezt a licencet?
+Birtokolva
+Biztos, hogy el akarod adni ezt a licencet?
+<b>Természetbarát</b><br>A természet szerelmeseinek növényekre van szükségük. <br> Motivációjuk növekszik, miután megöntöznek egy növényt.
+Havi költségek
+Lakberendezés
+Fütés
+Motiváció regenerálása
+Ide megy:
+Használta:
+Játék fejlesztése
+Játék neve
+Új játék
+Folytatás
+Felújított
+Szeretnél egy új játékot fejleszteni, vagy egy régi játék folytatását / felújított változatát?
+Alap játék
+Massively Multiplayer Online
+Free To Play
+Játék típus
+Kérlek, válaszd ki a játék típusát. MMO és F2P játékokhoz a "Többjátékos mód" funkció szükséges.
+Játék méret
+Minél nagyobb a játék, annál több játékfunkció használható.
+B
+B+
+A
+AA
+AAA
+Max. Funkciók
+Végtelen
+Célcsoport
+Gyerekek
+Tinédzserek
+Felnőttek
+Idősek
+Összes
+Kérlek, válaszd ki a játék célcsoportját.
+Fő műfaj
+Alműfaj
+Műfaj eltávolítása
+Elérhető lesz, ha ki kutattad a <color=blue>Többjátékos mód</color>-ot.
+Elérhető lesz, ha ki kutattad a <color=blue>Többjátékos mód</color>-ot.
+A(z) <color=blue>"Egyéb"</color> kategóriánál szükséges a játékméret kutatás, hogy nagyobb funkcióval teli játékot tudj készíteni.
+A(z) "Alműfaj"-t a(z) <color=blue>"Egyéb"</color> kategóriánál kell ki kutatni.
+A(z) "Altéma"-t a(z) <color=blue>"Egyéb"</color> kategóriánál kell ki kutatni.
+<color=blue>$1.000.000</color>-nál feloldódik a licenc vásárlása/eladása lehetőség.
+Fő téma
+Altéma
+Téma eltávolítása
+ABC
+Licenc
+Licenc eltávolítása
+Licenc nélkül
+A név legyen a játékneve is egyben?
+Fő Platform
+2-ik Platform
+3-ik Platform
+4-ik Platform
+Exkluzív játék
+▪ Exkluzív játékokat csak egy platformon lehet közzétenni. <br> Az exklúzivitás révén a platform értékesítési adatai emelkedhetnek.
+Teljes piaci részesedés:
+Feloldásra kerül, ha valamelyik játékod eléri az <br>átlagos értékelés <color=blue>70%</color>-át.
+Feloldásra kerül ekkor: <color=blue>1986 Április</color>.
+Játékmotor
+Platformok
+Feloldásra kerül, ha legalább kiadtál legalább <color=blue>5 játékot</color>.
+Feloldásra kerül, ha legalább kiadtál legalább <color=blue>10 játékot</color>.
+Feloldásra kerül, ha legalább kiadtál legalább <color=blue>15 játékot</color>.
+Platform eltávolítása
+Gyártási ár
+Min. technológiai szint
+Rejtett platformok megjelenítése
+A platform technológiai szintje túl alacsony.<br>Csak azok a platformok választhatók, <br>amelyek azonos vagy magasabb technológiai szinttel rendelkeznek, mint maga játékmotor.
+Ezt a platformot már kiválasztottad.
+A következő platformokat eltávolítottuk, mert nem rendelkeznek a szükséges technológiai szinttel:
+Másolásvédelem
+Másolásvédelem eltávolítása
+Másolásvédelem nélkül
+Nem jelent még meg <color=blue>másolásvédelem szoftver</color> sem.
+Dizájn prioritás
+Munka prioritás
+Nyelvek
+Játékmenet
+Látvány
+Történetszál
+Játék hossz
+Atmoszféra
+Tartalom
+Játékmélység
+Kezdőbarát
+Core játékos
+Átlagos játékos
+Minden nyelv egyenként <color=red>$5.000</color>-ba kerül.
+Összes nyelv be / kikapcsolása
+A munka prioritása nem lehet több 100%-nál!
+Válaszd ki a főműfajt!
+Válaszd ki a főtémát!
+Válaszd ki a főplatformot!
+Legalább egy nyelvet ki kell választanod!
+Játékkoncepciók
+Játékelemzés
+Rajongói levelek
+Ez a tartalom még nem elérhető
+Összes funkció be / kikapcsolása
+Mennyiség
+Túl sok játékfunkciót választottál ki.<br>Ha további játékfunkciókat szeretnél hozzáadni a játékodhoz,<br> meg kell változtatnod a játék méretét.
+Meg kell adnod egy nevet a játékodnak
+Funkció típusa
+Kutatási költségek
+Kutatási pontok
+A munka prioritása kevesebb mint 100%!
+Kész a játék
+A legfontosabb dolgok elkészültek így a játék készen áll a <color=blue>kiadásra</color>. Ha szeretnéd, még csíszolhatsz a játékon, viszont a <color=blue>javítási</color> fázisnál a munka eredményei csökkennek és a hibákat pedig, csak lassan távolítják el.
+ÚJ játék
+Kiadó keresése
+Önterjesztés
+Termék eldobása
+Fejlesztés folytatása
+Hibák
+A programozás befejeződött
+Új játékfejlesztői legenda
+A munkaerőpiacon <NAME> elérhető.
+A műfajokkal kapcsolatos tapasztalatok befolyásolják a játékmenetet.
+A témákkal kapcsolatos tapasztalatok befolyásolják a játékmenetet.
+A platformokkal kapcsolatos tapasztalatok hatással vannak a grafikára, a hangra és a technológiára.
+Új versenytárs
+Kiadó
+Hype
+Piaci erősség
+Kapcsolat
+Fizetés
+Rajongótábor
+Igen
+Szerzett tapasztalat
+Nem szereztél tapasztalatot
+Áttekintés, hány játék érhető el jelenleg, aminek szintén a(z) <color=blue><GENRE></color> a műfaja, vagy a(z) <color=blue><THEME></color> a témája.
+Piacelemzés
+Összes [Műfaj]
+Összes [Téma]
+Ezen a platformon [Műfaj]
+Ezen a platformon [Téma]
+Fejlesztési jelentés
+Platform módosítása
+Aktuális pillanatkép
+Előrehaladás
+A mai napig tartó fejlesztési költségek:
+Jelenlegi becsült értékelés:
+Tooltip: Játékmenet 1
+Tooltip: Játékmenet 2
+Tooltip: Játékmenet 3
+Tooltip: Játékmenet 4
+Tooltip: Játékmenet 5
+Tooltip: Játékmenet 6
+Tooltip: Hang 1
+Tooltip: Hang 2
+Tooltip: Hang 3
+Tooltip: Hang 4
+Tooltip: Hang 5
+Tooltip: Hang 6
+Tooltip: Grafika 1
+Tooltip: Grafika 2
+Tooltip: Grafika 3
+Tooltip: Grafika 4
+Tooltip: Grafika 5
+Tooltip: Grafika 6
+MoCap [Játékos animációk]
+MoCap [NPC animációk]
+Kattints a <color=blue>bal egér gomb</color>-al arra a szobára akik ugyan ezt a munkát végzik, hogy segíthess nekik.
+Munkamegosztás
+Munkamegosztás megszakítása
+Várakozás...
+<b> Hírnév az ügyfelekkel </b> <br> Minél magasabb a hírneved, annál több munka lehetőség lesz elérhető. <br> Ezen felül a fizetés is magasabb.
+Alkalmazottak átlagos motivációja
+A(z) <color=green><NAME1></color> műfaj és a(z) <color=green><NAME2></color> téma népszerű.
+A(z) <color=red><NAME1></color> műfaj és a(z) <color=red><NAME2></color> téma népszerűtlen.
+Ez a tendencia továbbra is fennáll <color=blue><TIME></color> hétig.
+Új trend
+Hét
+Össz. eladás
+Hete a piacon
+Játék
+Játékfül be / kikapcsolása
+A játék ki lett vonva a piacról
+Profit
+A(z) <color=blue><NAME></color>játék eladásai jelentősen visszaestek, ezért a terméket kivonták a piacról.
+Hete a piacon
+Marketing költségek
+Játékmotor díjak
+<color=blue><NAME1></color> kiadott egy játékot <color=blue><NAME2></color>
+A kiadód marketing kampányt indított a következőhöz: <color=blue><NAME1></color>
+Megmutatja az irodák minőségét.
+Megmutatja a szennyezetséget az irodákban.
+Itt kapcsolhatod be azt a funkciót amivel megtudod nézni, hogy az iroda túl hideg-e az alkalmazottak számára.
+Hírek beállítása
+<color=blue><NAME1></color> licencelte a játékmotoradat <color=blue><NAME2></color>.
+Nyilatkozat
+<color=blue><NAME1></color> licencelte a játékmotoradat a <color=blue><NAME2></color> játékhoz. <br>A licencért való fizetséged.
+Részvény százalékban
+Részvény játékonként
+<b>Vezérigazgató</b><br>Karaktered nem veszíti el a motivációját.
+Játékos karakter
+Nincs szobához rendelve
+Az alkalmazott felmondott
+A személyzeti osztály arról számolt be, hogy <color=blue><NAME></color> felmondott. Mindig figyelj az alkalmazottak igényeire és kerüld a hosszú túlórákat, motiváció hiányát.
+Hűtés
+Marketing kampány
+Melyik játékra szeretnél marketing kampányt indítani?
+Játékkonzol
+Marketing kampány játékokra
+Marketing kampány konzolra
+Marketing leállítása, amint a hype elérte a maximumot
+Automatikus ismétlés
+Poszterek
+Játékmagazinok
+Rádió
+Internetes Hirdetések
+Híres Streamer
+TV
+A kampánnyal generálható maximális hype.
+Feloldásra kerül ekkor: <color=blue>2005 Február</color>.
+Feloldásra kerül ekkor: <color=blue>1993 Március</color>.
+Feloldva
+Fejlesztés alatt
+A marketing kampány sikeres volt a <NAME1>-hoz/hez
+Gyártási költségek
+Szerver költségei
+Minőség
+Bónusz munkavégzés közben: <NUM>%
+Feloldásra kerül, miután kifejlesztetted a <color=blue>játékmotor funkció</color>-t.
+Elérhető <color=blue><NUM></color>-ban/ben
+Tanfolyam elinditása
+Tanfolyamok
+Játékdizájn kezdőknek
+Játékdizájn haladóknak
+Játékdizájn profiknak
+Programozás kezdőknek
+Programozás haladóknak
+Programozás profiknak
+Grafikai dizájn kezdőknek
+Grafikai dizájn haladóknak
+Grafikai dizájn profiknak
+Hang és Zene kezdőknek
+Hang és Zene haladóknak
+Hang és Zene profiknak
+Marketing és ügyfélszolgálat kezdőknek
+Marketing és ügyfélszolgálat haladóknak
+Marketing és ügyfélszolgálat profiknak
+Játéktesztelés kezdőknek
+Játéktesztelés haladóknak
+Játéktesztelés profiknak
+Hardverkezelés kezdőknek
+Hardverkezelés haladóknak
+Hardverkezelés profiknak
+Kutatás kezdőknek
+Kutatás haladóknak
+Kutatás profiknak
+Maximális szint: <color=blue><NUM></color>
+Hatékonyság: <color=blue>Alacsony</color>
+Hatékonyság: <color=blue>Közepes</color>
+Hatékonyság: <color=blue>Magas</color>
+Képzés "<NAME>" teljesítve
+Tényleg el akarod dobni ezt a terméket? Ez a folyamat visszafordíthatatlan!
+Biztosan, hogy törlöd az aktuális feladatot?
+<color=green><NUM></color> lesz visszatérítve.
+Licencek
+GFX [Környezetgrafika]
+GFX [GUI-k]
+GFX [Háttér]
+GFX [Speciális effektek]
+GFX [Karekterek]
+GFX [Kivágott jelenetek]
+SFX [Hang effektek]
+SFX [UI hangok]
+SFX [Zene]
+SFX [Környezeti hangok]
+SFX [Dinamikus hangok]
+SFX [Hang felvétel]
+MC [Játékos animációk I]
+MC [Játékos animációk II]
+MC [Játékos animációk III]
+MC [NPC animációk I]
+MC [NPC animációk II]
+MC [NPC animációk III]
+QA [Egyensúly]
+QA [Irányítások]
+QA [Teljesítmény]
+QA [Felhasználói felület]
+QA [Játékmechanika]
+QA [Pályatervező]
+Szerzödéses munka
+Milyen típusú megbízásban szeretnél dolgozni?
+Rövid szerzödés
+Szerződéses játék
+Összes munka automatikus feldolgozása
+Fizetés
+Szerződés bírság
+Határidő
+Munkaterhelés
+Megbízó
+Határidő: <b><NUM> hét</b>
+Munka törlése
+Megbízott munka teljesítve: <NAME><br>A fizetésed: <NUM>
+Fizetned kell a bírságot ami: <color=red><NUM></color>.
+Hetek: <NUM>
+A megbízott munka nem sikerült: <NAME><br>Szerződési bírság: <NUM>
+Játék kiválasztása
+Elérhető játékok
+Hype, amely a fejlesztés elején jön létre.
+Melyik játékból legyen a folytatás fejlesztve?
+<b>Folytatás</b><br>A játék folytatásainak előnye származik elődeik sikereiből. <br> A fejlesztés kezdetén hype keletkezik és az eladási adatokon bónusz is van.<br>The development of a sequel may negatively<br>affect the sales figures of the predecessor.
+<b>Remaster</b><br>The development costs for remasters are reduced.<br>Only games can be remastered,<br>which have already been taken off the market.
+<b>Új játék</b><br>A játék befejezése után megnyílik a folytatás, vagy a felújítási opcíó is.
+Ez a játék név már létezik!
+Melyik játékot szeretnéd felújítani? Csak azokat a játékokat lehet kiválasztani, <br> amelyeket már kivontak a piacról.
+Felújított
+Arany
+Újratöltve
+Deluxe
+<color=black>(<NUM>)</color>
+Platform
+Minimum értékelések a bónuszért: <b><NUM>%</b>
+Bónusz
+Játék átadása
+▪ Szerződéses játék ▪<br>A játék legszükségesebb munkája befejeződött. Átadhatod a játékot az ügyfelednek, vagy tovább dolgozhatsz rajta.
+Sikeresen teljesítetted az ügyfél kérését ezért a fizetséged: <color=blue><NUM1></color>. A bónuszod pedig: <color=blue><NUM2></color> lesz, amint a játék befejeződött és a sajtó legalább értékelte a játékot <color=blue><NUM3></color>-ra.
+Nem fogadhatod el ezt a munkát, mert nem rendelkezel a szükséges devkitel.
+Megkaptad a szerződéses játék végszámláját.
+Teljes fizetés
+A határidőt betartottod
+Csak azokat a platformokat cserélheted le, amelyeket már kivontak a piacról.
+További portolási költségek
+A szerződéses játékok esetén nem változtathatod meg a platformot!
+Törölnöd kell a szoba aktuális feladatát!
+<b>Szerződéses munkák száma</b><br><br>
+A szerződéses játékok száma
+Ez a kijelző tájékoztat téged, hogy ha egy alkalmazottnak <br> nincs szoba kijelölve.<br><br><color=blue>Kattints rá, hogy kiválasz egy alkalmazottat.</color>
+Frissítések és kiegészítők
+Milyen frissítést vagy kiegészítőt szeretnél fejleszteni?
+Ingyenes frissítés
+Fizetős kiegészítő
+MMO kiegészítő
+Kérlek, válasszd ki az ingyenes frissítés tartalmát.
+Melyik játékhoz legyen fejlesztve az ingyenes frissités?
+Frissítések száma
+Nyelvi csomag
+Tartalom
+Foltozás
+Új játékmód
+Új küldetések
+Új környezeti objektumok
+Új háttérgrafika
+Új hang effektek
+Új zene
+Teljesítmény javítása
+Irányítás javítása
+Max.
+Nem választottál ki tartalmat a frissítéshez!
+Frissítés a <NAME>-hoz/hez sikeresen teljesítve.
+Melyik játékkoncepciót szeretnéd megnézni?
+Játékkoncepció másolása
+Alapbeállítások
+A kiválasztott játékmotor túl alacsony technológiai szintű!
+Rajongói levelek <b><NAME></b>
+Statisztika
+Grafikonok
+Pénzügyek
+Fejlesztett játékok
+Információk
+Kiadók és fejlesztők
+Saját konzolok
+Játékmotorok
+Toplista
+Heti toplista
+Letöltési grafikonok [F2P]
+Előfizetési grafikonok [MMO]
+Minden elérhető platform
+Elérhető
+Versenytársak kiadóként
+Versenytársak fejlesztőként
+Cégérték
+Részvénytulajdon
+Stúdió tapasztalat
+Nincs műfaj
+Összes rendelkezésre álló játékmotor
+Ezt a játékmotort felraktad eladásra
+Csak a saját játékmotorok mutatása
+Vélemények
+Csomagok
+Játékok leányvállalatoktól
+Történet
+Összes eladások
+Összes letöltések
+Utolsó 24 hónap
+Jelenlegi hónap
+Különbség (24 hónap)
+Múlt hónap
+Összes előfizetők
+Összes
+Havi egyenleg
+Éves egyenleg
+Éves pénzügyi kimutatások
+Építési költségek
+Tárgyak
+Harmadik fél termékei
+Szerződéses büntetések
+Költségek
+Bevételek
+Játékbevételek
+Játékmotor licencek
+Megbízott munkák
+Szerződéses játékok
+Díjak
+Tavaly
+Idén
+Év
+Elmúlt évek eseményei
+A műfajjal vagy témával jelenleg elérhető játékok
+Havi kimutatások
+Összes profit
+Hype kampányonként / maximális hype, amelyet ezzel a kampánnyal lehet létrehozni
+Várjon, amíg Hype <NUM> alá nem esik.
+Ha azt szeretnéd, hogy új frissítések automatikusan létrejöjjenek, ki kell választanod legalább egy új játéktartalmat!
+Az Automata leállt!<br>Nincs elég pénzed!
+Az Automata leállt!<br>Nincs további megrendelés
+Az Automata leállt!<br>A Hype elérte a maximumot.
+Rajongói kampány indítása
+Hitelkeret
+Jelenlegi hitel
+Havi kamat
+Hitel felvétele
+Hitel visszafizetése
+Hitel
+Rajongói rendezvény
+Új rajongók megszerzéséhez indíthatsz egy eseményt. Minél látványosabb az esemény, annál több rajongót fogsz szerezni.
+Elégedettségi felmérés
+Autogramkártya szétosztása
+Tombola
+Stúdió túra
+Toplistás bajnokság
+Játékkiállítás
+Ügyfélszolgálat
+Marketing és ügyfélszolgálat
+A <NAME> rajongói kampány sikeresen teljesítve
+Rajongóibolt
+<b>Hívások, levelek és e-mailek száma</b><br>Hogy tudj a rajongók kérdéseire válaszolni, muszály építeni egy ügyfélszolgálatot.<br><br>▪ Ha túl sok kérdés marad megválaszolatlan, elveszíted a rajongóidat.<br>▪ Kerüld a hibás játékokat.<br>▪ 5000 rajongóitábortól kezdve minden kérdés kezeléséhez ügyfélszolgálat szükséges.
+Minél több levél, hívás és e-mail marad megválaszolatlanul, annál elégedetlenebbek lesznek a rajongóid.
+Ügyfélszolgálat inditása
+Munkaterhelés
+Nagyon alacsony munkaterhelés
+Alacsony munkaterhelés
+Átlagos munkaterhelés
+Magas munkaterhelés
+Megválaszolatlan kérdések: <NUM>
+Aranylemez érkezett
+<color=blue><NAME></color> játékod a videojáték-ipar úttörő mérföldkőjének számít és új trendet állított be.
+Trend vezető
+Mad Games Díjak
+<NUM> Rajongók
+Pozitív Díjak
+Negatív díjak
+Legjobb Zene
+Legjobb Grafika
+Az Év Fejlesztője
+Az Év Kiadója
+Az Év Játéka
+Az Év Legrosszabb Játéka
+Aranylemezek
+Beteg
+<b>Orvosi csoda</b><br>Az erős immunrendszerrel rendelkező alkalmazottak soha nem betegednek meg.
+Használat havonta: <NUM>
+Új játék
+Játék betöltése
+Beállítások
+Stáblista
+Kilépés
+Mad Games Tycoon®<br>©2020 Eggcode Games
+Biztos, hogy ki akarsz lépni a játékból?
+<Üres>
+Játékmentés törlése
+Játék betöltése folyamatban...
+Biztos, hogy törölni szeretnéd ezt a játékmentést?
+Autómentés
+Mad Games Tycoon 2
+Játék mentése
+Kilépés
+Biztos, hogy ki akarsz lépni a főmenűbe?
+Kilépés a főmenűbe
+Biztos, hogy felül akarod írni ezt a játékmentést?
+Sikeres játékmentés
+Játékos név
+Véletlenszerű cégnév
+Székhely
+Nehézségi színt
+Kezdőév
+Játék sebessége
+Menű
+Nagyon könnyű
+Könnyű
+Közepes
+Nehéz
+Legendás
+Lassú
+Normál
+Gyors
+Nagyon syors
+<b>Kérlek válaszd ki a cég székhelyét</b><br>Minden országnak külön műfaja van, ami bónuszt jelent. Ez plussz <color=blue>+3%</color>-ot jelent az eladásoknál.
+Különleges műfaj: <color=blue><TEXT></color>
+A karaktered ▪ Vezérigazgató
+Nevet kell adnod a cégedned!
+Test
+Haj
+Szem
+Szakáll
+Bőrszín
+Haj és szakállszín
+Felsőszín
+Nadrágzín
+Extra szín
+Nevet kell adnod a karakterednek!
+Férfi
+Nő
+Kinézet
+Ügyesség
+Képességek
+Hátralévő ügyességpontok: <NUM>
+El kell költened az összes ügyességpontodat!
+Kocka elvetése
+Új játék ▪ Játék beállítások
+Oktatómod kikapcsolása
+Véletlenszerű platform népszerűség
+Véletlenszerű játékkoncepció beállításai
+Nincs véletlenszerű esemény
+<size=20>Mad Games Tycoon 2</size><br><br>Köszönjük, hogy megvásároltad a  <color=blue>Mad Games Tycoon 2</color>-öt. Kérlek, ne feledd, hogy a korai hozzáférésű verzió továbbra sem tartalmaz sok funkciót, a játék helyenként kiegyensúlyozatlan és hibák fordulhatnak elő. Továbbá a fordítások is helyenként híbásak.<br><br>Érezd jól magad!
+Minél alacsonyabb a játék sebessége, annál több feladatot tud egy alkalmazott végrehajtani egy hét alatt. <br> Ez megkönnyíti a játékot.
+A nehézségi szint elsősorban a játékok eladási mutatóit érinti.
+A játék gyors megkezdéséhez növelheted a kezdő évet.
+<NAME> játékhoz a frissítést törölték <br> mert a játékot kivonták a piacról.
+<b>Eszkimó</b><br>Ezek az alkalmazottak sose fognak fázni.
+<b>Szerény</b><br>A szerény alkalmazottaknak nincs szükségük kiváló minőségű irodai eszközökre.
+<b>Kőkemény</b><br>Ezek az alkalmazottak munkaidőben nem fogják a mellékhelyiséget használni.
+Legalább egy játéklehetőséget ki kell választanod!
+Hírek
+Egy versenytárs játékot adott ki
+Új versenytárs
+Új másolásvédelem áll rendelkezésre
+Új NPC játékmotor áll rendelkezésre
+Új kutatás áll rendelkezésre
+Új platform áll rendelkezésre
+Platformok kivonása a piacról
+Aranylemez átvétele
+Játék beállítások
+Grafikus beállítások
+Hangbeállítások
+Audió
+Audió hangerő
+Zene
+Zene hangerő
+Felbontás
+Teljes képernyő
+Maximális képkockasebesség
+Vertikális szinkronizáció
+SSAO
+Képernyőtér tükröződése
+Virágzás
+Környezeti elzáródás
+Szín osztályozás
+Valós-idejű árnyékok
+Nyelv
+GUI mérete
+Beállítások alaphelyzetbe állítása
+-
+-
+-
+<b>Marketing [Streamer] sikeresen feloldva</b><br><br>Egyre többen nézik az interneten a játékokat, miközben a játékosok a kedvenc játékaikat játsszák. Ha jól csináljuk, felhasználhatjuk játékunk népszerűsítésére és a célcsoport közvetlen elérésére.
+<b>Marketing [Internet] sikeresen feloldva</b><br><br>Az internet egyre nagyobb jelentőséggel bír a reklámkampányok szempontjából. Ezért fontolóra kell vennünk az internetes hirdetési kampányok megkezdését is.
+<b>Újrakiadás sikeresen feloldva</b><br><br>Nem lenne jó ötlet hagyni, hogy egy régi játék újra ragyogjon? Gyors pénz és boldog játékosok, ez az újrakiadás lényege!
+<b>MMO-k és szerver szoba sikeresen feloldva</b><br><br>Mostantól fejleszthetsz MMO játékokat, s felépítheted a hozzá szükséges szerverszobát.
+-
+<b>Licencek sikeresen feloldva</b><br><br>Most már van elég pénzed, hogy licenceket tudj vásárolni. Még a gyenge játékmenettel rendelkező, viszont hivatalos licencet használó játékok is értékesebb lesznek.
+<b>A MoCap studíó elérhetővé vált</b><br><br>Animációink tökéletesítéséhez egy MoCap stúdióra van szükséünk. Bár a vásárlási költségek nagyon magasak, de cserébe nagyon nyereséges lesz. Mit gondolsz?
+-
+-
+-
+-
+-
+-
+<b>2-ik platform sikeresen feloldva</b><br><br>Most már két platformra is fejlesztheted a játékaidat. Ez lehetővé teszi az ügyfelek szélesebb körének elérését.
+<b>3-ik platform sikeresen feloldva</b><br><br>Most már két platformra is fejlesztheted a játékaidat. Ez lehetővé teszi az ügyfelek szélesebb körének elérését.
+<b>4-ik platform sikeresen feloldvad</b><br><br>Most már két platformra is fejlesztheted a játékaidat. Ez lehetővé teszi az ügyfelek szélesebb körének elérését.
+<b>Másolásvédelem sikeresen feloldva</b><br>Ma kiadták az első hatékony másolásvédelmet. Most már másolásvédelemmel is védheted a játékodat.
+<b>Folytatás sikeresen feloldva</b><br><br>Az egyik játékod jó minősítést kapott a sajtótól. Gondolkodnod  kellene egy folytatás későbbi kidolgozásán.
+-
+-
+Hibajavítás
+Játékmenet javítása
+Játékjelentés készítése
+Többplatformos játék
+Retro játék
+▪ A többplatformos játékok bármilyen platformon közzétehetők. <br> Így a játék szélesebb körökben is játszható lesz
+▪ A retro játékokat csak olyan platformokon lehet közzétenni, amelyeket már kivontak a piacról.<br>Ezek a játékok sok rajongót hoznak nekünk, s a játéktesztelők sem fogják olyan szigorúan értékelni a játékokat.
+A retro játékokat, csak olyan platformokon lehet kiadni, amelyeket már kivontak a piacról!
+Retro játékokban nem lehet megváltoztatni a platformokat!
+Retro
+Egy új exklúziv játék a <NAME>-tól/től. Kukkantsunk bele a játékmenetbe, hogy megéri-e megvenni.<br>
+Retro Special! <NAME> tulajdonosok új játékot várnak. Ellenőrizzük, hogy indokolt-e az öröm.<br>
+Melyik játék legyen ellenőrive és javítva?
+A játék javítását már végrehajtották
+Folyamatban
+Nem választottál ki játékot javításra
+Sikeres játékmeneti frissítés a <NAME1>-hoz/hez
+Fejlesztő támogatása
+Grafika javítása
+Sikeres grafikai frissítés a <NAME1>-hoz/hez
+<color=yellow><NAME></color> szükséges
+Hangok javítása
+Sikeres hangi frissítés a <NAME1>-hoz/hez
+Animációk javítása
+Sikeres MoCap frissítés a <NAME1>-hoz/hez
+Szoba összekötések mutatása
+Interfész felugrása
+Játékjelentések
+A játékelemzéssel meg tudod vizsgálni,<br> az adott játéknak a pozítiv és negatív oldalát,<br> ez segíthet neked, hogy mire összpontosíts a fejlesztés során.
+Játékjelentés automatikus készítése
+Játékelemzés a <NAME1> hoz/hez sikeresen elkészült
+Játékelemzés prioritása
+A téma és a célcsoport belepasszol a <color=yellow><NAME></color>-hoz/hez?
+Nincs altéma
+Megfelelő alfajok a <color=yellow><NAME></color>-hoz/hez
+Tökéletes dízájn beállítások
+Az alkalmazottak kirúgása nagyon rossz hangulatot okozhat a többiek számára!
+Rosszkedv
+Az alkalmazott elbocsátása rossz hangulatot okozott. Az alkalmazottaid most félnek a munkájuktól, hogy ők lesznek a következők, s a motivációjuk is csökkent.
+Szeretnél részt venni az ez évi <color=blue>Mad Games Rendezvény</color>-en?
+Kérlek, válaszd ki a standod méretet. Minél nagyobb a standod, annál több terméket tudsz bemutatni. Ezenkívül a nagy lelátók nagyobb figyelmet vonzanak.
+Kis stand
+Közepes stand
+Nagy stand
+játékkonzolok
+Meghívás visszautasítása
+Mad Games Rendezvény
+Stand mérete
+Mely termékeket szeretnéd kiállítani a <color=blue>Mad Games Rendezvény</color>-en?
+Válassz ki egy játékot
+Válassz játékkonzolt
+Termék eltávolítása
+Legalább egy terméket ki kell választanod, amit ki szeretnél állítani a <color=blue>Mad Games Rendezvény</color>-en!
+A stand látogatóinak száma
+Idén nagyjából <color=blue><NUM></color> látogatót várnak.
+A szervező arról számolt be, hogy a vásárra <color=blue><NUM> </color>jegyet értékesítettek.
+Melyik játékhoz legyen fejlesztve a fizetős kiegészítő?
+Kiegészítők száma
+A kiegészítő neve
+Legkeresettebb költségvetési játék
+Legnépszerűbb kiegészítők
+Legkeresettebb csomagok
+Új játékmenet funkciók
+Kiegészítő tartalma
+Kiegészítő
+Új tárgyak
+Új kihivások
+Új ellenségek
+Új játékmódok
+Új játékos karakterek
+Új játékmechanika
+Új játékvilágok
+Új kampány
+A kiegészítőnek még nincs új tartalma!
+Nevet kell adnod az kiegészítőnek!
+Túl sok játéklehetőséget választottál ki!
+Versenytársak száma
+Új tartalom kidolgozása
+Játékcsomag
+Költségvetési játék
+Önálló kiegészítő
+▪ A kiegészítőhöz fő játék szükséges.<br>Növelik a játék eladását,<br>de nem haladhatja meg a fő játék eladását.<br><br>▪ A különálló kiegészítők nem kapcsólódnak a fő játékhoz, de viszont egy új kampányt igényel.<br>A fő játék eladási adatait ez nem befolyásolja. <br> De az eladási adatok magasabbak lehetnek, mint a fő játék.
+A kiegészítő elkészült
+A kiegészítő legszükségesebb munkálatai befejeződtek. Ha a fő játékot egy kiadó adja ki, akkor szerződés szerint köteles vagy a kiegészítőt ugyan azzal a kiadóval terjeszteni.
+Érdeklődő kiadók
+Kiegészítő átadása a kiadónak
+Fő játék
+S végül a kedvenc játékaink legújabb kiegészítőinek rövid áttekintése. Szokás szerint megmutatjuk, melyik kiegészítőt érdemes kipróbálni!
+Becsült életkor
+Vezető tervező
+Mad Games Software Értékelés
+Korosztály besorolása
+<color=blue><NAME></color> a következő életkori besorolást kapta az MGSR-től:
+Elérhető alkalmazottak
+▪ A vezető tervezőnek magas szintű ismeretekkel kell rendelkeznie a<color=blue>játékdízájn</color>nál.<br>A játékon dolgozó összes alkalmazott jutalmat kap, <br> ennek az értéknek a függvényében. <br> <br> ▪ A vezető tervezőnek ebben a szobában kell lennie.
+Kinevezés vezető tervezőként
+Fejlesztés folyamata
+Alkalmazotti beállítások
+Játékleírás
+Opcionálisan leírást is írhatsz a játékhoz.
+Nincs játékleírás
+Nincs kiválasztva vezető tervező!
+Történelmi véletlenszerű események
+Sok szünet
+Néhány szünet
+Kevés szünet
+Kevés nyomás alkalmazása
+Közepes nyomás alkalmazása
+Nagy nyomás alkalmazása
+Szünetek száma
+Nyomást gyakoroltak az alkalmazottakra
+A motiváció feltöltése:
+Túlóra Idő
+Automatizált bértárgyalás
+Minél kevesebb szünet engedélyezett, <br> annál gyorsabban csökken a motiváció.
+A magas munkanyomás miatt az alkalmazottak gyorsabban dolgoznak. <br> Ennek következtében azonban munkájuk minősége romlik.
+Itt állíthatod be <br> a motiváció szintet az alkalmazottak számára, a társalgó használatához.
+Ez lehetővé teszi annak meghatározását, hogy mely szakaszában kezdődjön a túlóra.<br>Túlórában az alkalmazottak igényei figyelmen kívül lesznek hagyva <br><br>De légy óvatos! A sok túlórázás miatt az alkalmazottak hajlamosak felmondani.
+A szakma dönti el miben ügyes a fejlesztő. Ezt a számot <color=blue>100</color>-ig lehet húzni.<br>Más ügyességet maximum csak <color=blue>50</color>-ig lehet húzni.
+Szakma
+Szükséges játékfunkció
+A kiválasztott platformok a következő játékfunkciót igénylik:
+Kiadói exklúziv szerződés
+Egyetlen kiadó sem kínál neked szerződést jelenleg. A kiadókkal való kapcsolatot maximalizálnod kell!
+Szerződés időtartama
+Azonnali fizetés
+Többjátékos mód
+Várakozás játékosokra...
+Játékosok szobája
+Szoba elhagyása
+Játék indítása
+A szoba megtelt
+Várakozás a játék indítása...
+Játékos információ
+Meg kell adnod egy játékos és cégnevet is!
+Játék létrehozása
+Csatlakozás
+Csatlakozás játékosként
+Játék hosztolása
+A hoszt IP-címe
+A szerver lekapcsolódott!
+Várakozás játékosokra...
+A kapcsolat megszkadat, mert a játék verziói eltérőek.
+Ranglista [Többjátékos mód]
+Csevegés [Többjátékos mód]
+>> Fizet neked <NUM> játékmotor díjat <<
+>> Megvette a játékmotorodat <NUM> -ért<<
+Elkészült [Csiszolás]
+Fejlesztés befejezése
+<NUM> hónap
+Tényleg szeretnél exklúziv szerződést kötni a (z) <NAME> céggel?
+Már van exklúziv szerződésed a (z) <NAME> céggel! A fennmaradó futamidő <NUM> hónap.
+A termék <NAME> exklúziv szerződése lett! A fennmaradó futamidő <NUM> hónap.
+Átadás <color=blue><NAME></color>
+A (z) <NAME> céggel kötött exklúziv szerződésed lejárt. Most újra saját magad adhatod ki a játékokat, vagy kereshetsz egy új kiadót.
+<b>Irányító</b><br>Az erős vezetői készségekkel rendelkező alkalmazottak bónuszt kapnak, ha vezető fejlesztőként alkalmazod őket.
+<b>Sokoldalú</b><br>A másodlagos képességek limitje a kétszeresére növekszik.
+Nem választottál ki 5 képességet!
+Térkép
+Ipari park-A
+Árkád játékgép
+Mobil játék
+▪ Árkád játékokat, csak "Árkád alaplap"-hoz lehet fejleszteni.
+▪ Mobil játékokat, csak mobiltelefonokon lehet közzétenni.
+Játék portolása
+Biztos, hogy meg akarod venni ezt az ingatlant?
+Ennek az épületnek a területe <color=blue><NUM1></color> négyzetméter, a vételár pedig <color=red><NUM2></color>.
+Egy vírus törölte a jelenlegi játék néhány grafikai eszközét. Grafikusaid most megpróbálják pótolni a veszteségeket.
+Az egyik alkalmazottad zenésztársa egy ingyenes játékzenét komponált az aktuális játékodhoz.
+Egy kimerült programozó az elmúlt órákat néhány alapvető elem átdolgozásával töltötte. Sajnos annyira céltalan volt, hogy néhány hiba is keletkezett a fejlesztés során.
+Az egyik programozód valószínűleg "a hónap alkalmazottja" szeretne lenni és emiatt éjszakai műszakban dolgozott. Ennek eredménye a játéknak a teljesítménye jelentősen megnövekedett.
+A munkatársaiddal folytatott spontán ötletelés során néhány jó ötlet született új játékodhoz. A fejlesztők azonnal megkezdték a munkát, és néhány ötletet meg is valósítottak.
+Egy nagy példányszámú játékmagazin negatív jelentést tett közzé a jelenlegi játékodról. Sajnos emiatt az érdeklődés csökkent.
+Az egyik fejlesztőd illegálisan küldött képernyőképeket és információkat az aktuális játékodról egy jól ismert játékmagazinba. Szerencsére a kinyomtatott jelentés jó fogadtatásban részesült és fokozta az érdeklődést.
+Az aktuális játékodhoz tartozó zene túlságosan hasonlít arra a slágerre, ami a toplista élén van. A per elkerülése érdekében ezt a zenét eltávolítottuk.
+Problémák adódtak a különböző beviteli eszközök jelenlegi illesztőprogramjaival. Néhány funkciót azonnal át kell írni.
+Az egyik pályaterveződ véletlenül felülírta a már elkészült szintet. A teljes szintet most újra kell készíteni.
+A programozóinknak szerencséje volt. Néhány hibabejelentés hibásnak bizonyult. Ez rengeteg időt takarít meg nekünk.
+Az egyik grafikusod szabadidejében tovább dolgozott az aktuális játékon. Ennek eredményeként számos alacsonyabbrendű grafikát fejlesztetted fel.
+Az egyik hangszakembered egy régi zeneművet találta meg, amelyet ő készített a stúdiójában. Ez a szám rendkívül jól illeszkedik az aktuális játékhoz.
+A programozóid megkapták a legújabb SDK-t és frissítették a régit. Ezáltal néhány technikai probléma megoldódott.
+<b>Videójáték összeomlás<br><color=blue>-50% játékeladás</color></b><br><br>A számítógépes játékok piaca összeomlott. A következő hónapokban az összes játék értékesítési adatai meredeken csökkenni fognak. Remélhetőleg a piac hamarosan stabilizálódik.
+<b>Videojáték robbanás<br><color=blue>+50% játékeladás</color></b><br><br>A számítógépes játékipar erőteljes fellendülést tapasztal. Az elkövetkező hónapokban minden játék jelentősen jobban fog eladhatóvá válni.
+<b>Szerzödési stagnálás<br><color=blue>nincs új szerzödés</color></b><br><br>A szerzödések globális visszaesése tört ki. A közeljövőben nem lesznek szerzödések.
+<b>Munkaerőhiány<br><color=blue>nincs új alkalmazotti munkalehetőség</color></b><br><br>Az informatikai ipar súlyos munkavállalói hiányra panaszkodik. A közeljövőben egyetlen alkalmazott sem jelentkezik nálad.
+<b>Banki válság<br><color=blue>+200% kamat</color></b><br><br>Világméretű bankválság tört ki. Valamennyi bank ma már lényegesen magasabb kamatokat követel meg a hitelek után.
+<b>A legendák kora<br><color=blue>+200% hogy a legendák elérhetővé válnak a munkapiacon</color></b><br><br>Sok tapasztalt alkalmazott keres új munkát. A következő hónapokban játékfejlesztői legendák lesznek elérhetőek alkalmazottként.
+<b>Ingatlan fellendülés<br><color=blue>+100% ingatlan árak</color></b><br><br>A világméretű ingatlan fellendülés jelentősen megemelte az ingatlanok vételárát. Még a lebontásért is óriási összegeket követelnek.
+<b>Világjárvány<br><color=blue>+300% annak esélye, hogy az alkalmazottak megbetegedjenek</color></b><br><br>Egy globális influenzajárvány váratlanul éri a munka világát. Szerencsére a betegség lefolyása enyhe, de ennek ellenére a munkateljesítmény érezhetően csökken.
+<b>Energy crisis<br><color=blue>+100% operating costs for servers</color></b><br><br>An energy crisis is causing electricity prices to skyrocket.<br>In the near future, operating costs for servers will increase by 100%.
+<b>Semiconductor shortage<br><color=blue>+$100 production costs for consoles</color></b><br><br>The prices for semiconductors have risen abruptly.<br>In the near future, the production costs for consoles will increase enormously.
+Játék kézikönyv
+Játék kézikönyv színes
+Kiadá
+Poszter
+Matrica
+Játék térkép
+Kártyák
+Bélyeg
+Kulcstartó
+Játékzene
+Gyűjtői figura
+Árak és a csomag tartalma
+Gyártási költségek
+Alap kiadás
+Deluxe kiadás
+Gyűjtői kiadás
+A kiadás tartalma
+Kiadások eladóvá tétele
+Alapköltségek
+A jobb kiadások automatikusan megkapják a kisebb kiadások tartalmát.
+Feloldásra kerül ekkor: <color=blue>2003 Február</color>.
+Bolti ár
+Gyártási ára
+Ajánlat: Alap kiadás
+Ajánlat: Deluxe kiadás
+Ajánlat: Gyűjtői kiadás
+Ajánlat: Digitális kiadás
+F2P játékok és digitális kiadások
+<b>F2P játékok és digitális terjesztés elérhetőve vált</b><br><br>Mostantól fejleszthetsz. F2P játékokat, s digitális kiadásokat is.
+Nem kínáltál bolti vagy digitális verziót eladásra.
+A deluxe kiadásnak több tartalommal kell rendelkeznie, mint az alap kiadásnál.
+A gyűjtői kiadásnak több tartalommal kell rendelkeznie, mint a deluxe kiadásnál.
+Hány hét múlva jelenjen meg a játék?
+<NUM> hét
+Raktáron
+Rendelések
+Digitális kiadás
+▪ Az alap kiadásnak és a digitális változatnak azonos árnak kell lennie.<br>▪ A jobb kiadásoknak legalább 10 dollárral többe kell kerülniük, mint a következő alacsonyabb kiadásé.<br>▪ A költségvetési játékok maximum 10 dollárba kerülhetnek és csak normál kiadásként tehetőek közzé.
+A fejlesztés befejeződött
+Csak digitális változat
+Szerződéses gyártás
+Játék gyártása
+Másodlagos marketing
+Alap ár
+Kérlek válaszd ki az egyes kiadások kívánt gyártási mennyiségét.
+Automatikus gyártás
+Ha nem aktiváltad az automatikus módszert, akkor meg kell határoznod a termelési mennyiséget.
+Termelés a <NAME1>-hoz/hez teljesítve
+Terjesztési lehetőségek
+<b>Terjesztési lehetőségek</b><br>Itt tudod a terjesztési lehetőségeket beállítani.
+A tartalom csak akkor változtatható meg, ha a raktár üres!
+Játék automatikus kivonása a piacról
+Biztos, hogy ki szeretnéd vonni ezt a játékot a piacról?
+<color=blue><NAME></color>-t le vetted a piacról. <br>A termék mostantól már nem kapható!
+Csalás elleni szoftver
+Csalás elleni szoftver vásárlása
+Raktár eladása
+Nincs szabadhely a raktáron.
+Teljes raktár eladása
+Tényleg el szeretnéd adni a teljes készletet? Egy költségvetési játékok forgalmazója ajánlatot tett neked.
+Melyik játékot szeretnéd újrakiadni<color=blue>költségvetési</color> játékként? Csak olyan játékok választhatsz ki amelyek már nincsenek a piacon <color=blue></color> éve.
+<color=blue><NUM></color> hét műlva lesz elérhető
+Hete elérhető
+Milyen fajta kiadás legyen a költségvetési verzió?
+Klasszikus
+Ezüst
+Legjobb választás
+Platinum
+<color=blue>Lehetséges újbóli kiadás</color>
+Nem választhatsz kiegészítőt a költségvetési játékokhoz!
+A rajongók kedvenc műfajuk szerint vannak felosztva.
+Piackutatás
+Összes rajongók
+Új piackutatás végzése
+Még nem végeztél piackutatást. Indíts egy piackutatást, hogy megtudd melyik <color=blue>műfaj</color> lesz felkapott, vagy melyik <color=blue>platform</color>-ot fogja a célcsoport érdekli.
+Piackutatás befejeződött
+A piackutatás kimutatta, hogy <color=blue><NAME></color> a platform legtöbbjét fogja eladni.
+Zárójelentés <color=blue><NAME></color>-évről.
+A legkevesebb érdeklödést a(z) <color=blue><NAME></color> platform jelenti.
+A piackutatás kimutatta, hogy a játékosok <color=blue><NUM1></color>-a jobban érdeklődik a <color=blue>teljes változat </color>iránt és <color=blue><NUM2></color>-a <color=blue>digitális kiadás</color> iránt.
+Láhattuk hogy, a vásárlók <color=blue><NUM1></color>-a érdeklődnek a <color=blue>Diszdobozos kiadás</color> íránt és <color=blue><NUM2></color>-ban pedig a <color=blue>Gyűjtői kiadás</color> iránt.
+A következő trend <color=blue>80%</color> valószínűséggel a(z) <color=blue><NAME1></color> és a(z) <color=blue><NAME2></color> lesz.
+Hamarosan népszerűtlen lesz <color=blue>80%</color> valószínűséggel a(z) <color=blue><NAME1></color> és a(z) <color=blue><NAME2></color>.
+Piackutatást végezhetsz a marketingrészlegen.
+Ha el szeretnéd adni a játékmotorodat, meg kell határoznod az eladási árat vagy a licencdíját.
+Munkaikon hang kikapcsolása
+Minden idők legjobb játékai
+Mikrotranzakciók
+Kozmetikai tárgyak
+Háziállatok és hátasok
+Gyorsitó csomagok
+Nagyon erős tárgyak
+Különleges kinézetű karakterek
+Erődök és új területek
+Finanszírozás
+Szükséges játéktartalom <color=orange>Mikrotranzakció</color>
+Alapár
+Technológia
+Tartalmak és funkciók
+Teljes költség
+Díjak és licencek
+A költségvetés csökkentése negatívan befolyásolhatja a játék minőségét.
+A finanszírozás nem csökkenthető a <color=orange>szerzödéses játékok</color>-nál.
+Sajnos a játék azt mutatja, hogy a költségvetést néhol csökkentették.
+[A játékmotor technológiai szintje túl magas]
+Rajongóid már alig várják a folytatást a <NAME>-hoz/hez. A Hype drasztikusan megemelkedett.
+<b>A II. szintű tárgyak sikeresen feloldva</b><br><br>Most már felszerelheted irodáidat a legújabb generációs cikkekkel.
+<b>A III. szintű tárgyak sikeresen feloldva</b><br><br>Most már felszerelheted irodáidat a legújabb generációs cikkekkel.
+<b>A IV. szintű tárgyak sikeresen feloldva</b><br><br>Most már felszerelheted irodáidat a legújabb generációs cikkekkel.
+<b>A V. szintű tárgyak sikeresen feloldva</b><br><br>Most már felszerelheted irodáidat a legújabb generációs cikkekkel.
+II. Szintű tárgyak
+III. Szintű tárgyak
+IV. Szintű tárgyak
+V. Szintű tárgyak
+<b>Sokrétűség</b><br>Minél nehezebb platformon fejleszteni, <br> annál több időre van szükség a játék fejlesztéséhez.
+A többjátékos mód még korai hozzáférésben van. Néhány fontos funkció hiányzik, s a kapcsolat is megszakadhat időközönként.
+Nem jelent még meg <color=blue>csalás elleni szoftver</color> sem.
+<b>Csalás elleni szoftver elérhetővé vált</b><br>Az online játékokban egyre több csalóval van probléma,s a leküzdése érdekében ma megjelent egy profi csalásellenes szoftver. Mostantól már hozzáadhatsz csalás elleni szoftvereket a játékaidhoz.
+Vásárolható csalás elleni szoftverek
+Birtokolt csalás elleni szoftverek
+Elavult csalás elleni szoftverek elrejtése
+Biztos, hogy megveszed ezt a csalás elleni szoftvert?
+Csalás elleni szoftver eltávolítása
+Csalás elleni szoftver nélkül
+Csak többjátékos módhoz van értelme csalás ellen szoftvert használni.
+Másolásvédelemmel kevesebb játék lesz letöltve.
+Új csalás elleni szoftver áll rendelkezésre
+Ez az objektum még nem érhető el.
+Speciális platform
+Ki kell választanod egy speciális platformot!
+A játékmotor technológiai szintje magasabb, mint a speciális platform technológiai szintje!
+Nincs platform
+A speciális műfaj és a platform megnöveli a kritikus munkaeredmények esélyét.
+Beszédbuborékok megjelenítése
+Amikor exklúziv szerződést kötsz egy kiadóval, köteles vagy a jatékaidat az adott kiadótól kiadatni.
+Várakozás a szerverre...
+Játék mentés nem létezik!
+A host el akarja menteni a játékot.
+Port: 7777
+Havídij ára
+F2P üzleti modell
+MMO átalakítása F2P-re
+Szerver be / kikapcsolása
+Falak be/ki
+Ha hostolni szeretnéd a játékot, a portnak 7777-nek kell lennie.
+Ha fejleszteni szeretnél <color=blue>MMO-t, vagy F2P játékot</color>, szükséged van a <color=blue>Többjátékos mód</color> funkcióra.
+Előfizetők
+Kérlek állítsd be a játék havidíját
+Összes bevétel
+Eladások
+Tényleg le akarod állítani a szervereket? El fogod veszíteni az összes olyan előfizetőt, akik ezen a szerveren játszottak.
+Biztos, hogy újraindítod a szervereket? Újra fizetned kell a szerver havi költségeit.
+Szerver kikapcsolva
+Játékbérlet
+MMO
+F2P
+Melyik MMO-hoz szeretnél kiegészítőt készíteni?
+Magasabb szint limit
+Új tárgyak
+Új állatok és hátasok
+Új mellékküldetések
+Új ellenségek
+Új játékos karakterek és osztályok
+Új játékvilág és insták
+Új főküldetés szál
+<b>Különleges lehetőségek alap játékokhoz</b><br>▪ Kiegészítő fejlesztése & Különálló kiegészítő fejlesztése<br>▪ Felújított változat fejlesztése<br>▪ Kiadás költségvetési játékként<br>▪ Kiadás csomagban
+<b>Különleges lehetőségek MMO-hoz</b><br>▪ MMO kiegészítő fejlesztése
+<b>Különleges lehetőségek F2P-hez</b><br>▪ F2P kiegészítő fejlesztése<br>▪ Csak digitális kiadás<br>▪ Nincs szükség kiadóra.
+Legalább 3 új tartalmat kell választanod az MMO kiegészítőhöz!
+<NAME> MMO játékhoz a kiegészítöt törölték <br> mert a játékot kivonták a piacról.
+A szerverek túlmelegednek!<br><color=red>-50% Teljesítmény</color>
+A platform internetkész
+Ha MMO-t, vagy F2P játékot szeretnél fejleszteni, minden platformnak internetkész-nek kell lennie!
+Oktatómód
+Következő
+Vissza
+Automatikus szünet
+A játék automatikusan szünetel, amikor a játékos megnyitja a menüt.
+<color=green> >> Vett egy új ingatlant << </color>
+<color=green> >> Kiadott egy játékot '<NAME>' << </color>
+<color=green> >> Kiadott egy játékmotort '<NAME>' << </color>
+A bank arról tájékoztatta önt, hogy vállalati számláján több hónapig negatív egyenleg volt. Van rá <color=blue>12 hónapod</color>, hogy újra pozítivban legyél. Különben a <color=blue>csőd</color> fenyeget téged.
+Figyelmeztetés
+Hónapok száma, amíg a számládnak kiegyensúlyozottnak kell lennie.
+Játék vége
+<b>A céged becsődölt!</b><br><br>A játéknak vége! Sajnos a céged most a techcégek zsúfolt temetőjében van eltemetve. <br> Legközelebb sikerülni fog!
+Fokozott véletlenszerű tényező a véleményezésnél
+<NAME> studiója
+Keres
+Auto. újítás új tárgyak esetén
+Biztos, hogy frissíteni szeretnéd a szoba összes elemét?
+Ez a funkció csak többjátékos módban érhető el.
+Támogathatsz vagy szabotálhatsz egy játékost. Mit szeretnél csinálni?
+Támogatás
+Szabotázs
+Az alkalmazott fázik!
+Minden tárgy naprakész!
+Az alkalmazott túl piszkos!
+Az alkalmazott kényelmetlenül érzi magát!
+Felhasználói visszajelzések
+Sajtói visszajelzések
+Felh.
+Sajtói.
+Fejlesztés kezdete
+Megjelölés kedvencként
+Kedvenc
+Görgetés a képernyő szélén
+Játékmotor számlázása kikapcsolása
+Összes játékfül be / kikapcsolása
+<b>Karácsonyi időszak</b><br>+50% játékeladás
+<b>Nyári zuhanás</b><br>-30% játékeladás
+A(z) <color=blue><NAME></color>-nál/-nél a következő alkalmazotti szakmák a legeffektívebb: <color=blue><TEXT></color>.
+<b>Unatkozó rajongók</b><br>A rajongóid unatkoznak, mert a(z) <color=blue><NAME></color> műfajt használod folyamatosan új játékok készítéséhez.<br>▪ -50% játékeladás<br>▪ Nincsenek új rajongók
+Az alkalmazott túl zsúfoltnak találja ezt az irodát!
+Munkaikonok kikapcsolása
+Alkalmazottak panaszkodásának kikapcsolása
+Betiltott
+A fordítási költségek a játék méretétől függenek.
+Port
+Platinalemezek
+Gyémántlemezek
+Platinalemez érkezett
+Gyémántlemez érkezett
+Systemseller: <color=blue>+<NUM> <NAME></color>
+<b>Exkluzív játék</b><br>A becsült eladási darabszám ennek a játéknak nagyjából <color=blue><NUM><NAME></color>.
+Időjárás kikapcsolása
+<b>Ingatlan összeomlás<br><color=blue>-50% ingatlan árak</color></b><br><br>Az ingatlanárak világszerte összeomlanak. A szakértők már aggasztó válságról beszélnek.<br>Szerencsére mi ennek, csak örülni tudunk, mivel igy olcsóbban tudunk ingatlant vásárolni.
+Harmadik fél játékmotorja
+<b>Dühös rajongók</b><br>A rajongóid dühösek, mert egy rendkívül hibás játékot adtál ki.<br>▪ -30% játékeladás<br>▪ Nincsenek új rajongók
+<b>Piszkos</b><br>Ezeket az alkalmazottakat nem érdekli, ha piszkos irodában kell dolgozniuk.
+<b>Emberbarát</b><br>Ezek az alkalmazottak nem panaszkodnak a zsúfolt irodák miatt.
+Pénzügyi támogatás
+Segítség kutatásban
+Játékmotor átadása
+Licence átadása
+Játékosok
+A pénzügyi támogatás összege
+>> Biztosított <NUM> pénzügyi támogatást <<
+Adtál <color=blue><NAME></color>-nak/nek <color=blue><NUM></color> összegű pénzügyi támogatást.
+Odaadtad <color=blue><NAME1></color>-nak/neki a(z) <color=blue><NAME2></color> játlmotorodat, ingyen.
+>> Neked adta a(z) <NAME> játékmotort <<
+Átutaltad  <color=blue><NAME1></color>-nak/nek a(z) <color=blue><NAME2></color> licencet ingyen.
+>> Neked adta a(z) <NAME> licencet <<
+Automatikus szüneteltetése kikapcsolása [Egyjátékos]
+Rajongói levél megjelenítési ideje
+Marathon
+Összes játék mentés törlése
+FIGYELEM!<br>Valóban törölni szeretnéd az összes játékmentésedet?
+Odaadtad <color=blue><NAME1></color>-nak/nek a <color=blue>'<NAME2>'</color> technológiát.
+>> Neked adta a(z) '<NAME>' technológiát<<
+Csak <color=blue>költségvetési játék</color>-ot tudsz kiválasztani és amit már <color=blue>kivontak a piacról</color>.
+Csomag neve
+Csomag minősége
+Legalább két játékot kell választanod!
+Nincs játék kiválasztva
+Szabad hely
+Meg kell adnod a csomag nevét!
+A csomagokhoz nem választhatsz tartalmakat!
+Ebben a hónapban ismét megjelentek régi játékok becsomagolva. Alaposan megvizsgáljuk a tartalmát és elmondjuk, hogy megéri-e megvenni.
+Ezeket a játékokat tartalmazza a csomag
+Kiegészítő csomagok
+GOTY kiadások
+A kiegészítő csomaghoz elsőnek ki kell választanod a <color=blue>fő játék</color>-ot és legalább egy hozzátartozó <color=blue>kiegészítőt</color>. Csak olyan termékeket tudsz kiválasztani amiket, már <color=blue>kivontak a piacról</color>.
+Kiegészítők
+Kiegészítő csomag
+Először ki kell választanod a fő játékot!
+Elérhető termékek
+Legalább egy fő játékot és egy kiegészítőt kell kiválasztanod!
+Teljes kiadás
+GOTY kiadás
+Melyik játékot szeretnéd újra kiadni <color=blue>G.O.T.Y</color> kiadásként? Csak olyan játékokat tudsz kiválasztani amik már megkapták <color=blue>Az Év Játéka</color> címet és amiket, már <color=blue>kivontak a piacról</color>.
+G.O.T.Y.
+Mi legyen a kiadás neve?
+Munkasebesség állítása
+Csak a játék nevét jelenítse meg a kicsinyített játékfülnél
+Speciális marketing
+További pénz kereshetsz a mikrotranzakcióval.<br>A játékosok nagyon dühösek lesznek,<br>ha ezt az üzleti modellt fogod használni.
+Becsült bevétel felhasználónként/havonta
+Az üzleti modell népszerűtlensége
+A mikrotranzakcióhoz szükséges kifejleszteni az <color=blue>"Mikrotranzakciót"</color> és a <color=blue>"Többjátékos mód"</color>-ot!
+Bevétel az előfizetésekből
+Bevétel mikrotranzakcióból
+Mikrotranzakciók kezelése
+Elérhető lesz, ha ki kutattad a <color=blue>Többjátékos mód</color>-ot.
+Alkalmazás törlése
+Nem tudsz mikrotranzakciókat betenni egy <color=orange>szerzödéses játék</color>-ba.
+Az automatikus kutatás befejeződött!<br>Nincs további elérhető kutatás.
+A rossz licencű játékok sorozata miatt a befektetők közötti bizalom csökkent.<br>Jelenleg a befektetők nem hajlandóak együttműködni a játékiparral.
+Csíszolás
+Melyik játékot szeretnéd csíszolni a kiadása elött? A csíszolás, csak <color=blue>lassan</color> növeli a játék minőségét.
+Műfajok népszerűsége
+Felkapott
+Népszerűtlen
+Ez a kijelző akkor jelenik meg, hogyha egy szoba feladat nélkül üzemel.<br><br><color=blue>Kattints rá, hogy a szobára ugorj.</color>
+<b>Kiber támadás<br><color=blue>-30% Szerver teljesítmény</color></b><br><br>Egy névtelen hackerek csoportja globális támadást indított a hálózatok ellen. <br> A világ minden szerverét érintették és teljesítményüket drasztikusan csökkentették.
+Ne várakozzon
+Csoport átnevezése
+Kérlek, add meg a csoport új nevét
+A <color=blue>F2P játékoknál</color> legalább egy mikrotranzakciót kell választanod!
+Online terjesztés
+Hány hét múlva szeretnéd kiadni a játékot minden online platformon?
+Hete elérhető a letöltés
+Aktív játékosok
+F2P frissítés
+Teljes képernyős mód
+Teljes képernyős ablak
+Exkluzív teljes képernyő
+Kicsinyített ablak
+Melyik MMO-t szeretnéd átalakítani F2P-re? Csak azokat az MMO-kat alakíthatod át, amelyeket már <color=blue>kivontak a piacról</color>, vagy amelyeket <color=blue>te adtad ki</color> saját magad.
+Biztos, hogy át akarod alakítani ezt az <color=blue>MMO</color>-t, <color=blue>F2P</color> játékra?
+Átalakítási költségek
+[F2P]
+Automatikus szünet [Többjátékos mód]
+Automata elindítása
+Már rendelkezel a költségvetési kiadással a piacon. Várj, amíg a költségvetési kiadást kivonják a piacról.
+Már rendelkezel a GOTY kiadással a piacon. Várj, amíg a GOTY kiadást kivonják a piacról.
+Frissítések költsége
+Hibajavítás automatikus indítása
+Csíszolás automatikus indítása
+Archívum
+Az archivált játékkoncepciók, játékmotorok vagy játékjelentések a menükben és listákban lesznek elrejtve.
+Elérhető
+Archívumban
+A speciális marketing olcsó, de lehet <color=blue>negatív hatása is</color>. Minden műveletet, csak <color=blue>egyszer tudod játékonként</color>.
+Béta demó kiadása
+Előzetes kiadás a sajtónak
+Overhype létrehozása
+Hamis felhasználói vélemények
+Fejlesztés során
+Játék kiadása után
+A demó játék minőségétől függően képes hypeot létrehozni, vagy csökkenteni a hypeot.
+Ha kiadás előtti verziót küldesz a sajtónak, pozitív vagy negatív hatással lehet a játék értékelésére.
+Csak akkor generálhatsz overhypeot, ha a játéknak minimum 90-es a hype-ja. <br> Vigyázz, mert a rajongóid csalódhatnak, ha a játék nem kap jó értékelést.
+Ha elkapnak téged, miközben hamis felhasználói véleményeket csinálsz,<br> nagyon rossz lesz a benyomása az embereknek a játékodról.
+Ez a folyamat már megtörtént
+A speciális marketing kampány teljesítve a <NAME1>-hoz/hez
+Elemeztük az összes megjegyzést és megállapítottuk, hogy sok játékos elégedetlen a béta demóval. A játékod emiatt veszít némi hypeot.
+Leginkább pozitív megjegyzéseket kaptunk a béta bemutatóhoz. A rajongóid alig várják a játék megjelenését. A játék hypeja növekedett.
+A sajtó tesztelte a játék előnézeti verzióját. Sajnos az előzetesek többnyire negatívak voltak. Arra kell számítanunk, hogy ez negatív hatással lesz a végső minősítésre.
+A sajtó tesztelte a játék előnézeti verzióját. A játékot minden előzetesben nagyon dicsérték. Feltételezhetjük, hogy ez az eredmény pozitív hatással lesz a végső minősítésre.
+Sajnos nem tudtuk annyira felpörgetni a játékot, mint szerettük volna. A játék hypeja stagnál.
+Nagyon megtudtuk növelni a játék hype-ját. Remélhetőleg nem fogunk csalódást okozni a rajongóiknak egy átlagos játékkal.
+Néhány játékos észrevette, hogy sok felhasználói vélemény hamis. E csalás miatt sok rajongót veszítettünk el.
+A marketing osztályunk készített néhány felhasználói értékelést erről a játékról. Szerencsére senki sem vette észre ezt az átverést.
+Demó kiadása
+Sok játékos csalódott a demó verzió minőségében. A játékod emiatt veszít némi hypeot.
+A játékosok nagyon jól szórakoznak a bemutató verzióval, s emiatt nagyon sokan meg is szeretnék vásárolni. A játék hypeja növekedett.
+Sajnos a játék nem tudott megfelelni a hypenak. Sok rajongó csalódott és sokkal többre számítottak. Nagyon sok rajongót veszítettünk, s a játék hypeja stagnál.
+Alkalmasság
+Nem minden játékmenet alkalmas egy műfajra. <br> A különösen alkalmas funkciók 50%-os bónuszt kapnak. <br> A nem összeillő funkció, csak 10%-os eredményt képez.
+Az alkalmazottak nem hagyhatják el az épületüket
+Ne mutassa újra ezt az üzenetet
+Biztos, hogy ki szeretnéd kapcsolni a tárgyak felvételét?
+Biztos, hogy ki szeretnéd kapcsolni az alkalmazottak felvételét?
+Válassz egy speciális műfajt a vállalatodnak. A speciális műfaj <color=blue>+3%</color>-ot ad hozzá a játék értékelésekor.
+Az összes megfelelő funkció be / kikapcsolása
+"Szputnyik 3000 Tisztítók" nem hagyhatják el az épületüket
+Többjátékos mód
+Automatikus mentés
+Évente
+Háromnegyedévente
+Félévente
+Negyedévente
+Kezdőbarát
+Innováció
+Karaktertervezés
+Pályatervezés
+Küldetéstervezés
+Nem erőszakos
+Erőszakos
+Könnyű
+Nehéz
+Tervezési fókusz
+Tervezési irány
+El kell költened az összes rendelkezésre álló tervezési pontot!
+Túl sok tervezési pontot költöttél el!
+Üzenetek megjelenítési ideje
+Ismeretlen garázscég
+Garázscég
+Indie stúdió
+Kis játékstúdió
+Átlagos játékstúdió
+Megalapított játékstúdió
+Nagynevű játékstúdió
+Népszerű játékstúdió
+Ismert játékstúdió
+Befolyásos játékstúdió
+Legendás játékstúdió
+Új stúdió értékelés
+Számítógép
+Konzol
+Hibrid videójáték-konzol
+Mobiltelefon
+Mil
+Platform típus
+Aktív felhasználók
+Érdeklődés
+Amikor az érdeklődés csökken egy F2P játéknál, <br>bölcs döntés lenne egy ingyenes frissítést kiadni a játékhoz,<br> így a játékosbázis növekedni fog ismételten.
+Egy F2P játék frissítése után növekedni fog az érdeklödés, így a játékosbázis nem csökkeni, hanem növekedni fog. A F2P játékoknnál a frissitések ingyenesek.
+Melyik F2P játékot szeretnéd frissíteni?
+Új társadalmi funkciók
+Egy F2P frissítés sikeresen elkészült a <NAME>-hoz/hez.
+Az összes aktív felhasználó a kiválasztott platformokon.
+A stúdió besorolása befolyásolja az általad terjesztett játékokat.
+Csak a tervezési beállítások másolja
+Amikor az érdeklődés csökken egy MMO játéknál, <br>bölcs döntés lenne egy kiegészítöt kiadni a játékhoz,<br> így a játékosbázis növekedni fog ismételten.
+Addig nem tudsz mobiljátékokat fejleszteni, amíg fel nem oldják a digitális terjesztést!
+Mobil játékok - Minden idők legjobb játékai
+Mobiljáték eladások
+Új Mobil Játék
+Új Árkád Játék
+<b>ÚJ Mobil Játék</b><br>A mobil játékok fejlesztési költségei lényegesen alacsonyabbak.
+Milyen áron legyen kínálva a mobil játék az alkalmazásboltokban?
+Meghatározott ár
+Addig nem adhatod ki a kiegészítöt, amíg a fő játék nem jelenik meg.
+MadMobileGames.com
+<b>Mobil játékok feloldásra kerültek</b><br><br>Megjelent az első okostelefon. Mostantól már telefonra is tudsz fejleszteni játékokat.
+Feloldásra kerül, amikor megjelenik az első <color=blue>okostelefon</color>.
+Műhely
+A műhely segítségével játékképeket tudsz fejleszteni és kiadni, ha ki szeretnét kutatni, akkor ezt megteheted a  <color = blue> "Egyéb" </color> címszó alatt.
+Árkád játékgép készítése
+Árkád játékgépek eladva
+A <color=blue>műhelynél</color> saját árkádgépeket tudsz fejleszteni.
+Árkád alaplap
+Nem állíthatsz be mikrotranzakciót <color=orange>árkád játékgépek</color>-nél.
+Árkád
+<b>Árkád játék</b><br>▪ Nincs szükség kiadóra<br>▪ Nincs kiegészítő<br>▪ MMO-k és F2P játékok nem lehetségesek<br>▪ A nyári zuhanásnak nincs hatása<br>▪ Nem generál telefonhívásokat és e-maileket<br>▪ Nem szükséges csalás elleni szoftver és másolásvédelem funkció<br>▪ Nem lehet újrakiadni<br>▪ Platform piaci részesedésétől független
+<b>Mobil játék</b><br>▪ Nincs szükség kiadóra<br>▪ Jelentősen alacsonyabbak a fejlesztési költségek<br>▪ Nincs kiegészítő<br>▪ Nem lehet újrakiadni
+<b>Számítógép / konzol játék</b><br>▪ Kizárólag kiadói szerződésre érvényes
+Árkád Játék - Minden idők legjobb játékai
+Árkádjáték eladások
+PC és Konzol eladások 
+Piackutatás kimutatta, hogy a következő platformokra van a legnagyobb kereslet:
+A célcsoport legkevesebb érdeklődést mutatott a következő platformok iránt:
+Milyen áron szeretnéd árusítani az árkád játékgépet?
+Alkatrészek minősége
+Ház
+Képernyő
+Beviteli eszköz
+Hangrendszer
+Árkád eladási ár
+Mobiltelefon eladási ár
+Az alkatrészek minőségét később nem lehet megváltoztatni.
+<color=blue><NUM></color> célcsoportból rendszeresen játszanak <color=blue>árkád játékgépekkel</color>.
+Nem profitálsz! Növeld árkád játékgép árát.
+Spin-off
+<b>Spin-off</b><br>A spin-off profitál a fő sorozat sikeréből.<br>A hype bónusz nem olyan magas, <br> mint egy folytatással.<br>De lehetséges korlátlan spin-offok létrehozása és a fő műfaj megváltoztatása is.
+Feloldásra kerül, ha valamelyik játékodat<br> legalább <color=blue>50,000</color>-en megvették.
+<b>Spin-off feloldva</b><br><br>Az egyik játékod értékesítési adatai kiválóak. Esetleg csinálhatnál egy spin-off-ot. Talán megismételhető a siker, ha odafigyelsz.
+A következő értékelés a <NAME> folyatásáról szól. Lássuk megérte a várakozást.
+Kaptunk egy kis tesztmintát a <NAME> spin-offjáról. Lássuk csak megérte az eddigi fáradozást.
+Melyik IP-ből szeretnél spin-offot fejleszteni?
+A rajongóid örülnek a <NAME> spin-offjának. A játék hype bónuszt kapott.
+Melyik játékot kell más platformtípusra portolni?
+Melyik platformtípusra szeretnéd <color=blue><NAME></color> portolni?
+Számítógép & Játékkonzol
+A játék már elérhető ezen a típusú platformon.
+<b>Játék Portolása</b><br>▪ Platformtípusonként, csak egy portolás lehetséges<br>▪ A hype az eredeti játékból származik<br>▪ A fejlesztési költségek alacsonyabbak<br>▪ Az árkádo játékgépnek a portjai pozitívan befolyásolják az eredeti játék eladási mutatóit
+Se MMO-t és se F2P játéko nem lehet árkád játékgépre portolni.
+[P]
+A rajongóid örülnek a <NAME> portjának. A játék megkapja az eredeti játék aktuális hype-ját.
+Megmutatja, hogy hány ilyen témájú játék van a piacon.
+Saját IP-k
+Összes eladáso
+Összes bevétel
+IP népszerűsége
+<b>IP népszerűsége</b><br>A népszerűség az IP összes játékát érinti.<br>Ha a játék jó minősítést kap, vagy ha díjat kap akkor gyorsabban nő a népszerűsége.
+Minden játék a <color=blue><NAME></color> IP-n
+Mil
+Játékok és kiegészítők száma:
+Árkád játékgépek gyártása
+Házon belüli motor
+<b>Kapzsi</b><br>A kapzsi alkalmazottak lényegesen magasabb fizetést követelnek.
+<b>Immunhiányos</b><br>Az immunhiányos alkalmazottak lényegesen gyakrabban betegednek meg.
+<b>Stresszmentes</b><br>A stresszmentes alkalmazottak szünetet tartanak a nehéz időszakokban.
+<b>Céltalan</b><br>Ezek az alkalmazottak gyakrabban követnek el hibákat, s így gyakrabban hoznak létre bugokat.
+<b>Tehetségtelen</b><br>A tehetségtelen alkalmazottak lassabban tanulnak, mint munkatársaik.
+<b>Pixel művész</b><br>Ezek az alkalmazottak magasabb grafikai pontokat generálnak egy retro játék fejlesztésekor.
+<b>Portolási specialista</b><br>Ezek az alkalmazottak magasabb technikai pontokat generálnak, amikor portolnak egy játékot.
+<b>Ötletes</b><br>A fantáziadús alkalmazottaknak folyamatosan új ötleteik vannak a folytatásokkal kapcsolatban. <br> A folytatás kidolgozásakor ezek az alkalmazottak magasabb játékpontokat generálnak.
+<b>Játékmotorszakértő</b><br>Ezek az alkalmazottak sokkal gyorsabban tudják fejleszteni a játékmotorokat.
+Legjobb játék
+Legrosszabb játék
+Átlagos pontszám
+Összes statisztika
+Összköltség
+<b>Szerencsétlen</b><br>Ezeknek az alkalmazottaknak soha nincsenek kielemkedő eredményeik.
+<b>Munkamániás</b><br>TEzek az alkalmazottak sokkal gyorsabban teljesítik a szerződéses munkát.
+<b>Hatékony</b><br>A hatékony alkalmazottak gyorsabban teljesítenek feladatokat.
+Csak akkor változtathatod meg az árat, ha még nincs előrendelés.
+Konzol neve
+Konzol fejlesztése
+Milyen konzolt szeretnél fejleszteni? Helyhez kötött játékkonzolt, vagy esetleg egy hibrid videójáték-konzolt, amit mindenhová lehet cipelni?
+Új Játékkonzol
+Új Hibrid videójáték-konzol
+Előre telepíthetsz egy már kiadott játékot a konzolra.<br>A játék emulációja ezen a konzolon automatikusan megtörténik.
+Minél több beviteli eszközt adol a konzolhoz, <br> annál magasabbak a gyártási költségek.
+A vizuálisan szépen kinéző konzol pozitív hatással lehet a vásárlók számára.
+Processzor
+Memória
+Videókártya
+Hangkártya
+Belső / Külső Memória
+Hűtőrendszer
+Adathordozó
+Kijelző
+The technologically oldest component decides<br>on the final technology level of the console.
+Beviteli eszköz
+Ház
+Konzol funkció
+Csak a Hibrid videójáték-konzolhoz szükséges
+Csak a Videójáték-konzolhoz szükséges
+Csak a Hibrid videójáték-konzolhoz
+Csak a Videójáték-konzolhoz
+Alkatrész értékelése
+Konzol összetevő
+Kinézet
+Előre feltelepített játék
+Csatolt bemeneti eszközök száma
+Ha elavult és új alkatrészek keversz össze akkor,<br> a konzol bonyolultsága is növekszik.<br>Ez növeli a fejlesztési erőfeszítéseket és a költségeket is egyben.
+Teljesítménynövelő alkatrész
+Megjelenés vagy további eszköz
+Teljesítménypontok
+Színárnyalat
+Telítettség
+Nincs kiválasztott játék
+Játék eltávolítása
+Konzol funkciók
+Internet-hozzáférés szükséges
+Összes funkció be / kikapcsolása
+Internet-hozzáférés
+A konzol csatlakoztatható az internethez
+A konzol egyes funkcióihoz internet-hozzáférés szükséges.
+Még nem elérhető
+Nevet kell adnod a konzolnak!
+Már használatban van ez a konzol név!
+Nincs túlóra
+Fényerősség
+Az IP opcionális neve
+<color=green> >> Kiadta a '<NAME>' játékkonzolt<< </color>
+Vezető technikus
+▪ A vezető technikusnak magas szintű ismeretekkel kell rendelkeznie a <br><color=blue>Hardverkezelés</color>-ben.<br>A konzolon dolgozó összes alkalmazott ennek az értéknek a függvényében bónuszt kap. <br> Ez csökkentheti a fejlesztési időt.<br><br>▪ A vezető technikusnak ebben a helyiségben kell tartózkodnia.
+Használás vezető technikusként
+A platform még fejlesztés alatt áll!
+Még nem adtak ki minden platformot!<br>A termék kiadásához az összes célplatformnak kereskedelemben elérhetőnek kell lennie.
+A konzol elkészült
+Konzol közzététele
+Konzol kukázása
+A hardver részleg elkészítette a konzol piacra kész prototípusát. Most kiadhatod a konzolt, vagy kiadhatod késöbb is.
+Biztos, hogy el akarod dobni ezt a konzolt? Ezt a műveletet nem lehet visszavonni!
+Konzol eladások
+A konzol jelenlegi gyártási költségei
+Optimalizált gyártási folyamatok és csökkenő hardverköltségek, <br> idővel csökkentik a gyártási költségeket.
+Fejlesztőkészlet
+Milyen áron szeretnéd eladni a konzolt?
+Fejlesztőkészlet ára
+Harmadik féltől származó játékok engedélyezése
+Eladási ár automatikus beállítása
+Jelenlegi költségcsökkentés
+Konzol értékelés
+A sajtó összehasonlította új konzolodnak teljesítményét és teljes csomagját a már elérhető konzolokkal.
+Konzol kivonása a piacról
+Teljesítmény-értékelés
+Konzol általános értékelése
+Biztosan, hogy ki szeretnéd vonni ezt a konzolt a piacról?
+Konzol Gyártás
+Konzol Fejlesztés
+Teljesítmény más konzolokhoz képest
+>> Megvette a fejlesztőkészletedet <NUM>-ért. <<
+<color=blue><NAME1></color> megszerezte a fejlesztőkészletet <color=blue><NAME2>-tól</color>.
+Nem teheted közzé ezt a játékot, mert nincs kiválasztva a fő platform! First select a main platform in the "Change Platform" menu.
+Konzol részletei
+<NUM> Konzolok
+Műszaki alkatrészek
+Ne jelenítse meg a "Feladat törlése" üzenetmezőt
+Piaci túltelítettség
+Maximális
+Objektumok automatikus frissítése az egyes helyiségekben.
+Biztos, hogy a szoba összes elemét frissíteni szeretnéd?
+Legmagasabb diagram pozíció
+Az ismert optimális beállítások automatikus alkalmazása.
+Munkahelyek
+Jelzi, hogy hány alkalmazott dolgozhat ebben a szobában, <br> anélkül, hogy panaszkodna a túlzsúfoltságra.
+<DATE1>,<DATE2>-ig
+Ez a mentés elavult.<br>Hibák fordulhatnak elő elavult mentések esetén, <br> s egyes funkciók nem működnek.
+Minden Konzol
+Játékkonzolok
+Hibrid videójáték-konzolok
+Legkeresettebb konzolok
+Értékesítési előzmények
+Egy versenyző kiadott egy játékot a konzolodhoz
+Túlzsúfoltság <b><NUM></b>-től/tól.
+<NUM> képességek maradtak hátra
+Várjon, amíg új szerződések állnak rendelkezésre
+Várakozás új szerződéses munkákra
+Very hard
+Cancellations
+Go to the room
+Publish later
+Automatically hold selling price at <color=blue><NUM></color> profit
+Close menus with right mouse button
+At least one engine feature has a higher technology level than the selected platforms.
+Technology level of the selected engine
+Technology level of the weakest platform
+Manufacturer exclusive game
+▪ Manufacturer exclusive games can only be released on your own consoles.<br>The exclusivity can increase the sales of your consoles a bit.
+You can only choose your own consoles if you want to develop a manufacturer-exclusive game!
+<b>Manufacturer-Exclusive Game</b><br>Through this game, an estimated <color=blue><NUM></color> of your consoles were sold.
+Wait until new games are available
+Wait until new game report can be created
+Continue
+Snapping for rotation
+Automatically sell remaining stock
+Deselect item
+In queue
+Complete development
+Complete development and release the product<br>at a later date.
+Employee search
+Professional experience
+Job advertisement
+Young professionals
+Skilled worker
+Specialist
+Chance of success
+Time required
+▪ The more work experience is required,<br>the lower the chance of finding an employee.<br>▪ A high studio rating can increase the chance of success.<br>▪ The time it takes to find a suitable employee<br>depends on the work experience selected.
+Costs: <NUM>
+<color=blue><NAME></color> has applied to our job posting. Do you want to hire this person?
+<b>Employee search</b><br>Unfortunately, no suitable employee could be found.
+Employee search successfully completed
+Set sales prices automatically
+The console's hardware is outdated.<br>This increases production costs.
+Gameplay features
+Completed
+You have too many gameplay features enabled.
+Player is ready
+Ready
+Publishing offer
+Which game do you want to distribute?
+▪ The higher your studio reputation, the more games you will be offered.<br>▪ You don't get experience for these games.<br>▪ The IP and the game concept remains the<br>property of the developer. Therefore you cannot develop successors,<br>addons, updates or port the game.
+Guarantee amount
+Turnover share
+Estimated quality
+Number of publishing offers
+Contract offer
+Send the developer <color=blue><NAME1></color> a contract offer for the game <color=blue><NAME2></color>.
+Mood
+Make offer
+The contract negotiations has failed! The developer will look for another publisher.
+Sign contract
+Annoyed
+Tense
+Satisfied
+Delete
+Distribution
+Distributed games
+Retail + Digital
+Retail only
+Digital only
+You may not distribute this game as a boxed version.
+You may not distribute this game digitally.
+You can send an offer to the developer only once a week.
+Average skills
+Employees per profession
+Total skills
+Applicants per profession
+It is not necessary to produce all editions.<br>If no Deluxe or Collectors edition is produced,<br>buyers will automatically purchase the Standard edition.
+Commercial failure
+Despite good ratings, <color=blue><NAME></color> cannot hold its own in the market and seems to become a commercial failure.
+Bugs detected
+Buyers of the game <color=blue><NAME></color> have reported bugs that our quality control has overlooked. A longer polishing period reduces the chance of bugs going undetected. It would be advisable to develop a patch as soon as possible.
+Game contains bugs
+Surprise hit
+Luck is on our side. The sales figures of <color=blue><NAME></color> are much higher than expected. This game could be the surprise hit of the year.
+Best skill
+Latest applicants
+<b>New genre combination</b><br>▪ +10% Units sold
+<b>New topic combination</b><br>▪ +3% Units sold
+New genre combination
+New topic combination
+Industrial park
+Palm Beach Resort
+[Tutorial available]
+Sandbox
+Hide contract games
+Development time: <color=blue><NUM> weeks</color>
+Automatically select best employee
+No lead technician selected!
+Most popular IPs
+F2P Downloads
+Computer & Console Games
+Filter options for games
+Standard games
+IPs
+Shares
+Show all
+Show PC and console games only
+Show arcade machines only
+Show mobile games only
+Show own consoles only
+Random genre combinations
+Components
+Show only games in queue
+Most played F2P games
+Budget Games
+Gamebundles
+Mobile games
+Arcade Machines
+Achivements
+Hide unlocked achievements
+<NUM1> of <NUM2> Achivements
++<NUM>% of PC and console games sold
++<NUM>% arcade machine games sold
++<NUM>% mobile games sold
++<NUM>% addons sold
++<NUM>% secondary marketing sales
++<NUM>% in-app purchases
++<NUM>% own consoles sold
++<NUM>% fans generated through games
++<NUM>% training speed
++<NUM>% work rate
+Total bonus
+Development cannot be started because this order has already been accepted by another player.
+The order cannot be accepted because you have not yet researched the appropriate genre.
+The order cannot be accepted because you have not yet researched the appropriate game size.
+You have used your engine for the contract game <color=blue><NAME1></color>. This entitles you to a share of the profits.
+Un/archive everything
+Copy Protection & Anti-Cheat
+You can change the copy protection and anti-cheat software during development.
+Additional development costs
+From which <color=blue>IP</color> should merchandise be offered?
+At least one merchandise item is out of stock!
+Merchandise items are automatically reordered
+▪ The minimum order quantity per item is 5,000 pieces.<br>▪ The better known an IP is, the more items can be sold.<br>▪ The number of your fans increases the sales figures.
+Cup
+T-shirt
+Artbook
+Necklace
+Cap
+Tin sign
+Coin
+Collectible figure
+Article
+Order quantity
+Purchase price
+Sales figures
+Order cost
+Automatically reorder
+Last week: <b><NUM1></b><br>Total: <b><NUM2></b>
+Apply sales prices to all IPs
+The sales prices were adopted for <NUM> IPs.
+Order article
+Merchandise
+Merchandise in the amount of <NUM> has been ordered for <NAME>.
+Reorder automatically for all IPs
+Switch automatic for all IPs
+Merchandise profit
+Required popularity of the IP
+Manage Fan Shop
+Take orders
+Demand
+Current & last month
+Disable sale
+No merchandise will be sold for this IP.
+Merchandise is sold for this IP.
+Switch sale for all IPs
+IPs & Prices
+Your employees have to take the <color=blue>orders</color> of the <color=blue>merchandise items</color>. The higher the <color=blue>demand</color>, the more employees are needed.
+For what type of platform will the sequel to <NAME> be developed?
+For what type of platform will the <NAME> spin-off be developed?
+The higher the value of a rubric, the greater the<br>chance that the employee will earn points for that rubric.
+You can change the design priority during development. This is especially recommended if a section has been severely neglected.
+Rotate camera by 90 degrees
+Exclusive Games
+Next week
+Self developed games
+Desks
+Cabinets
+TVs & Radios
+Pictures
+Carpets
+Awards
+Tables
+Plants
+Lamps
+Miscellaneous
+Seating
+Cleaning Robot
+Sanitary Objects
+Entertainment
+Machines
+Server
+Cooling Systems
+Storage Places
+Training Objects
+Sound Studios
+Motion Capture
+Workbenches
+Workplaces
+<b>Global supply bottlenecks<br><color=blue>-50% fan merchandise sale</color></b><br><br>Logistics problems are occurring worldwide due to a shortage of raw materials.<br>As a result, the demand for merchandise cannot be met.
+Show only games that have already been removed from the market
+Unlocked after you publish your <color=blue>first game</color>.
+Show only platforms with matching tech level
+Hide topics that do not fit
+Matching topics
+Mismatching topics
+[A]
+Highest Revenue Games
+Neglect of the IP
+The latest game was released <NUM> weeks ago.
+Hide ports
+Hide addons
+All genres
+Highest subscriptions
+Highest player numbers
+Peak
+Current subscriptions
+Current player numbers
+Low
+Medium
+High
+The genres of your most recently published games.<br>If you use the same genre too often, your fans will get bored.<br>Your special genre <NAME> is excluded from this.
+Not for sale
+Cancel contract
+In order to terminate the contract early, you will have to pay a penalty of <NUM>. In addition, the relationship with this publisher will deteriorate.
+Do you really want to cancel the exclusive contract with <NAME>?
+Critical error! There is no connection to Steam.
+Platform popularity increases platform lifetime
+When you develop an exclusive game, you receive a financial subsidy from the platform manufacturer to reduce development costs.
+It is not possible to change the platforms for an exclusive game!
+"Do not show "Mad Games Convention
+"Do not show "Mad Games Awards
+Do not show random events
+Subsidiaries
+Subsidiary
+Hide subsidiaries
+Exclusive Game Discount
+Buy company
+Do you really want to buy <NAME> for the purchase price of <NUM>?
+Studio settings
+Your revenue share
+Open / Close subsidiary
+This company has been closed
+This subsidiary is not a publisher!
+Monthly administration costs
+Upgrade subsidiary
+Upgrade to Publisher
+Upgrade to Developer
+Do you really want to upgrade <NAME>? The cost of the upgrade is <NUM>.
+Do you really want to upgrade <NAME> to Publisher? The cost of the upgrade is <NUM>.
+Do you really want to upgrade <NAME> to developer? The cost of the upgrade is <NUM>.
+You have not entered a company name!
+Company logos
+What instructions should your subsidiary follow?
+Progress
+Activity
+Allowed development time
+Near completion
+Product release in approx. <NUM> weeks
+No game in development
+Prioritized game size
+Prioritized genre
+Self-publish games
+Only develop exclusive games for own consoles
+Allow development of MMO games
+Allow development of F2P games
+Allow development of addons & MMO addons
+Do not develop arcade machine games
+Do not develop mobile games
+Do not develop retro games
+Do not develop game ports
+Do not publish budget games
+Do not publish GOTY editions
+Short
+Balanced
+Generous
+No specifications
+Do not develop remasters
+Do not develop spin-offs
+Closed
+Apply settings for all subsidiaries
+Sell subsidiary
+The settings have been applied to all subsidiaries.
+Games developed by subsidiaries
+Do you really want to sell your subsidiary <NAME> for <NUM>?
+The company rejects all takeover offers. Try again at a later date.
+Your subsidiary <NAME> has a new product ready for release. Do you want to distribute it yourself, or should your subsidiary handle the release?
+Subsidiary company publishes the game
+Publish game yourself
+Product ready for release
+Estimated Rating:
+<b>Subsidiary publishes the game</b><br>▪ The subsidiary company will look for a publisher if necessary.<br>▪ You get <NUM>% of all sales.
+<b>Self-distribution</b><br>▪ Your revenue share is <NUM>%.<br>▪ Arcade machine games, mobile games and F2Ps are always distributed by the subsidiary.
+Revenue sharing with developers
+Hide games removed from the market
+Subsidiaries' games on the market
+Your profit sharing
+Subsidiary game
+Your subsidiary <NAME1> has sent you a statement for the game <NAME2>.
+Do not display your subsidiaries' statements
+Deductions
+When this subsidiary distributes a game,<br>the developer gets <NUM> for each game sold.
+Prioritized topic
+Focus on the following IP
+Prefer distribution through own publishers
+Do not show resignations of your employees
+Remove IP
+Use In-house engine
+Remove engine
+Estimated rating
+All games that are worse than the estimated rating,<br>are automatically published by your subsidiary.
+Copy item
+Focus on the following platforms
+Mark games from subsidiaries [★]
+Player
+Show only self-developed games
+▪ <b>Game of the year</b><br>You must be the developer and get a high overall score.<br><br>▪<b>Best sound</b><br>You must be the developer and get a high sound rating.<br><br>▪ <b>Best graphic</b><br>You must be the developer and get a high graphics rating.<br><br>▪ <b>Publisher of the year</b><br>You need to distribute and sell a lot of high quality games.<br><br>▪ <b>Best developer</b><br>You need to develop a lot of high-quality games.<br><br>▪ <b>Worst game of the year</b><br>You have to be the developer and your game should not be fun.
+Transfer IP
+Which IP do you want to assign to your company or a subsidiary?
+A product is currently being developed for this IP. You must first cancel the development to be able to transfer the IP.
+Transfer of the IP is currently not possible.
+<b>Mad Games Awards - Winner</b><br>Your fans are delighted that you were honored at the "Mad Games Awards".<br>+<NUM>% games sold<br>
+European Manor
+Due to the price increase <NUM> pre-orders have been cancelled!
+Automatically activated
+Has not been researched
+Genre not been researched!
+Genre or topic not been researched!
+Game type not been researched!
+Suitable genre
+Unsuitable genre
+Toy
+Board Game
+Comic
+<color=blue><NUM></color> of the players have access to the <color=blue>Internet</color>.
+No information available!
+<b>Console & Computer Games</b><br>If weekly sales fall below <color=blue><NUM></color>, the game<br>is automatically removed from the market.
+Open "Game completed" menu when all bugs have been removed
+Current project
+This subsidiary is not a developer
+Set game speed
+Each player has permission to set the game speed.<br>If this function is disabled,<br>only the host may set the game speed.

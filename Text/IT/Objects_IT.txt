@@ -1,0 +1,187 @@
+﻿-;-
+Scrivania I; Postazione per lo sviluppo. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Riscaldamento; i dipendenti che stanno congelando diventano insoddisfatti più rapidamente.
+Lampada I; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Cestino; mantieni sempre puliti i tuoi uffici, <br> altrimenti i tuoi dipendenti non saranno soddisfatti.
+Distributore di acqua; i dipendenti assetati diventano insoddisfatti più rapidamente.
+Scrivania I; Postazione per la ricerca. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Pianta; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Cactus; I tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Pianta tropicale; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Toilette; qui vengono soddisfatte le esigenze più importanti.
+Lavabo; dovresti sempre lavarti le mani!
+Poster UFO; i tuoi dipendenti sono più motivati ​​quando<br>lavorano in uffici ben arredati.
+Poster Robot; i tuoi dipendenti sono più motivati ​​quando<br>lavorano in uffici ben arredati.
+Poster Aleon; I tuoi dipendenti sono più motivati ​​quando<br>lavorano in uffici ben arredati.
+Poster retrò; i tuoi dipendenti sono più motivati ​​quando<br>lavorano in uffici ben arredati.
+Poster Navicella Spaziale; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Gioco d'oro; ricevi questo premio per ogni gioco <br> che ha venduto almeno 1.000.000 di unità.
+Disegno artistico I; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Disegno artistico II; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Disegno artistico III; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Disegno artistico IV; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Disegno artistico V; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Asciugamani elettrico; Fai rumore, fai vento e asciugati le mani
+Cabinato Arcade I; con questo oggetto i tuoi dipendenti <br> possono ottenere nuove motivazioni.
+Panchina - Marrone chiaro; qui i tuoi dipendenti possono <br> sedersi per una pausa.
+Panchina - Marrone scuro; qui i tuoi dipendenti possono <br> sedersi per una pausa.
+Panchina - Verde; qui i tuoi dipendenti possono <br> sedersi per una pausa.
+Scaffale I; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Scaffale II; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Scaffale III; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Armadio classificatore; i vostri dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Sputnik 3000 Cleaner; Questo robot di pulizia ultramoderno rimuove tutto lo sporco.
+Poltrona I - Marrone; Con questo oggetto i tuoi dipendenti possono ottenere nuove motivazioni.
+Poltrona I - Nera; Con questo oggetto i tuoi dipendenti possono ottenere nuove motivazioni.
+Poltrona I - Verde; Con questo oggetto i tuoi dipendenti possono ottenere nuove motivazioni.
+Macchina di produzione I; Con questa macchina puoi produrre giochi.
+Cabinato Arcade II; Con questo oggetto i tuoi dipendenti possono ottenere nuove motivazioni.
+Cabinato Arcade III; Con questo oggetto i tuoi dipendenti possono ottenere nuove motivazioni.
+Orologio; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Poltrona II - Grigio; Con questo oggetto i tuoi dipendenti possono ottenere nuove motivazioni.
+Poltrona II - Blu; Con questo oggetto i tuoi dipendenti possono ottenere nuove motivazioni.
+Poltrona II - Arancione; Con questo oggetto i tuoi dipendenti possono ottenere nuove motivazioni.
+Gioco Freccette; Con questo oggetto i tuoi dipendenti possono ottenere nuove motivazioni.
+Lampada II; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Intex Server; i server sono richiesti per i giochi MMO e F2P. <br> Questo server può gestire <b><color=blue><NUM></color> </b> giocatori.
+Aria condizionata; Utile per regolare la temperatura nelle sale server.
+Scaffale resistente I; i tuoi giochi prodotti sono archiviati qui. <br> Su questo oggetto puoi archiviare <b><color=blue>25.000</color> </b> giochi.
+Scrivania I; Il Postazione per il reparto marketing. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Lampada III; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Scrivania II; Postazione per lo sviluppo. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania III; Postazione per lo sviluppo. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania IV; Postazione per lo sviluppo. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania V; Postazione per lo sviluppo. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Banco I; Consente di formare i dipendenti. <br> Maggiore è la qualità, migliore è il risultato.
+Lavagna bianca; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Scrivania II; Postazione per la ricerca. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania II; Postazione per il reparto marketing. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania III; Postazione per il reparto marketing. Je höher die Qualität, <br> desto besser das Arbeitsergebnis.
+Scrivania IV; Postazione per il reparto marketing. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania V; Postazione per il reparto marketing. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania I; Postazione per il dipartimento di supporto. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania II; Postazione per il dipartimento di supporto. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania III; Postazione per il dipartimento di supporto. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania IV; Postazione per il dipartimento di supporto. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania V; Postazione per il dipartimento di supporto. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania III; Postazione per la ricerca. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania IV; Postazione per la ricerca. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania V; Postazione per la ricerca. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Poltrona III - Rossa; Con questo oggetto i tuoi dipendenti possono ottenere nuove motivazioni.
+Poltrona III - Verde; Con questo oggetto i tuoi dipendenti possono ottenere nuove motivazioni.
+Poltrona III - Blu; Con questo oggetto i tuoi dipendenti possono ottenere nuove motivazioni.
+Armadietto dei medicinali; Consente ai dipendenti malati di guarire da soli. <br> I dipendenti malati lavorano più lentamente.
+Riscaldamento elettrico; I dipendenti che stanno congelando diventano insoddisfatti più rapidamente. <br> Questo riscaldatore può essere posizionato in qualsiasi posizione.
+Scrivania I; Postazione per il beta testing. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania I; Postazione per lo studio grafico. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania I; Postazione per lo studio del suono. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Green Screen I; Postazione per lo studio di motion capture. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Tastiera; Con questo oggetto i tuoi dipendenti possono ottenere nuove motivazioni.
+Scaffale per carichi pesanti II; i tuoi giochi prodotti sono archiviati qui. <br> Su questo oggetto puoi archiviare <b><color=blue>50.000</color> </b> giochi.
+Scaffale per carichi pesanti III; i giochi prodotti sono archiviati qui. <br> Su questo oggetto puoi archiviare <b><color=blue>100.000</color> </b> giochi.
+Scrivania II; Il posto di lavoro per lo studio del suono. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania III; Il posto di lavoro per lo studio del suono. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Quadro di Animali I; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Quadro di Animali II; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Quadro di Animali III; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Quadro di Animali IV; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Quadro di Animali V; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Scrivania II; Postazione per il beta testing. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania III; Postazione per il beta testing. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania IV; Postazione per il beta testing. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania V; Postazione per il beta testing. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+La tua auto sportiva; dovresti vendere la tua vecchia auto sportiva per fare un po' di soldi.
+Tappeto I; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Tappeto II; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Tappeto III; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Tappeto IV; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Tappeto V; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Tappeto VI; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Frigo; Ideale per conservare alimenti deperibili.
+TV; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+TV moderna; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Radio; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Scrivania II; Postazione per lo studio grafico. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania III; Postazione per lo studio grafico. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania IV; Postazione per lo studio grafico. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania V; Postazione per lo studio grafico. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Radio moderna; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Armadio piccolo I; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Armadio piccolo II; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Armadio piccolo III; i tuoi dipendenti sono più motivati ​​quando <br> lavorano in uffici ben arredati.
+Banco II; consente di formare i dipendenti. <br> Maggiore è la qualità, migliore è il risultato.
+Banco III; consente di formare i dipendenti. <br> Maggiore è la qualità, migliore è il risultato.
+Banco IV; consente di formare i dipendenti. <br> Maggiore è la qualità, migliore è il risultato.
+Banco V; consente di formare i dipendenti. <br> Maggiore è la qualità, migliore è il risultato.
+Macchina di produzione II; Con questa macchina puoi produrre giochi.
+Macchina di produzione III; Con questa macchina puoi produrre giochi.
+Macchina di produzione IV; Con questa macchina puoi produrre giochi.
+Macchina di produzione V; Con questa macchina puoi produrre giochi.
+Scrivania IV; Postazione per lo studio del suono. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Scrivania V; Postazione per lo studio del suono. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Green Screen II; Postazione per lo studio di motion capture. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Green Screen III; Postazione per lo studio di motion capture. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Green Screen IV; Postazione per lo studio di motion capture. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Green Screen V; Postazione per lo studio di motion capture. Maggiore è la qualità, <br> migliore è il risultato del lavoro.
+Server G-Electic; i server sono richiesti per i giochi MMO e F2P. <br> Questo server può gestire <b><color=blue><NUM></color> </b> giocatori.
+Metrics Server; i server sono richiesti per i giochi MMO e F2P. <br> Questo server può gestire <b><color=blue><NUM></color> </b> giocatori.
+Server DivoTech; i server sono richiesti per i giochi MMO e F2P. <br> Questo server può gestire giocatori <b><color=blue><NUM></color> </b>.
+Server IBN; i server sono richiesti per i giochi MMO e F2P. <br> Questo server può gestire <b><color=blue><NUM></color> </b> giocatori.
+Gioco di platino; ricevi questo premio per ogni gioco <br> che ha venduto almeno 5.000.000 di unità.
+Gioco di diamanti; ricevi questo premio per ogni gioco<br>che ha venduto almeno 10.000.000 di unità.
+Macchina per Caffè; Il cibo base di uno sviluppatore di giochi è il caffè.<br>La macchina da caffè più moderna proviene da "Gronky Industries" e <br> può mantenere facilmente il caffè caldo per 17 ore.
+Premio "Gioco dell'anno";Ottieni questo premio,<br>quando uno dei tuoi giochi viene scelto come "Gioco dell'anno".
+Premio "Sviluppatore dell'anno";Ottieni questo premio,<br>quando il tuo studio viene scelto come "Sviluppatore dell'anno".
+Premio "Miglior colonna sonora"; Ottieni questo premio <br> quando uno dei tuoi giochi ottiene il premio "Migliore colonna sonora".
+Premio "Miglior grafica"; Ottieni questo premio quando uno dei tuoi giochi riceve il premio "Miglior grafica".
+Armadio molto piccolo I; i tuoi dipendenti sono più motivati ​​quando<br>lavorano in uffici ben arredati.
+Armadio molto piccolo II; i tuoi dipendenti sono più motivati ​​quando<br>lavorano in uffici ben arredati.
+Armadio molto piccolo III; i tuoi dipendenti sono più motivati ​​quando<br>lavorano in uffici ben arredati.
+Tappeto VII; i tuoi dipendenti sono più motivati ​​quando<br>lavorano in uffici ben arredati.
+Tappeto VIII; i tuoi dipendenti sono più motivati ​​quando<br>lavorano in uffici ben arredati.
+Tappeto IX; i tuoi dipendenti sono più motivati ​​quando<br>lavorano in uffici ben arredati.
+Premio "Creatore di tendenze"; riceverai questo premio,<br>se uno dei tuoi giochi creerà una tendenza.
+Premio "Distributore dell'anno"; ricevi questo premio<br>quando il tuo studio viene scelto come "Distributore dell'anno".
+Banco I;Banco di lavoro per l'officina. Maggiore è la qualità,<br>migliore è il risultato del lavoro.
+Banco II;Banco di lavoro per l'officina. Maggiore è la qualità,<br>migliore è il risultato del lavoro.
+Banco III;Banco di lavoro per l'officina. Maggiore è la qualità,<br>migliore è il risultato del lavoro.
+Banco IV;Banco di lavoro per l'officina. Maggiore è la qualità,<br>migliore è il risultato del lavoro.
+Banco V;Banco di lavoro per l'officina. Maggiore è la qualità,<br>migliore è il risultato del lavoro.
+Scrivania I;Postazione per lo sviluppo della console. Maggiore è la qualità,<br>migliore è il risultato del lavoro.
+Scrivania II;Postazione per lo sviluppo della console. Maggiore è la qualità,<br>migliore è il risultato del lavoro.
+Scrivania III;Postazione per lo sviluppo della console. Maggiore è la qualità,<br>migliore è il risultato del lavoro.
+Scrivania IV;Postazione per lo sviluppo della console. Maggiore è la qualità,<br>migliore è il risultato del lavoro.
+Scrivania V;Postazione per lo sviluppo della console. Maggiore è la qualità,<br>migliore è il risultato del lavoro.
+Condizionatore d'aria moderno;Utile per regolare la temperatura nelle sale server.
+Sgabello - Verde;Con questo oggetto i tuoi dipendenti possono ottenere nuova motivazione.
+Sgabello - Arancione;Con questo oggetto i tuoi dipendenti possono ottenere nuova motivazione.
+Sgabello - Blu;Con questo oggetto i tuoi dipendenti possono ottenere nuova motivazione.
+Tavolo I;I tuoi dipendenti sono più motivati ​​quando<br>lavorano in uffici ben attrezzati.
+Tavolo II;I tuoi dipendenti sono più motivati ​​quando<br>lavorano in uffici ben attrezzati.
+Tavolo III;I tuoi dipendenti sono più motivati ​​quando<br>lavorano in uffici ben attrezzati.
+Poltrona - Marrone chiaro;Qui i tuoi dipendenti possono<br>sedersi per una pausa.
+Poltrona - Marrone scuro;Qui i tuoi dipendenti possono<br>sedersi per una pausa.
+Poltrona - Verde;Qui i tuoi dipendenti possono<br>sedersi per una pausa.
+Mini Golf;Con questo obiettivo i tuoi dipendenti possono ottenere nuove motivazioni.
+Immagine architettura I;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Immagine architettura II;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Immagine architettura III;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Immagine architettura IV;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Immagine architettura V;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Immagine floreale I;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Immagine floreale II;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Immagine floreale III;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Immagine floreale IV;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Immagine floreale V;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Tappeto X;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Tappeto XI;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Tappeto XII;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Lampada IV;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Lampada V;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Lampada VI;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Girasole;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Cactus Palla;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Palma;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Tavolo IV;I tuoi dipendenti sono più motivati quando<br>lavorano in uffici ben attrezzati.
+Sistema riscaldamento moderno;Questo sistema di riscaldamento ad alta efficienza<br>è particolarmente adatto per uffici open space.
+Toilette Lussuosa;Una visita a questa lussuosa toilette<br>aumenta anche la motivazione.

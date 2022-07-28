@@ -1,0 +1,72 @@
+﻿Uragano;Crea un gioco d'azione con una valutazione di almeno il 70%.
+Labirinto di marmo;Crea un gioco di abilità con una valutazione di almeno il 70%.
+Dr. Tario;Crea un puzzle game con una valutazione di almeno il 70%.
+L'isola delle scimmie;Crea un gioco di avventura con una valutazione di almeno il 70%.
+Dungeons & Maestro;Crea un gioco RPG con una valutazione di almeno il 70%.
+Le civiltà;Crea un gioco di strategia con una valutazione di almeno il 70%.
+Super Tario World;Crea un platform con una valutazione di almeno il 70%.
+Astronave: Elium;Crea un gioco di simulazione con una valutazione di almeno il 70%.
+Coppa della California;Crea un gioco sportivo con una valutazione di almeno il 70%.
+Mad Oil Tycoon;Creare una simulazione economica con un rating di almeno il 70%.
+Backstreet Fighter;Crea un gioco di combattimento con una valutazione di almeno il 70%.
+Simulation City: 1602;Crea un gioco di costruzione con una valutazione di almeno il 70%.
+Grotta del Drago;Crea un filmato interattivo con una valutazione di almeno il 70%.
+Comandante Braciolone;Crea un gioco di strategia in tempo reale con una valutazione di almeno il 70%.
+BOOM;Crea uno sparatutto in prima persona.
+Meglio di un libro;Crea una visual novel con una valutazione di almeno il 70%.
+Max Power;Crea uno sparatutto in terza persona con una valutazione di almeno il 70%.
+I collaudatori;Crea un gioco di corse con una valutazione di almeno il 70%.
+Retromania;Crea un gioco retrò.
+Mondo di Meridian;Crea un gioco MMO.
+Il gioco è davvero gratuito?;Crea un gioco F2P.
+Inserisci moneta!;Crea un arcade cabinato.
+A tutti piacciono i serpenti;Crea un gioco per cellulari.
+Nato per essere un programmatore;Crea il tuo motore.
+Console War;Crea la tua console fissa.
+Questo si adatta alla mia tasca;Crea la tua console mobile.
+Pagamento bonus;Crea un gioco a contratto.
+Bundles;Crea un gioco bundle.
+Discount;Pubblica un gioco economico.
+Edizione Completa;Pubblica un bundle di giochi aggiuntivi.
+Spin Off;Crea uno spin off.
+I, II, III, IV;Crea un sequel di un gioco.
+Porting del gioco semplificato;Porta un gioco su un'altra piattaforma.
+Meglio dell'originale?;Crea una rimasterizzazione di uno dei tuoi giochi.
+Tendenza;Uno dei tuoi giochi dovrebbe stabilire una nuova tendenza.
+Gioco dell'anno;Uno dei tuoi giochi deve essere premiato come Gioco dell'anno.
+Sviluppatore dell'anno;Vinci il premio Sviluppatore dell'anno.
+Editore dell'anno;Vinci il premio Editore dell'anno.
+Occhi di caramelle;Uno dei tuoi giochi deve ottenere un premio per la migliore grafica.
+Una grande colonna sonora;Uno dei tuoi giochi deve ottenere un premio per il miglior suono.
+Questo non può essere giusto!;Uno dei tuoi giochi deve essere votato il peggior gioco dell'anno.
+Overhype!;Crea un overhype per uno dei tuoi giochi.
+Imprenditori;Firma un contratto esclusivo con un editore.
+Era un sacco di lavori!;Raggiungere una reputazione con i clienti del 100%.
+Ora diventerò ricco;Produrre e distribuire un gioco senza un editore.
+Questo è il futuro!;Raggiungi l'anno 2050 nel gioco.
+Editore!;Pubblica un gioco di una società NPC.
+Il mio migliore amico!;Massimizza la relazione con un editore.
+ORO;Vendi almeno 1.000.000 di unità di un gioco.
+Platino;Vendi almeno 10.000.000 di unità di un gioco.
+Diamante;Vendi almeno 50.000.000 di unità di un gioco.
+80%;Uno dei tuoi giochi deve ricevere una valutazione complessiva di almeno l'80%.
+90%;Uno dei tuoi giochi deve ricevere una valutazione complessiva di almeno il 90%.
+100%;Uno dei tuoi giochi deve ricevere una valutazione complessiva di almeno il 100%.
+Tutti mi amano!;Avere almeno 1.000.000 di fan.
+Non mi piace stare da solo;Inizia una partita multiplayer con almeno un amico.
+Questa è la mia squadra!;Inizia una partita multiplayer con quattro amici.
+Proprietà intellettuale;Massimizza la popolarità di un IP.
+Legendary Game Company;Massimizza la reputazione del tuo studio.
+Magistrale;Avere un dipendente con un'esperienza del 100% in qualsiasi abilità.
+Assunzioni I;Avere almeno 20 dipendenti.
+Assunzioni II;Avere almeno 50 dipendenti.
+Assunzioni III;Avere almeno 100 dipendenti.
+Paghetta;Avere almeno $50.000.000.
+Non basta!;Avere almeno $500.000.000.
+Club dei ricchi;Avere almeno un miliardo di dollari.
+Console war II;Vendi almeno 10.000.000 di unità della tua console.
+Leader di mercato;Vendi almeno 50.000.000 di unità della tua console.
+Il mio nome è Sid Maier;Assumi una leggenda dello sviluppatore.
+Shopping Tour I;Acquista uno sviluppatore o un editore di NPC.
+Shopping Tour II;Acquista almeno 10 sviluppatori o editori NPC.
+Shopping Tour III;Acquista almeno 30 sviluppatori o editori NPC.

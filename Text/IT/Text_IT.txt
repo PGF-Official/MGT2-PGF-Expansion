@@ -1,0 +1,2032 @@
+﻿<b>Crea stanze</b><br>Qui puoi costruire stanze.
+-
+-
+-
+Livello tecnologico
+Esperienza
+Costi di sviluppo
+$
+Con l'aumentare del livello di esperienza, i costi di sviluppo diminuiscono.<br>Inoltre, aumentano il gameplay, la grafica, la tecnologia e i suoni.
+Grafica
+Suono
+Intelligenza artificiale
+Fisica
+Gameplay
+Controlli
+Multigiocatore
+Abilita / disabilita tutto
+Costruire una stanza
+Chiudi
+Sviluppo
+Ricerca
+Studio Beta testing
+Studio grafica
+Studio del suono
+Marketing
+Supporto
+Sviluppo della console
+Magazzino
+Studio Motion Capture
+Bagno
+Sala Relax
+Sala Formazione
+Produzione
+Stanza del server
+Nello <color=blue>sviluppo</color> puoi sviluppare giochi e motori.
+In questa stanza puoi sviluppare nuove tecnologie.
+Con lo <color=blue>studio Beta testing</color> puoi migliorare<br>il gameplay dei tuoi giochi e rimuovere efficacemente i bug.
+Con lo <color=blue>Studio grafica</color> puoi creare grafica professionale per i tuoi giochi.
+Con uno <color=blue> Studio del Suono</color> puoi creare suoni di alta qualità per i tuoi giochi.
+Nel reparto <color=blue>Marketing</color> puoi pubblicizzare i tuoi giochi.
+Il <color=blue>Dipartimento di Supporto</color> è necessario per supportare i tuoi fan.
+Lo <color=blue>Sviluppo della Console</color> è necessario per sviluppare le tue console.
+Nel <color=blue>Magazzino</color> vengono archiviati i giochi prodotti.
+Lo <color=blue>Studio Motion Capture</color> è necessario per registrare animazioni professionali.
+I <color=blue>bagni</color> dovrebbero essere disponibili ovunque.
+Nella <color=blue>Sala relax </color> i tuoi dipendenti <br> possono rilassarsi e ottenere nuove motivazioni.
+La <color=blue>Sala di formazione</color> è ideale <br> per la formazione dei tuoi dipendenti.
+In questa stanza puoi produrre i tuoi giochi.
+La <color=blue>Stanza del server</color> è necessaria se vuoi sviluppare giochi MMO.
+*
+*
+Puoi ricercare lo studio beta testing sotto la voce <color=blue>"Varie"</color>.
+Puoi ricercare lo studio grafico sotto la voce <color=blue>"Varie"</color>.
+Puoi ricercare lo studio del suono sotto la voce <color=blue>"Varie"</color>.
+Puoi ricercare il reparto marketing sotto la voce <color=blue>"Varie"</color>.
+Puoi ricercare la sezione di supporto sotto la voce <color=blue>"Varie"</color>.
+Puoi ricercare lo sviluppo console sotto la voce <color=blue>"Varie"</color>.
+Il magazzino verrà sbloccato quando avrai ricercato la <color=blue>Produzione</color>.
+Questo sarà sbloccato nel <color=blue>novembre 1993</color>.
+*
+*
+Puoi ricercare l'aula di formazione sotto la voce <color=blue>"Varie"</color>.
+Puoi ricercare la produzione sotto la voce <color=blue>"Varie"</color>.
+Sarà sbloccato se hai ricercato <color=blue>Multigiocatore online</color>.
+Disposizione
+<b>Design della stanza</b><br> Puoi premere il <color=blue>tasto Maiusc sinistro</color><br> per rimuovere la stanza.
+<b>Rimuovi stanza</b><br> In alternativa puoi premere il <color=blue>tasto Maiusc sinistro</color><br> per rimuovere la stanza.
+<b>Posiziona la porta</b><br> La porta deve essere collegata al corridoio. <br>Con il <color=blue>tasto CANC</color> puoi rimuovere la porta.
+<b>Posizionamento delle finestre</b><br> Tieni premuto il <color=blue>tasto Maiusc sinistro</color><br> per rimuovere le finestre.
+Accettare
+Prezzo per metro quadrato
+Metri quadrati
+mq
+▪ Non tutte le stanze sono accessibili.
+Tecnologia
+▪ Deve essere soddisfatta la dimensione minima di <NUM>.
+▪ Manca una porta.
+<b>Acquista oggetti</b><br>Qui puoi acquistare oggetti per le tue stanze.
+Acquista oggetti
+Ruota oggetto
+Posiziona oggetto
+Questa non è la stanza giusta!
+Questo è fuori dall'edificio!
+Agganciamento
+Sposta oggetto
+Vendi oggetto
+Licenziare il dipendente
+Scorciatoia:
+Prezzo di vendita
+<b>Gestione</b><br> Qui troverai tutte le funzioni necessarie per gestire la tua azienda.
+<b>Statistiche</b><br> Qui puoi visualizzare tutte le statistiche su finanze, giochi o piattaforme.
+<b>Dipendenti</b><br> Qui puoi aggiungere nuovi dipendenti e gestire gruppi.
+Corridoio
+Ciò consente di disabilitare il sollevamento dei dipendenti.
+Ciò consente di disabilitare il sollevamento di oggetti.
+Disabilita le visualizzazioni di tutte le stanze.
+Soldi
+Fan
+Fai controllare tutti i dipendenti dall'IA
+▲
+▼
+■
+A
+M
+S
+Pausa
+Velocità normale
+Alta velocità
+<b>Acquista articoli per questa stanza</b>
+Motivazione
+NESSUNA
+NESSUNA
+NESSUNA
+Descrizione Magazzino
+Descrizione Server
+Descrizione Macchinario
+Mantieni sempre puliti i tuoi uffici! <br>A causa dell'elevata sporcizia, i tuoi dipendenti si dimettono<br> e nessun altro dipendente si rivolge alla tua azienda.
+Dipendenti
+Elimina i dipendenti
+Gamedesign
+Programmazione
+Disegno grafico
+Musica e suono
+Supporto e marketing
+Gametesting
+Hardware e ingegneria
+Ricerca
+Stipendio
+Licenziare i dipendenti
+<b>Star designer</b><br> Star designer creano clamore per i giochi su cui lavorano.
+<b>Inesauribile</b><br> I dipendenti inesauribili non hanno bisogno di pause.
+<b>Senza errori</b><br> I dipendenti senza errori non creano mai bug.
+<b>Fedele</b><br> I dipendenti fedeli non smetteranno mai.
+<b>Talentuoso</b><br> I dipendenti di talento imparano più velocemente.
+<b>Fortuna</b><br> I risultati critici del lavoro si verificano molto più frequentemente.
+<b>Sportivo</b><br> La velocità di movimento è aumentata.
+<b>Ordinato</b><br> I dipendenti ordinati non producono sporcizia e immondizia.
+Progettista di giochi
+Programmatore
+Artista grafico
+Artista del suono
+Impiegato
+Tester del gioco
+Tecnico
+Scienziati
+Metti in pausa/riprendi il lavoro corrente
+Dipendenti assegnati a questa stanza
+Disabilita l'IA per questa stanza
+Rinomina stanza
+Riprogettazione della stanza
+Demolire la stanza
+Inserisci il nome della stanza
+Annulla
+Vuoi davvero demolire la stanza? <br>Vendendo l'inventario ottieni <color=green><NUM></color>.
+Ricerca
+Ricerca tutto automaticamente
+<NUM> Punti ricerca
+Continua la ricerca
+Generi
+Temi
+Funzioni del motore
+Funzioni di gioco
+Hardware
+Varie
+Nuova ricerca disponibile
+Ricerca completata
+Annulla attività
+Sposta attività
+Fine automatico
+Automatico è attivo
+Elimina tutti i messaggi
+Chipset
+Controller
+Memoria esterna
+Memoria interna
+RAM
+Case
+Tenere sotto controllo
+Custodia palmare
+Per spostare l'attività, fai clic su una stanza dello stesso tipo con il <color=blue> pulsante sinistro del mouse</color>.
+Rimuovere
+Rimuovere la porta
+<b>Motivazione</b><br> I dipendenti non motivati ​​lavorano più lentamente.
+Nome
+<NUM> Dipendenti
+Licenziare i dipendenti
+Vuoi davvero chiudere <NAME>?
+Panoramica dei dipendenti
+Mostra quanti dipendenti lavorano in quest'area.
+Dipendenti senza un compito
+Motivazione
+Mercato del lavoro
+Gestione del gruppo
+Dipendenti in questa stanza
+Dettagli del dipendente
+Assumere
+Licenziare
+Selezionare
+<NUM> Candidature
+Dettagli
+mensile <NUM>
+Dipendenti non assegnati
+Gruppo
+Seleziona gruppo
+Gestione
+Acquista Kit di sviluppo
+Acquista Motore
+Acquista la protezione dalla copia
+Acquista licenze
+Offerte Distribuzione
+Banca
+Immobiliare
+Nome e logo dell'azienda
+Rimuovi il gioco dal mercato
+Kit sviluppo acquistabile
+Kit sviluppo di proprietà
+Produttore
+Data di rilascio
+Prezzo d'acquisto
+Quota di mercato
+Giochi disponibili
+Gennaio
+Febbraio
+Marzo
+Aprile
+Maggio
+Giugno
+Luglio
+Agosto
+Settembre
+Ottobre
+Novembre
+Dicembre
+Questo dispositivo non è più disponibile.
+Non hai abbastanza soldi!
+Vuoi davvero acquistare il kit di sviluppo?
+Nuova piattaforma disponibile
+Una piattaforma è stata tolta dal mercato
+Mostra piattaforme ritirate dal mercato
+Assegna gruppo
+Sviluppa motori
+Sviluppa un nuovo motore
+Aggiorna il vecchio motore
+Nome del motore
+Nome casuale
+Genere speciale
+Offerta motore in vendita
+Inizia lo sviluppo
+<color=red>???</color>
+Abilita / disabilita tutto
+Nota
+Devi scegliere un genere speciale!
+Devi dare un nome al motore!
+Devi aggiungere almeno una nuova funzione del motore!
+<color=black>Gameplay: <NUM></color>
+<color=black>Grafica: <NUM></color>
+<color=black>Suono: <NUM></color>
+<color=black>Tecnologia: <NUM></color>
+Motori propri
+Quale motore vuoi aggiornare?
+Partecipazione agli utili
+Giochi con questo motore
+Motore proprio
+Seleziona le caratteristiche del motore
+Seleziona il genere speciale
+È disponibile un nuovo motore
+Motori in vendita
+Motori acquistati
+Licenze vendute
+Dettagli del motore
+Acquistare
+Giochi
+Caratteristiche
+Genere
+Sviluppatore
+Unità vendute
+Ricavi
+Esamina il risultato
+Recensione
+SUCCESSO!
+SPAZZATURA!
+Nome dell'azienda
+Logo
+Scegli il logo della tua azienda.
+Motore completato
+Nascondi la protezione dalla copia obsoleta
+Efficacia
+Protezione dalla copia per l'acquisto
+Acquistato protezione dalla copia
+Nuova protezione contro la copia disponibile
+Vuoi davvero acquistare la protezione dalla copia?
+Acquista una nuova licenza
+Vendi licenza
+I giochi con una licenza ufficiale possono aumentare le cifre di vendita.
+Con i tuoi motori risparmi sui costosi costi di licenza. Puoi anche vendere i tuoi motori alla concorrenza.
+Licenze per l'acquisto
+Licenze acquistate
+<NUM> Giochi
+Licenza cinematografica
+Licenza del libro
+Licenza sportiva
+Questa licenza può essere utilizzata per <NUM> giochi.
+Popolarità
+La lista è vuota!
+Tipo di licenza
+Utilizza
+Vuoi davvero acquistare la licenza?
+Acquistato
+Vuoi davvero vendere la licenza?
+<b>Amante della natura</b><br> Gli amanti della natura hanno bisogno delle piante nelle loro vicinanze. <br> La loro motivazione aumenta quando annaffiano le piante.
+Costi mensili
+Interior design
+Calore
+Rigenerazione della motivazione
+Vai a:
+Usando:
+Sviluppa un gioco
+Nome del gioco
+Nuovo gioco
+Sequel
+Remaster
+Vuoi sviluppare un nuovo gioco o un sequel/remaster di un vecchio gioco?
+Gioco standard
+Massively Multiplayer Online (MMO)
+Free to Play (F2P)
+Tipo di gioco
+Seleziona il tipo di gioco. Per i giochi MMO e F2P è richiesta la funzione "Multigiocatore online".
+Dimensioni del gioco
+Più grande è il gioco, più funzioni di gioco puoi utilizzare.
+B
+B+
+A
+AA
+AAA
+Funzioni Max.
+Infinito
+Fascia età
+Bambini
+Adolescenti
+Adulti
+Anziani
+Tutti
+Scegli la fascia d'età per il tuo gioco.
+Genere principale
+Sottogenere
+Rimuovi genere
+Sarà sbloccato se hai ricercato <color= blue>Multigiocatore online</color>.
+Sarà sbloccato se hai ricercato <color=blue>Multigiocatore online</color>.
+Puoi ricercare altre dimensioni di gioco nella categoria <color=blue>"Varie" </color>.
+Puoi ricercare il sottogenere sotto l'intestazione <color=blue>"Varie"</color>.
+Puoi ricercare l'argomento secondario sotto l'intestazione <color=blue>"Varie" </color>.
+Sarà sbloccato se hai <color=blue>$ 1.000.000</color>.
+Argomento principale
+Sottoargomento
+Rimuovi argomento
+Alfabeto
+Licenza
+Rimuovi licenza
+Senza licenza
+Il nome dovrebbe essere usato come nome del gioco?
+Piattaforma principale
+Piattaforma 2
+Piattaforma 3
+Piattaforma 4
+Gioco esclusivo
+▪I giochi esclusivi possono essere pubblicati solo su una piattaforma.<br> Con l'esclusività le cifre di vendita della piattaforma possono aumentare.
+Quota di mercato totale:
+Verrà sbloccato se uno dei tuoi giochi ottiene una valutazione complessiva <br>almeno del <color=blue>70%</color>.
+Sarà sbloccato in <color=blue>aprile 1986</color>.
+Motore
+Piattaforme
+Sarà sbloccato se hai pubblicato almeno <color=blue>5 giochi</color>.
+Sarà sbloccato se hai pubblicato almeno <color=blue>10 giochi</color>.
+Sarà sbloccato se hai pubblicato almeno <color=blue>15 giochi</color>.
+Rimuovi piattaforma
+Costi Sviluppo
+Livello minimo di tecnologia
+Mostra piattaforme nascoste
+Il livello tecnologico di questa piattaforma è troppo basso.<br> È possibile selezionare solo piattaforme con un livello tecnologico uguale o superiore a quello del motore.
+Questa piattaforma è già stata selezionata.
+Le seguenti piattaforme sono state rimosse perché non hanno il livello tecnologico richiesto:
+Protezione dalla copia
+Rimuovere la protezione dalla copia
+Senza protezione dalla copia
+Nessun <color=blue>software di protezione dalla copia</color> è stato ancora rilasciato.
+Priorità di progettazione
+Priorità di lavoro
+Lingue
+Gameplay
+Grafica
+Storia
+Durata del gioco
+Atmosfera
+Contenuto
+Profondità
+Adatto ai principianti
+Accanito
+Occasionale
+Per ogni lingua ci sono costi di traduzione di <color=red>$ 5.000</color>.
+Abilita/disabilita tutte le lingue
+La priorità del lavoro non deve essere superiore al 100%!
+Deve essere selezionato un genere principale!
+Un argomento principale deve essere selezionato!
+È necessario selezionare una piattaforma principale!
+È necessario selezionare almeno una lingua!
+Concetti di gioco
+Analisi del gioco
+Lettere dei fan
+Questa funzione non è stata ancora aggiunta.
+Abilita/disabilita tutte le funzionalità
+Quantità
+Sono state attivate troppe funzioni di gioco. <br>Se desideri aggiungere altre funzioni di gioco al tuo gioco<br> devi modificare le dimensioni del gioco.
+Devi dare un nome al gioco!
+Tipo di caratteristica
+Costi di ricerca
+Punti di ricerca
+La priorità del lavoro è inferiore al 100%!
+Gioco completato
+Lo sviluppo di questo gioco è stato completato ed è <color=blue>pronto per il rilascio</color>. Se lo desideri, puoi continuare a lavorare sul gioco e apportare miglioramenti. Tuttavia, nella <color=blue> fase di rifinitura</color> i risultati del lavoro sono ridotti ed i Bug vengono rimossi lentamente.
+Nuovo record!
+Cerca Distributore
+Auto-distribuzione
+Elimina prodotto
+Continua lo sviluppo
+Bug
+Programmazione completata
+Nuova leggenda degli sviluppatori di giochi
+Sul mercato del lavoro è disponibile <NOME>.
+L'esperienza con i generi influisce sul gameplay.
+L'esperienza con gli argomenti influisce sul gameplay.
+L'esperienza con le piattaforme ha un impatto su grafica, suono e tecnologia.
+Nuovo concorrente
+Distributore
+Hype
+Forza del mercato
+Relazione
+Pagamento
+Fanbase
+Sì
+Esperienza acquisita
+Nessuna esperienza acquisita
+Panoramica, quanti giochi sono attualmente disponibili, che hanno anche il genere <color=blue><GENRE></color> o l'argomento <color=blue><THEME></color>.
+Analisi di mercato
+Totale [genere]
+Totale [Argomento]
+Sulla piattaforma [Genere]
+Sulla piattaforma [Argomento]
+Rapporto di sviluppo
+Cambia piattaforma
+Screenshot attuale
+Progresso
+Costi di sviluppo fino ad oggi:
+Valutazione attuale stimata:
+Descrizione comando: gioco 1
+Descrizione comando: Gameplay 2
+Descrizione comando: Gameplay 3
+Descrizione comando: Gameplay 4
+Descrizione comando: Gameplay 5
+Descrizione comando: Gameplay 6
+Descrizione comando: Suono 1
+Descrizione comando: Suono 2
+Descrizione comando: Suono 3
+Descrizione comando: Suono 4
+Descrizione comando: Suono 5
+Descrizione comando: Suono 6
+Descrizione comando: Grafica 1
+Descrizione comando: Grafica 2
+Descrizione comando: Grafica 3
+Descrizione comando: Grafica 4
+Descrizione comando: Grafica 5
+Descrizione comando: Grafica 6
+MoCap [Animazioni Giocatore]
+MoCap [Animazioni NPC]
+Per supportare un'altra squadra, fai clic su una stanza dello stesso tipo con il <color=blue>pulsante sinistro del mouse</color>.
+Supporto
+Annulla supporto
+In attesa di istruzioni
+<b>Reputazione con i clienti</b><br>Maggiore è la reputazione, più lavori ti verranno offerti.<br>Inoltre, il pagamento è più alto.
+Motivazione media dei tuoi dipendenti
+Il genere <color=green><NAME1></color> e l'argomento <color=green><NAME2></color> sono attualmente di tendenza.
+Il genere <color=red><NAME1></color> e l'argomento <color=red><NAME2></color> sono attualmente impopolari.
+Questa tendenza continuerà per <color=blue><TIME></color> settimane.
+Nuova moda
+Settimana
+Totale
+Mostra da quante settimane il gioco è già sul mercato.
+Gioco
+Minimizza / Ingrandisci finestra
+Gioco tolto dal mercato
+Profitto
+Le cifre di vendita di <color=blue><NAME></color> sono diminuite drasticamente, quindi il prodotto è stato ritirato dal mercato.
+Settimane di vendita
+Costi di marketing
+Tariffe del motore
+<color=blue><NAME1> </color> ha pubblicato il gioco <color=blue><NAME2></color>.
+Il tuo distributore ha avviato una campagna di marketing per <color=blue><NAME1></color>.
+Mostra la qualità dei tuoi uffici.
+Mostra la sporcizia dei tuoi uffici.
+Mostra la temperatura dei tuoi uffici.
+Qui puoi impostare i messaggi da visualizzare.
+<color=blue><NAME1></color> ha usato in licenza il tuo motore <color=blue><NAME2></color>.
+Resoconto
+Lo sviluppatore <color=blue><NAME1></color> ha usato in licenza il tuo motore per <color=blue><NAME2> </color>. La fattura ti è stata appena inviata.
+Partecipazione in percentuale
+Partecipazione per copia
+<b>CEO</b><br> Il tuo personaggio non perde la motivazione.
+Personaggio del giocatore
+Nessuna stanza assegnata
+Il dipendente si è dimesso
+Il reparto del personale segnala che <color=blue><NAME></color> si è dimesso. Dovresti sempre prestare attenzione alle esigenze dei tuoi dipendenti ed evitare lunghi tempi di crisi e mancanza di motivazione.
+Raffreddamento
+Campagna di marketing
+Per cosa vuoi avviare una nuova campagna di marketing?
+Console di gioco
+Campagna di marketing per un gioco
+Campagna di marketing per una console
+Smetti di fare marketing non appena l'hype è al massimo
+Ripetizione automatica
+Poster
+Riviste di giochi
+Radio
+Annunci su Internet
+Top streamer
+TV
+Massimo Hype che può essere generata con questa campagna.
+Sarà sbloccato a <color=blue>febbraio 2005</color>.
+Sarà sbloccato a <color=blue>marzo 1993</color>.
+Sbloccato
+In via di sviluppo
+Campagna di marketing per <NAME1> completata
+Costi di produzione
+Costi del server
+Qualità
+Bonus sui risultati del lavoro: <NUM>%
+Sarà sbloccato se hai ricercato <color=blue>una funzione del motore</color>.
+È disponibile dall'anno <NUM>
+Inizia il corso di formazione
+Corsi di formazione
+Progettazione di giochi per principianti
+Game design per avanzati
+Progettazione di giochi per professionisti
+Programmazione per principianti
+Programmazione per avanzati
+Programmazione per professionisti
+Progettazione grafica per principianti
+Progettazione grafica per avanzati
+Progettazione grafica per professionisti
+Musica e suoni per principianti
+Musica e suono per avanzati
+Musica e suono per professionisti
+Marketing e supporto per principianti
+Marketing e supporto avanzati
+Marketing e supporto per professionisti
+Gametesting per principianti
+Gametesting per avanzati
+Gametesting per professionisti
+Hardware e tecnologia per principianti
+Hardware e tecnologia per avanzati
+Hardware e tecnologia per professionisti
+Ricerca per principianti
+Ricerca avanzata
+Ricerca per professionisti
+Livello massimo: <color=blue><NUM></color>
+Efficacia: <color=blue>Bassa</color>
+Efficacia: <color=blue>Media</color>
+Efficacia: <color=blue>Alta</color>
+Corso di formazione "<NAME>" completato
+Vuoi davvero eliminare questo prodotto? Questo processo è irreversibile!
+Sei sicuro di voler annullare l'attività corrente?
+Sarai rimborsato <color=green><NUM></color>.
+Licenze
+GFX [Grafica ambientale]
+GFX [Interfaccia grafica]
+GFX [Sfondi]
+GFX [Effetti speciali]
+GFX [Personaggi]
+GFX [Intermezzi]
+SFX [Effetti sonori]
+SFX [Suoni dell'interfaccia]
+SFX [Musica]
+SFX [Suoni ambientali]
+SFX [Suoni dinamici]
+SFX [Registrazione vocale]
+MC [Animazioni Giocatore I]
+MC [Animazioni Giocatore II]
+MC [Animazioni Giocatore III]
+MC [Animazioni NPC I]
+MC [Animazioni NPC II]
+MC [Animazioni NPC III]
+BT [Bilanciamento]
+BT [Controlli]
+BT [Performance]
+BT [Interfaccia utente]
+BT [Meccaniche di gioco]
+BT [Level design]
+Lavoro commissionato
+Che tipo di ordine vuoi fare?
+Assegnazione breve
+Gioco a contratto
+Elabora automaticamente tutti i lavori
+Pagamento
+Penale contrattuale
+Scadenza
+Carico di lavoro
+Cliente
+Scadenza: <b><NUM> settimane</b>
+Elimina lavoro
+Lavoro commissionato completato: <NAME><br> Pagamento: <NUM>
+Devi pagare una penale contrattuale di <color=red><NUM>$</color>.
+Settimane: <NUM>
+Lavoro commissionato non riuscito: <NAME><br> Penale contrattuale: <NUM>
+Seleziona il gioco
+Giochi disponibili
+Hype che viene creato all'inizio dello sviluppo.
+Da quale gioco dovrebbe essere sviluppato un sequel?
+<b>Sequel</b><br>I sequel di giochi traggono vantaggio dal successo dei loro predecessori.<br> All'inizio dello sviluppo viene generato un clamore,<br> e c'è un bonus sui dati di vendita.<br>The development of a sequel may negatively<br>affect the sales figures of the predecessor.
+<b>Remaster</b><br>I costi di sviluppo per i remaster sono ridotti.<br>È possibile rimasterizzare solo i giochi che sono già stati ritirati dal mercato.
+<b>Nuovo gioco</b><br> Quando crei un nuovo gioco, <br>puoi successivamente sviluppare un remaster o un sequel.
+Questo nome di gioco esiste già!
+Quale gioco vuoi rimasterizzare? Possono essere selezionati solo i giochi che sono già stati ritirati dal mercato.
+Rimasterizzato
+Oro
+Reloaded
+Deluxe
+<color=black>(<NUM>)</color>
+piattaforma
+Valutazione minima per il pagamento del bonus: <b><NUM>%</b>
+Bonus
+Consegnare il gioco
+▪ Gioco a contratto ▪ <br> Lo sviluppo su questo gioco è stato completato. Puoi consegnare il gioco al tuo cliente o lavorarci ulteriormente.
+Il cliente ti ha trasferito uno stipendio di <color=blue><NUM1></color>. Riceverai il pagamento bonus di <color=blue><NUM2></color> non appena il gioco è stato completato e la stampa ha valutato il gioco almeno <color=blue><NUM3></color>.
+Non puoi accettare questo lavoro perché non hai il kit di sviluppo richiesto.
+Hai ricevuto la fattura finale per il gioco del contratto.
+Stipendio totale
+La scadenza è stata rispettata
+Puoi sostituire solo piattaforme che sono già state ritirate dal mercato.
+Costi di portabilità aggiuntivi
+Per i giochi a contratto non è consentito cambiare piattaforma!
+Devi annullare l'attività corrente per questa stanza!
+<b>Numero di lavori su appalto</b><br><br>
+Numero di giochi a contratto
+Questa icona ti informa se ad un dipendente <br>non è stata assegnata una stanza. <br><br><color=blue>Fai clic per selezionare il dipendente</color>
+Aggiornamenti/Addon
+Che tipo di aggiornamento o componente aggiuntivo desideri sviluppare?
+Aggiornamento gratuito
+Addon a pagamento
+Componente aggiuntivo MMO
+Seleziona il contenuto dell'aggiornamento gratuito.
+Per quale gioco dovrebbe essere sviluppato un aggiornamento gratuito?
+Numero di aggiornamenti
+Lingue
+Contenuto
+Patch
+Nuova modalità di gioco
+Nuove missioni
+Nuovi oggetti d'ambiente
+Nuova grafica di sfondo
+Nuovi effetti sonori
+Nuova musica
+Migliorare prestazioni
+Migliorare controlli
+Max
+Non hai scelto alcun contenuto per l'aggiornamento!
+È stato completato un aggiornamento per <NAME>.
+Quale tipologia di gioco vorresti vedere?
+Copia il tipologia di gioco
+Impostazioni di base
+Il motore selezionato ha un livello tecnologico troppo basso!
+Lettere dei fan per <b><NAME></b>
+Statistiche
+Grafici
+Finanze
+Giochi propri
+Informazioni e storia
+Distributore e sviluppatore
+Console personali
+Motori
+Grafici di tutti i tempi
+Grafici settimanali
+Grafici di download F2P
+Tabelle di abbonamento agli MMO
+Tutte le piattaforme disponibili
+A disposizione
+Concorrenti che agiscono come distributori
+Concorrenti che agiscono come sviluppatori
+Avviamento
+Partecipazione azionaria
+Esperienza in studio
+Nessun genere
+Tutti i motori disponibili
+Hai messo in vendita questo motore.
+Mostra solo i tuoi motori
+Recensioni
+Gruppi
+Giochi da filiali
+Storia
+Vendite totali
+Download totali
+Ultimi 24 mesi
+Mese corrente
+Differenza (24 mesi)
+Mese scorso
+Iscritti totali
+Totale
+Saldo mensile
+Saldo annuale
+Bilancio annuale
+Costi di costruzione
+Elementi
+Prodotti di terze parti
+Sanzioni contrattuali
+Spese
+Reddito
+Ricavi del gioco
+Licenze motore
+Lavoro commissionato
+Giochi a contratto
+Premi
+Anno scorso
+Anno corrente
+Anno
+Eventi degli ultimi anni
+Giochi attualmente disponibili con il genere o l'argomento
+Rendiconti mensili
+Profitto totale
+Hype per campagna / Hype massimo che può essere generato con questa campagna
+Attendi finché l'hype non è sceso sotto <NUM>.
+Se desideri che i nuovi aggiornamenti vengano creati automaticamente, devi selezionare almeno un nuovo contenuto di gioco!
+Automatico è stato interrotto! <br>Soldi insufficienti.
+Automatico è stato interrotto! <br>Non ci sono ulteriori ordini.
+L'automazione è stata interrotta! <br>Hype è al massimo.
+Inizia la campagna dei fan
+Limite di credito
+Credito attuale
+Interesse mensile
+Prendere un prestito
+Ripagare il credito
+Credito
+Evento dei fan
+Per ottenere nuovi fan, puoi avviare un evento. Più è spettacolare l'evento, più fan avrai.
+Indagine sulla soddisfazione
+Distribuisci cartoline autografe
+Lotteria
+Visita allo Studio
+Campionato dei punteggi migliori
+Convention sui giochi
+Servizio Clienti
+Supporto e marketing
+Campagna dei fan <NAME> completata
+Fanshop
+<b>Numero di chiamate, lettere ed e-mail </b><br>Per rispondere alle domande dei tuoi fan, <br>devi creare un dipartimento di supporto. <br><br> ▪ Se non risponderai a tante domande , perderai fan. <br> ▪ Evita giochi con bug.<br> ▪ A partire da 5.000 fan, è necessario un reparto di supporto per gestire tutte le domande.
+Più lettere, chiamate ed e-mail rimangono senza risposta, più i tuoi fan diventano insoddisfatti.
+Avvia l'assistenza clienti
+Carico di lavoro
+Carico di lavoro molto basso
+Basso carico di lavoro
+Carico di lavoro medio
+Carico di lavoro elevato
+Domande senza risposta: <NUM>
+Gioco d'oro ricevuto
+Il tuo gioco <color=blue><NAME></color> è considerato una pietra miliare rivoluzionaria nel settore dei videogiochi e ha stabilito una nuova tendenza.
+Creatore di tendenze
+Mad Games Awards
+<NUM> Fan
+Premi positivi
+Premi negativi
+Miglior colonna sonora
+Miglior grafica
+Sviluppatore dell'anno
+Distributore dell'anno
+Gioco dell'anno
+Peggior gioco dell'anno
+Gioco d'oro
+Malato
+<b>Miracolo medico</b><br> I dipendenti con un sistema immunitario forte non si ammalano mai.
+Utilizzo al mese: <NUM>
+Nuovo gioco
+Carica il gioco
+Opzioni
+Ringraziamenti
+Esci dal gioco
+Mad Games Tycoon®<br>© 2020 Eggcode Games
+Vuoi davvero chiudere il gioco?
+<Vuoto>
+Elimina Salvataggio
+Caricamento in corso ...
+Vuoi davvero eliminare questo salvataggio?
+Salvataggio automatico
+Mad Games Tycoon 2
+Salva il gioco
+Esci dal gioco
+Vuoi davvero tornare al menu di avvio?
+Torna al menu di avvio
+Vuoi davvero sovrascrivere il salvataggio del gioco?
+Il gioco è stato salvato
+Nome del giocatore
+Nome casuale dell'azienda
+Sede dell'azienda
+Livello di difficoltà
+Anno di inizio
+Velocità di gioco
+Salva gioco, carica gioco, opzioni
+Molto facile
+Facile
+Medio
+Difficile
+Leggendario
+Lenta
+Normale
+Veloce
+Molto veloce
+<b>Seleziona la sede dell'azienda</b><br> Ogni paese ha un genere speciale, il che significa un bonus di <color=blue>+ 3%</color> sulle vendite.
+Genere speciale: <color=blue><TEXT></color>
+Il tuo personaggio ▪ CEO
+Devi inserire il nome per la tua Software House !
+Corpo
+Capelli
+Occhi
+Barba
+Colore della pelle
+Colore dei capelli
+Colore torso
+Colore gambe
+Colore extra
+Devi inserire un nome per il tuo personaggio!
+Maschio
+Femmina
+Aspetto
+Competenze
+Vantaggi
+<NUM> punti abilità rimasti
+Devi spendere tutti i punti abilità!
+Tira i dadi
+Nuovo gioco ▪ Impostazioni di gioco
+Disabilita tutorial
+Popolarità casuale della piattaforma
+Impostazioni del concetto di gioco casuale
+Nessun evento casuale
+<size=20>Mad Games Tycoon 2</size><br><br> Grazie per aver acquistato <color=blue>Mad Games Tycoon 2</color>. Tieni presente che la versione ad accesso anticipato manca ancora di molte funzionalità, il gioco è sbilanciato in alcuni punti e potrebbero verificarsi dei bug. Inoltre, tutte le traduzioni sono molto difettose. <br><br> Buon divertimento!
+Più bassa è la velocità del gioco, più compiti i tuoi dipendenti possono completare in una settimana.<br>Questo rende il gioco più facile.
+Il livello di difficoltà influisce principalmente<br>sui dati di vendita dei tuoi giochi.
+Per iniziare rapidamente il gioco, <br>puoi aumentare l'anno di inizio.
+Un aggiornamento per <NAME> è stato annullato <br>perché il gioco è stato ritirato dal mercato.
+<b>Eschimese</b><br>I dipendenti con questa caratteristica non si congelano mai.
+<b>Modesto</b><br>I dipendenti modesti non hanno bisogno<br>di apparecchiature per ufficio di alta qualità.
+<b>Ferreo</b><br>Questi dipendenti non vanno<br>in bagno durante l'orario di lavoro.
+È necessario selezionare almeno una funzione di gioco!
+Notizie
+Un concorrente pubblica un gioco
+Nuovo concorrente
+Nuova protezione dalla copia disponibile
+È stato rilasciato il nuovo motore NPC
+Nuova ricerca disponibile
+Nuova piattaforma disponibile
+Piattaforme rimosse dal mercato
+Ricevi un gioco d'oro
+Impostazioni di gioco
+Impostazioni grafiche
+Impostazioni audio
+Audio
+Volume principale
+Musica
+Volume della musica
+Risoluzione dello schermo
+Schermo intero
+Maximum frame rate
+VSync
+SSAO
+Screen Space Reflections
+Bloom
+Ambient Occlusion
+Color Grading
+Real-time shadows
+Lingua
+Dimensioni della GUI
+Ripristina le impostazioni predefinite
+-
+-
+-
+<b>Il marketing [Streamer] è stato sbloccato</b><br><br>Sempre più persone guardano Internet mentre i giocatori giocano ai loro giochi preferiti. Se lo facciamo bene, possiamo usarlo per promuovere i nostri giochi e raggiungere direttamente il gruppo target.
+<b>Il marketing [Internet] è stato sbloccato</b><br><br>Internet sta diventando sempre più importante per le campagne pubblicitarie. Pertanto, dovremmo anche considerare di avviare campagne pubblicitarie su Internet.
+<b>Remaster è stato sbloccato</b><br><br>Non sarebbe una buona idea lasciare che un vecchio gioco risplenda di nuovo splendore? Soldi veloci e giocatori felici!
+<b>MMO e sala server sbloccati</b><br><br>Ora puoi sviluppare giochi MMO e costruire la sala server necessaria.
+-
+<b>Le licenze sono state sbloccate</b><br><br>Ora disponi di denaro sufficiente per acquistare le licenze. Anche i giochi con un gameplay debole che utilizzano una licenza ufficiale si vendono in modo rispettabile.
+<b>Motion Capture Studio è stato sbloccato</b><br><br> Per perfezionare le nostre animazioni, dovremmo creare uno studio di motion capture. Sebbene i costi di acquisto siano molto alti, sarà redditizio. Cosa ne pensi di questo?
+-
+-
+-
+-
+-
+-
+<b>2. la piattaforma è stata sbloccata</b><br><br>Ora puoi sviluppare i tuoi giochi per due piattaforme. Ciò ti consente di raggiungere una gamma più ampia di clienti.
+<b>3. la piattaforma è stata sbloccata</b><br><br>Ora puoi sviluppare i tuoi giochi per tre piattaforme. Ciò ti consente di raggiungere una gamma più ampia di clienti.
+<b>4. la piattaforma è stata sbloccata</b><br><br>Ora puoi sviluppare i tuoi giochi per quattro piattaforme. Ciò ti consente di raggiungere una gamma più ampia di clienti.
+<b>La protezione dalla copia è stata sbloccata</b><br>Oggi è stata rilasciata la prima protezione dalla copia efficace. Ora puoi proteggere i tuoi giochi con la protezione dalla copia.
+<b>Il sequel è stato sbloccato</b><br><br>Uno dei tuoi giochi ha ricevuto una buona valutazione dalla stampa. Dovremmo pensare di sviluppare un sequel in un secondo momento.
+-
+-
+Bugfixing
+Migliora il gameplay
+Crea report di gioco
+Gioco multipiattaforma
+Gioco retrò
+▪ I giochi multipiattaforma possono essere pubblicati su qualsiasi piattaforma.<br>In questo modo il gioco può essere offerto a un vasto pubblico.
+▪ I giochi retrò possono essere pubblicati solo su piattaforme che<br>sono già state ritirate dal mercato.<br>Questi giochi generano molti fan e i recensori non valutano i giochi in modo così rigoroso.
+I giochi retrò possono essere rilasciati solo su piattaforme che sono già state ritirate dal mercato!
+Non è possibile cambiare le piattaforme in un gioco retrò!
+Retrò
+È arrivato un nuovo gioco esclusivo per <NAME>. Vediamo se vale la pena acquistarlo.<br>
+Speciale retrò! I proprietari di <NOME> possono aspettarsi un nuovo gioco. Controlliamo se la gioia è giustificata.<br>
+Quale gioco dovrebbe essere controllato e corretto?
+Il miglioramento del gioco è già stato eseguito
+In corso
+Non hai selezionato un miglioramento del gioco!
+Miglioramento del gameplay per <NAME1> completato
+Riassegnare il supporto
+Grafica di alta qualità
+Miglioramento grafico per <NAME1> completato
+Richiede la funzione di gioco <color=yellow><NAME></color>
+Suoni di alta qualità
+Miglioramento dell'audio per <NAME1> completato
+Animazioni di alta qualità
+Registrazione Motion Capture per <NAME1> completata
+Mostra le connessioni della stanza
+UI-Dropup (gioco in pausa)
+Visualizza rapporti di gioco
+Quando crei un report dei tuoi giochi, puoi controllare le impostazioni positive e negative del tuo concetto di gioco.
+Crea automaticamente rapporti di gioco
+Rapporto di gioco per <NAME1> completato
+Priorità per le revisioni dei giochi
+Gli argomenti e il gruppo target sono adatti a <color=yellow><NAME></color>?
+Nessun sottoargomento
+Sottogeneri adatti per <color=yellow><NAME></color>
+Impostazioni di design perfette
+Licenziare i dipendenti può causare <br> cattivo umore tra tutti i tuoi dipendenti!
+Cattivo umore
+Il licenziamento di un dipendente ha causato cattivo umore. I tuoi dipendenti ora temono per il loro lavoro e la motivazione è diminuita.
+Ti piacerebbe partecipare alla <color=blue>Mad Games Convention</color> quest'anno?
+Seleziona la dimensione del tuo stand. Più grande è lo stand, più prodotti puoi presentare. Inoltre, gli stand di grandi dimensioni attirano più attenzione.
+Stand piccolo
+Stand medio
+Stand grande
+Console di gioco
+Non partecipare
+Mad Games Convention
+Dimensioni dello stand
+Quali prodotti vorresti esporre alla <color=blue>Mad Games Convention</color>?
+Seleziona il gioco
+Seleziona console
+Rimuovi il prodotto
+Devi scegliere almeno un prodotto che sarà esposto alla <color=blue>Mad Games Convention</color>!
+Numero di visitatori del tuo stand
+Quest'anno sono attesi fino a <color=blue><NUM></color> visitatori.
+L'organizzatore riferisce che i <color=blue><NUM></color> biglietti per la fiera sono stati venduti.
+Per quale gioco dovrebbe essere sviluppato un AddOn a pagamento?
+Numero di componenti aggiuntivi
+Nome dell'addon
+I giochi economici più venduti
+Componenti aggiuntivi più venduti
+Pacchetti più venduti
+Nuove funzionalità di gioco
+Contenuto Addon
+Addon
+Nuovi oggetti
+Nuove sfide
+Nuovi nemici
+Nuove modalità di gioco
+Nuovi personaggi giocanti
+Nuove meccaniche di gioco
+Nuovo mondo di gioco
+Nuova campagna
+L'addon non ha ancora nuovi contenuti!
+Devi dare un nome all'addon!
+Sono state selezionate troppe funzioni di gioco!
+Numero di concorrenti
+Sviluppa nuovi contenuti
+Pacchetto di giochi
+Gioco economico
+Standalone Addon
+▪ I normali componenti aggiuntivi richiedono il gioco principale.<br>Aumentano le vendite del gioco principale,<br>ma non possono superare le vendite del gioco principale.<br><br>▪Gli Standalone Addon non richiedono il gioco principale ma una nuova campagna.<br>Le cifre di vendita del gioco principale non vengono influenzate.<br>Ma le cifre di vendita possono essere superiori rispetto al gioco principale.
+Componente aggiuntivo completato
+Lo sviluppo su questo componente aggiuntivo è stato completato. Se il gioco principale è venduto da un distributore, sei obbligato a darlo allo stesso distributore.
+Distributori interessati
+Dai un componente aggiuntivo al distributore
+Gioco principale
+E infine le brevi recensioni degli ultimi componenti aggiuntivi dei tuoi giochi preferiti. Come al solito, ti mostriamo quale addon vale la pena!
+Classificazione per età stimata
+Capo designer
+Valutazione del software Mad Games
+Classificazione per età
+<color=blue><NAME></color> ha ricevuto la seguente classificazione per età dall'MGSR:
+Dipendenti disponibili
+▪ Il capo designer dovrebbe avere un alto livello di conoscenza nel <color=blue>game design</color>. <br> Tutti i dipendenti che lavorano a questo gioco riceveranno un bonus, <br>a seconda di questo valore.<br>< br>▪Il lead designer deve essere in questa stanza.
+Nomina come capo designer
+Progressi di sviluppo
+Impostazioni dei dipendenti
+Descrizione del gioco
+Opzionalmente puoi scrivere una descrizione per il gioco.
+Nessuna descrizione del gioco
+Nessun capo designer selezionato!
+Eventi casuali storici
+Molte pause
+Alcune pause
+Poche pause
+Applicare una pressione bassa
+Applicare una pressione media
+Applicare una pressione alta
+Numero di pause
+Pressione esercitata sui dipendenti
+Ricarica motivazione da:
+Momenti critici
+Automatizza le trattative salariali
+Meno pause sono consentite,<br>più velocemente diminuisce la motivazione.
+L'elevata pressione di lavoro fa sì che i tuoi dipendenti lavorino più velocemente.<br>Tuttavia, la qualità del loro lavoro ne risente.
+Qui puoi impostare il livello di motivazione<br>per i tuoi dipendenti a utilizzare la sala relax.
+Ciò ti consente di determinare in quale fase dello sviluppo inizia il momento critico.<br>Durante il momento critico, tutte le esigenze dei tuoi dipendenti vengono ignorate.<br><br>Ma fai attenzione! In tempi difficili, i dipendenti tendono a smettere.
+La professione decide quale abilità può essere addestrata a <color= blue>100</color>.<br>Tutte le altre abilità hanno un limite di <color=blue>50</color>.
+Professione
+Funzionalità di gioco richieste
+Le piattaforme selezionate richiedono le seguenti funzionalità di gioco:
+Contratto esclusivo del distributore
+Nessun distributore ti offre un contratto. Il rapporto con i distributori deve essere massimizzato!
+Durata del contratto
+Pagamento istantaneo
+Multigiocatore
+Aspettando i giocatori ...
+Lobby dei giocatori
+Esci dalla lobby
+Inizia il gioco
+La lobby è piena
+Attendi l'inizio del gioco ...
+Dati del giocatore
+Devi inserire un giocatore e il nome dell'azienda!
+Crea gioco
+Partecipa
+Partecipa al gioco come cliente
+Ospita il gioco come server
+IP dell'host
+Il server si è disconnesso!
+Aspettando i giocatori ...
+La connessione è stata interrotta perché le versioni del gioco sono diverse.
+Classifica [Multigiocatore]
+Chat [multigiocatore]
+>> Ti paga <NUM> canoni di licenza del motore <<
+>> Ha acquistato il tuo motore per <NUM> <<
+Completato [Rifinitura]
+Termina lo sviluppo
+<NUM> Mesi
+Vuoi davvero firmare un contratto esclusivo con <NOME>?
+Hai già un contratto esclusivo con <NAME>! Il termine rimanente è <NUM> mesi.
+Il prodotto è diventato <NOME> un contratto esclusivo! Il termine rimanente è <NUM> mesi.
+Consegnare <color=blue><NAME></color>
+Il contratto di esclusiva con <NAME> è scaduto. Ora puoi distribuire nuovamente i tuoi giochi o trovare un nuovo distributore.
+<b>Leadership</b><br>I dipendenti con forti capacità di leadership danno un bonus se vengono impiegati come capo sviluppo.
+<b>Tuttofare</b><br>Il limite per le abilità secondarie è aumentato.
+Non hai ancora selezionato tutti i vantaggi!
+Mappa
+Parco industriale-A
+Cabinato Arcade
+Gioco per cellulare
+▪ I giochi Cabinato Arcade possono essere sviluppati solo per "Scheda di sistema Arcade".
+▪ I giochi per cellulare possono essere pubblicati solo su telefoni cellulari.
+Portabilità gioco
+Vuoi davvero acquistare questo immobile?
+Questo edificio ha una superficie di <color=blue><NUM1></color> metri quadrati. Il prezzo di acquisto è <color=red><NUM2></color>.
+Un virus ha cancellato alcuni dei tuoi file grafici per il gioco corrente. I tuoi grafici stanno ora cercando di compensare la perdita.
+Una star della musica amico di un dipendente ha composto una colonna sonora gratuita per il tuo gioco attuale.
+Un programmatore stanco ha passato le ultime ore a rielaborare alcuni elementi fondamentali. Sfortunatamente era così deconcentrato che alcuni bug si sono insinuati.
+Uno dei tuoi programmatori probabilmente vuole essere "impiegato del mese" e ha svolto un turno di notte. Il risultato è un aumento significativo delle prestazioni del gioco.
+Durante una sessione di brainstorming spontanea con il tuo staff, sono nate alcune buone idee per il tuo nuovo gioco. Gli sviluppatori si sono subito messi al lavoro e hanno implementato alcune di queste idee.
+Una rivista di giochi ad alta diffusione ha pubblicato un rapporto negativo sul tuo gioco attuale. Sfortunatamente, questo ha fatto diminuire un po' l'interesse.
+Uno dei tuoi sviluppatori ha inviato illegalmente screenshot e informazioni sul tuo gioco attuale a una nota rivista di giochi. Fortunatamente, il rapporto stampato è stato ben accolto e ha aumentato l'interesse.
+Un brano musicale per il gioco attuale assomiglia troppo a un successo delle classifiche. Per evitare una causa legale, questo brano musicale è stato rimosso.
+Si sono verificati problemi con i driver correnti per diversi dispositivi di input. Alcune funzioni devono essere riscritte immediatamente.
+Uno dei tuoi designer di livelli ha sovrascritto accidentalmente un livello che è già stato completato. Il livello completo deve ora essere ricreato.
+I tuoi programmatori sono fortunati. Alcune segnalazioni di bug si sono rivelate sbagliate. Questo ci fa risparmiare molto tempo.
+Uno dei tuoi grafici ha continuato a lavorare al gioco attuale nel tempo libero. Di conseguenza sono state migliorate molte grafiche di qualità inferiore.
+Uno dei tuoi specialisti del suono ha trovato un vecchio brano musicale che ha creato nella sua libreria. Questa traccia si adatta straordinariamente bene al gioco attuale.
+I tuoi programmatori hanno ricevuto l'ultimo SDK e lo hanno aggiornato immediatamente. In tal modo alcuni problemi tecnici potrebbero essere risolti.
+<b>Crisi di settore<br><color=blue>-50% di giochi venduti</color></b><br><br>Il mercato dei giochi per computer è crollato.<br>Nei prossimi mesi, le cifre di vendita per tutti i giochi diminuiranno drasticamente.<br>Si spera che il mercato si stabilizzi presto.
+<b>Boom dei videogiochi<br><color=blue>+ 50% di giochi venduti</color></b><br><br>L'industria dei giochi per computer sta vivendo una forte ripresa.<br>Nei prossimi mesi, tutti i giochi venderanno molto meglio.
+<b>Stagnazione degli ordini<br><color=blue>nessun nuovo ordine</color></b><br><br> È scoppiato un calo globale degli ordini.<br>Non ti verranno offerti nuovi lavori in il futuro prossimo.
+<b>Carenza di manodopera<br><color=blue>nessuna nuova candidatura per i dipendenti </color></b><br><br> Il settore IT lamenta una grave carenza di dipendenti.<br>Nessun dipendente si candiderà nel prossimo futuro.
+<b>Crisi bancaria <br><color=blue>+ 200% dei tassi di interesse</color></b><br><br>È scoppiata una crisi bancaria mondiale.<br>Tutte le banche ora chiedono tassi di interesse significativamente più alti per prestiti.
+<b>Momento delle leggende<br><color=blue>+ 200% di possibilità che le leggende si candidino</color></b><br><br>Molti dipendenti esperti stanno cercando un nuovo lavoro.<br>nei prossimi mesi altre leggende sullo sviluppo di giochi si candideranno.
+<b>Boom immobiliare <br><color=blue>+ 100% dei prezzi degli immobili</color></b><br><br>Un boom immobiliare mondiale ha notevolmente aumentato i prezzi di acquisto degli immobili.<br>Anche per gli edifici che devono essere demoliti si richiedono enormi somme.
+<b>Pandemia<br><color=blue>+ 300% di possibilità che i dipendenti si ammalino</color></b><br><br>Una pandemia influenzale globale colpisce inaspettatamente il mondo del lavoro.<br>Fortunatamente, il decorso della malattia è lieve, ma tuttavia le prestazioni lavorative diminuiscono notevolmente.
+<b>Crisi energetica<br><color=blue>+100% dei costi operativi per i server</color></b><br><br>Una crisi energetica sta facendo salire alle stelle i prezzi dell'elettricità.<br>Nel prossimo futuro, i costi operativi per i server aumenteranno del 100%.
+<b>Carenza di semiconduttori<br><color=blue>+$ 100 di costi di produzione per le console</color></b><br><br>I prezzi dei semiconduttori sono aumentati bruscamente.<br>Nel prossimo futuro, il i costi di produzione per le console aumenteranno enormemente.
+Manuale del gioco b/n
+Manuale di gioco colorato
+Edizione
+Poster
+Adesivo
+Mappa del mondo di gioco
+Giochi di carte
+Spilla
+Portachiavi
+Colonna sonora
+Figure da collezione
+Prezzi e contenuto della confezione
+Costi di produzione
+Edizione standard
+Edizione deluxe
+Edizione da collezione
+Contenuto dell'edizione
+Edizione offerta in vendita
+Costi di base
+Le edizioni migliori ottengono automaticamente il contenuto delle edizioni più piccole.
+Sarà sbloccato a <color = blue> febbraio 2003 </color>.
+Prezzo al dettaglio
+Prod. costi
+Offerta Standard Edition
+Offerta Deluxe-Edition
+Offerta Collectors-Edition
+Offri la versione digitale
+Giochi F2P e versioni digitali
+<b>I giochi F2P e la distribuzione digitale sono stati sbloccati</b><br><br>Ora puoi sviluppare giochi F2P e distribuire i tuoi giochi online come versioni digitali.
+Non hai offerto in vendita una versione al dettaglio o digitale.
+L'edizione Deluxe deve avere più contenuti rispetto alla Standard.
+L'edizione Collectors deve avere più contenuti rispetto all'edizione più piccola.
+Tra quante settimane uscirà il gioco?
+<NUM> settimane
+Magazzino
+Ordini
+Versione digitale
+▪ L'edizione standard e la versione digitale devono avere lo stesso prezzo.<br>▪ Le edizioni migliori devono costare almeno $10 in più <br>rispetto all'edizione inferiore.<br>▪I giochi economici possono costare un massimo di $ 10 e<br>può essere pubblicato solo come edizione standard.
+Sviluppo completato
+Solo versione digitale
+Ordine di produzione
+Produci gioco
+Marketing secondario
+Prezzo base
+Seleziona la quantità di produzione desiderata di ogni edizione.
+Produzione automatica
+Se non hai attivato un automatico, devi determinare la quantità di produzione.
+Produzione per <NAME1> completata
+Opzioni di distribuzione
+<b>Opzioni di distribuzione</b><br>Qui puoi gestire la tua distribuzione.
+Il contenuto può essere modificato solo se lo stock è vuoto!
+Elimina automaticamente i giochi dal mercato
+Sei sicuro di voler togliere il gioco dal mercato?
+Hai ritirato manualmente <color=blue><NAME></color> dal mercato. Il prodotto ora non è più disponibile.
+Software anti-cheat
+Acquista un software anti-cheat
+Vendi prodotti
+Non c'è spazio di archiviazione disponibile.
+Vendi l'intero stock
+Vuoi davvero vendere l'intero stock? Un distributore di giochi economici ti ha fatto un'offerta.
+Quale gioco vorresti ripubblicare come <color=blue>gioco economico</color>? Possono essere selezionati solo i giochi che non sono stati disponibili per almeno <color=blue>un anno</color>.
+<color=blue><NUM></color> settimane alla disponibilità
+Settimane a disposizione
+Sotto quale etichetta vuoi rilasciare la versione economica?
+Classico
+Argento
+La migliore scelta
+Platino
+<color=blue>Ristampa possibile</color>
+Non puoi scegliere contenuti per giochi economici!
+I fan sono divisi in base al loro genere preferito.
+Ricerca di mercato
+Fan totali
+Condurre nuove ricerche di mercato
+Nessuna ricerca di mercato è stata ancora condotta. Avvia una ricerca di mercato per scoprire quale <color=blue>genere</color> sarà presto di tendenza o quale <color=blue>piattaforma</color> è interessato al gruppo target.
+Ricerca di mercato completata
+Ricerche di mercato hanno dimostrato che la piattaforma <color=blue><NAME></color> venderà di più.
+Rapporto finale di <color=blue><NAME> </color>
+Il gruppo target ha il minor interesse per la piattaforma <color=blue><NAME></color>.
+La ricerca di mercato ha mostrato che <color=blue><NUM1></color> giocatori preferiscono una <color=blue>versione fisica</color> e <color=blue><NUM2></color> invece una <color=blue>versione digitale</color>.
+Abbiamo notato che <color=blue><NUM1></color> acquirenti sono interessati a una <color=blue>edizione Deluxe </color> mentre <color=blue><NUM2></color> ad una <color=blu> edizione da collezione</color>.
+La prossima tendenza con probabilità dell'<color=blue>80%</color> è <color=blue><NAME1></color> e <color=blue><NAME2></color>.
+Presto impopolari con l'<color=blue>80%</color> di probabilità sono <color=blue><NAME1></color> e <color=blue><NAME2></color>.
+Puoi condurre ricerche di mercato nel reparto marketing.
+Se vuoi vendere il tuo motore, devi impostare il prezzo di vendita o le tariffe di licenza.
+Disabilita il suono dell'icona di lavoro
+I migliori giochi di tutti i tempi
+Acquisti in-app
+Articoli cosmetici e Skin
+Animali e cavalcature
+Pacchetti di buste
+Oggetti potenti
+Personaggi speciali del gioco
+Istanze e territori
+Budget
+Richiede la funzione di gioco <color=orange>Acquisti in-app</color><br>Questa funzione non è stata ancora aggiunta!
+Costi di base
+Tecnologia
+Contenuto e funzionalità
+Costi totali
+Tariffe e licenze
+I tagli al budget possono avere un effetto <br> negativo sulla qualità del gioco.
+Il budget non può essere ridotto per <color=orange>giochi a contratto</color>.
+Sfortunatamente, il gioco mostra che il budget è stato tagliato in alcuni punti.
+[Il livello tecnologico del motore è troppo alto]
+I tuoi fan stanno già aspettando il sequel di <NAME>. Hai ricevuto un bonus hype.
+<b>Gli oggetti di livello II sono stati sbloccati</b><br><br>Ora puoi equipaggiare i tuoi uffici con oggetti di ultima generazione.
+<b>Gli oggetti di livello III sono stati sbloccati</b><br><br>Ora puoi equipaggiare i tuoi uffici con oggetti di ultima generazione.
+<b>Gli oggetti di livello IV sono stati sbloccati</b><br><br>Ora puoi equipaggiare i tuoi uffici con oggetti di ultima generazione.
+<b>Gli oggetti di livello V sono stati sbloccati</b><br><br>Ora puoi equipaggiare i tuoi uffici con oggetti di ultima generazione.
+Oggetti di livello II
+Oggetti di livello III
+Oggetti di livello IV
+Oggetti di livello V.
+<b>Complessità</b><br>Più è difficile sviluppare su una piattaforma,<br>più tempo è necessario per sviluppare il gioco.
+La modalità multiplayer è ancora in uno stato iniziale. Mancano alcune funzioni importanti e la connessione potrebbe essere interrotta.
+Nessun <color=blue>software anti-cheat</color> è stato ancora rilasciato.
+<b>Anti-cheat è stato sbloccato</b><br>Per combattere il crescente numero di software piratato, oggi è stato rilasciato un software anti-cheat professionale. Ora puoi aggiungere un software anti-cheat ai tuoi giochi.
+Software anti-cheat per l'acquisto
+Software anti-cheat acquistato
+Nascondi software anti-cheat obsoleto
+Vuoi davvero acquistare questo software anti-cheat?
+Rimuovi il software anti-cheat
+Nessun software anti-cheat
+Solo nei giochi multiplayer ha senso aggiungere un software anti-cheat.
+Con la protezione dalla copia, ci sono meno copie piratate del gioco in circolazione.
+Nuovo software anti-cheat disponibile
+Questo oggetto non è ancora disponibile.
+Piattaforma speciale
+Devi scegliere una piattaforma speciale!
+Il livello tecnologico del motore è superiore al livello tecnologico della piattaforma speciale!
+Nessuna piattaforma
+Il genere di specialità e la piattaforma aumentano<br>la possibilità di risultati di lavoro critici.
+Mostra fumetti
+Quando firmi un contratto esclusivo con un distributore, sei obbligato a far distribuire tutti i giochi da lui.
+In attesa del server ...
+Save Game non esiste!
+L'host vuole salvare il gioco.
+Porta: 7777
+Prezzo dell'abbonamento
+Modello di business F2P
+Converti MMO in F2P
+Accendi/spegni il server
+Mostra/nascondi muri
+Se vuoi ospitare un gioco, devi aprire la porta 7777.
+Se vuoi sviluppare un gioco <color=blue>MMO o F2P</color>, devi aggiungere la funzione di gioco <color=blue>Multiplayer online</color>.
+Abbonamenti
+Si prega di impostare il prezzo per l'abbonamento mensile.
+Entrate totali
+Vendite
+Vuoi davvero chiudere i server? Perderai tutti gli abbonamenti ospitati su questi server.
+Vuoi avviare i server? Dovrai pagare di nuovo i costi mensili del server.
+Il server è down
+Game Pass
+MMO
+F2P
+Per quale MMO vuoi sviluppare un add-on?
+Limite di livello più alto
+Nuovi oggetti
+Nuovi animali e cavalcature
+Nuove missioni secondarie
+Nuovi nemici
+Nuovi personaggi e classi dei giocatori
+Nuovo mondo di gioco e istanze
+Nuova serie di missioni principali
+<b>Opzioni speciali per giochi standard</b><br>▪Creazione di componenti aggiuntivi e componenti aggiuntivi autonomi<br>▪Creazione di un remaster<br>▪Rilascio come gioco economico<br>▪Rilascio in bundle
+<b>Opzioni speciali MMO</b><br>▪Creazione di un componente aggiuntivo MMO
+<b>Opzioni speciali per F2P</b><br>▪ Create F2P addons<br>▪ Digial distribution only<br>▪ No publisher needed.
+Devi scegliere almeno 3 nuovi contenuti per l'MMO-Addon!
+Lo sviluppo dell'addon MMO <NAME> è stato annullato,<br>perché il gioco principale è stato ritirato dal mercato.
+I server si stanno surriscaldando!<br><color=red>-50% di prestazioni</color>
+La piattaforma è predisposta per Internet
+Se vuoi sviluppare un gioco MMO o F2P, tutte le piattaforme devono essere predisposte per Internet!
+Tutorial
+Avanti
+Indietro
+Metti automaticamente in pausa
+Il gioco si interrompe automaticamente quando un giocatore apre un menu.
+<color=green> >> Ha acquistato una nuova proprietà << </color>
+<color=green> >> Rilasciato il gioco "<NAME>" << </color>
+<color=green> >> Rilasciato il motore "<NAME>" << </color>
+La tua banca ti ha informato che il tuo conto aziendale ha un saldo negativo da diversi mesi. Ti verrà concesso un periodo di <color=blue>12 mesi</color> per pareggiare il saldo del tuo conto. Altrimenti minaccia l'insolvenza <color=blue></color>.
+Avvertimento
+Numero di mesi prima che il tuo conto debba essere pareggiato.
+Game Over
+<b>La tua azienda è insolvente!</b><br><br> Game Over! Sfortunatamente, anche la tua azienda deve essere sepolta nell'affollato cimitero delle aziende tecnologiche.<br>Ritenta, sarai più fortunato!
+Fattore casuale aumentato per le recensioni
+Studio di <NAME>
+Cerca
+Aggiorna automaticamente con i migliori articoli
+Vuoi davvero aggiornare tutti gli elementi in questa stanza?
+Questa funzione è disponibile solo in multiplayer.
+Puoi supportare o sabotare un giocatore. Cosa vuoi fare?
+Supporto
+Sabotaggio
+L'impiegato sta congelando!
+Tutti gli oggetti sono aggiornati!
+È troppo sporco per il dipendente qui!
+Il dipendente è a disagio qui!
+Recensioni degli utenti
+Rassegne stampa
+Utente
+Stampa
+Inizio dello sviluppo
+Contrassegna come preferito
+Preferito
+Scorrimento sul bordo dello schermo
+Disattiva la fatturazione del motore
+Apri/chiudi tutti i GameTab
+<b>Periodo natalizio</b><br> + 50% di unità vendute
+<b>Crollo estivo</b><br> -30% di unità vendute
+In <NAME> le seguenti professioni sono le più efficaci: <color=blue><TEXT> </color>.
+<b>Fan annoiati</b><br> I tuoi fan si annoiano perché continui a pubblicare giochi con lo stesso genere (<color= blue><NAME></color>).<br>▪-50% di unità vendute< br>▪Nessun nuovo fan
+L'impiegato pensa che la stanza sia troppo affollata!
+Disabilita le icone dei lavoratori
+Disattiva i reclami dei lavoratori
+Vietato
+I costi di traduzione dipendono dalle dimensioni del gioco.
+Porta
+Gioco di platino
+Gioco di diamanti
+Gioco di platino ricevuto
+Gioco di diamanti ricevuto
+Vendite di sistemi: <color=blue>+<NUM> <NAME></color>
+<b>Gioco esclusivo </b> <br> Tramite questo gioco, una stima di <color=blue><NUM> <NAME></color> è stata venduta.
+Disattiva gli effetti meteorologici
+<b>Crollo immobiliare<br><color=blue> -50% del prezzo degli edifici </color></b><br><br> I prezzi degli immobili stanno crollando in tutto il mondo. Gli esperti parlano già di una crisi preoccupante. <br>Certo, questo non ci turba. Siamo contenti dei prezzi di acquisto favorevoli.
+Motore third-party
+<b>Fan arrabbiati</b><br> I tuoi fan sono arrabbiati perché hai rilasciato un gioco estremamente difettoso. <br>▪-30% di unità vendute <br>▪Nessun nuovo fan
+<b>Disordinato</b><br> A questi dipendenti non importa se devono lavorare in un ufficio sporco.
+<b>Filantropo</b><br> Questi dipendenti non si lamentano degli uffici affollati.
+Sostegno finanziario
+Assistenza alla ricerca
+Fornire motore
+Dare via la licenza
+Giocatori
+Importo del sostegno finanziario
+>> Ha fornito <NUM> sostegno finanziario <<
+Hai fornito <color=blue><NAME></color> sostegno finanziario per un importo di <color=blue><NUM></color>.
+Hai fornito <color=blue><NAME1> </color> il motore <color=blue>"<NAME2>"</color> gratuitamente.
+>> Ti ha dato il motore "<NAME>" <<
+Hai trasferito <color=blue><NAME1></color>la licenza <color=blue>"<NAME2>"</color> gratuitamente.
+>> Ti ha dato la licenza "<NOME>" <<
+Disattiva la pausa automatica [Giocatore singolo]
+Tempo di visualizzazione della lettera del fan
+Molto lenta
+Elimina tutti i salvataggi
+ATTENZIONE! <br> Vuoi davvero eliminare definitivamente tutti i salvataggi di gioco?
+Hai fornito a <color=blue><NAME1></color> la tecnologia <color=blue>"<NAME2>"</color>.
+>> Ti ha dato la tecnologia "<NOME>" <<
+Puoi utilizzare solo giochi che sono stati rilasciati come <color=blue>Budget Edition</color> e sono già stati <color=blue>rimossi dal mercato</color>.
+Nome del pacchetto
+Qualità del pacchetto
+Devono essere selezionati almeno due giochi!
+Nessun gioco selezionato
+Slot libero
+Devi inserire un nome per il pacchetto!
+Per i pacchetti non puoi scegliere alcun contenuto!
+Anche in questo mese sono stati rilasciati pacchetti con giochi precedenti. Diamo un'occhiata da vicino al contenuto e ti diciamo se puoi prenderlo.
+Questi giochi sono inclusi nel pacchetto
+Pacchetto Addon
+Edizioni Gioco dell'Anno
+Per un pacchetto addon devi selezionare un <color=blue>gioco principale</color> e almeno <color=blue>un addon corrispondente</color>. Tutti i prodotti devono essere già <color=blue>ritirati dal mercato</color>.
+Addons
+Pacchetto aggiuntivo
+Devi prima scegliere il gioco principale!
+Prodotti disponibili
+Devi selezionare almeno un gioco principale e un addon!
+Edizione completa
+Edizione GOTY
+Quale gioco vorresti ripubblicare come <color=blue>edizione GOTY</color>? Puoi scegliere solo i giochi che sono stati premiati con <color=blue>Gioco dell'anno</color>e<color = blue> sono già stati rimossi dal mercato</color>.
+G.O.T.Y.
+Come dovrebbe essere chiamata l'edizione?
+Regolare la velocità di lavoro
+Mostra solo il nome del gioco nelle schede di gioco ridotte a icona
+Marketing speciale
+È possibile guadagnare denaro aggiuntivo con gli acquisti in-app. <br>Preoccupazione che un modello di business aggressivo<br>venga ricevuto negativamente dai giocatori.
+Entrate stimate per utente / mese
+Impopolarità del modello di business
+Per gli acquisti in-app hai bisogno delle funzionalità di gioco <color=blue>Acquisti in-app e multiplayer online</color>!
+Entrate da abbonamenti
+Entrate da acquisti in-app
+Gestisci gli acquisti in-app
+Sbloccato dopo aver ricercato la funzione di gioco<br><color=blue>Acquisti in-app</color>.
+Elimina applicazione
+Non puoi impostare acquisti in-app per <color=orange>giochi a contratto</color>.
+Automatico è stato annullato!<br>Non sono disponibili ulteriori ricerche.
+A causa di una serie di giochi con licenza scadente, la fiducia tra i licenziatari è diminuita.<br>Al momento, tutti i licenziatari si rifiutano di collaborare con l'industria dei giochi.
+Rifinitura
+Quale gioco dovrebbe essere migliorato? Rifinire e basta aumenta la qualità del gioco <color=blue>lentamente </color>.
+Popolarità dei generi
+Tendenza
+Impopolare
+Questa icona ti informa <br> se ad una stanza non è stata assegnata un'attività. <br><br><color=blue>Fai clic per andare alla stanza</color>
+<b>Attacco Hacker<br><color=blue>-30% Potenza Server</color></b><br><br>Un gruppo anonimo di hacker ha lanciato un attacco globale alle reti.<br>Tutti i server del mondo sono stati colpiti e le loro prestazioni sono state gravemente limitate.
+Non aspettare
+Rinomina gruppo
+Inserisci il nome del gruppo.
+Per i <color=blue>giochi F2P</color> è necessario scegliere almeno un acquisto in-app!
+Distribuisci online
+In quante settimane il gioco dovrebbe essere rilasciato su tutte le piattaforme online?
+Settimane di Download
+Giocatori attivi
+Aggiornamento F2P
+Modalità schermo intero
+Finestra a schermo intero
+Schermo intero esclusivo
+Finestra ingrandita
+Quale MMO vuoi convertire in un gioco F2P? È possibile convertire solo gli MMO che <color=blue>già sono stati tolti dal mercato</color> o che hai <color=blue>autodistribuito</color>.
+Vuoi davvero trasformare il gioco <color=blue>MMO</color> in un <color=blue>F2P</color>?
+Costi di conversione
+[F2P]
+Pausa automatica [Multiplayer]
+Avvia automatico
+Hai già l'edizione budget sul mercato. Attendi fino a quando l'edizione budget non viene rimossa dal mercato.
+Hai già l'edizione GOTY sul mercato. Attendi fino a quando l'edizione GOTY non viene rimossa dal mercato.
+Costo degli aggiornamenti
+Avvia automaticamente la correzione dei bug
+Avvia automaticamente la rifinitura
+Archivio
+Concetti di gioco archiviati, motori o rapporti di gioco sono nascosti in tutti i menu e gli elenchi.
+A disposizione
+In archivio
+l marketing speciale è poco costoso, ma può anche avere un <color=blue>effetto negativo</color>. Ogni azione può essere utilizzata <color=blue>una sola volta</color> per gioco.
+Rilascia Demo beta
+Anteprima per la stampa
+Crea SuperHype
+Recensioni false degli utenti
+Durante lo sviluppo
+Dopo l'uscita del gioco
+Una demo può aumentare o ridurre l'hype<br>a seconda della qualità del gioco.
+Se si invia una versione in anteprima alla stampa,<br>può avere un impatto positivo o negativo sulla valutazione del gioco.
+È possibile generare SuperHype,<br>solo se il gioco ha un hype di almeno 90.<br>Fai attenzione che i tuoi fan potrebbero essere delusi,<br>se il tuo gioco non riceve una valutazione molto alta.
+Se crei recensioni false degli utenti e vieni beccato,<br>non fai una bella figura.
+Questo è già stato fatto
+Campagna di marketing speciale per <NAME1> completato
+Abbiamo analizzato tutti i commenti e abbiamo scoperto che molti giocatori non sono soddisfatti della demo beta. Il tuo gioco perde un po' di hype per questo.
+Abbiamo ricevuto commenti per lo più positivi per la demo beta. I tuoi fan non vedono l'ora che il gioco venga rilasciato. L'hype del tuo gioco sta crescendo.
+La stampa ha testato la versione in anteprima del tuo gioco. Sfortunatamente, questa versione non è stata molto apprezzata. Dobbiamo aspettarci che ciò abbia un impatto negativo sulla valutazione finale.
+La stampa ha testato la versione in anteprima del tuo gioco. Il gioco è stato molto apprezzato in tutte le anteprime. Possiamo presumere che questo risultato avrà un impatto positivo sulla valutazione finale.
+Sfortunatamente, non siamo riusciti a promuovere il gioco quanto volevamo. L'hype del gioco rimane a un livello normale.
+Siamo stati in grado di aumentare notevolmente l'hype del gioco. Speriamo di non deludere i fan con un prodotto mediocre.
+Alcuni giocatori hanno notato che molte recensioni degli utenti sono false. A causa di questa truffa abbiamo perso un gran numero di fan.
+Il nostro reparto marketing ha creato alcune recensioni degli utenti per questo gioco. Fortunatamente, nessuno ha notato questa truffa.
+Pubblicare una demo
+Molti giocatori sono delusi dalla qualità della versione demo. Il tuo gioco perde un po' di hype per questo.
+Molti giocatori si divertono con la versione demo e quindi vogliono acquistare presto il gioco. L'hype del tuo gioco sta crescendo.
+Sfortunatamente, il gioco non è stato all'altezza dell'hype. Molti fan sono delusi e si aspettavano molto di più. Perdi molti fan e l'hype del gioco scende a un livello normale.
+Adeguatezza
+Non tutte le funzionalità di gioco sono adatte a un genere.<br>Le funzionalità particolarmente adatte<br>hanno un bonus del 50%.<br>Le funzionalità non adatte hanno un effetto solo del 10%.
+I dipendenti non sono autorizzati a lasciare il loro edificio
+Non mostrare più il messaggio
+Vuoi davvero disabilitare la raccolta di oggetti?
+Vuoi davvero disabilitare la selezione dei dipendenti?
+Scegli il genere speciale della tua azienda. Il genere speciale offre<br> un bonus del <color=blue>+3%</color> al risultato della recensione dei tuoi giochi.
+Abilita/disabilita tutte le funzionalità appropriate
+Gli "Sputnik 3000 Cleaner" non sono autorizzati a lasciare il loro edificio
+Crea Lobby Steam
+Autosalvataggio
+Ogni 12 mesi
+Ogni 9 mesi
+Ogni 6 mesi
+Ogni 3 mesi
+Facilità d'uso
+Innovazione
+Design Personaggio
+Design Livello
+Design Missione
+Non violento
+Contenuti Espliciti
+Facile
+Difficile
+Obiettivi del design
+Direzione del design
+Devi spendere tutti i punti di progettazione disponibili!
+Hai speso troppi punti di progettazione!
+Tempo di visualizzazione dei messaggi
+Sviluppatore amatoriale sconosciuto
+Sviluppatore amatoriale
+Studio indipendente
+Sviluppatore di piccoli giochi
+Creatore di giochi
+Creatore di giochi affermato
+Game Studio rispettabile
+Game Studio popolare
+Azienda di giochi famosa
+Azienda di giochi influente
+Società di giochi leggendaria
+Nuova valutazione dello studio
+Computer
+Console
+Console Portatili
+Cellulare
+MLN
+Tipo di piattaforma
+Utenti attivi
+Interesse
+Quando l'interesse dei giochi F2P diminuisce,<br>dovresti sviluppare un aggiornamento.<br>Ciò aumenterà nuovamente l'interesse<br>e la vita del gioco aumenterà.
+L'aggiornamento di un gioco F2P aumenta l'interesse e prolunga la durata del gioco. Gli aggiornamenti F2P vengono forniti gratuitamente ai giocatori.
+Per quale gioco F2P dovrebbe essere sviluppato un aggiornamento?
+Nuove funzionalità social
+Un aggiornamento F2P per <NAME> è stato completato.
+Numero totale di utenti attivi per le piattaforme selezionate.
+La valutazione dello studio influisce sui giochi auto-distribuiti.
+Copia solo le impostazioni del design
+Quando l'interesse per i giochi MMO diminuisce,<br>dovresti sviluppare un componente aggiuntivo MMO. <br>Ciò aumenterà nuovamente l'interesse<br>e la vita del gioco aumenterà.
+Non puoi sviluppare giochi per cellulari finché la distribuzione digitale non è sbloccata!
+Giochi per cellulari - Classifiche di tutti i tempi
+Vendite totali di giochi per cellulari
+Nuovo gioco per cellulare
+Nuovo gioco Cabinato Arcade
+<b>Nuovo gioco per cellulare</b><br>I costi di sviluppo per i giochi per cellulare sono notevolmente inferiori.
+A quale prezzo dovrebbe essere offerto il gioco per cellulare negli app store?
+Imposta il prezzo
+Non puoi rilasciare l'addon fino al rilascio del gioco principale.
+MadMobileGames.com
+<b>I giochi per cellulari sono stati sbloccati</b><br><br>È stato rilasciato il primo smartphone. Ora puoi sviluppare giochi per dispositivi mobili.
+Verrà sbloccato una volta rilasciato il primo <color=blue>smartphone</color>.
+Officina
+Nell'officina puoi realizzare cabinati arcade,<br>è possibile eseguire ricerche sotto il titolo <color=blue>"Altro"</color>.
+Produrre Cabinato Arcade
+Cabinati arcade venduti
+Nell'<color=blue>officina</color> puoi produrre i tuoi cabinati arcade.
+Scheda di sistema Arcade
+Non puoi impostare gli acquisti in-app per i <color=orange>giochi arcade</color>.
+Arcade
+<b>Gioco arcade</b><br>▪ Nessun distributore necessario<br> ▪ Nessun add-on possibile<br> ▪ Non sono possibili MMO e F2P<br> ▪ La crisi estiva non ha effetto<br> ▪ Non genera chiamate ed e-mail<br> ▪ Nessun software anti-cheat e protezione dalla copia<br> ▪ Non è possibile un nuovo rilascio<br> ▪ Indipendentemente dalla quota di mercato della piattaforma
+<b>Gioco per dispositivi mobili</b><br> ▪ Nessun distributore necessario<br> ▪ Costi di sviluppo notevolmente inferiori <br> ▪ Nessun componente aggiuntivo possibile <br> ▪ Nessun nuovo rilascio possibile
+<b>Gioco per computer e console</b><br> ▪ Valido per contratto esclusivo del distributore
+Gioco Arcade - Classifiche di tutti i tempi
+Vendite totali di giochi arcade
+Vendite totali di giochi per PC e console
+Ricerche di mercato hanno dimostrato che le seguenti piattaforme sono le più richieste:
+Il gruppo di riferimento ha mostrato il minor interesse per le seguenti piattaforme:
+A quale prezzo dovrebbe essere venduto il cabinato arcade?
+Qualità dei componenti
+Struttura
+Schermo
+Controlli
+Altoparlanti
+Prezzi per cabinati arcade
+Prezzi per i giochi per cellulare
+Non è possibile modificare la qualità dei componenti in un secondo momento.
+<color=blue><NUM></color> del gruppo di riferimento gioca regolarmente ai <color=blue>cabinati arcade</color>.
+Non si fa profitto! Aumenta il prezzo del tuo cabinato arcade.
+Spin-off
+<b>Spin-off</b><br>Uno spin-off trae vantaggio dal successo della serie principale.<br>Il bonus hype non è così alto,<br>come con un sequel.<br>Ma è possibile creare spin-off illimitati<br>e cambiare il genere principale.
+Sbloccato quando uno dei tuoi giochi<br>è stato venduto almeno <color=blue>50,000</color> volte.
+<b>Lo spin-off è stato sbloccato</b><br><br>Le cifre di vendita di uno dei tuoi giochi sono eccellenti. Dovresti sviluppare uno spin-off. Forse il successo può ripetersi.
+Questa recensione riguarda il sequel di <NAME>. Controlliamo per te se ne vale la pena la parte più recente della serie.
+Abbiamo ricevuto un campione di prova dello spin-off da <NAME>. Qui puoi scoprire se vale la pena dare un'occhiata allo spin-off.
+Da quale brand vorresti sviluppare uno spin-off?
+I tuoi fan sono felici dello spin-off <NAME>. Il gioco ha ricevuto un bonus hype.
+Quale gioco dovrebbe essere portato su un altro tipo di piattaforma?
+Su quale tipo di piattaforma deve essere eseguito il porting di <color=blue><NAME></color>?
+Computer e console di gioco
+Il gioco è già disponibile su questo tipo di piattaforma.
+<b>Portabilità</b><br>▪ È possibile un solo porting per tipo di piattaforma<br>▪ L'hype è tratto dal gioco originale<br>▪ I costi di sviluppo sono inferiori
+Nessun gioco MMO e F2P <br> può essere portato su un cabinato arcade.
+[P]
+I tuoi fan sono felici del porting di <NAME> su un altro sistema. Il gioco ottiene l'hype corrente del gioco originale.
+Mostra quanti giochi con questo tema sono sul mercato.
+I miei giochi
+Totale vendite
+Totale delle entrate
+Popolarità dei Giochi Principali
+<b>Popolarità Giochi Principali</b><br>La popolarità influisce su tutti i giochi principali.<br>I giochi con un buon punteggio o<br>i giochi che ricevono un premio aumentano la popolarità.
+Tutti i giochi del <color=blue><NAME></color> Principali.
+MLN
+Numero di Giochi e Add-on:
+Produci Cabinato Arcade
+Motore interno
+<b>Avido</b><br>I dipendenti avidi chiedono salari significativamente più alti.
+<b>Immunodepresso</b><br>I dipendenti immuno-carenti si ammalano molto più spesso.
+<b>Super Attivo</b><br>I dipendenti non stressabili si prendono delle pause durante i periodi di crisi.
+<b>Distratto</b><br>Questi dipendenti commettono errori più spesso e<br>Creare quindi bug più frequentemente.
+<b>Senza Talento</b><br>I dipendenti inesorabili imparano più lentamente dei loro colleghi di lavoro.
+<b>Artista Pixel</b><br>Questi dipendenti generano punti grafici più alti quando sviluppano un gioco retrò.
+<b>Esperto Porting</b><br>Questi dipendenti generano punti tecnologici più elevati quando un gioco viene fatto in porting.
+<b>Fantasioso</b><br>I dipendenti fantasiosi hanno costantemente nuove idee per i sequel.<br>Quando viene sviluppato un sequel, questi dipendenti generano punti di gioco più elevati.
+<b>Esperto Motori</b><br>Questi dipendenti possono sviluppare motori molto più velocemente.
+Miglior gioco
+Peggior gioco
+Punteggio medio
+Statistiche totali
+Costi totali
+<b>Sfortunato</b><br>Questi dipendenti non hanno mai risultati di lavoro critici.
+<b>Maniaco Del Lavoro</b><br>Questi dipendenti possono completare il<br>lavoro a contratto molto più velocemente.
+<b>Efficiente</b><br>I dipendenti efficienti possono completare tutte le<br>attività in modo leggermente più veloce.
+È possibile modificare il prezzo solo se non ci sono pre-ordini.
+Nome della console
+Sviluppa console
+Che tipo di console vuoi sviluppare? Una consolle fissa per il soggiorno di casa? O una console portatile per gli spostamenti?
+Nuova console fissa
+Nuova console portatile
+Puoi preinstallare un gioco pubblicato in precedenza sulla console.<br> L'emulazione su questa console è automatica.
+Più dispositivi di input vengono aggiunti alla console, <br> maggiori sono i costi di produzione.
+Una console visivamente moderna può influenzare il comportamento di acquisto del gruppo target.
+Cpu
+Ram
+Chip grafico
+Chip audio
+Memoria interna/esterna
+Sistema di raffreddamento
+Tipologia supporto dati
+Schermo
+Il componente tecnologicamente più vecchio decide <br> il livello tecnologico finale della console.
+Dispositivo di input
+Case
+Funzioni Console
+Richiesto solo per console portatili
+Richiesto solo per console fisse
+Solo per console portatili
+Solo per console fisse
+Valutazione dei componenti
+Componenti della console
+Aspetto
+Gioco classico preinstallato
+Numero di dispositivi di input inclusi
+La combinazione di componenti obsoleti e nuovi aumenta la complessità della console. <br> Ciò aumenta lo sforzo e i costi di sviluppo.
+Componente che migliora le prestazioni
+Aspetto o dispositivo aggiuntivo
+Punti Prestazioni
+Tonalità
+Saturazione
+Nessun gioco scelto
+Rimuovi gioco
+Funzioni della console
+Richiede funzionalità Internet
+Disattiva/attiva tutte le funzionalità
+Funzionalità Internet
+La console può essere connessa a Internet
+Alcune funzioni della console richiedono l'accesso a Internet.
+Non ancora disponibile
+Devi dare un nome alla console!
+Il nome della console è già stato assegnato!
+Nessun momento critico
+Luminosità
+Nome opzionale dell'IP
+<color=green> >>Rilasciata la console  '<NAME>'.<< </color>
+Capo Tecnico
+▪ Il capo tecnico dovrebbe avere un alto livello di conoscenza in <color=blue>Hardware e tecnologia</color>.<br>Tutti i dipendenti che lavorano su questa console ricevono un bonus in base a questo valore.<br>Questo può ridurre il tempo di sviluppo.<br><br>▪Il capo tecnico deve trovarsi in questa stanza.
+Nomina come capo tecnico
+La piattaforma è ancora in fase di sviluppo!
+Non tutte le piattaforme sono ancora state rilasciate! <br> Per rilasciare questo prodotto, tutte le piattaforme di destinazione devono essere disponibili in commercio.
+Console completata
+Rilascia console
+Elimina console
+Il tuo reparto hardware ha completato un prototipo pronto per il mercato della tua console. Puoi rilasciare la console ora o posticipare il rilascio a una data successiva.
+Vuoi davvero abbandonare questa console? Questo processo non può essere invertito!
+Prezzo di vendita per console
+Costo di produzione attuale della console
+Processi di produzione ottimizzati e riduzione dei costi hardware, <br> riducono i costi di produzione nel tempo.
+Kit di sviluppo
+A che prezzo vuoi vendere la console?
+Prezzo del kit di sviluppo
+Consenti giochi di terze parti
+Imposta automaticamente il prezzo di vendita
+Riduzione dei costi attuali
+Valutazione della console
+La stampa ha confrontato le prestazioni e il pacchetto complessivo della tua nuova console con le console già disponibili.
+Rimuovi la console dal mercato
+Valutazione delle prestazioni
+Valutazione complessiva della console
+Sei sicuro di voler togliere la console dal mercato?
+Produzione console
+Sviluppo della console
+Prestazioni rispetto ad altre console
+>> Hai acquistato il tuo kit di sviluppo per <NUM>. <<
+<color=blue><NAME1></color> ha acquistato il DevKit da <color=blue><NAME2></color>.
+Non puoi pubblicare il gioco perché non è stata selezionata alcuna piattaforma principale! Per prima cosa seleziona una piattaforma principale nel menu "Cambia piattaforma".
+Dettagli della console
+<NUM> Console
+Componenti tecnici
+Non visualizzare la finestra di messaggio per "Annulla attività"
+Mercato Sovrasaturato
+Massimo
+Aggiornare automaticamente gli oggetti in ogni stanza.
+Vuoi davvero aggiornare gli articoli in tutte le stanze?
+Posizione più alta in classifica
+Applicare automaticamente le impostazioni ottimali.
+Postazioni di lavoro
+Indica quanti dipendenti possono lavorare in questa stanza,<br>senza lamentarsi del sovraffollamento.
+Da <DATE1> a <DATE2>
+Questo salvataggio è obsoleto.<br>Possono verificarsi bug con i salvataggi obsoleti<br>e alcune funzionalità potrebbero non funzionare.
+Tutte le console
+Console fisse
+Console portatili
+Le console più vendute
+Cronologia vendite
+La concorrenza rilascia un gioco per la tua console
+Sovraffollamento da <b><NUM></b> postazioni di lavoro.
+<NUM> Perks rimanenti
+Attendere che siano disponibili nuovi contratti
+In attesa di nuovi lavori a contratto
+Molto difficile
+Cancellazioni
+Vai alla stanza
+Pubblica in seguito
+Mantenere automaticamente il prezzo di vendita a <color=blue><NUM></color> di profitto
+Chiudere il menu con il pulsante destro del mouse
+Almeno una funzionalità del motore ha un livello tecnologico superiore rispetto alle piattaforme selezionate.
+Livello tecnologico del motore selezionato
+Livello tecnologico della piattaforma più debole
+Gioco esclusivo del produttore
+▪ I giochi esclusivi del produttore possono essere rilasciati solo sulle tue console.<br>L'esclusività può aumentare un po' le vendite delle tue console.
+Puoi scegliere le tue console solo se vuoi sviluppare un gioco esclusivo del produttore!
+<b>Gioco esclusivo del produttore</b><br>Attraverso questo gioco, sono state vendute una stima di <color=blue><NUM></color> delle tue console.
+Attendere che siano disponibili nuovi giochi
+Attendere la creazione di un nuovo report di gioco
+Continua
+Posizionamento per rotazione
+Vendere automaticamente le scorte rimanenti
+Deselezionare l'elemento
+In Coda
+Completa lo sviluppo
+Completa lo sviluppo e rilascia il prodotto<br>in un secondo momento.
+Ricerca dei dipendenti
+Esperienza professionale
+Pubblicità del lavoro
+Giovani professionisti
+Lavoratore esperto
+Specialista
+Possibilità di successo
+Tempo necessario
+▪ Più esperienza lavorativa è richiesta,<br>minore è la possibilità di trovare un dipendente.<br>▪ Un alto punteggio può aumentare le possibilità di successo.<br>▪ Il tempo necessario per trovare un dipendente adatto<br>dipende dal tipo di dipendete o posizione in ricerca.
+Costi: <NUM>
+<color=blue><NAME></color> ha fatto domanda per il nostro annuncio. Vuoi assumere questa persona?
+<b>Ricerca dei dipendenti</b><br>Sfortunatamente, non è stato possibile trovare un dipendente adatto.
+Ricerca dei dipendenti completata correttamente
+Impostare automaticamente i prezzi di vendita
+L'hardware della console è obsoleto.<br>Ciò aumenta i costi di produzione.
+Caratteristiche di gioco
+Finito
+Hai troppe funzionalità di gioco abilitate.
+Il giocatore è pronto
+Pronto
+Offerta distribuzione
+Quale gioco vuoi distribuire?
+▪ Maggiore è la reputazione del tuo studio, più giochi ti verranno offerti.<br> ▪ Non ottieni esperienza per questi giochi.<br> ▪ L'IP e il concetto di gioco rimangono<br>di proprietà dello sviluppatore. Pertanto non puoi sviluppare successori,<br>add-on, aggiornamenti o porting del gioco.
+Importo garantito
+Quota di fatturato
+Qualità stimata
+Numero di offerte distribuzione
+Offerta di contratto
+Invia allo sviluppatore <color=blue><NAME1></color> un'offerta di contratto per il gioco <color=blue><NAME2></color>.
+Umore
+Fare un'offerta
+Le trattative contrattuali sono fallite! Lo sviluppatore cercherà un altro distributore.
+Firma contratto
+Infastidito
+Teso
+Soddisfatto
+Elimina
+Distribuzione
+Giochi distribuiti
+Formato fisico + digitale
+Solo fisico
+Solo digitale
+Non puoi distribuire questo gioco in formato fisico.
+Non puoi distribuire questo gioco in formato digitale.
+Puoi inviare un'offerta allo sviluppatore solo una volta alla settimana.
+Competenze medie
+Dipendenti per professione
+Competenze totali
+Candidati per professione
+Non è necessario produrre tutte le edizioni.<br>Se non viene prodotta alcuna edizione Deluxe o Collector,<br>gli acquirenti acquisteranno automaticamente l'edizione Standard.
+Fallimento commerciale
+Nonostante le buone valutazioni, <color=blue><NAME></color> non riesce a reggere il confronto sul mercato e sembra diventare un fallimento commerciale.
+Bug rilevati
+Gli acquirenti del gioco <color=blue><NAME></color> hanno segnalato bug che il nostro controllo di qualità ha trascurato. Un periodo di rifinitura più lungo riduce la possibilità che i bug non vengano rilevati. Sarebbe consigliabile sviluppare una patch il prima possibile.
+Il gioco contiene bug
+Successo a sorpresa
+La fortuna è dalla nostra parte. I dati di vendita di <color=blue><NAME></color> sono molto più alti del previsto. Questo gioco potrebbe essere il successo a sorpresa dell'anno.
+Abilità migliore
+Ultimi candidati
+<b>Nuova combinazione di genere</b><br>▪ +10% unità vendute
+<b>Nuova combinazione di argomenti</b><br>▪ +3% Unità vendute
+Nuova combinazione di genere
+Nuova combinazione di argomenti
+Parco industriale
+Palm Beach Resort
+[Tutorial disponibile]
+Sandbox
+Nascondi giochi a contratto
+Tempo di sviluppo: <color=blue><NUM> settimane</color>
+Seleziona automaticamente il miglior dipendente
+Nessun tecnico capo selezionato!
+IP più popolari
+Download F2P
+Giochi Computer & Console
+Opzioni di filtro per i giochi
+Giochi standard
+IPs
+Condivisione
+Mostra tutto
+Mostra solo giochi per PC e console
+Mostra solo macchine arcade
+Mostra solo giochi per dispositivi mobili
+Mostra solo console proprie
+Combinazioni di generi casuali
+Componenti
+Mostra solo i giochi in coda
+Giochi F2P più giocati
+Giochi Economici
+Giochi in Bundle
+Giochi per Cellulari
+Cabinati Arcade
+Obiettivi
+Nascondi gli obiettivi sbloccati
+<NUM1> di <NUM2> Obiettivi
++<NUM>% di giochi per PC e console venduti
++<NUM>% di cabinato arcade venduti
++<NUM>% giochi per cellulari venduti
++<NUM>% addons venduti
++<NUM>% vendite di marketing secondario
++<NUM>% acquisti in-app
++<NUM>% console proprie vendute
++<NUM>% fan generati attraverso i giochi
++<NUM>% velocità di allenamento
++<NUM>% tasso di lavoro
+Totale bonus
+Lo sviluppo non può essere avviato perché questo ordine è già stato accettato da un altro giocatore.
+L'ordine non può essere accettato perché non hai ancora ricercato il genere appropriato.
+L'ordine non può essere accettato perché non hai ancora ricercato la dimensione del gioco appropriata.
+Hai usato il tuo motore per il gioco a contratto <color=blue><NAME1></color>. Questo ti dà diritto ad una quota dei profitti.
+Attiva/Disattiva Archiviazione
+Protezione dalla copia e anti-cheat
+È possibile modificare la protezione dalla copia e il software anti-cheat durante lo sviluppo.
+Costi di sviluppo aggiuntivi
+Da cui <color=blue>IP</color> dovrebbe essere offerta la merce?
+Almeno un articolo merceologico è esaurito!
+Gli articoli di merchandising vengono riordinati automaticamente
+▪ La quantità minima d'ordine per articolo è di 5.000 pezzi.<br>▪ Il più noto un IP è, più articoli possono essere venduti.<br>▪ Il numero dei tuoi fan aumenta i dati di vendita.
+Tazza
+T-shirt
+Artbook
+Collana
+Berretto
+Insegna di stagno
+Moneta
+Figura da collezione
+Articolo
+Quantità dell'ordine
+Prezzo di acquisto
+Dati di vendita
+Costo dell'ordine
+Riordina automaticamente
+La settimana scorsa: <b><NUM1></b><br>Totale: <b><NUM2></b>
+Applica i prezzi di vendita a tutti gli IP
+I prezzi di vendita sono stati adottati per <NUM> IPs.
+Ordina articolo
+Merchandise
+Quantità di merce <NUM> è stato ordinato per <NAME>.
+Riordina automaticamente per tutti gli IP
+Interruttore automatico per tutti gli IP
+Profitto del Merchandise
+Popolarità richiesta dell'IP
+Gestisci Fan Shop
+Prendi ordini
+Domanda
+Attuale & ultimo mese
+Disabilita la vendita
+Nessuna merce verrà venduta per questo IP.
+La merce viene venduta per questo IP.
+Cambia la vendita per tutti gli IP
+IP e prezzi
+I tuoi dipendenti devono prendere <color=blue>ordini</color> degli <color=blue>articoli di merchandising</color>. Più alta è la <color=blue>richiesta</color>, più dipendenti sono necessari.
+Per quale tipo di piattaforma sarà sviluppato il seguito di <NAME>?
+Per quale tipo di piattaforma verrà sviluppato lo spin-off di <NAME>?
+Maggiore è il valore di una categoria, maggiore è<br>la possibilità che il dipendente guadagni punti per quella categoria.
+È possibile modificare la priorità di progettazione durante lo sviluppo. Questo è particolarmente consigliato se una sezione è stata gravemente trascurata.
+Ruota la camera di 90°
+Giochi esclusivi
+La settimana prossima
+Giochi sviluppati autonomamente
+Scrivanie
+Armadi
+TV e radio
+Quadri
+Tappeti
+Premi
+Tavoli
+Piante
+Lampade
+Varie
+Salotto
+Robot di pulizia
+Oggetti sanitari
+Divertimento
+Macchine
+Server
+Sistemi di raffreddamento
+Luoghi di stoccaggio
+Oggetti di addestramento
+Studi del suono
+Cattura del movimento
+Banchi
+Postazioni di lavoro
+<b>Intasamento della fornitura globale<br><color=blue>-50% di vendita di articoli per i fan</color></b><br><br>In tutto il mondo si stanno verificando problemi logistici a causa della carenza di materie prime.<br> Di conseguenza, la domanda di merce non può essere soddisfatta.
+Mostra solo i giochi che sono già stati rimossi dal mercato
+Sbloccato dopo aver pubblicato il tuo <color=blue>primo gioco</color>.
+Mostra solo piattaforme con livello di tecnologia corrispondente
+Nascondi argomenti che non si adattano
+Argomenti corrispondenti
+Argomenti non corrispondenti
+[A]
+Giochi con le entrate più alte
+Incuria dell'IP
+L'ultimo gioco è stato rilasciato <NUM> settimane fa.
+Nascondi i Porting
+Nascondi gli Addon
+Tutti i generi
+Abbonamenti più alti
+Numero di giocatori più alto
+Picco
+Abbonamenti attuali
+Numero di giocatori attuali
+Basso
+Medio
+Alto
+I generi dei tuoi giochi pubblicati più di recente.<br>Se usi lo stesso genere troppo spesso, i tuoi fan si annoieranno.<br>Il tuo genere speciale <NAME> è escluso da questo.
+Non in vendita
+Annulla contratto
+Per recedere anticipatamente dal contratto dovrai pagare una penale di <NUM>. Inoltre, il rapporto con questo distributore si deteriorerà.
+Vuoi davvero annullare il contratto di esclusiva con <NAME>?
+Errore critico! Non c'è connessione a Steam.
+La popolarità della piattaforma aumenta la durata della piattaforma
+Quando sviluppi un gioco esclusivo, ricevi un sussidio finanziario dal produttore della piattaforma per ridurre i costi di sviluppo.
+Non è possibile cambiare le piattaforme per un gioco esclusivo!
+Non mostrare "Mad Games Convention"
+Non mostrare "Premi Mad Games"
+Non mostrare eventi casuali
+Filiali
+Filiale
+Nascondi filiali
+Sconto esclusivo sul gioco
+Compra azienda
+Vuoi davvero acquistare <NAME> al prezzo di acquisto di <NUM>?
+Impostazioni dello Studio
+La tua quota di partecipazione alle entrate
+Apri/Chiudi filiale
+Questa azienda è stata chiusa
+Questa filiale non è un distributore!
+Spese di amministrazione mensili
+Migliora Filiale
+Passa a Distributore
+Passa a Sviluppatore
+Vuoi davvero aggiornare <NAME>? Il costo dell'aggiornamento è <NUM>.
+Vuoi davvero aggiornare <NAME> all'editore? Il costo dell'aggiornamento è <NUM>.
+Vuoi davvero aggiornare <NAME> allo sviluppatore? Il costo dell'aggiornamento è <NUM>.
+Non hai inserito il nome di un'azienda!
+Loghi aziendali
+Quali istruzioni dovrebbe seguire la vostra filiale?
+Progresso
+Attività
+Tempo di sviluppo consentito
+Vicino al completamento
+Rilascio del prodotto in. <NUM> settimana/e
+Nessun gioco in fase di sviluppo
+Dimensioni del gioco prioritarie
+Genere prioritario
+Giochi autopubblicati
+Sviluppa solo giochi esclusivi per le tue console
+Consenti lo sviluppo di giochi MMO
+Consenti lo sviluppo di giochi F2P
+Consenti lo sviluppo di componenti aggiuntivi e MMO
+Non sviluppare giochi di cabinato arcade
+Non sviluppare giochi per dispositivi mobili
+Non sviluppare giochi retrò
+Non sviluppare porting
+Non pubblicare giochi economici
+Non pubblicare edizioni GOTY
+Corto
+Bilanciato
+Generoso
+Nessuna specifica
+Non sviluppare remaster
+Non sviluppare spin-off
+Chiuso
+Applica le impostazioni per tutte le filiali
+Vendi filiale
+Le impostazioni sono state applicate a tutte le filiali.
+Giochi sviluppati da filiali
+Vuoi davvero vendere la tua filiale <NAME> per <NUM>?
+La società rifiuta tutte le offerte di acquisizione. Riprova in un secondo momento.
+La vostra filiale <NAME> ha un nuovo prodotto pronto per il rilascio. Vuoi distribuirlo tu stesso o la tua filiale dovrebbe gestire il rilascio?
+La società controllata pubblica il gioco
+Pubblica il gioco tu stesso
+Prodotto pronto per il rilascio
+Valutazione stimata:
+<b>Filiale pubblica il gioco</b><br>▪ La società controllata cercherà un distributore, se necessario.<br>▪ Si ottiene <NUM>% di tutte le vendite.
+<b>Auto-distribuzione</b><br>▪ La tua quota di compartecipazione alle entrate è <NUM>%.<br>▪ Cabinato Arcade, i giochi per dispositivi mobili e gli F2P sono sempre distribuiti dalla filiale.
+Condivisione delle entrate con gli sviluppatori
+Nascondi i giochi rimossi dal mercato
+Giochi delle filiali sul mercato
+La tua partecipazione agli utili
+Gioco da filiale
+La tua filiale <NAME1> ti ha inviato una dichiarazione per il gioco <NAME2>.
+Non mostrare le dichiarazioni delle tue filiali
+Detrazioni
+Quando questa filiale distribuisce un gioco,<br>lo sviluppatore ottiene <NUM> per ogni gioco venduto.
+Argomento prioritario
+Concentrati sul seguente IP
+Preferisci la distribuzione tramite i propri distributori
+Non mostrare le dimissioni dei tuoi dipendenti
+Rimuovi IP
+Utilizzare il motore interno
+Rimuovere il motore
+Valutazione stimata
+Tutti i giochi che sono peggiori della valutazione stimata,<br>vengono pubblicati automaticamente dalla tua filiale.
+Copia elemento
+Concentrati sulle seguenti piattaforme
+Contrassegna i giochi delle filiali[★]
+Giocatore
+Mostra solo giochi auto-sviluppati
+▪ <b>Gioco dell'anno</b><br>Devi essere lo sviluppatore ed ottenere un punteggio complessivo elevato.<br><br>▪<b>Miglior suono</b><br>Devi essere lo sviluppatore ed ottenere una valutazione audio elevata.<br><br>▪ <b>Miglior grafica</b><br>Devi essere lo sviluppatore ed ottenere una valutazione grafica elevata.<br><br>▪ <b>Distributore dell'anno</b><br>Devi distribuire e vendere molti giochi di alta qualità.<br><br>▪ <b>Miglior sviluppatore</b><br>Devi sviluppare molti giochi di alta qualità.<br><br>▪ <b>Peggior gioco dell'anno</b><br>Devi essere lo sviluppatore ed ottenere un punteggio complessivo scarso.
+Trasferisci IP
+Quale IP vuoi assegnare alla tua azienda o ad una filiale?
+Un prodotto è attualmente in fase di sviluppo per questo IP. Devi prima annullare lo sviluppo per poter trasferire l'IP.
+Il trasferimento dell'IP non è attualmente possibile.
+<b>Mad Games Awards - Vincitore</b><br>I tuoi fan sono felici che tu sia stato premiato ai "Mad Games Awards".<br>+<NUM>% di giochi venduti<br>
+Maniero Europeo
+A causa dell'aumento dei prezzi <NUM> i pre-ordini sono stati annullati!
+Attivato automaticamente
+Non è stato ricercato
+Genere non ricercato!
+Genere o Argomento non ricercato!
+Tipo di gioco non ricercato!
+Genere adatto
+Genere inadatto
+Giocattolo
+Gioco da tavolo
+Fumetto
+<color=blue><NUM></color> dei giocatori che hanno accesso a <color=blue>Internet</color>.
+Nessuna informazione disponibile!
+<b>Giochi per console e computer</b><br>Se le vendite settimanali scendono al di sotto di <color=blue><NUM></color>, il gioco<br>viene automaticamente rimosso dal mercato.
+Apri il menu "Gioco completato" quando tutti i bug sono stati rimossi
+Progetto attuale
+Questa filiale non è uno sviluppatore
+Imposta la velocità di gioco
+Ogni giocatore ha il permesso di impostare la velocità di gioco.<br>Se questa funzione è disabilitata,<br>solo l'host può impostare la velocità di gioco.

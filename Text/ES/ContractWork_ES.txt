@@ -1,0 +1,80 @@
+﻿Optimizar gráficos de motor <0>
+Programando sistema de audio<0>
+Desarollar Editor de Niveles<0>
+Optimizar físicas del juego<0>
+Programando Misiones<0>
+Optimizando IA de enemigos<0>
+Optimizando tiempos de carga<0>
+Programando la memoria del sistema<0>
+Crear interfaz de usuario<0>
+Programando sistema de base de datos<0>
+Desarrollando un prototipo de juego<0>
+Desarrollar una herramienta de localización<0>
+Desarrollar una herramienta de diagnóstico<0>
+Comprimir archivos del juego<0>
+Programando el sistema de diálogos<0>
+Desarrollar sistema de colisiones<0>
+Programando el explorador de archivos<0>
+Programando cargado de niveles<0>
+Programando el manager de entradas<0>
+Programando el manager de Sprites<0>
+Desarrollar controlador de depuración<0>
+Programando el manager de eventos<0>
+Desarrollar sistema de animaciones<0>
+Desarrollar editor de sprites<0>
+Desarrollar controladores<0>
+Implementar sistema antipiratería<0>
+Optimizar sistema de controles<1>
+Diseñando niveles<1>
+Prueba de fallos general<1>
+Probando Misiones<1>
+Crear concepto de juego<1>
+Pruebas de compatibilidad con hardware<1>
+Probando estabilidad del juego<1>
+Analizar desempeño del juego<1>
+Probar actualizaciones de juego<1>
+Optimizar balance del juego<1>
+Probando Plug-Ins<1>
+Analizando un prototipo<1>
+Probando la interfaz de usuario<1>
+Crear guión gráfico<1>
+Escribiendo dialogos<1>
+Crear sprites de personajes<2>
+Dibujar fondos<2>
+Dibujar Items<2>
+Dibujar interfaz de usuario<2>
+Crear gráficas conceptuales<2>
+Dibujar objetos ambientales<2>
+Crear efectos especiales<2>
+Dibujar imagen de portada<2>
+Crear teselas de nivel<2>
+Diseñar fuentes de texto<2>
+Animar personajes<2>
+Creando un soundtrack<3>
+Crear Sonidos de Personaje<3>
+Grabar sonidos de armas<3>
+Crear sonidos de interfaz de usuario<3>
+Crear sonidos dinámicos<3>
+Crear sonidos ambientales<3>
+Crear sonidos mágicos<3>
+Grabar sonidos de animales<3>
+Crear sonidos de motor<3>
+Grabar música clásica<3>
+Crear sonidos de robot<3>
+Mezclando sonidos de explosiones<3>
+Grabar movimientos básicos<3>
+Grabar animacion de artes marciales<3>
+Crear animaciones de cinemática<4>
+Crear animaciones animales<4>
+Grabar animación de pelea de espadas<4>
+Crear animación para monstruos<4>
+Crear animaciones de baile<4>
+Grabar a jugadores de fútbol<4>
+Crear animaciones de emociones<4>
+Grabar animaciones de robot<4>
+Reparar consolas<7>
+Prototipo de consola de diseño<7>
+Diagnosticar prototipo de consola<7>
+Revisar la placa base de la consola<7>
+Prueba de rendimiento de un prototipo<7>
+Optimizar el sistema de enfriamiento<7>

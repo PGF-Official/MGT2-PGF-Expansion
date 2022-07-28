@@ -1,0 +1,72 @@
+﻿Huracán;Crea un juego de acción con una calificación de al menos el 70%.
+Laberinto de mármol;Crea un juego de habilidad con una calificación de al menos el 70%.
+Dr. Lario;Crea un juego de rompecabezas con una calificación de al menos el 70%.
+La isla de los monos;Crea un juego de aventuras con una calificación de al menos el 70%.
+Mazmorras y maestros;Crea un juego de rol con una calificación de al menos el 70%.
+Las civilizaciones;Crea un juego de estrategia con una calificación de al menos el 70%.
+Super Lario World;Crea un juego de plataformas con una calificación de al menos el 70%.
+Nave espacial: Elite;Crea un juego de simulación con una calificación de al menos el 70%.
+Copa de California;Crea un juego de deportes con una calificación de al menos el 70%.
+Magnate del petróleo loco;Cree una simulación económica con una calificación de al menos el 70%.
+Luchador backstreet;Crea un juego de lucha con una calificación de al menos el 70%.
+Ciudad de simulación: 1602;Crea un juego de construcción con una calificación de al menos el 70%.
+Cueva del Dragón;Cree una película interactiva con una calificación de al menos el 70%.
+Comandante Yuri;Crea un juego de estrategia en tiempo real con una calificación de al menos el 70%.
+BOOM;Crea un juego de disparos en primera persona.
+Mejor que un libro;Cree una novela visual con una calificación de al menos el 70%.
+Max cerebro;Crea un Shooter en tercera persona con una calificación de al menos el 70%.
+Los conductores de prueba;Crea un juego de carreras con una calificación de al menos el 70%.
+Retromania;Crea un juego retro.
+Mundo de Meridian;Crea un juego MMO.
+¿Es el juego realmente gratuito?;Crea un juego F2P.
+¡Inserte moneda!;Crea una máquina recreativa.
+A todos les gustan las serpientes;Crea un juego para móvil.
+Nacido para ser programador;Crea tu propio motor.
+Guerra de consolas;Crea tu propia consola estacionaria.
+Esto cabe en mi bolsillo;Crea tu propia consola pórtatil.
+Pago de bonificación;Crea un juego de contratos.
+Manojos;Crea un paquete de juegos.
+Descuento;Publica un juego de presupuesto.
+Edición completa;Publica un paquete de juego adicional.
+Spin Off;Crea un spin off.
+I, II, III, IV;Crea una secuela de un juego.
+Portar juegos de forma sencilla;Portar un juego a otra plataforma.
+¿Mejor que el original?;Crea un remaster de uno de tus juegos.
+Creador de tendencias;Uno de tus juegos debería marcar una nueva tendencia.
+Juego del año;Uno de sus juegos debe recibir el premio Juego del año.
+Desarrollador del año;Gana el premio Desarrollador del año.
+Editorial del año;Gana el premio Editor del año.
+Ojos dulces;Uno de tus juegos debe recibir un premio a los mejores gráficos.
+Una gran banda sonora;Uno de tus juegos debe recibir un premio al mejor sonido.
+¡Esto no puede ser correcto!;Uno de sus juegos debe ser votado como el peor juego del año.
+¡¡¡Overhype!!;Crea un overhype para uno de tus juegos.
+Contratistas;Firma un contrato exclusivo con un editor..
+¡Fueron muchos trabajos!;Logra una reputación con los clientes del 100%.
+Ahora me haré rico;Producir y distribuir un juego sin editor.
+¡Este es el futuro!;Llega al año 2050 en el juego.
+¡Editor!;Publica un juego de una empresa de NPC.
+Mi mejor amigo;Maximice la relación con un editor.
+Oro;Vende al menos 1,000,000 de unidades de un juego.
+Platino;Vende al menos 10,000,000 de unidades de un juego.
+Diamante;Vende al menos 50,000,000 de unidades de un juego.
+80%;Uno de sus juegos debe recibir una calificación general de al menos 80%.
+90%;Uno de sus juegos debe recibir una calificación general de al menos 90%.
+100%;Uno de sus juegos debe recibir una calificación general de al menos 100%.
+¡Todos me aman!;Tener al menos 1,000,000 de fanáticos.
+No me gusta estar solo;Inicia un juego multijugador con al menos un amigo.
+¡Este es mi equipo!;Comienza un juego multijugador con cuatro amigos.
+Propiedad intelectual;Maximice la popularidad de una IP.
+Compañía de juegos legendaria;Maximice la reputación de su estudio.
+Maestro;Tener un empleado con una experiencia del 100% en cualquier habilidad.
+Empleado I;Tener al menos 20 empleados.
+Empleado II;Tener al menos 50 empleados.
+Empleado III;Tener al menos 100 empleados.
+Dinero de bolsillo;Tener al menos $ 50.000.000.
+¡Eso no es suficiente!;Tener al menos $ 500,000,000.
+Club de las Tres Comas;Tener al menos mil millones de dólares.
+Consola de guerra II;Vende al menos 10,000,000 de unidades de tu propia consola.
+Líder de mercado;Vende al menos 50.000.000 de unidades de tu propia consola.
+Mi nombre es Sid Maier;Contrata a una leyenda de desarrolladores.
+Tour de compras I;Compra un desarrollador o editor de NPC.
+Tour de compras II;Compra al menos 10 desarrolladores o editores de NPC.
+Tour de compras III;Compra al menos 30 desarrolladores o editores de NPC.

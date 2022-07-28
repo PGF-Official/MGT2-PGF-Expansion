@@ -1,0 +1,80 @@
+﻿Optimiser le moteur graphique <0>
+Programmation du système audio <0>
+Développer éditeur de niveau <0>
+Optimiser la physique du jeu <0>
+Quêtes de script <0>
+Optimiser l'IA ennemie <0>
+Optimiser les temps de chargement <0>
+Programmation du système de mémoire <0>
+Créer une interface utilisateur <0>
+Programmation du système de base de données <0>
+Développer un prototype de jeu <0>
+Développer l’outil de localisation <0>
+Développer un outil de diagnostic <0>
+Compresser les ressources du jeu <0>
+Programmation du système de dialogue <0>
+Développer un système de collision <0>
+Programmation du navigateur de fichiers <0>
+Programmation du Chargement de niveaux <0>
+Programmation du gestionnaire d'entrée <0>
+Programmation du Gestionnaire de Sprites <0>
+Développer le contrôleur de débogage <0>
+Programmation du gestionnaire d'événements <0>
+Développer le système d'animation <0>
+Développer l'éditeur de sprite <0>
+Développer des pilotes <0>
+Mettre en œuvre la protection contre la copie <0>
+Optimiser le système de contrôle <1>
+Conception des niveaux <1>
+Test de bogue général <1>
+Quêtes de test <1>
+Créer un concept de jeu <1>
+Tests de compatibilité matérielle <1>
+Tester la stabilité du jeu <1>
+Analyser les performances du jeu <1>
+Tester les mises à jour du jeu <1>
+Optimiser l'équilibrage du jeu <1>
+Test des plug-ins <1>
+Analyse d’un prototype <1>
+Test de l'interface utilisateur <1>
+Créer un storyboard <1>
+Rédaction de dialogues <1>
+Créer des sprites de personnages <2>
+Dessiner des arrière-plans <2>
+Dessiner des éléments <2>
+Dessiner l’interface utilisateur <2>
+Créer des graphiques conceptuels <2>
+Dessiner des éléments de décor <2>
+Créer des effets spéciaux <2>
+Dessiner la couverture <2>
+Créer un jeu de tuiles de niveau <2>
+Polices de conception <2>
+Animer les personnages <2>
+Créer une bande son <3>
+Créer des sons de personnage <3>
+Enregistrer les sons des armes <3>
+Créer des sons d'interface utilisateur <3>
+Créer des sons dynamiques <3>
+Créer des sons d'ambiance <3>
+Créer des sons magiques <3>
+Enregistrer les bruits d'animaux <3>
+Créer des bruits de moteur <3>
+Enregistrer de la musique classique <3>
+Créer des sons de robot <3>
+Mélange de sons d’explosion <3>
+Enregistrer les mouvements de base <4>
+Enregistrer l'animation d'arts martiaux <4>
+Créer des animations de scènes coupées <4>
+Créer des animations d'animaux <4>
+Enregistrer l'animation du jeu d'épée <4>
+Créer des animations pour les monstres <4>
+Créer des animations de danse <4>
+Enregistrer les joueurs de football <4>
+Créer des animations d'émoticônes <4>
+Enregistrer les animations du robot <4>
+Consoles de réparation<7>
+Concevoir un prototype de console<7>
+Diagnostiquer le prototype de la console<7>
+Réviser la carte mère de la console<7>
+Tester les performances d'un prototype<7>
+Optimiser le système de refroidissement<7>

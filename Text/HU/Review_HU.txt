@@ -1,0 +1,889 @@
+﻿[GAMEPLAY_10]
+A játék egyáltalán nem szórakoztató. A játékmenet gyenge és egyszerű!
+A játékmenet annyira rossz, hogy nem volt motivációm a játék folytatására.
+A cselekményhez és a játékhoz csak egy szavam van: Szánalmas!
+Ez egyértelműen az év legrosszabb játékmenete!
+A játékmenet annyira rossz, hogy a játéktervezőknek más szakmában kellene fejleszteniük.
+Olyan rossz a játékmechanika, mintha egy rubik kockát raknék össze, egyszerű és bugyuta.
+A játékmenetre egyetlen egy szó létezik, az pedig a szánalom!
+Senki nem játszotta végig ezt a szemetet a megjelenés előtt? Játszhatatlan!
+A játékmenet gyengén kezdődött, majd élesen leesett.
+[END]
+
+[GRAPHIC_10]
+A grafika nagyon silány! Ritka ilyet látni.
+A grafika sértő a szememben. Szörnyű!
+Csak nevetni tudok a rendkívül elavult grafikákon. Szavak nélkül.
+Grafikailag ez a játék felháborító. Ennél aligha lesz csúnyább!
+Ezek a grafikák nagyon rosszak!
+A három éves lányom jobb grafikát tud csinálni, mint ezek.
+Egy játék, ahol jobb, ha a képernyőt nem kapcsoljuk ki.
+Van olyan törvény, amely lehetővé teszi, hogy kártérítést kapj a rossz grafika miatti fájdalomért és szenvedésért?
+Ez nem grafika. Ezek törött pixelek.
+A játék megmutatja nekünk, hogy a grafikusoknak először el kell sajátítaniuk bizonyos művészeti ismereteket.
+Az egyetlen dolog, ami a grafikának köszönhető: pixeleket használ igen-ám, de rosszat.
+Nem tudom, mi fáj jobban a szemnek: Tabasco vagy ezek a grafikák.
+[END]
+
+[SOUND_10]
+A zene és a háttérhang bántó a fül számára!
+A hang: A hangszórók hangos csipogása végig idegesítő.
+Alig vannak hanghatások. Szerencsére! Mivel a játékzene már idegesítően hangzik.
+A hangról: Vigyázat! Ez a játék halláskárosodást okozhat!
+Csak nevetni lehet a nevetséges hanghatásokon.
+A fúró hangja ehhez képest megnyugtató.
+A hanggal kapcsolatban csak egy dolgot tudunk ajánlani: Kapcsolja ki azonnal!
+Ami a hangot illeti: Beethoven és Mozart forog a sírjában.
+Nem vagyok biztos benne, hogy a hangszóróktól érkező zaj egyáltalán valóban zene-e.
+Csak annyi, hogy aki ezeket az hangokat csinálta... inkább más műfajt kellene választania.
+A hang sérti a genfi egyezményeket. Szörnyű!
+Az öt perces hangjelzés ostorcsapásnak tűnik.
+Tudja milyen hangja van, amikor valaki a körmét huzza végig a táblán? Ennek a játéknak a hangjai hasonlóak.
+[END]
+
+[CONTROL_10]
+Az irányítás túl bonyolult és pontatlan. Kibírhatatlan!
+Csak a fejét fogja rázni az irányítások láttán. Szóhoz sem jutok!
+Írnék valamit az irányításról... De a játék játszhatatlan!
+A szörnyű irányítás egyszerűen katasztrófa. A frusztráció garantált!
+A rendkívül nyomorúságos irányítások miatt a játék nehezen megközelíthető.
+Egy szó az irányításról. Piszoár használata közben könnyebb kézenállást végrehajtani.
+Világos, hogy a fejlesztők nem értik a bemeneti eszközök jelentését.
+Jobban tudod kezelni a vad bikát, mint ezt a játékot. Nagyon rossz irányítás.
+Tudja, mi a játék legkritikusabb része? Esetleg valóban el is tudja indítani?
+Aki megérti és elsajátítja ezeket az irányításokat, megérdemli a doktori fokozatot. Tényleg játszhatatlan!
+Az irányítás annyira rossz, hogy az értékelés során 100 ősz hajat növesztettem.
+Az irányítás olyan, mint mikor valaki megpróbálja partra vinni a süllyedő Titanicot.
+Az irányítás a kínzás modern formája! Ki programozta ezt?
+[END]
+
+[TOTAL_10]
+A játék egy katasztrófa! Számomra ez az év egyik legrosszabb játéka.
+Következtetés: Tartsa távol a kezét ettől az inspirálatlan munkától!
+Végül: Ez a játék csak pisi szegény!
+Még ajándékba se akarom adni ezt a játékot. Az év poénja!
+Ez a játék számomra a hónap szarja!
+Ez a cím egyszerűen katasztrófa. Nem éri meg a pénzt!
+Tavaly adóellenőrzést kaptam. Az szórakoztatóbb volt, mint ez a játék.
+Ez a játék nagyszerű ajándék, ha meg akarsz szabadulni a barátaidtól.
+A fejlesztő kreatív módon mutatja be, hogyan tegye magát tönkre ezzel a játékkal.
+Nincs miért játszani ezt a játékot. Szörnyű!
+Következtetés: A játék megmutatja, hogy a számítógépes játékok nem mindig művésziek. Néha csak szemét.
+A játék egy klinika eset arról, hogyan válhat az ipar nevetségessé.
+Nem szabad megvenni ezt a játékot, hanem inkább eltemetni jó mélyre!
+Komolyan gondoljátk ezt, fejlesztők? Játszottatok egyáltalán 10 percet ezzel a szeméttel?!
+A játék olyan kegyetlen, hogy hányingerem lett tőle.
+Egy játék, amely még a játéktesztelőket is hidegen hagyja. Ez egy kínzás.
+Aki beprogramozta ezt a sajnálatos kóddombot, annak szégyellnie kellene magát.
+[END]
+
+[GAMEPLAY_20]
+Ami a játékmenetet illeti, nem szórakoztató!
+A monoton és unalmas játékmenet nem szórakoztató!
+Az éretlen játékmenettől, már az első perctől elkezdtem unatkozni.
+A játékmenet állítólag túl primitív, s a történet is eléggé unalmas.
+A játékmenet borzasztóan unalmas, s az egész játékmenet szánalmas.
+Próbálja ki az 52-es pickupot, amely sokkal kielégítőbb, mint ez a játékmenet.
+Ha azt állítom, hogy a játékmenet rossz, akkor ez hazugság. Mert rendkívül rossz!
+Ami a játékmenetet illeti, valakinek vissza kell mennie az iskolába.
+A játékmenet ugyanolyan rossz, mint a történet. Ezt senkivel se lehet megtenni!
+A 24 órás sakkverseny maraton nézése izgalmasabb, mint ez a játék.
+A játék tiszta unalom! A játékmenet ugyanolyan szórakoztató, mint a lábgombásodás.
+A játékmenet nagyon silány. Ettől a történettől, még a kávé is fáradt lesz tőle.
+Amikor kifejlesztesz egy játékot, a játékmenetre is gondolni kell. Sajnos itt senki nem tette ezt.
+[END]
+
+[GRAPHIC_20]
+A grafika reménytelenül elavult és már nem felel meg a mai szabványoknak.
+Szeretet hiánya és a grafika hiánya miatt, kénytelen felvenni a cipőt a többi játékkal.
+A nagyon egyszerű grafika nem ösztönzött engem a játék folytatására.
+A grafika egyszerűen katasztrófa! Szeretetlen, elavult és csúnya.
+A rendkívül csúnya grafika messze elmarad a műfaji átlagtól.
+Grafika? Milyen grafika?
+A grafika vizuálisan ugyanolyan látványos, mint egy szarkupac.
+Amit grafikusan kínálnak nekünk, az nagyon kevés és nagyon rossz!
+A barlangfestés még mindig modernnek tűnik e grafikákkal szemben.
+A grafika úgy néz ki, mintha valaki egy léggömböt festékkel töltött volna meg, és a képernyőhöz dobta volna.
+Úgy tűnik, hogy a grafikusok részegek voltak a fejlesztés során.
+A játék grafikája egy elütött békára emlékeztet. Nem szép nézni!
+A grafika valószínűleg kávészünetek alatt készült. A minőséget másképp nem tudom leírni.
+A grafika annyira rossz, hogy még a kör is téglalapnak tünik benne.
+A grafika fénypontja a fekete képernyő, mielőtt bekapcsolná. Innentől pedig csak rosszabb.
+A grafika amatőr színpadi műsor. A fejlesztőknek több erőfeszítést kellett volna tenniük.
+[END]
+
+[SOUND_20]
+Az elviselhetetlen zenével együtt kombózva, azonnal le kell vennie a hangerőt nullára!
+A hanghatások nem jelentenek semmiféle boldogságot. A tanácsom: Kapcsolja ki a hangot!
+A hanghatások a legrosszabbak, amiket mostanában hallottam.
+A digitalizált hanghatások szebbe fogalmazva "Vacak". Nincs több mondanivalóm.
+A hangok a játékban nagyon gyerekesek.
+A szánalmas hanghatások egyszerűen rossz álmoknak tűnnek!
+Olyan rossz a hangja a játéknak, hogy az interferencia hanghatásnak jobb hangzása van mint ennek.
+A hangról: Jobb lett volna, ha nincsenek hanghatások.
+Néhány szó a hangról: Néhányan zenének hívják. A többiek kínzásnak hívják.
+A fejlesztők egy új zenei stílust találtak fel, a síkolyt! A hangról már nincs mit mondani.
+Ha rengeteg pénzt költött a hangszórókra egyet ajánlok: Kerülje el ezt a játékot!
+Valami pozitív a hangzásban: A hangszórókból hangok kerülnek ki. Sajnos a rosszak.
+Nagyon...rosszak...a...hangok
+A WC-öblítésem jobban hangzik, mint a játékzene. Nagyon nagyon rossz!
+[END]
+
+[CONTROL_20]
+Az irányítás egyszerűen nevetséges. Játszhatatlan!
+Az irányítás rendkívül pontatla és szörnyű!
+Az állandó potatlan irányítás kétségbeesést okoz. Így nem lehet szórakozni!
+A pontatlan irányítás valódi kudarcot jelent. Több munkát kellett volna az irányításra fordítani.
+Sajnos azt kell mondanom, hogy az irányítás teljes kudarcot vallanak. Itt gyorsan beáll a frusztráció!
+Az irányítás nem erre a bolygóra készült. Olyan silány, hogy nem lehet az emberek számára játszhatóvá tenni.
+Az irányítás, csak a sok türelemmel rendelkező emberek számára való. Mindenki mást, pedig kétségbe ejti!
+Sajnos nem tudtam alaposan tesztelni a játékot, mert az irányítás nagyon rossz!
+Az irányítás miatt, a kontrollert a falnak szeretné dobi. Frusztráló!
+Sajnos a szórakozás a játék irányítása miatt ált meg. Olyan pontatlan, hogy kételkedtem a képességeimben.
+A rendkívül pontatlan irányítások összehasonlíthatók a kormány nélküli autóval. A fejlesztők itt megbuktak!
+[END]
+
+[TOTAL_20]
+Aki több mint 15 percig játszza ezt a játékot, érmet érdemel!
+A tippem: El a kezekkel ettől a játéktól!
+Ez a játék nem éri meg a pénzt, mert az unalom garantált!
+Becslésem szerint ez a játék szar lesz!
+Következtetésem: Ha még nem hallottál erről a játékról, akkor nem fogsz sokat hiányolni.
+A következtetés: Ez a játék senkit sem fog boldoggá tenni!
+Tippem: Pénzt kérni a játékért.
+Túl sok pénzed van? Dobd ki az ablakon. Az sokkal szórakoztatóbb, mint ez a játék.
+Következtetés: Sok nagyszerű játék létezik. Ez a játék nem tartozik közéjük.
+Gyökércsatorna vagy ez a játék? Gyökércsatorna! Érzéstelenítés nélkül.
+Kötelező vásárlás - ha kinozni szeretné magát!
+Csak akkor vásárolja meg ezt a játékot, ha van még hely a kukában.
+Biztos vagyok benne, hogy holnapra már senki sem fog emlékezni a játékra. Borzalmas!
+Tudod, mi igazán szórakoztató ebben a játékban? Semmi!
+Ha ledobnál egy súlyzót a lábadra, az sokkal szórakoztatóbb, mint ez a játék.
+A fejlesztőknek szégyellniük kellene magát, emiatt a játék miatt. A hónap szara!
+A fejlesztők valószínűleg, csak egy gyors viccet akart csinálni, s nem egy jó játékot fejleszteni. Szemét!
+Ez a játék nagyon rossz. Ha megharapja a nyelvét, még az is szórakoztatóbb!
+[END]
+
+[GAMEPLAY_30]
+A játékmenet nem motiváló. A játék egyszerűen nem szórakoztató.
+A játékmenet éretlen és a legkevésbé sem meggyőző.
+A játékmenet nagyon leegyszerűsített, ami nem ígér nagy játékélményt.
+Nem voltam annyira jó kedvemben a vélemény írása közben. Egyszerűen hiányzik a régi játékmenet.
+A nem inspirált játékmenet hosszú távon nem képes magával ragadni. Egyszerűen nem szórakoztató.
+Az alacsony erőfeszítésű játékmenetből hiányoznak a friss ötletek. A cselekmény és a történet sem jobb.
+A történet még elmegy, de a játékmenet viszont nem győzött meg!
+Az ókori egyiptomiak hívtak: Visszakérik a játékmenetüket. Reménytelenül elavult!
+A játékmenet igénytelen. Nagyítóval lehetne keresni tűt a szénakazalban.
+A játékmenetnek van néhány jó ötlete, amelyeket nagyon rosszul valósítottak meg.
+A játékmenet az első percekben még szórakoztató is, de utána minden ismétlődik.
+A játékmechanikát nagyon nehéz megszokni, egyszóval UNALMAS!
+A cselekmény ugyanolyan izgalmas, mint egy tesztminta, ja és a játékmenet igénytelen.
+Sajnos a fejlesztők teljesen elcseszték a játékmechanikát. A játék egyszerűen unalmas!
+A játékmechanika nagyon egyszerű. Legkésőbb 30 perc elteltével a legtürelmesebb játékos is unatkozni fog.
+[END]
+
+[GRAPHIC_30]
+Még egy szó a grafikáról: Sajnos ebben nincs egy csepnyi erőfeszítés se!
+A grafikus ábrázolás a legalacsonyabb minőségű. A grafika valószínűleg utólagos gondolat volt.
+A grafika messze áll attól, amit ezen a rendszeren megvalósíthattak lett volna.
+A grafika rendkívül monoton. Más ilyen műfajú játékok sokkal jobb grafikával rendelkeznek.
+A grafika az átlag alatt van. 100 játék közül legalább 95 jobban néz ki mint ez.
+A fejlesztők láthatóan színvakok voltak. Egyébként nem tudom megmagyarázni ezt a rossz grafikát.
+A játék grafikája megfizethetetlen. A fejlesztőknek több időt kellett volna fordítaniuk a játék grafikájára.
+Sajnos a grafika nagyon elavultnak tűnik. Ez levonásokat eredményez az összértékelésben.
+Vizuálisan a játék többnyire az átlag alatt van. Nem jó munka a grafikusok részéről!
+Sajnos a fejlesztők mindent rosszul csináltak a játék grafikájával.
+A grafika lehetne rosszabb, de ennyi erővel jobb is lehetne.
+Tipp a fejlesztőnek: Legközelebb fektessenek egy kicsit több időt a grafikába.
+A grafika az átlag alatt van.
+[END]
+
+[SOUND_30]
+A játékzene nem megfelelő és a hanghatások is karcosak.
+A hangszórók egyszerű hanghatásai nem teszik lehetővé a magasabb besorolást.
+A hangok nem felelnek meg ezen a rendszeren. Rossz!
+Az egyszerű hanghatások és a béna játékzene a legkevésbé sem voltak meggyőzőek.
+Sajnos az egyszerű hanghatások nem felelnek meg az ilyen játékok szokásos minőségének.
+A hanghatások olyan rosszul szólnak, azt hittem, hogy a hangszóróim elromlottak.
+A játékzene még tűrhető, de a közepes hanghatások ingadozó hangereje idegesítő.
+A hanghatások sértik a fülemet. Ez nem volt jó munka a hangtervezők részéről.
+A játék hanghatásai az átlag alattiak és a játékzene nem fülbemászó.
+Az elektromos borotvám jobban szól, mint ennek a játéknak a hanghatásai.
+A zene az elején nagyon szép, de néhány perc múlva már kezd idegesíteni.
+Sajnos a hanghatások és a játékzene egyáltalán nem passzol a játékmenettel.
+Ismered az unalmas zenét az áruházakban? Így hangzik ennek a játéknak a játékzenéje.
+A zene teljesen inspirálatlannak tűnik és a hanghatások rosszul vannak kifejlesztve.
+Sajnos a hanghatásokat amatőröknek kellett létrehozniuk.
+A hanghatások technikailag teljesen elavultak. Sokkal jobb is lehetett volna ezen a játékrendszeren.
+[END]
+
+[CONTROL_30]
+Az irányítások nagyon pontatlanok. Ez jelentősen csökkenti a játék szórakozását.
+A pontatlan irányítások frusztrálóak. Ezáltal a játék kevésbé szórakoztató.
+A bonyolult irányítás valóban nem a hétköznapi játékosok számára készült!
+Az irányítás egyáltalán nem tetszik. Egyszerűen túl bonyolult!
+Az irányítás nem annyira jó. Ez gyorsan frusztrációhoz vezet.
+A bonyolult irányítás nem kezdőknek való. Még a profi játékosoknak is lesznek problémáik.
+A bonyolult és pontatlan irányítás miatt a játék nem tudja megmutatni az erősségeit.
+Az irányítás nagyon béna. Ezt jobban is kivitelezhették volna!
+Mi a különbség e irányítás és a kvantumfizika között? A kvantumfizikát könnyebb megérteni.
+Az irányítás miatt gyorsan frusztrált lesz a játékos, ezt garantálom. Emiatt pontokat kell levonnom az összesített értékelésből.
+A játék irányítása nagyon bonyolult. Újra és újra elveszítem a játék irányítását. Ez nem szórakoztató.
+Olyan az irányítása, mintha egy kotrógéppel próbálna meg műveletet végrehajtani.
+Pozitív: A főmenüt könnyű kezelni. Negatív: A tényleges játék vezérlése katasztrófa.
+A műfaji szabványokat egyszerűen figyelmen kívül hagyták az irányítás során. Más játékok ezt sokkal jobban csinálják!
+Ha szereti, ha az irányítás elveszik magától, imádni fogja ezt a játékot. Mindenki mást pedig idegesíteni fogja.
+A játék irányítása túl bonyolult. A kézikönyv megtekintése rutinszerűvé válik.
+[END]
+
+[TOTAL_30]
+A fejlesztők nem hiszem, hogy büszkék erre a játékra!
+Ez a játék még a műfaj rajongói számára is csalódás!
+Következtetésem: Még a műfajrajongóknak is széles helyet kell adniuk ennek a játéknak!
+Véleményem: Ha már régóta várja ezt a játékot, inkább gondolja meg, hogy megéri-e a vásárlást!
+Ez a játék senkit se fog szórakoztatni. Egy csalódás!
+Azok, akik sokat várnak ettől a játéktól, csalódni fognak.
+A játékot csak a profi játékosok számára tudom ajánlani... akik unatkoznak!
+A játék a közepes tankönyvdefiníciója.
+Valljuk be, sok játék van kint a piacon, ami jobb mint ez.
+Következtetés: A játékban semmi sem egyedi. Nem érdemes megvenni!
+A következtetésem: A játékok általában boldogságot szoktak sugározni, nem pedig gyötrödést. Ez sokkal jobban működne, higgyék el.
+A játéknak van néhány jó ötlete, amelyet a rosszul kiviteleztek. Senkinek se ajánlom!
+Egy profi fejlesztővel, még jó játék is lehetett volna.
+Végül a játék egy szemétdomb lett. Erre senkinek nincs szüksége a gyűjteményében.
+Kár érte, pedig a játék elég szórakoztató lehetett volna, hogy ha a fejlesztés során nem követtek volna el sok hibát.
+Sajnos ez csak a "rossz" jóváhagyási pecséthez elegendő.
+A játék egy csiszolatlan kavics, vagyis nem képes lépést tartani a mai konkurenciával.
+A játék teljes kudarc. A fejlesztés során biztosan sok minden elromlott.
+Nagyon unalmas egy játék inkább kerüljék el, van ettől sokkal jobb is a piacon!
+[END]
+
+[GAMEPLAY_40]
+A csiszolatlan játékmenet nem enged sok szórakozást. Kár érte!
+A játékmenet egyszerűen unalmas. Nem szeretem!
+A régi és csiszolatlan játékmenet gyorsan elaltatott.
+Az unalmas történet és az egyszerű játékmenet, csak nagyon rövid ideig tud motiválni.
+A játékmenet nagyon egyszerű és nem is annyira szórakoztató.
+A játékmenet szempontjából ez a játék nem túl izgalmas. A játékmenet csiszolatlan és unalmas.
+Az unalmas történet és az egyszerű játékmenet nem tesz lehetővé sok játékélményt.
+Sajnos a játék nem tudott megvenni. A játékmenet gyengeségei mindenhol megtalálhatóak.
+Sajnos a "kreatív" játékmenet nem kínál semmi újat. Ezért gyorsan unalmas lesz a játék.
+A játékmenet nagyon elavult és unalmas, nem éri meg megvenni!
+A játékmenet szempontjából a játék ugyanolyan izgalmas, mintha házimunkát csinálnék, vagyis unalmas.
+A játékmenet az átlag alatt van. A cselekmény elfér egy gyufásdobozon.
+A történet nagyon gyerekes és a játékmenet sem tud nagyon motiváló lenni.
+A játékmechanika csiszolatlan és nem tud lépést tartani hasonló kaliberű játékokkal.
+Sajnos a játékmenet nem kínál semmi újat. Sokat másoltak más játékokból.
+A játékmenet át lett másolva az átlagos címekből. Új ötlet nem valósult meg.
+A játékmenet olyan, mint egy futószalag. Nem élvezetes.
+Az ilyen féle játékmenetet már 1000-szer láttam. Úgy tűnik, az új ötleteket szándékosan kihagyták.
+A játékmenetből hiányzik az innováció. A történet gyenge, s legjobb esetben átlagos.
+[END]
+
+[GRAPHIC_40]
+Sajnos a grafika nem meggyőző. Műfaji szempontból is átlag alatti.
+A grafika legjobb esetben az átlag alatt van. Többre számítottam.
+A műfaji szabványok szerint is nagyobb figyelmet lehetett volna fordítani a grafika általános tervezésére.
+A grafika csiszolatl. A többi játék ezt már rég túlteljesítette.
+Az elavult grafika csiszolatlan és nem érdemel érmet.
+A csiszolatlan grafikus ábrázolás a legjobb esetben sem megfelelő.
+Úgy tűnik, a grafikusok nem nagyon vágyakoztak. Az eredmény az átlag alatt van.
+Ha grafika rajongó vagy, kerüld el ezt a játékot.
+Sajnos a grafika legjobb esetben is, csak átlagos. Talán más erősségei vannak.
+Vizuálisan a játék teljesen unalmasnak tűnik.
+Az alacsony részletességű grafika nem fogott meg. Az átlag alatt vannak.
+Túlzás azt mondani, hogy a grafika úgy néz ki, mintha valaki a monitorra köpött volna. Nagyon csúnya.
+A játék grafikája jelentősen elmarad a jelenlegi átlagtól.
+A műfaj valóban jobb grafikát érdemel. Ez az átlag alatt van.
+A fejlesztő nem értette, hogy a számítógépes játékok vizuális médiumok. Nem tudom másképpen megmagyarázni a csiszolatlan grafikát.
+A grafika gyengén van részletezve, s még csiszolatlan is.
+[END]
+
+[SOUND_40]
+Sajnos a hangnak vannak gyengeségei és nem is használja ki a rendszer képességeit.
+A hangszórókból sajnos csak monoton zene szól. Nem szép!
+A hanghatások a műfaji színvonal alatt vannak. Jobb hanghatásokat szoktam hallani a fűrdőszobából.
+A hangokkal nem törekedtek és a hangsáv sem volt sokkal jobb.
+A néhány hanghatás nem túl lenyűgöző. Sok játékosnak nem nagyon fog tetszeni.
+A digitalizált hanghatások kevés változatot kínálnak. Többre vágytam.
+A hang technikailag gyenge és elavult.
+A zene elfogadható, de a hanghatások rendkívül idegesítőek.
+A hanghatások sajnos úgy hangzanak, mintha egy héttel a megjelenés előtt macskakövesítették volna őket.
+A menüben található dal remekül hangzik! Viszont ami a játékközben van, inkább jobb kikapcsolni.
+A hanghatások úgy hangzanak, mintha két ember készítette volna őket. Egy nagyon tehetséges és egy amatőr.
+A zene egyáltalán nem illik a játékba. A hanghatások átlagosak.
+A zene úgy hangzik, mintha folymatosan megállás nélkül lifteznék. Egyszerűen túl monoton!
+A hangeffektek még elfogadhatóak, viszont mégse illik a műfajhoz és játékhoz.
+[END]
+
+[CONTROL_40]
+A bosszantó irányítás miatt az átlag játékos kétségbe fog esni.
+A bonyolult irányítá nagyon idegesítő. A legtöbb játékos gyorsan frusztrált lesz.
+Az irányítás egyszerűen egy romhalmaz.
+A rettenetesen bonyolult irányítás még a műfaj rajongói számára is elrontják a játékmenetet.
+Az irányításnak sokkal jobbnak kellett volna lennie. Az ilyen játék nem szórakoztató.
+A játék irányításának a megértése eltart egy ideig.
+A csiszolatlan irányítás miatt a játék néha idegesítő volt.
+Az élet túl rövid ahhoz, hogy megtanulja a játék teljes irányítását.
+A irányítás rendkívül pontatlan. Egyszerűen nem tudtam megbarátkozni az irányítással.
+Sok gyakorlással alkalmazkodni lehet a szemétfaktorhoz. Ez azonban nem szórakoztató.
+A szerkesztőségben senki sem volt megelégedve az irányítással. Még a menükben is túl bonyolult az irányítás.
+Az irányításról: A játék megmutatja, hogy egyszerű dolgokat hogyan lehet bonyolulttá tenni.
+[END]
+
+[TOTAL_40]
+Még az is aki ezt a műfajt szereti, úgy fogja gondolni, hogy nem éri meg a pénzt.
+Az ilyen műfaj rajongói kétszer is átgondolják, érdemes-e megvenni.
+A játék az első 30 percben szórakoztató. Ezt követően a folytatás motivációja gyorsan csökken!
+Következtetésem: A játék egyszerűen nem szórakoztató. Nincsen semmi öröme ennek a játéknak!
+Mivel a játékból hiányzik a csiszolás, emiatt nem tudom ajánlani.
+Következtetés a játékról: Ha tetszik, hajrá vegye meg. Én mondjuk kihagynám!
+Csak a műfaj kemény rajongóinak tudom ajánlani ezt a játékot. Mindenki másnak pedig: El a kezekkel!
+Az első pillanatok nagyszerűek, utána gyorsan beindul az unalom!
+Sajnos még az sem volt elég, hogy átlagosnak tudjam mondani.
+A műfaj kemény rajongóinak ki kell próbálniuk. Mindenki másnak, pedig azt ajánlom, hogy hanyagolja ezt.
+Következtetés: A játéknak kevés erőssége és sok gyengesége van.
+Ha jobban odafigyelnek a részletekre lehetett vola legalább egy átlagos játék is.
+Következtetésem: A játék még 50 pontot sem érdemel!
+Végül azt kell mondani, hogy nem elég nagy slágernek lenni, de még kicsinek is kell lenni elsőnek, ami ennél nem sikerült.
+Ennek a játéknak mindenképpen vannak erősségei, de túl sok hibát követtek el a fejlesztők és ez rontja a játékélményt.
+Alig vártam már ezt a játékot, hogy megjelenjen. Sajnos miután kipróbáltam, nagyon nagyot csalódtam.
+[END]
+
+[GAMEPLAY_50]
+A rendkívüli gyenge játékmenet nem teszi lehetővé a játék szórakozását.
+A minimalista játékmenet nagyon elavultnak tűnik.
+A játékmenet kiegyensúlyozatlan és nem elégít ki.
+A játékmenet nem győz meg engem, s a játékmenet egyszerűen kiegyensúlyozatlan.
+Érdekes játékkoncepció, amely hamar unalmassá vált.
+Ha ez az átlagos játékmenet válik a mércévé, a műfaj hamarosan válságba kerül.
+A játékmechanika egész jónak tűnik egészen addig, amíg el nem kezdek játszani.
+A játékmenetben nincsenek újítások. Úgy tűnik a fejlesztő elégedett az átlaggal.
+Örültünk volna, hogyha a játékmenetet tovább újították volna. Jelenleg ez így középes.
+Az inspirátlan játékmenet tömegtermékké változtatja a játékot.
+A játékmechanika mutat néhány jó megközelítést, de ezeket nagyon rosszul valósították meg.
+A fejlesztők sok újítást ígértek nekünk a játékmenet terén. Sajnos a játék egyszerűen unalmas.
+A történetszál ugyanolyan izgalmas, mint a nagymamám papírkötései. A játékmenet sem sokkal jobb.
+Az "unalmas" szó elég jól leírja a játékmenetet és a történetet.
+Ez a műfaj többet érdemel, mint egy ilyen sima átlagos játékot.
+A történet elviselhető, de a fejlesztőknek többet kellett volna dolgozniuk a játékmeneten.
+A játékmenet egyszerűen monoton. Szerettünk volna több kreativitást látni.
+[END]
+
+[GRAPHIC_50]
+Sajnos a csiszolatlan grafika nem meggyőző. A többi játéknál jobb munkát végeznek.
+A funkcionális grafika nem igazán meggyőző. Nem szeretem.
+A grafika nem olyan részletes, mint más jobb játéknál.
+Sajnos a grafika legjobb esetben is közepes, még műfaji mércével is nézve.
+A grafikus ábrázolás közepes, s senkit nem fog lenyűgőzni.
+A grafikai effektek nem túl látványosak, lehetne rosszabb is.
+A grafika biztos, hogy nem fog szépségdíjat nyerni. Legjobb esetben, átlagos.
+A csiszolatlanul grafika miatt csúnyán néz ki, s emiatt nem lehet jobban értékelni a játékot.
+A játéknak a grafikája nem jó, de nem is tragikus.
+Vizuálisan a játék csak "közepesnek" nevezhető.
+A grafika számomra szeretetetlennek és csiszolatlannak tűnik.
+A haszonelvű grafika egyikünket sem nyűgőzőtt le.
+Az azonos műfajú játékok, sokkal jobb grafikával rendelkeznek.
+A játék grafikája nem annyira rosz, de díjat viszont semmiféleképpen nem érdemel.
+Ha nincsenek nagy igényeid a grafikával szemben, akkor ez a játék neked való.
+A játék grafikája elfogadható. Szerettem volna, ha nagyobb figyelmet fordítanak a részletekre.
+Grafikailag a játék csak átlagos.
+Ennek a címnek a grafikája láthatóan, csak másodlagos prioritás lehetett a fejlesztés során. Közepesen értékelhető.
+[END]
+
+[SOUND_50]
+A hangeffektek és az átlag alatti játékzene, ami igazi csalódás számomra.
+A hang rendben van. De a játékzene nem felel meg az elvárásaimnak.
+A zene és a hangeffektek néhány kivételtől eltekintve meglehetősen elfogadhatóak.
+A hangeffektek elfogadhatóak, de nem felelnek meg a mai követelményeknek.
+A hangeffektek senkit sem fognak lenyűgőzni, s a játékzene is, csak átlagosnak mondható.
+Sajnos kevés látványos hangeffekt van ebben a játékban, s emiatt nem tudott teljesen lenyűgőzni.
+A hangeffektek egészen rendben vannak. De sajnos ez nem elég, hogy magasabb pontszámot tudjak adni a játéknak.
+A hang nem annyira idegesítő, mint egy porszívó hangja. Viszont nem áll messze tőle!
+A zene jó, de monoton. A hangeffektek pedig közepesek.
+Sajnos a játék hangeffektjei nem igazán tudtak meggyőzni.
+Mitől különleges a játék hangja? Semmitől! De láttam már ettől rosszabbat is.
+A zene képernyővédőhöz is illett volna. A hangeffektekről, meg inkább nem mondok semmit, nagyon rossz.
+Úgy tűnik, hogy a hangtervezők igyekeztek tisztességes hangeffekteket létrehozni. Sajnos, még így is gyenge!
+A játékzene nagyon jó lenne, ha illene a játékhoz. De sajnos ez nem így van.
+A hangeffektek valószínűleg egy átlagos könyvtárból származnak. Átlagos és sablonos az egész.
+[END]
+
+[CONTROL_50]
+Az átlag alatti irányítás miatt eléggé csalódott vagyok.
+Meg kell szokni a játéknak az irányítását. Bizonyos pontokon elkerülhetetlen a frusztráció.
+Kicsit túl bonyolultnak találom a játék irányítását!
+Sajnos a játék irányítása nincs megfelelően elvégezve. Gyakran túlterhelve érzed magad.
+A játéknak az irányítása elég gyatrára sikerült.
+Az furcsa irányítás miatt egy kis időre van szükségünk ahhoz, hogy megszokjuk. Ezt jobban is meg lehetett volna oldani.
+A játék irányítás nem tudott meggyőzni minket. Időnként kicsit pontatlan.
+Az irányítás az egyik olyan dolog, ami miatt negatívan tudom értékelni ezt a játékot.
+Az irányítás átlagos. Többet nem nagyon tudok róla mit mondani.
+A játék egyszerű irányításának ellenére az értékelés során problémáim voltak a pontossággal.
+Sajnos a játékirányítás nem elég intuitívak. Vagyis csak a középszerűség marad meg.
+A játék irányítása egyszerűvé teszik a bonyolult dolgokat. Viszont sajnos az egyszerű dolgokat, pedig nagyon elnehezíti.
+A játék irányítása a céljukat szolgálják, nincsenek különösebb erősségeik vagy gyengeségeik.
+A játék kevésbé intuitív irányítása miatt nem tudok magasabb pontszámot adni.
+[END]
+
+[TOTAL_50]
+Jó játék lehetett volna, jó programozókkal, de sajnos eléggé átlagos és sablonos az egész. Kár érte!
+Ez a cím egy közepes játék, amely sok kívánnivalót hagy maga után.
+Nem kötelező játék végigjátszása, csak azoknak tudom ajánlani, akik szeretik ezt a műfajt.
+Lényegében nem egy rossz játék, de nem ajánlom senkinek.
+Következtetés: Átlag alatti játék, amely gyorsan unalmassá válik.
+Véleményem: Csakis a hardcore műfaj rajongóknak tudom ajánlani.
+A játék egyszerűen túl korán jelent meg.
+A műfaj rajongói jól érezhetik magukat ebben a játékban. Mindenki másnak pedig azt ajánlom, hogy ne vegye meg!
+Következtetés: A fejlesztők túlteljesítették magukat. Az eredmény közepes.
+Következtetésem: Nem játszhatatlan, de nem igazán szórakoztató.
+Nem egy rossz játék, lényegében a hibák miatt nem tudok magasabb pontszámot adni.
+Úgy látom, hogy a fejlesztők igyekeztek, de igazából ez a játék nem más, mint egy triviális műfaj képviselője.
+A játék pár percig szórakoztató tud lenni, viszont a tartalom, s a játékmenet hiánya miatt nem fog senkit se lenyűgőzni.
+Ez a játék elég sokáig készült, sajnos kevés innovációval. Emiatt kicsit csalódott vagyok.
+Összegzésként csak annyit mondhatok: A játék unalmas!
+Szerintem és a munkatársaim szerint is a játék eléggé unalmas.
+Véleményem: Nagyon sok ponton a játék legfeljebb átlagos.
+A műfaj rajongói néhány órán át örülhetnek. Sajnos én nem tartozom közéjük.
+[END]
+
+[GAMEPLAY_60]
+The gameplay changes from level to level. Sometimes up, sometimes down.
+The gameplay is entertaining for a while, but sadly it doesn't last.
+The plot and gameplay isn't really outstanding, but it's not bad either.
+The gameplay is OK and the plot can entertain in parts.
+The fun of the game swings more than a pendulum. However, it is not really bad.
+The plot is no good, but the gameplay is solid.
+The game mechanics are tried and true, without any major weaknesses.
+The gameplay is entertaining in parts, but never will you fall into a state of euphoria.
+The plot generates tension in stretches, but it never lasts long.
+The gameplay is enjoyable fun. The plot, on the other hand, is a joke.
+The plot is excellent. On the other hand, the outdated game mechanics just don't hold up.
+The gameplay has its strengths, but the story is not really exciting.
+[END]
+
+[GRAPHIC_60]
+The graphics are pretty average. I've seen it better on this system.
+Graphically, this title will receive no accolades, but it doesn't have to hide due to shame either.
+The graphics are only average and really nothing special.
+The graphics could have been a bit more detailed. Genre standard for me.
+As far as the graphic effects are concerned, this game doesn't need to hide from the competition. They are above average.
+The graphic presentation falls short of expectations. Definately upper genre average.
+The graphics are quite ugly in some places, but often upper average.
+The graphics look a bit outdated, but it's not a total failure.
+Graphically, it is well worth seeing, but could use more attention to detail.
+The graphics look a bit too sterile. I would have liked details and variety.
+There are definitely games with better graphics. In the end, it will be enough for a medium rating.
+The game's graphics don't deserve a medal, but they can still keep up with the competition.
+The unpolished graphic's barely meet the state of the art, little more.
+The great graphic effects are worth mentioning. The rest of the graphics look rather mediocre.
+[END]
+
+[SOUND_60]
+The digitized sounds and melodies fit the game. Nothing special.
+Even though I actually expected more, the sound effects are okay.
+The game's sound effects are acceptable but nothing special.
+There is not much to write about the sound effects. They are okay.
+The digitized sound effects fit the game and the soundtrack is also okay.
+Music and sound are average and can't keep up with top games of the genre.
+Technical issues marred some quite good sound effects and prevented a better rating.
+There is not much to say about the acoustics. Music and sound effects are mediocre.
+The soundtrack is okay, but nothing you would play to a friend.
+The music and sound effects are okay, even if they don't blow me away.
+The sound is actually quite good. Unfortunately, there are also technical problems. So it remains average.
+The game's sound effects are great. The music, on the other hand, is a total washout.
+The sound effects are still a bit behind the competition.
+A bit more variety, then there would have been a higher rating for the sound.
+[END]
+
+[CONTROL_60]
+The average control system requires some time to adjust to.
+The controls are still acceptable, but do not meet the system standard.
+The game's controls are average compared to other games.
+The game's controls are okay. Here and there they are a bit imprecise.
+To understand the controls, you have to study the manual for some time. After that you can live with it.
+The game's controls are okay. However, it lacks intuition.
+The game's controls are okay but imprecise in parts. This could have been solved better.
+The game's controls are not outstanding, but there are worse genre representatives.
+About controls: The menus are unnecessarily complicated. Otherwise, everything is fine.
+[END]
+
+[TOTAL_60]
+In general, it remains to say that hardcore fans of such games will get their money's worth.
+Some design flaws reduce the quality of the game. I think the game is okay.
+An entertaining game at first, but it gets boring relatively quickly.
+This title is a nice idea, but it can't entertain for long.
+Casual gamers with low expectations can risk a look.
+Conclusion: I can only recommend this game to genre fans.
+My opinion: This game is solid, but nothing special.
+Nothing for everyone, but fans of the genre can grab it.
+If you can deal with the flaws, the game may be worth a purchase.
+The title often makes it hard to love. Without the flaws, it would be a great game.
+It's not a pearl of the genre, but it's definitely recommended for fans.
+A solid, but not outstanding game that could have definitely been better.
+My conclusion: The game is okay. But another developer would have made the game better for sure.
+My opinion: I wanted to love the game, but it's many design flaws are too annoying.
+Unfortunately, it's too trivial in many ways to be a great game.
+Genre fans can buy it to bridge the time between two very good titles.
+Those who do not have high expectations can have fun with the game. 
+If the boss had given the programmers more development time, it would be a good game. As it is, it is only mediocre.
+[END]
+
+[GAMEPLAY_70]
+About the gameplay: Well thought-out gameplay with minor weaknesses. 
+The gameplay is a nice mix with minor ups and downs.
+The gameplay is varied and can motivate over long stretches.
+The gameplay is motivating over long stretches. The story gets deductions in the B grade.
+The game's mechanics keep you entertained, but it does have some minor weaknesses.
+The gameplay is fun for a few hours, but then it gets a bit monotonous.
+The plot is average, but the game mechanics are quite fun.
+The first hours of the game are a particular joy. Unfortunately, the plot is far too short.
+The gameplay ideas are great, but sometimes poorly implemented technically.
+I would have liked to give more points for the gameplay, but the numerous design flaws prevented that.
+The gameplay is quite good, but it seems to me that the developer has taken too much inspiration from other games.
+[END]
+
+[GRAPHIC_70]
+The graphics are okay, but are not fully convincing.
+The graphics are nothing special, but quite decent by genre standards.
+The graphical representation is quite pretty, but not a full out feast for the eyes either.
+The game's graphics are quite nice with a few exceptions. Upper average!
+There are definitely worse graphics in the genre. However, there are also a few games that do it better.
+The game's graphics are upper average. Especially the effects could have been done better.
+The graphics of the game are quite good. The attention to detail is still missing.
+The graphics of the game look solid, but are nothing special.
+About the graphics: Technically, more would have been possible, but it's okay.
+The graphic style is actually quite pretty, but not everyone will share this opinion.
+Genre fans won't be thrilled with the game's graphics, but they will be satisfied.
+[END]
+
+[SOUND_70]
+The digitized sound effects are quite good but nothing special.
+You can't complain about the sound effects and the nice soundtrack.
+The sound effects won't amaze anyone, but they are okay.
+The soundtrack wasn't magical, but it's still worth listening to.
+The music is great, but it repeats too often for a higher rating.
+The sound positively supports the game's atmosphere, but it lacks perfectionism.
+There was certainly no Mozart responsible for the music, but the sound effects are good.
+There is nothing negative to say about the sound. However, it is not a masterpiece either.
+The game's soundtracks are great, but the sound effects don't blow me away.
+The sound would be great if some sound effects didn't have technical problems.
+[END]
+
+[CONTROL_70]
+Regarding the controls, there are no major problems if you take a short time to learn them.
+I immediately got along with the controls, even though they have some weaknesses.
+The game is quite comfortable to play. Only here and there are small problems with the controls.
+It takes a while to grasp the controls, but after that you won't have any problems.
+Once you understand the controls, the game plays great.  
+About the controls: The first few minutes are a bit complicated. After that, the game plays smoothly.
+I think the controls are too imprecise. However, most people won't have any problems with the controls.
+The controls are easy to use, but they could be more intuitive.
+The uncomplicated controls are actually good, just a bit imprecise from time to time.
+The controls are good genre standard. I didn't have any major problems.
+[END]
+
+[TOTAL_70]
+If you are a fan of this genre, you should definitely take a look.
+If you like games like this, you should make a note of this title. 
+Fans of the genre will be happy with this title.
+This title is fun for a while, but unfortunately doesn't last.
+Verdict: Fans and casual gamers will be happy with this game.
+This game is a solid product. Recommended purchase for genre fans!
+My opinion: Genre fans will have fun with this game for a while.
+Those who are interested in this genre can buy this title.
+My rating for this game: It's good, but not very good.
+The game will certainly not be a hit, but genre fans will have fun with it.
+The game is not for everyone, but will make genre fans happy.
+This title is worth a closer look. Especially for genre fans.
+The game is not a top hit. However, for those who love the genre, I can recommend the game.
+The game will not win any awards. But you can have fun with it for some time.
+I enjoyed the game for a while. However, there is still a lot missing for a top title.
+Even though the game was fun for me for some time, it certainly won't be a candidate for my favorite games.
+Although my expectations were not quite met, the game is still solid.
+Conclusion: A good game that lacks variety.
+My opinion: A game with interesting features, which is fun for a while.
+My conclusion: The game will entertain genre fans. Everyone else will be bored.
+The game is certainly not my favorite, but I had fun with it.
+Unfortunately, the developer didn't bother with some features. Nevertheless, it is a solid game.
+Overall, the game is quite successful. Despite its weaknesses, it is still entertaining
+I didn't have high expectations before the review and was surprised. Still, it is not enough for a hit.
+From me there is a buy recommendation! But only if you are a fan of the genre.
+[END]
+
+[GAMEPLAY_80]
+The varied gameplay is fun and offers a few innovations.
+The complexity of the gameplay does not leave much to be desired.
+The fresh gameplay offers extensive and continuous fun.
+The gameplay is simple but addictive. Fun is guaranteed!
+The challenging gameplay and the exciting storyline can motivate for many hours.
+The fresh and challenging gameplay is cool! 
+The varied game mechanics are a joy.
+The timeless gameplay was combined with new ideas. I enjoy it.
+Uncomplicated gameplay that is fun even over a longer period of time.
+The motivating gameplay will keep you entertained for a long time.
+The gameplay shows only a few weaknesses and the plot is strong.
+The story has some interesting points and the gameplay is challenging and fun.
+Because of the exciting story, I couldn't stop playing.
+A well-told story with a few surprises. The gameplay was solidly implemented.
+Gameplay-wise, the title is on a consistently high level.
+Gameplay and plot do not show any notable weaknesses.
+The gameplay is not new, but it is very challenging. 
+The game has an exciting story and a really cool ending.
+Here a nice story was combined with great gameplay.
+The gameplay is varied and challenging. Not only genre fans will love it.
+[END]
+
+[GRAPHIC_80]
+The good graphics take advantage of the system's capabilities.
+On the positive side, the graphics of the game should be mentioned. 
+The pretty graphics look better than they do in similar games.
+The graphical representation is nicely done and shows a lot of attention to detail.
+The detailed graphics are really good. Better than we expected.
+The graphics of the game are the current state of the art.
+The game offers imaginatively designed graphics. Very impressive.
+A positive aspect is the varied graphics. It does justice to the genre.
+A positive point is the great graphics with pretty effects.
+The good technique of graphics with good effects deeply impress.
+The title has beautiful and detailed graphics. Above average.
+The graphics were designed in great detail. We also liked the effects.
+The graphics are not only pretty, but also varied.
+The gaming experience is nicely presented. Gameplay and graphics harmonize very well.
+[END]
+
+[SOUND_80]
+The music and sound are convincing and life-like with good quality. I like it.
+The crystal-clear sound effects are worth mentioning, and the soundtrack is also great.
+The sounds of the game are good, but not breathtaking.
+The game presents a great soundtrack and good sound effects.
+The soundtrack of the title is really well done.
+On the positive side, this game has a great soundtrack.
+Great sounds. This is how games should sound nowadays!
+The sound is not brilliant but still good.
+I really enjoyed the soundtracks. I set the volume to maximum!
+The sound creates a very good atmosphere. Great!
+Acoustically, the game is very good, but not perfect.
+The sound of the game met my expectation. 
+Well-composed soundtracks and great sound effects stand out positively.
+The sound effects sound good, but unfortunately there are only a few music tracks.
+[END]
+
+[CONTROL_80]
+If you're looking for a game with uncomplicated controls, you'll find it in this title.
+The well thought-out controls let you enjoy the game immediately.
+The game handles well right from the start. Very solid!
+The controls are well done. A short training phase and you are ready to go.
+The intuitive controls make the game quite enjoyable to play.
+The controls are intuitive and straightforward.
+Good, uncomplicated and precise control. That's how it should be.
+The control was implemented super, but doesn't set any standards.
+In rare cases, the controls are a bit imprecise, but otherwise very good.
+You very rarely get the feeling that the game's controls are failing.
+The controls are not a revolution, but they show small improvements in the genre.
+I was surprised by the uncomplicated controls of the game. 
+Once you have familiarized yourself with the game, the controls are easy to use.
+You can't complain about the game's controls. Good job!
+[END]
+
+[TOTAL_80]
+A good game, which held my interest for a long time.
+Conclusion: If you don't own a game of this kind yet, you should grab it.
+If you are interested in such games, you should definitely check out this title.
+In the end: All in all, this game offers a lot for the money!
+My opinion: A good game that guarantees long fun.
+If you like games like this, this title is an absolute must-have!
+For fans of this genre, I can recommend this title without hesitation.
+Those who have their money ready can buy this game without hesitation.
+Anyone interested in the genre and topic should grab it.
+My conclusion: This game can be called "good" without any compromises.
+Those who are fans of the genre will enjoy this game.
+For genre fans, this title is a real insider tip. Good!
+This title is not only an insider tip for genre fans!
+The game is getting better by the hour. Fun!
+Conclusion: A varied, fun game. Clear recommendation for genre lovers.
+I had a lot of fun with the game and am willing to ignore the small weaknesses.
+An atmospheric experience that will keep you glued to the screen for many hours.
+Even players who are not interested in the genre should check out this game.
+The developer delivers a cool and surprisingly fun game.
+A must-buy for anyone who loves the genre. There is not much better.
+For a few hours, you are transported into a wonderful game world. Good!
+Even if it's not enough for a top rating, I've wanted a game like this for a long time.
+An insider tip for all fans of the genre, which should soon no longer remain so secret.
+In my opinion, there should be more titles like this.
+[END]
+
+[GAMEPLAY_90]
+I must admit, the gameplay is really impressive. Very entertaining!
+The complex and interesting gameplay is really fun.
+The gameplay and storyline are really great. Most games with this genre can't keep up with this quality.
+The storyline and gameplay are just great. The game is not boring for a minute!
+This title has a fascinating and entertaining gameplay. Many hours of fun are guaranteed!
+The gameplay was apparently the focus during development. A lot of things were done right here.
+The gameplay is innovative and has many new features.
+The game mechanics were superbly implemented. The story of the game is also exciting.
+The great and gameplay is suitable for beginners and professionals.
+The game design is very challenging but it's really fun.
+I must say, I really enjoy the game! I especially liked the storyline.
+Since this game has many different game modes, you will not get bored. Great!
+The gameplay is simple, but great. The developers have strongly polished the few gameplay elements.
+Due to the exciting plot, the time flies by. I had fun from the first minute to the end.
+Simple, but highly motivating gameplay. Kudos to the developers!
+The balance of the game is particularly well done. A role model for all games with this genre!
+The motivating gameplay and well-written story surprised me in a positive way.
+[END]
+
+[GRAPHIC_90]
+The fancy and varied graphics are a real eye-catcher!
+The great graphics are better than most current games. Pretty!
+The graphics are at the limit of what is possible for this gaming platform. Well done!
+For graphics fanatics, this game is a feast for the eyes. Great job by the graphic designers!
+I was fascinated by the timeless graphic style. Very impressive.
+The graphics are extremely atmospheric. Fits the game perfectly.
+The graphics will have many imitators, but hardly anyone will come close to this quality.
+Technically, the graphics are very impressive. Not much more is possible on this game system!
+If I were a game, I would like to look like this. Great graphics!
+Graphically, the game sets new standards. I especially liked the detailed game world.
+A great art design and technically impressive effects amazed the whole editorial team.
+[END]
+
+[SOUND_90]
+The beautifully digitized sound effects are among the best on this game system.
+Good sound effects and a great soundtrack perfectly match the gameplay.
+About the sound: Musically, we are on a very high level. Great!
+The soundtrack and the great sound effects are really at their best. Please turn up the volume!
+The impressive acoustic effect and great game music stand out in this game.
+The game's soundtracks were composed superbly, and the sound effects are also technically at the limit.
+The game has a fantastic electronic soundtrack with technically outstanding sound effects!
+I was really impressed by the bombastic sound effects. Kudos to the sound specialists!
+The game's soundtrack is outstanding and the sound effects are very high quality.
+The atmospheric, minimalistic soundtrack fits the game perfectly.
+[END]
+
+[CONTROL_90]
+A really well thought-out and uncomplicated control system lets you dive into the gameplay right away.
+The excellent user interface has convinced me completely!
+The great controls are exemplary. Everything was done right here.
+The simple and well thought-out controls surprised me positively.
+Not much needs to be written about the precise and straightforward controls. Great job!
+The game shows how a control system must work today.
+The controls were perfectly adapted for the gameplay. Everything is just right here!
+I liked the game's controls very much. A lot has been done here so that the player can get started right away. 
+The controls are great! I wouldn't have thought that the controls could be so innovative.
+[END]
+
+[TOTAL_90]
+The game is an absolute must for genre fans! Top!
+An excellent game that should keep us gamers entertained for a while!
+A great game that should not be missing in your collection. Absolutely recommended!
+This game sets new standards and belongs in every game collection!
+My conclusion: This game should not be missing in any collection!
+This game will be a hit! Absolutely recommended!
+Conclusion: A great game that belongs in every collection!
+Despite my reservations, this game has turned out great. Buy it!
+Conclusion: A game that you should definitely check out!
+When people talk about the "good old days" in a few years, this title is one reason why.
+A great game, which is not only recommended for genre fans.
+An absolutely fascinating game that you should definitely check out!
+The title did not let me go for many nights. Danger of addiction!
+This game feels great all around. It's almost perfect and sets new standards.
+I am very grateful that I was allowed to test this title. Top!
+Conclusion: An excellent game that will entertain the player for a very long time.
+My opinion: This is how a game has to be! Great!
+A milestone in the genre that could start a trend.
+This game is so good that I fear many bad clones will appear in the coming years.
+A great game with varied challenges. Not only genre fans will have fun with this game.
+This game is sure to be a big seller!
+My opinion: This game is a great birthday gift for any gamer!
+[END]
+
+[GAMEPLAY_100]
+The brilliant gameplay is fun from start to finish.
+The gameplay is really well thought out and motivates from the beginning to the end.
+The gameplay and the storyline are absolutely top class. Guaranteed fun!
+The gameplay is practically perfect and the plot is extremely exciting. Super!
+I can only find one word for this gameplay: "Perfect"!
+The whole editorial team had fun with this game. Great, well thought out gameplay!
+The gameplay and storyline can be addictive.
+The gameplay manages the perfect balancing act. You can play for five minutes or fifteen hours. Great!
+The gameplay blew me away. The many new ideas make for enormous fun.
+The plot is particularly impressive. It's hard to believe that it's a computer game.
+You can't believe the ingenious game mechanics if you haven't experienced it yourself.
+God is a game designer - and designed this game. Perfect!
+[END]
+
+[GRAPHIC_100]
+The game's technically perfect graphics set new standards on this game system.
+Brilliant is the graphical representation! You rarely see something like this on this system. 
+The graphics are breathtakingly beautiful. The graphic designers have done a great job here!
+The game is graphically excellent and sets new standards for this genre!
+The impressive and detailed graphics blew me away. Perfect!
+The extremely impressive graphics make the competition look old.
+The competition will need years to even come close to these perfect graphics.
+The really impressive graphics blew the entire editorial team away!
+Even a genius like Rembrandt van Rijn looks like an amateur against these graphics.
+Is my system broken? There has never been such perfect graphics on it before!
+To the competition: This is what a game's graphics should look like! Simply perfect!
+The graphics of the game are awesome! I didn't think something like this was possible on this game system.
+I immediately fell in love with the graphic style. Never would a game world be rendered in such detail.
+Visually, the game looks like it was developed for a next-gen system. Top!
+This graphic is better than reality! Outstanding!
+Nobody would have thought that such graphics are possible on this system. Phenomenal!
+I am sure that the graphics violates some law of nature. Absolutely perfect!
+[END]
+
+[SOUND_100]
+Bombastic sound effects and great music accompany the gameplay.
+The game offers crystal clear sound effects and a brilliant soundtrack.
+The fantastic sound effects blew me away. Technically at the highest level!
+The digitized sound effects are great. But most of all, the soundtrack blew me away.
+I was positively surprised by the sound. The quality of the sound effects is really outstanding.
+The great sound effects are worth mentioning. I have never heard such sound effects on this system.
+All the game's soundtracks were composed superbly. They perfectly match the gameplay.
+The sound effects almost sound like next-gen. Technically, they were implemented perfectly.
+The developers have paid special attention to the music. Each soundtrack was professionally composed.
+I've never been so blown away by the music in a game. It's pure emotion from start to finish.
+The great sound effects are especially noteworthy. More is not possible on this system!
+Even the sound chip is honored to be allowed to produce these sounds. Brilliant!
+The sound effects are awesome! This will be the new standard in the gaming industry!
+[END]
+
+[CONTROL_100]
+The controls are really outstanding! You can get started right away.
+The game's simple and polished controls set new standards!
+The intuitive controls are worth mentioning. Everything was done right here!
+The control system deserves an award. Perfectly thought out and very easy.
+The controls could only be better if you could control the game by thought.
+The controls of the game are just awesome! Top!
+The controls have been implemented in a really great way. Even inexperienced gamers can get started right away.
+How did the developers manage to create such perfect controls? And why can't the competition do that?
+Incredible how precise the game's controls are. Kudos to the programmers!
+The outstanding controls invite you to experiment. Outstandingly good!
+I was really positively surprised by the game's controls. Worthy of a prize!
+About the controls: even with two left hands you will never lose control of the game.
+The entire editorial team was surprised at the perfection of the controls.
+I can only say one thing about the controls: Perfect!
+[END]
+
+[TOTAL_100]
+The game is one of the most impressive I've seen lately. Great!
+This game has the potential to become a real classic!
+This title is probably one of the best I've seen so far!
+This game is a true work of art that everyone will enjoy!
+My conclusion? This game should not be missing in any game collection!
+This is what a top game must look like! Hitworthy!
+This title is a candidate for game of the year!
+You won't need another game for the next few months.
+A must buy, even if you don't like the genre!
+The game impressively shows why computer games are superior to all other forms of entertainment.
+My conclusion: This game makes all dreams come true and leaves nothing to be desired.
+I thought the hype was exaggerated. Now I know that it was justified.
+All future games will have to measure up to this masterpiece. Perfect!
+I had fun with this game from start to finish. I love it!
+Conclusion: We can stop looking for the best game ever.
+Even the best games of the past look ordinary against this title.
+With this game, the developer has created a monument to himself.
+Only three words: BUY! BUY!!! BUY!!!
+My opinion: Stop reading this review and buy the game!
+This game is a masterpiece! I am absolutely thrilled!
+This game puts all other games in the shade. A true masterpiece!
+[END]

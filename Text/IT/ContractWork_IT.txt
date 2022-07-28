@@ -1,0 +1,80 @@
+﻿Ottimizzare il motore grafico<0>
+Programmazione dell'impianto audio<0>
+Editor di livello di sviluppo<0>
+Ottimizzare la fisica dei giochi<0>
+Missioni di scripting<0>
+Ottimizza l'IA nemica<0>
+Ottimizzare i tempi di caricamento<0>
+Programmazione del sistema di memoria<0>
+Creare un'interfaccia utente<0>
+Programmazione del sistema di database<0>
+Sviluppo di un prototipo di gioco<0>
+Sviluppare lo strumento di localizzazione<0>
+Sviluppare uno strumento diagnostico<0>
+Comprimere le risorse di gioco<0>
+Programmazione del sistema di finestre di dialogo<0>
+Sviluppare un sistema di collisione<0>
+Programmazione gestore file<0>
+Caricatore di livelli di programmazione<0>
+Programmazione del gestore di input<0>
+Programmazione dello Spritemanager<0>
+Sviluppare il controller di debug<0>
+Programmazione di manager di eventi<0>
+Sviluppare un sistema di animazione<0>
+Sviluppare l'editor sprite<0>
+Sviluppare drivers<0>
+Implementare la protezione dalla copia<0>
+Ottimizzare il sistema di controllo<1>
+Progettare i livelli<1>
+Test generale dei bug<1>
+Test di prova<1>
+Creare un concetto di gioco<1>
+Test di compatibilità hardware<1>
+Testare la stabilità del gioco<1>
+Analizzare le prestazioni del gioco<1>
+Testare gli aggiornamenti dei giochi<1>
+Ottimizzare il bilanciamento dei giochi<1>
+Test dei plug-in<1>
+Analisi di un prototipo<1>
+Test dell'interfaccia utente<1>
+Creare una bacheca della storia<1>
+Scrivere dialoghi<1>
+Creare caratteri dei personaggi<2>
+Disegnare sfondi<2>
+Disegnare elementi<2>
+Disegnare l'interfaccia utente<2>
+Creare grafica concettuale<2>
+Disegnare oggetti ambientali<2>
+Creare effetti speciali<2>
+Disegnare un'immagine di copertina<2>
+Crea set di livelli a riquadri<2>
+Progettare tipi di carattere<2>
+Animare i personaggi<2>
+Creazione di una colonna sonora<3>
+Creare suoni per i personaggi<3>
+Registrare i suoni delle armi<3>
+Creare suoni dell'interfaccia utente<3>
+Creare suoni dinamici<3>
+Creare suoni di atmosfera<3>
+Crea suoni magici<3>
+Registrare i rumori degli animali<3>
+Creare rumori del motore<3>
+Registrare musica classica<3>
+Creare suoni robot<3>
+Mixare i suoni dell'esplosione<3>
+Registrare i movimenti di base<4>
+Registra l'animazione delle arti marziali<4>
+Creare animazioni di intermezzo<4>
+Creare animazioni animali<4>
+Registra animazione di spade<4>
+Creare animazioni per i mostri<4>
+Creare animazioni di danza<4>
+Record dei giocatori di calcio<4>
+Creare animazioni di emoticon<4>
+Registrare animazioni di robot<4>
+Riparare Console<7>
+Design Prototipo Console<7>
+Diagnostica Prototipo Console<7>
+Check Scheda Madre Console<7>
+Test Performance Prototipo<7>
+Ottimizzare Sistema Raffredamento<7>

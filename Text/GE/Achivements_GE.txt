@@ -1,0 +1,72 @@
+﻿Hurrican;Erstelle ein Actionspiel mit einer Gesamtbewertung von mindestens 70%.
+Marble Maze;Erstelle ein Geschicklichkeitsspiel mit einer Gesamtbewertung von mindestens 70%.
+Dr. Lario;Erstelle ein Denkspiel mit einer Gesamtbewertung von mindestens 70%.
+The Island of Monkeys;Erstelle ein Adventure-Spiel mit einer Gesamtbewertung von mindestens 70%.
+Dungeons and Masters;Erstelle ein Rollenspiel mit einer Gesamtbewertung von mindestens 70%.
+The Civilizations;Erstelle ein Strategiespiel mit einer Gesamtbewertung von mindestens 70%.
+Super Lario World;Erstelle ein Plattformer mit einer Gesamtbewertung von mindestens 70%.
+Spaceship: Elite;Erstelle eine Simulation mit einer Gesamtbewertung von mindestens 70%.
+California Cup;Erstelle ein Sportspiel mit einer Gesamtbewertung von mindestens 70%.
+Mad Oil Tycoon;Erstelle eine Wirtschaftssimulation mit einer Gesamtbewertung von mindestens 70%.
+Backstreet Fighter;Erstelle ein Kampfsportspiel mit einer Gesamtbewertung von mindestens 70%.
+Simulation City: 1602;Erstelle ein Aufbauspiel mit einer Gesamtbewertung von mindestens 70%.
+Dragon's Cave;Erstelle einen Interaktiven Film mit einer Gesamtbewertung von mindestens 70%.
+Commander Yuri;Erstelle ein Echtzeit-Strategie-Spiel mit einer Gesamtbewertung von mindestens 70%.
+BOOM;Erstelle einen First-Person-Shooter mit einer Gesamtbewertung von mindestens 70%.
+Besser als ein Buch;Erstelle ein Visual Novel mit einer Gesamtbewertung von mindestens 70%.
+Max Brain;Erstelle einen Third-Person-Shooter mit einer Gesamtbewertung von mindestens 70%.
+The Test Drivers;Erstelle ein Rennspiel mit einer Gesamtbewertung von mindestens 70%.
+Retromania;Entwickle ein Retro-Spiel.
+World of Meridian;Entwickle ein MMO.
+Ist das wirklich kostenlos?;Entwickle ein F2P-Spiel.
+Insert Coin!;Entwickle und produziere einen Spielautomaten.
+Jeder mag Snakes;Entwickle ein Handy-Spiel.
+Der geborene Programmierer;Entwickle eine eigene Game-Engine.
+Konsolenkrieg;Erstelle deine eigene stationäre Konsole.
+Das passt in meine Tasche!;Erstelle deinen eigenen Handheld.
+Bonuszahlung;Entwickle ein Auftragsspiel.
+Bundle;Erstelle ein Spiele-Bundle.
+Schnapper;Produziere und vertreibe ein Budget-Game.
+Complete Edition;Produziere und vertreibe ein Addon-Bundle.
+Spin Off;Entwickle ein Spin Off.
+I, II, III, IV;Entwickle einen Nachfolger.
+Spielportierung leicht gemacht;Portiere ein Spiel auf eine andere Plattform.
+Besser als das Original?;Entwickle ein Remaster.
+Trendsetter;Eines deiner Spiele muss einen neuen Trend setzen.
+Spiel des Jahres;Gewinne die Auszeichnung "Spiel des Jahres".
+Entwickler des Jahres;Gewinne die Auszeichnung "Entwickler des Jahres".
+Publisher des Jahres;Gewinne die Auszeichnung "Publisher des Jahres".
+Augenweide;Eines deiner Spiele muss die Auszeichnung für die beste Grafik erhalten.
+Ohrwurm;Eines deiner Spiele muss die Auszeichnung für den besten Sound erhalten.
+Betrüger!;Eines deiner Spiele muss zum "Schlechtesten Spiel des Jahres" gewählt werden.
+Overhype!;Erzeuge einen Overhype für eines deiner Spiele.
+Vertragspartner;Unterschreibe einen Exklusiv-Vertrag mit einem Publisher.
+Arbeitstier;Erreiche 100% Ansehen bei Auftraggebern.
+Jetzt werde ich reich!;Produziere und vertreibe ein selbst entwickeltes Spiel.
+Das ist die Zukunft!;Erreiche im Spiel das Jahr 2050.
+Publisher!;Vertreibe ein Spiel von einem NPC-Entwickler.
+Mein bester Freund;Maximiere die Beziehung zu einem Publisher.
+Gold;Verkaufe mindestens 1.000.000 Einheiten von einem Spiel.
+Platin;Verkaufe mindestens 10.000.000 Einheiten von einem Spiel.
+Diamant;Verkaufe mindestens 50.000.000 Einheiten von einem Spiel.
+80%;Entwickle ein Spiel, welches eine Gesamtbewertung von mindestens 80% erhält.
+90%;Entwickle ein Spiel, welches eine Gesamtbewertung von mindestens 90% erhält.
+100%;Entwickle ein Spiel, welches eine Gesamtbewertung von 100% erhält.
+Alle lieben mich!;Habe mindestens 1.000.000 Fans.
+Ich bin nicht gern allein;Starte ein Multiplayerspiel mit einem Freund.
+Das ist mein Team!;Starte ein Multiplayerspiel mit vier Freunde.
+Intellectual Property;Maximiere die Popularität einer IP.
+Legendärer Spielekonzern;Maximiere deine Studiobewertung.
+Meisterhaft;Habe einen Mitarbeiter, mit einem beliebigen Skill von 100%.
+Arbeitgeber I;Habe mindestens 20 Mitarbeiter.
+Arbeitgeber II;Habe mindestens 50 Mitarbeiter.
+Arbeitgeber III;Habe mindestens 100 Mitarbeiter.
+Taschengeld;Habe mindestens $50.000.000.
+Das reicht noch lange nicht!;Habe mindestens $500.000.000.
+Drei-Komma-Club;Habe mindestens eine Milliarde Dollar.
+Konsolenkrieg II;Verkaufe mindestens 10.000.000 Einheiten deiner eigenen Konsole.
+Marktführer;Verkaufe mindestens 50.000.000 Einheiten deiner eigenen Konsole.
+Mein Name ist Sid Maier;Stelle eine Entwickler-Legende ein.
+Einkaufstour I;Kaufe einen NPC-Entwickler oder Publisher.
+Einkaufstour II;Kaufe mindestens 10 NPC-Entwickler oder Publisher.
+Einkaufstour III;Kaufe mindestens 30 NPC-Entwickler oder Publisher.
