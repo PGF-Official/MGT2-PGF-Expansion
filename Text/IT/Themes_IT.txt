@@ -253,4 +253,3 @@ Rallycross
 Stock Car
 Scacchi
 Asteroidi
-Test
