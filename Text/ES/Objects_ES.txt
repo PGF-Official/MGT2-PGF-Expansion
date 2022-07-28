@@ -57,4 +57,131 @@ Pizarra;Sus empleados están más motivados cuando<br>trabajan en oficinas bien 
 Mesa de trabajo II; Mesa de trabajo para investigación. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
 Work Desk II; El escritorio de trabajo para el departamento de marketing. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
 Work Desk III; El escritorio de trabajo para el departamento de marketing. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
-Mesa de trabajo IV; La mesa de trabajo para el departamento de marketing.
+Mesa de trabajo IV; La mesa de trabajo para el departamento de marketing. mento Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk V; El escritorio de trabajo para el departamento de marketing. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Mesa de trabajo I; La mesa de trabajo para el departamento de soporte. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk II; El escritorio de trabajo para el departamento de soporte. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk III; El escritorio de trabajo para el departamento de soporte. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk IV; El escritorio de trabajo para el departamento de soporte. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk V; El escritorio de trabajo para el departamento de soporte. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Mesa de trabajo III; Mesa de trabajo para investigación. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Mesa de trabajo IV; Mesa de trabajo para investigación. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Mesa de trabajo V; Mesa de trabajo para investigación. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Sillón III - Rojo; Con este objeto tus empleados pueden conseguir una nueva motivación.
+Sillón III - Verde;Con este objeto sus empleados pueden conseguir una nueva motivación.
+Sillón III - Azul;Con este objeto tus empleados pueden conseguir una nueva motivación.
+Botiquín;Esto permite que los empleados enfermos se curen a sí mismos.<br>Los empleados enfermos trabajan más lentamente.
+Calentador eléctrico;Los empleados que se congelan se vuelven insatisfechos más rápidamente.<br>Este calentador se puede colocar en cualquier posición.
+Mesa de trabajo I; La mesa de trabajo para el aseguramiento de la calidad. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Mesa de trabajo I;La mesa de trabajo para el estudio gráfico. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Mesa de trabajo I;La mesa de trabajo para el estudio de sonido. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk I; El escritorio de trabajo para el estudio de captura de movimiento. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Teclado;Con este objeto sus empleados pueden obtener una nueva motivación.
+Estante resistente II;Tus juegos producidos se almacenan aquí.<br>En este objeto puedes almacenar <b><color=blue>50.000</color></b> juegos.
+Estante resistente III;Tus juegos producidos se almacenan aquí.<br>En este objeto puedes almacenar <b><color=blue>100.000</color></b> juegos.
+Work Desk II; El escritorio de trabajo para el estudio de sonido. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk III; El escritorio de trabajo para el estudio de sonido. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Animal Painting I;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Animal Painting II;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Animal Painting III;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Animal Painting IV;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Animal Painting V;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Mesa de trabajo II; La mesa de trabajo para el aseguramiento de la calidad. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo III; El escritorio de trabajo para el aseguramiento de la calidad. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk IV; El escritorio de trabajo para el aseguramiento de la calidad. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk V; El escritorio de trabajo para el aseguramiento de la calidad. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Tu auto deportivo;Deberías vender tu<br>viejo auto deportivo para ganar algo de dinero.
+Alfombra I;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Alfombra II;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Alfombra III;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Alfombra IV;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Carpet V;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Carpet VI;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Frigorífico;Ideal para guardar alimentos perecederos.
+TV;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Televisión moderna;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Radio;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Work Desk II;La mesa de trabajo para el estudio gráfico. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk III; El escritorio de trabajo para el estudio gráfico. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Mesa de trabajo IV;La mesa de trabajo para el estudio gráfico. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk V; El escritorio de trabajo para el estudio gráfico. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Modern Radio;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Gabinete mediano I;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Gabinete de tamaño mediano II;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Gabinete de tamaño mediano III; Sus empleados están más motivados cuando<br> trabajar en oficinas bien equipadas.
+Training Desk II;Permite capacitar a los empleados.<br>Cuanto mayor sea la calidad, mejor será el resultado.
+Training Desk III;Permite capacitar a los empleados.<br>Cuanto mayor sea la calidad, mejor será el resultado.
+Training Desk IV;Permite capacitar a los empleados.<br>Cuanto mayor sea la calidad, mejor será el resultado.
+Training Desk V;Permite capacitar a los empleados.<br>Cuanto mayor sea la calidad, mejor será el resultado.
+Máquina de producción II; con esta máquina puedes producir juegos.
+Máquina de producción III; Con esta máquina puedes producir juegos.
+Máquina de producción IV;Con esta máquina puedes producir juegos.
+Máquina de producción V; Con esta máquina puedes producir juegos.
+Mesa de trabajo IV;La mesa de trabajo para el estudio de sonido. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk V; El escritorio de trabajo para el estudio de sonido. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk II; El escritorio de trabajo para el estudio de captura de movimiento. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk III; El escritorio de trabajo para el estudio de captura de movimiento. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk IV; El escritorio de trabajo para el estudio de captura de movimiento. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk V; El escritorio de trabajo para el estudio de captura de movimiento. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Servidor Toshiba;Se requieren servidores para juegos MMO y F2P.<br>Este servidor puede manejar <b><color=blue><NUM></color></b> jugadores.
+Microsoft Server;Se requieren servidores para juegos MMO y F2P.<br>Este servidor puede manejar <b><color=blue><NUM></color></b> jugadores.
+Google Server;Se requieren servidores para juegos MMO y F2P.<br>Este servidor puede manejar <b><color=blue><NUM></color></b> jugadores.
+IBM Server;Se requieren servidores para juegos MMO y F2P.<br>Este servidor puede manejar <b><color=blue><NUM></color></b> jugadores.
+Disco de Platino;Obtienes este premio por cada juego<br>que haya vendido al menos 5.000.000 de unidades.
+Diamond Record;Obtienes este premio por cada juego<br>que haya vendido al menos 10.000.000 de unidades.
+Cafetera;El alimento básico de un desarrollador de juegos es el café.<br>La cafetera más moderna proviene de "Gronky Industries" y<br>puede mantener el café caliente fácilmente durante 17 horas.
+Premio "Juego del año";Obtienes este premio,<br>cuando uno de tus juegos es elegido como "Juego del año".
+Premio "Desarrollador del año";Obtienes este premio,<br>cuando tu estudio es elegido como "Desarrollador del año".
+Premio "Mejor banda sonora";Obtienes este premio,<br>cuando uno de tus juegos obtiene el premio "Mejor banda sonora".
+Premio "Mejores gráficos";Obtienes este premio,<br>cuando uno de tus juegos obtiene el premio "Mejores gráficos".
+Armario pequeño I;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Armario pequeño II;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Pequeño Armario III;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Alfombra VII;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Alfombra VIII;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Carpet IX;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Premio "Creador de tendencias";Recibirás este premio,<br>si uno de tus juegos marca tendencias.
+Premio "Editor del año";Obtienes este premio,<br>cuando tu estudio es elegido como "Editor del año".
+Mesa de trabajo I;La mesa de trabajo para el taller. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Mesa de trabajo II;La mesa de trabajo para el taller. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Mesa de trabajo III;La mesa de trabajo para el taller. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Mesa de trabajo IV;La mesa de trabajo para el taller. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk V; El escritorio de trabajo para el taller. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk I; El escritorio de trabajo para el desarrollo de la consola. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk II; El escritorio de trabajo para el desarrollo de consolas. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk III; El escritorio de trabajo para el desarrollo de consolas. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk IV; El escritorio de trabajo para el desarrollo de la consola. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Work Desk V; El escritorio de trabajo para el desarrollo de consolas. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Aire Acondicionado Moderno;Útil para regular la temperatura en salas de servidores.
+Taburete - Verde;Con este objeto sus empleados pueden obtener una nueva motivación.
+Taburete - Naranja;Con este objeto sus empleados pueden obtener una nueva motivación.
+Taburete - Azul;Con este objeto sus empleados pueden obtener una nueva motivación.
+Tabla I;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Tabla II;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Tabla III;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Asillón - Marrón Claro;Aquí sus empleados pueden<br>sentarse a descansar.
+Sillón - Marrón Oscuro;Aquí sus empleados pueden<br>sentarse a descansar.
+Sillón - Mint;Aquí sus empleados pueden<br>sentarse a descansar.
+Mini Golf;Con este objeto sus empleados pueden conseguir una nueva motivación.
+Arquitectura Imagen I;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Imagen de arquitectura II;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Imagen de Arquitectura III;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Imagen de arquitectura IV;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Architecture Image V;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Flower Image I;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Flower Image II;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Flower Image III;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Flower Image IV;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Flower Image V;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Alfombra VII;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Alfombra VIII;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Carpet IX;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Lámpara IV;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Lámpara V;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.eiten.
+Lámpara VI;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.beiten.
+Sunflower;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Ball Cactus;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Palm;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Tabla IV;Sus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Sistema de calefacción moderno;Este sistema de calefacción altamente eficiente<br>es especialmente adecuado para oficinas de planta abierta.
+Baño de lujo;Una visita a este baño de lujo<br>aumenta incluso la motivación.
