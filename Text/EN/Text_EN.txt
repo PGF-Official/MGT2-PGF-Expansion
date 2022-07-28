@@ -5,7 +5,7 @@
 Technology level
 Experience
 Development costs
-$
+£
 As the experience level increases, the development costs decrease.<br>Additionally, the gameplay, graphics, technology and sound points increase.
 Graphics
 Sound
