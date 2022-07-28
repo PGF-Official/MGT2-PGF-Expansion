@@ -1,187 +1,187 @@
-﻿-;-
-Arbeitsplatz I;Arbeitsplatz für die Entwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Heizung;Mitarbeiter, die frieren, werden schneller unzufrieden.
-Lampe I;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Mülleimer;Halte deine Büros immer sauber,<br>ansonsten werden deine Mitarbeiter unzufrieden.
-Wasserspender;Durstige Mitarbeiter werden schneller unzufrieden.
-Arbeitsplatz I;Arbeitsplatz für die Forschung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Pflanze;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Kaktus;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Tropenpflanze;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Toilette;Hier werden die wichtigsten Bedürfnisse gestillt.
-Waschbecken;Du sollst dir immer die Hände waschen!
-Bild UFO;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Bild Robot;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Bild Aleon;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Bild Retro;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Bild Star Ship;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Goldene Schallplatte;Diese Auszeichnung bekommst du für jedes Spiel,<br>welches mindestens 1.000.000 verkaufte Einheiten vorweisen kann.
-Bild Kunst I;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Bild Kunst II;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Bild Kunst III;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Bild Kunst IV;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Bild Kunst V;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Handtrockner;Macht Lärm, Wind und trocknet deine Hände.
-Spielautomat I;An diesem Gegenstand können deine Mitarbeiter neue Motivation tanken.
-Sitzbank - Hellbraun;Hier können sich deine Mitarbeiter<br>in der Pause hinsetzen.
-Sitzbank - Dunkelbraun;Hier können sich deine Mitarbeiter<br>in der Pause hinsetzen.
-Sitzbank - Mint;Hier können sich deine Mitarbeiter<br>in der Pause hinsetzen.
-Schrank I;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Schrank II;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Schrank III;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Aktenschrank;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Sputnik 3000 Cleaner;Dieser hochmoderne Reinigungsroboter beseitigt sämtlichen Schmutz.
-Sessel I - Braun;An diesem Gegenstand können deine Mitarbeiter neue Motivation tanken.
-Sessel I - Schwarz;An diesem Gegenstand können deine Mitarbeiter neue Motivation tanken.
-Sessel I - Grün;An diesem Gegenstand können deine Mitarbeiter neue Motivation tanken.
-Maschine I;Damit kannst du Spiele produzieren lassen.
-Spielautomat II;An diesem Gegenstand können deine Mitarbeiter neue Motivation tanken.
-Spielautomat III;An diesem Gegenstand können deine Mitarbeiter neue Motivation tanken.
-Uhr;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Sessel II - Grau;An diesem Gegenstand können deine Mitarbeiter neue Motivation tanken.
-Sessel II - Blau;An diesem Gegenstand können deine Mitarbeiter neue Motivation tanken.
-Sessel II - Orange;An diesem Gegenstand können deine Mitarbeiter neue Motivation tanken.
-Dartautomat;An diesem Gegenstand können deine Mitarbeiter neue Motivation tanken.
-Lampe II;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Intex Server;Server sind für MMO- und F2P-Spiele benötigt.<br>Dieser Server kann <b><color=blue><NUM></color></b> Spieler verarbeiten.
-Klimaanlage;Nützlich, damit die Temperatur in Serverräumen nicht zu hoch ansteigt.
-Schwerlastregal I;Deine produzierten Spiele werden hier gelagert.<br>Dieses Regal hat Platz für <b><color=blue>25.000</color></b> Spiele.
-Arbeitsplatz I;Arbeitsplatz für die Marketingabteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Lampe III;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Arbeitsplatz II;Arbeitsplatz für die Entwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz III;Arbeitsplatz für die Entwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz IV;Arbeitsplatz für die Entwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz V;Arbeitsplatz für die Entwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Schulungsplatz I;Damit können Mitarbeiter geschult werden. Je höher die Qualität,<br>desto besser das Ergebnis.
-Whiteboard;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Arbeitsplatz II;Arbeitsplatz für die Forschung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz II;Arbeitsplatz für die Marketingabteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz III;Arbeitsplatz für die Marketingabteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz IV;Arbeitsplatz für die Marketingabteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz V;Arbeitsplatz für die Marketingabteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz I;Arbeitsplatz für die Supportabteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz II;Arbeitsplatz für die Supportabteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz III;Arbeitsplatz für die Supportabteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz IV;Arbeitsplatz für die Supportabteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz V;Arbeitsplatz für die Supportabteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz III;Arbeitsplatz für die Forschung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz IV;Arbeitsplatz für die Forschung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz V;Arbeitsplatz für die Forschung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Sessel III - Rot;An diesem Gegenstand können deine Mitarbeiter neue Motivation tanken.
-Sessel III - Grün;An diesem Gegenstand können deine Mitarbeiter neue Motivation tanken.
-Sessel III - Blau;An diesem Gegenstand können deine Mitarbeiter neue Motivation tanken.
-Medizinschrank;Hiermit können sich kranke Mitarbeiter heilen.<br>Kranke Mitarbeiter arbeiten langsamer.
-Elektroheizung;Mitarbeiter, die frieren, werden schneller unzufrieden.<br>Diese Heizung kann mitten in den Raum gestellt werden.
-Arbeitsplatz I;Arbeitsplatz für die Qualitätssicherung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz I;Arbeitsplatz für das Grafikstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz I;Arbeitsplatz für das Soundstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz I;Arbeitsplatz für das Motion-Capture-Studio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Keyboard;An diesem Gegenstand können deine Mitarbeiter neue Motivation tanken.
-Schwerlastregal II;Deine produzierten Spiele werden hier gelagert.<br>Dieses Regal hat Platz für <b><color=blue>50.000</color></b> Spiele.
-Schwerlastregal III;Deine produzierten Spiele werden hier gelagert.<br>Dieses Regal hat Platz für <b><color=blue>100.000</color></b> Spiele.
-Arbeitsplatz II;Arbeitsplatz für das Soundstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz III;Arbeitsplatz für das Soundstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Tierzeichnung I;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Tierzeichnung II;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Tierzeichnung III;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Tierzeichnung IV;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Tierzeichnung V;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Arbeitsplatz II;Arbeitsplatz für die Qualitätssicherung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz III;Arbeitsplatz für die Qualitätssicherung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz IV;Arbeitsplatz für die Qualitätssicherung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz V;Arbeitsplatz für die Qualitätssicherung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Dein Sportwagen;Dein alter Sportwagen sollte dir noch<br>etwas Geld einbringen.
-Teppich I;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Teppich II;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Teppich III;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Teppich IV;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Teppich V;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Teppich VI;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Kühlschrank;Bestens geeignet, um verderbliche<br>Nahrungsmittel zu lagern.
-TV;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Moderner TV;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Radio;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Arbeitsplatz II;Arbeitsplatz für das Grafikstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz III;Arbeitsplatz für das Grafikstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz IV;Arbeitsplatz für das Grafikstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz V;Arbeitsplatz für das Grafikstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Modernes Radio;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Mittelgroßer Schrank I;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Mittelgroßer Schrank II;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Mittelgroßer Schrank III;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Schulungsplatz II;Damit können Mitarbeiter geschult werden. Je höher die Qualität,<br>desto besser das Ergebnis.
-Schulungsplatz III;Damit können Mitarbeiter geschult werden. Je höher die Qualität,<br>desto besser das Ergebnis.
-Schulungsplatz IV;Damit können Mitarbeiter geschult werden. Je höher die Qualität,<br>desto besser das Ergebnis.
-Schulungsplatz V;Damit können Mitarbeiter geschult werden. Je höher die Qualität,<br>desto besser das Ergebnis.
-Maschine II;Damit kannst du Spiele produzieren lassen.
-Maschine III;Damit kannst du Spiele produzieren lassen.
-Maschine IV;Damit kannst du Spiele produzieren lassen.
-Maschine V;Damit kannst du Spiele produzieren lassen.
-Arbeitsplatz IV;Arbeitsplatz für das Soundstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz V;Arbeitsplatz für das Soundstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz II;Arbeitsplatz für das Motion-Capture-Studio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz III;Arbeitsplatz für das Motion-Capture-Studio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz IV;Arbeitsplatz für das Motion-Capture-Studio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz V;Arbeitsplatz für das Motion-Capture-Studio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-G-Electic Server;Server sind für MMO- und F2P-Spiele benötigt.<br>Dieser Server kann <b><color=blue><NUM></color></b> Spieler verarbeiten.
-Metrics Server;Server sind für MMO- und F2P-Spiele benötigt.<br>Dieser Server kann <b><color=blue><NUM></color></b> Spieler verarbeiten.
-DivoTech Server;Server sind für MMO- und F2P-Spiele benötigt.<br>Dieser Server kann <b><color=blue><NUM></color></b> Spieler verarbeiten.
-IBN Server;Server sind für MMO- und F2P-Spiele benötigt.<br>Dieser Server kann <b><color=blue><NUM></color></b> Spieler verarbeiten.
-Platin-Schallplatte;Diese Auszeichnung bekommst du für jedes Spiel,<br>welches mindestens 5.000.000 verkaufte Einheiten vorweisen kann.
-Diamant-Schallplatte;Diese Auszeichnung bekommst du für jedes Spiel,<br>welches mindestens 10.000.000 verkaufte Einheiten vorweisen kann.
-Kaffeemaschine;Das Grundnahrungsmittel eines Spieleentwicklers ist Kaffee.<br>Das Spitzenmodell kommt von "Gronky Industries" und<br>kann den Kaffee mühelos 17 Stunden warm halten.
-Trophäe "Spiel des Jahres";Diese Auszeichnung bekommst du,<br>wenn eines deiner Spiele als "Spiel des Jahres" gekürt wird.
-Trophäe "Entwickler des Jahres";Diese Auszeichnung bekommst du,<br>wenn dein Studio als "Entwickler des Jahres" gekürt wird.
-Trophäe "Bester Soundtrack";Diese Trophäe bekommst du,<br>wenn eines deiner Spiele die Auszeichnung "Bester Soundtrack" erhält.
-Trophäe "Beste Grafik";Diese Trophäe bekommst du,<br>wenn eines deiner Spiele die Auszeichnung "Beste Grafik" erhält.
-Kleiner Schrank I;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Kleiner Schrank II;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Kleiner Schrank III;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Teppich VII;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Teppich VIII;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Teppich IX;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Trophäe "Trendsetter";Diese Auszeichnung erhältst du,<br>wenn eines deiner Spiele Trendsetter wurde.
-Trophäe "Publisher des Jahres";Diese Auszeichnung bekommst du,<br>wenn dein Studio als "Publisher des Jahres" gekürt wird.
-Arbeitsplatz I;Arbeitsplatz für die Werkstatt. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz II;Arbeitsplatz für die Werkstatt. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz III;Arbeitsplatz für die Werkstatt. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz IV;Arbeitsplatz für die Werkstatt. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz V;Arbeitsplatz für die Werkstatt. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz I;Arbeitsplatz für die Hardwareentwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz II;Arbeitsplatz für die Hardwareentwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz III;Arbeitsplatz für die Hardwareentwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz IV;Arbeitsplatz für die Hardwareentwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Arbeitsplatz V;Arbeitsplatz für die Hardwareentwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
-Moderne Klimaanlage;Nützlich, damit die Temperatur in Serverräumen nicht zu hoch ansteigt.
-Hocker - Grün;An diesem Gegenstand können deine Mitarbeiter neue Motivation tanken.
-Hocker - Orange;An diesem Gegenstand können deine Mitarbeiter neue Motivation tanken.
-Hocker - Blau;An diesem Gegenstand können deine Mitarbeiter neue Motivation tanken.
-Tisch I;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Tisch II;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Tisch III;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Sessel - Hellbraun;Hier können sich deine Mitarbeiter<br>in der Pause hinsetzen.
-Sessel - Dunkelbraun;Hier können sich deine Mitarbeiter<br>in der Pause hinsetzen.
-Sessel - Mint;Hier können sich deine Mitarbeiter<br>in der Pause hinsetzen.
-Minigolf;An diesem Gegenstand können deine Mitarbeiter neue Motivation tanken.
-Bild Architektur I;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Bild Architektur II;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Bild Architektur III;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Bild Architektur IV;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Bild Architektur V;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Bild Blume I;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Bild Blume II;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Bild Blume III;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Bild Blume IV;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Bild Blume V;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Teppich VII;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Teppich VIII;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Teppich IX;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Lampe IV;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Lampe V;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Lampe VI;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Sonnenblume;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Kugelkaktus;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Palme;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Tisch IV;Deine Mitarbeiter sind motivierter,<br>wenn sie in gut ausgestatteten Büros arbeiten.
-Modernes Heizsystem;Dieses hocheffiziente Heizsystem<br>ist besonders für Großraum-Büros geeignet.
-Luxus Toilette;Ein Besuch auf diese luxuriöse Toilette<br>kann sogar die Motivation steigern.
+-;-
+Work Desk I;Arbeitstisch für die Entwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Heizkörper; Mitarbeiter, die frieren, werden schneller unzufrieden.
+Lampe I;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Mülleimer; Halten Sie Ihre Büros immer sauber, <br> sonst werden Ihre Mitarbeiter unzufrieden.
+Wasserspender; Durstige Mitarbeiter werden schneller unzufrieden.
+Work Desk I;Schreibtisch für die Forschung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Pflanze; Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Kakteen; Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Tropische Pflanze; Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Toilette; Hier werden die wichtigsten Bedürfnisse befriedigt.
+Waschbecken; Sie sollten sich immer die Hände waschen!
+UFO-Poster; Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Roboter-Poster; Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Alien Poster; Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Retro-Poster; Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Star Ship Poster; Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Goldene Schallplatte; Sie erhalten diese Auszeichnung für jedes Spiel<br>, das mindestens 1.000.000 Einheiten verkauft hat.
+Künstlerisches Zeichnen I;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Künstlerische Zeichnung II;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Künstlerische Zeichnung III;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Künstlerische Zeichnung IV;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Künstlerisches Zeichnen V;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Händetrockner; Machen Sie Lärm, wickeln und trocknen Sie Ihre Hände.
+Arcade Cabinet I;Mit diesem Objekt können Ihre Mitarbeiter<br> neue Motivation bekommen.
+Bank - hellbraun; Hier können sich Ihre Mitarbeiter <br> für eine Pause hinsetzen.
+Bank - dunkelbraun; Hier können sich Ihre Mitarbeiter <br> für eine Pause hinsetzen.
+Bank - Minze; Hier können sich Ihre Mitarbeiter <br> für eine Pause hinsetzen.
+Schrank I;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Kabinett II;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Kabinett III;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Aktenschrank; Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+PGF Clean Bot; Dieser hochmoderne Reinigungsroboter entfernt alle Verschmutzungen.
+Sessel I - Braun; Mit diesem Objekt können Ihre Mitarbeiter neue Motivation bekommen.
+Sessel I - Schwarz; Mit diesem Objekt können Ihre Mitarbeiter neue Motivation bekommen.
+Sessel I - Grün; Mit diesem Objekt können Ihre Mitarbeiter neue Motivation bekommen.
+Produktionsmaschine I;Mit dieser Maschine können Sie Spiele produzieren.
+Arcade Cabinet II;Mit diesem Objekt können Ihre Mitarbeiter neue Motivation bekommen.
+Arcade Cabinet III;Mit diesem Objekt können Ihre Mitarbeiter neue Motivation bekommen.
+Uhr; Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Sessel II - Grau; Mit diesem Objekt können Ihre Mitarbeiter neue Motivation bekommen.
+Sessel II - Blau; Mit diesem Objekt können Ihre Mitarbeiter neue Motivation bekommen.
+Sessel II - Orange; Mit diesem Objekt können Ihre Mitarbeiter neue Motivation bekommen.
+Dartbrett; Mit diesem Objekt können Ihre Mitarbeiter neue Motivation bekommen.
+Lampe II;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Entex-Server; Server werden für MMO- und F2P-Spiele benötigt.<br>Dieser Server kann <b><color=blue><NUM></color></b> Spieler verarbeiten.
+Klimaanlage; Nützlich, um die Temperatur in Serverräumen zu regulieren.
+Heavy Duty Regal I;Ihre produzierten Spiele werden hier gespeichert.<br>Auf diesem Objekt können Sie <b><color=blue>25.000</color></b> Spiele speichern.
+Work Desk I;Der Schreibtisch für die Marketingabteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Lampe III;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Work Desk II;Schreibtisch für die Entwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk III;Schreibtisch für die Entwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk IV;Schreibtisch für die Entwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk V;Schreibtisch für die Entwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Training Desk I;Damit können Mitarbeiter geschult werden.<br>Je höher die Qualität, desto besser das Ergebnis.
+Whiteboard; Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Work Desk II;Schreibtisch für die Forschung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk II;Der Schreibtisch für die Marketingabteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk III;Der Schreibtisch für die Marketingabteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk IV;Der Schreibtisch für die Marketingabteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk V;Der Schreibtisch für die Marketingabteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk I;Der Schreibtisch für die Support-Abteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk II;Der Schreibtisch für die Support-Abteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk III;Der Schreibtisch für die Support-Abteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk IV;Der Schreibtisch für die Support-Abteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk V;Der Schreibtisch für die Support-Abteilung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk III;Schreibtisch für die Forschung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk IV;Schreibtisch für die Forschung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk V;Schreibtisch für die Forschung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Sessel III - Rot; Mit diesem Objekt können Ihre Mitarbeiter neue Motivation bekommen.
+Sessel III - Grün; Mit diesem Objekt können Ihre Mitarbeiter neue Motivation bekommen.
+Sessel III - Blau; Mit diesem Objekt können Ihre Mitarbeiter neue Motivation bekommen.
+Medizinkabinett; So können sich kranke Mitarbeiter selbst heilen.<br>Kranke Mitarbeiter arbeiten langsamer.
+Elektrische Heizung; Mitarbeiter, die frieren, werden schneller unzufrieden.<br>Diese Heizung kann an jeder Position platziert werden.
+Work Desk I;Der Arbeitsplatz für die Qualitätssicherung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Schreibtisch I;Der Schreibtisch für das Grafikstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Schreibtisch I;Der Schreibtisch für das Tonstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Schreibtisch I;Der Schreibtisch für das Motion-Capture-Studio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Tastatur; Mit diesem Objekt können Ihre Mitarbeiter neue Motivation bekommen.
+Heavy Duty Regal II;Ihre produzierten Spiele werden hier gespeichert.<br>Auf diesem Objekt können Sie <b><color=blue>50.000</color></b> Spiele speichern.
+Heavy Duty Regal III;Ihre produzierten Spiele werden hier gespeichert.<br>Auf diesem Objekt können Sie <b><color=blue>100.000</color></b> Spiele speichern.
+Work Desk II;Der Schreibtisch für das Tonstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Schreibtisch III;Der Schreibtisch für das Tonstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Tiermalerei I;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Tiermalerei II;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Tiermalerei III;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Tiermalerei IV;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Tiermalerei V;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Work Desk II;Der Schreibtisch zur Qualitätssicherung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk III;Der Schreibtisch für die Qualitätssicherung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk IV;Der Schreibtisch zur Qualitätssicherung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk V;Der Schreibtisch zur Qualitätssicherung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Ihr Sportwagen; Sie sollten Ihren <>alten Sportwagen verkaufen, um etwas Geld zu verdienen.
+Teppich I;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Teppich II;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Teppich III;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Teppich IV;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Teppich V;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Teppich VI;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Kühlschrank;Ideal für die Aufbewahrung von verderblichen Lebensmitteln.
+Fernsehen; Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Modernes Fernsehen; Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Radio; Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Work Desk II;Der Schreibtisch für das Grafikstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk III;Der Schreibtisch für das Grafikstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk IV;Der Schreibtisch für das Grafikstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk V;Der Schreibtisch für das Grafikstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Modernes Radio; Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Mittelgroßer Schrank I;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Mittelgroßer Schrank II;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Mittelgroßer Schrank III;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Training Desk II;Damit können Mitarbeiter geschult werden.<br>Je höher die Qualität, desto besser das Ergebnis.
+Training Desk III;Damit können Mitarbeiter geschult werden.<br>Je höher die Qualität, desto besser das Ergebnis.
+Training Desk IV;So können Mitarbeiter geschult werden.<br>Je höher die Qualität, desto besser das Ergebnis.
+Training Desk V;Damit können Mitarbeiter geschult werden.<br>Je höher die Qualität, desto besser das Ergebnis.
+Produktionsmaschine II; Mit dieser Maschine können Sie Spiele produzieren.
+Produktionsmaschine III; Mit dieser Maschine können Sie Spiele produzieren.
+Produktionsmaschine IV; Mit dieser Maschine können Sie Spiele produzieren.
+Produktionsmaschine V; Mit dieser Maschine können Sie Spiele produzieren.
+Schreibtisch IV;Der Schreibtisch für das Tonstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Schreibtisch V;Der Schreibtisch für das Tonstudio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk II;Der Schreibtisch für das Motion-Capture-Studio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk III;Der Schreibtisch für das Motion-Capture-Studio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk IV;Der Schreibtisch für das Motion-Capture-Studio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk V;Der Schreibtisch für das Motion-Capture-Studio. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Toshiba-Server; Server werden für MMO- und F2P-Spiele benötigt.<br>Dieser Server kann <b><color=blue><NUM></color></b> Spieler verarbeiten.
+Microsoft Server; Server werden für MMO- und F2P-Spiele benötigt.<br>Dieser Server kann <b><color=blue><NUM></color></b> Spieler verarbeiten.
+Google-Server; Server werden für MMO- und F2P-Spiele benötigt.<br>Dieser Server kann <b><color=blue><NUM></color></b> Spieler verarbeiten.
+IBM Server; Server werden für MMO- und F2P-Spiele benötigt.<br>Dieser Server kann <b><color=blue><NUM></color></b> Spieler verarbeiten.
+Platin-Schallplatte; Sie erhalten diese Auszeichnung für jedes Spiel<br>, das mindestens 5.000.000 Einheiten verkauft hat.
+Diamantener Rekord; Sie erhalten diese Auszeichnung für jedes Spiel<br>, das mindestens 10.000.000 Einheiten verkauft hat.
+Kaffeemaschine; Das Grundnahrungsmittel eines Spieleentwicklers ist Kaffee.<br>Die modernste Kaffeemaschine kommt von "Gronky Industries" und <br> kann den Kaffee problemlos 17 Stunden warm halten.
+Auszeichnung "Spiel des Jahres"; Sie erhalten diese Auszeichnung,<br>wenn eines Ihrer Spiele zum "Spiel des Jahres" gewählt wird.
+Auszeichnung "Entwickler des Jahres"; Sie erhalten diese Auszeichnung,<br>wenn Ihr Studio als "Entwickler des Jahres" ausgewählt wird.
+Auszeichnung "Bester Soundtrack"; Sie erhalten diese Auszeichnung,<br>wenn eines Ihrer Spiele den Preis "Bester Soundtrack" erhält.
+Auszeichnung "Best Graphics"; Sie erhalten diese Auszeichnung,<br>wenn eines Ihrer Spiele die Auszeichnung "Best Graphics" erhält.
+Kleiner Schrank I;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Kleiner Schrank II;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Kleiner Schrank III;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Teppich VII;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Teppich VIII;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Teppich IX;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Auszeichnung "Trendsetter"; Sie erhalten diese Auszeichnung,<br>wenn eines Ihrer Spiele zum Trendsetter wird.
+Auszeichnung "Verleger des Jahres"; Sie erhalten diese Auszeichnung,<br>wenn Ihr Studio zum "Publisher of the Year" gewählt wird.
+Schreibtisch I;Der Schreibtisch für die Werkstatt. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk II;Der Schreibtisch für die Werkstatt. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk III;Der Schreibtisch für die Werkstatt. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk IV;Der Schreibtisch für die Werkstatt. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Schreibtisch V;Der Schreibtisch für die Werkstatt. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk I;Der Schreibtisch für die Konsolenentwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk II;Der Schreibtisch für die Konsolenentwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk III;Der Schreibtisch für die Konsolenentwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk IV;Der Schreibtisch für die Konsolenentwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+Work Desk V;Der Schreibtisch für die Konsolenentwicklung. Je höher die Qualität,<br>desto besser das Arbeitsergebnis.
+moderne Klimaanlage; Nützlich, um die Temperatur in Serverräumen zu regulieren.
+Hocker - Grün; Mit diesem Objekt können Ihre Mitarbeiter neue Motivation bekommen.
+Hocker - Orange; Mit diesem Objekt können Ihre Mitarbeiter neue Motivation bekommen.
+Hocker - Blau; Mit diesem Objekt können Ihre Mitarbeiter neue Motivation bekommen.
+Tabelle I;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Tabelle II;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Tabelle III;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Sessel - Hellbraun; Hier können sich Ihre Mitarbeiter <br> für eine Pause hinsetzen.
+Sessel - dunkelbraun; Hier können sich Ihre Mitarbeiter <br> für eine Pause hinsetzen.
+Sessel - Minze; Hier können sich Ihre Mitarbeiter <br> für eine Pause hinsetzen.
+Minigolf; Mit diesem Objekt können Ihre Mitarbeiter neue Motivation bekommen.
+Architektur Image I;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Architektur Bild II;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Architektur Bild III;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Architektur Bild IV;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Architektur Image V;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Blumenbild I;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Blumenbild II;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Blumenbild III;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Blumenbild IV;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Flower Image V;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Teppich VII;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Teppich VIII;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Teppich IX;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Lampe IV;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Lampe V;Ihre Mitarbeiter sind motivierter, wenn sie<br> in gut ausgestatteten Büros arbeiten.
+Lampe VI;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.beiten.
+Sonnenblume; Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Kugelkaktus; Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Palme; Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+Tabelle IV;Ihre Mitarbeiter sind motivierter, wenn <br> in gut ausgestatteten Büros arbeiten.
+modernes Heizsystem; Dieses hocheffiziente Heizsystem<br>eignet sich besonders für Großraumbüros.
+Luxus-WC; Ein Besuch in dieser luxuriösen Toilette<br> steigert sogar die Motivation.
