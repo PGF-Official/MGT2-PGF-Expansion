@@ -1,80 +1,80 @@
-﻿Grafikus motor optimalizálása<0>
-Az audiorendszer programozása<0>
-Pályaszerkesztő készítése<0>
-Fizika optimalizálása<0>
-Küldetés programozása<0>
-Ellenséges MI optimalizálása<0>
-Betöltőképernyők optimalizálása<0>
-A memóriarendszer programozása<0>
+Optimalizálja a grafikus motor<0>
+Audiorendszer<0>
+Szintszerkesztő<0> fejlesztése
+Optimalizálja a játék fizikáját<0>
+Írjon szkripteket a küldetésekhez<0>
+Az ellenséges AI<0 optimalizálása>
+Optimalizálja a betöltési időket<0>
+Memóriarendszer<0>
 Felhasználói felület létrehozása<0>
-Adatbázis-rendszer programozása<0>
-Játék prototípus kidolgozása<0>
-Lokalizációs eszköz fejlesztése<0>
-Diagnosztikai eszköz fejlesztése<0>
-Játék tömörítése<0>
+Adatbázisrendszer programozása<0>
+Programozz be egy játék prototípusát<0>
+Honosítási eszközök<0> fejlesztése
+Diagnosztikai eszközök fejlesztése<0>
+Játékeszközök tömörítése<0>
 Párbeszédrendszer programozása<0>
-"Ütközési" eszköz fejlesztése<0>
-Fájlböngésző programozása<0>
-Pályabetöltő programozása<0>
-Bemeneti vezérlés programozása<0>
-Spritemanager programozása<0>
-Hibakeresési kontroller programozása<0>
-Eseménykezelő programozása<0>
-Animációs rendszer programozása<0>
-Sprite szerkesztő programozása<0>
-Fejlesztőprogramok fejlesztése<0>
-Másolásvédelem készítése<0>
+Ütközési rendszer fejlesztése<0>
+Fájlböngésző<0>
+Programozzon be egy szintbetöltőt<0>
+Programozzon egy Input Manager<0>
+Programozzon be egy Sprite Manager<0>
+Debug Controller<0> fejlesztése
+Eseménykezelő<0>
+Animációs rendszer fejlesztése<0>
+Sprite Editor<0> fejlesztése
+Járművezetők fejlesztése<0>
+Másolásvédelem megvalósítása<0>
 Vezérlőrendszer optimalizálása<1>
-Szintek tervezése<1>
-Általános hibajavítás<1>
-Küldetés tesztelése<1>
-Játékkoncepció készítése<1>
-Hardver kompatibilitási tesztek<1>
-Játék stabilitásának tesztelése<1>
-Játék teljesítményének elemzése<1>
-Játék frissítés tesztelése<1>
-Játékegyensúlyozást optimalizálása<1>
-Bővítmények tesztelése<1>
-Prototípus elemzése<1>
+A szinttervezéssel kapcsolatos munka<1>
+Általános hibatesztelés<1>
+Próbáld ki a küldetéseket<1>
+Hozzon létre egy játékkoncepciót<1>
+Hardverkompatibilitás tesztelése<1>
+Tesztelje a játék stabilitását<1>
+ A játék teljesítményének elemzése<1>
+Tesztelje a játékfrissítéseket<1>
+Optimalizálja a játékegyensúlyt<1>
+Plug-inek tesztelése<1>
+ Prototípus<1> elemzése
 Felhasználói felület tesztelése<1>
-Forgatókönyv létrehozása<1>
-Párbeszéd írása<1>
-Karakter spriteok létrehozása<2>
-Háttérkép rajzoláas<2>
-Tárgyak rajzolása<2>
+Storyboard létrehozása<1>
+Írjon új párbeszédet<1>
+Karakterspiránok<2> létrehozása
+Háttér rajzolása<2>
+Elemek rajzolása<2>
 Felhasználói felület rajzolása<2>
-Koncepciógrafika készítése<2>
-Környezeti tárgyak rajzolása<2>
-Speciális effektusok készítése<2>
+Concept Graphics<2> létrehozása
+Környezeti objektumok rajzolása<2>
+Speciális effektusok létrehozása<2>
 Borítókép rajzolása<2>
-Tileset készítése<2>
-Betűtípusok rajzolása<2>
+Szintcsempék létrehozása<2>
+Tervezési betűtípusok<2>
 Karakterek animálása<2>
-Játékzene rögzítése<3>
-Karakterhang rögzítése<3>
-Fegyverkhangok rögzítése<3>
-UI hang rögzítése<3>
-Dinamikus hangok rögzítése<3>
-Környezeti hangok rögzítése<3>
-Varázshangokat rögzítése<3>
-Állati zajok rögzítése<3>
-Motorhangok rögzítése<3>
-Klasszikus zene rögzítése<3>
-Robot hang rögzítése<3>
-Robbanási hangok keverése<3>
-Alapvető mozgások animálása<4>
-Karcművészeti animáció felvétele<4>
-Átvezető animáció felvétele<4>
-Állati animációkat felvétele<4>
-Kardjáték animálása<4>
-Szörnyek animálása<4>
-Táncanimáció készítése<4>
-Focijátékosok animáláas<4>
-Kifejezések animáláas<4>
-Robotanimációk felvétele<4>
-Konzolok javítása<7>
-Konzol prototípus tervezése<7>
+Filmzene<3> létrehozása
+Karakterhangok létrehozása<3>
+Rögzítse a fegyverek hangjait<3>
+Felhasználói felületi hangok létrehozása<3>
+Dinamikus hangok létrehozása<3>
+Hangulathangok létrehozása<3>
+Varázslatos hangok létrehozása<3>
+Rögzítse az állatok zajait<3>
+Motorzajok létrehozása<3>
+Klasszikus zene felvétele<3>
+Robothangok létrehozása<3>
+A robbanási hangok keverése<3>
+Rögzítse az alapvető mozgásokat<4>
+Rögzítse a harcművészeti animációt<4>
+Készítsen Cutcene animációkat<4>
+Állati animációk készítése<4>
+Rögzítse a Swordplay animációt<4>
+Animációk létrehozása szörnyeknek<4>
+Táncanimációk létrehozása<4>
+Rekord focisták<4>
+Hangulatjel-animációk létrehozása<4>
+Robotanimációk rögzítése<4>
+Javító konzolok<7>
+Tervezési konzol prototípusa<7>
 Konzol prototípusának diagnosztizálása<7>
-Konzol alaplapjának felülvizsgálata<7>
-Teljesítmény tesztelés egy konzolon<7>
-Hűtőrendszer optimalizálása<7>
+A konzol alaplapjának felülvizsgálata<7>
+Teljesítményteszt egy prototípus<7>
+Optimalizálja a hűtőrendszert<7>
