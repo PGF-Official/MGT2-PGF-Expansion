@@ -1,6 +1,6 @@
 ﻿Optimize Graphics Engine<0>
 Program an Audio System<0>
-DeveloP a Level Editor<0>
+Develop a Level Editor<0>
 Optimize Game Physics<0>
 Write Scripts for Quests<0>
 Optimize Enemy AI<0>
@@ -73,8 +73,8 @@ Record Soccer Players<4>
 Create Emote Animations<4>
 Record Robot Animations<4>
 Repair Consoles<7>
-Design Console PrototyPe<7>
-Diagnose Console PrototyPe<7>
+Design Console Prototype<7>
+Diagnose Console Prototype<7>
 Revise Console Mainboard<7>
-Performance Test a PrototyPe<7>
+Performance Test a Prototype<7>
 Optimize Cooling System<7>
