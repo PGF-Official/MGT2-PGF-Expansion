@@ -1,8 +1,8 @@
-﻿Hurricain;Create an action game with a rating of at least 70%.
-Crystal Maze;Create an skill game with a rating of at least 70%.
+﻿Hurrican;Create an action game with a rating of at least 70%.
+Marble Maze;Create an skill game with a rating of at least 70%.
 Dr. Mario;Create an puzzle Game with a rating of at least 70%.
 Monkey Island;Create an adventure game with a rating of at least 70%.
-Fus Roh Dah;Create an RPG Game with a rating of at least 70%.
+Dungeons and Masters;Create an RPG Game with a rating of at least 70%.
 Civilization;Create an strategy game with a rating of at least 70%.
 Super Mario World;Create an platformer with a rating of at least 70%.
 Spaceship: Elite;Create an simulation game with a rating of at least 70%.
@@ -12,7 +12,7 @@ Street Fighter;Create an fighting game with a rating of at least 70%.
 SimCity: 1602;Create an building game with a rating of at least 70%.
 Dragon's Cave;Create an interactive movie with a rating of at least 70%.
 Commander Yuri;Create an Real-Time strategy game with a rating of at least 70%.
-BOOM;Create an First-Person Shooter.
+DOOM;Create an First-Person Shooter.
 Better Than a Book;Create an visual novel with a rating of at least 70%.
 Max Brain;Create an Third-Person Shooter with a rating of at least 70%.
 Test Drive;Create an racing game with a rating of at least 70%.
@@ -29,7 +29,7 @@ Bundles;Create a game bundle.
 Discount;Publish a budget game.
 Complete Edition;Publish an addon game bundle.
 Spin Off;Create a spin off.
-Episode V: Empire Strikes Back;Create a sequel to a game.
+I, II, III, IV;Create a sequel to a game.
 Game Porting Made Easy;Port a game to another platform.
 Better Than the Original?;Create a remaster of one of your games.
 Trendsetter;One of your games should set a new trend.
@@ -66,7 +66,7 @@ That Is Not Enough!;Have at least $500,000,000.
 Three Commas Club;Have at least a billion dollars.
 Console war II;Sell at least 10,000,000 units of your own console.
 Market Leader;Sell at least 50,000,000 units of your own console.
-My Name Is Sid MEier;Hire a developer legend.
+My Name Is Sid Maier;Hire a developer legend.
 Shopping Tour I;Buy an NPC developer or publisher.
 Shopping Tour II;Buy at least 10 NPC developers or publishers.
 Shopping Tour III;Buy at least 30 NPC developers or publishers.
