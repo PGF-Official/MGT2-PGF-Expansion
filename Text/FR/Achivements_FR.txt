@@ -1,72 +1,72 @@
-﻿Hurrican;Créez un jeu d'action avec une note d'au moins 70 %.
-Marble Maze;Créez un jeu d'adresse avec une note d'au moins 70 %.
-Dr. Lario;Créez un jeu d'Egnime avec une note d'au moins 70 %.
-The Island of Monkeys;Créez un jeu d'aventure avec une note d'au moins 70 %.
-Dungeons and Masters;Créez un jeu RPG avec une note d'au moins 70 %.
-The Civilizations;Créez un jeu de stratégie avec une note d'au moins 70 %.
-Super Lario World;Créez un jeu de plateforme avec une note d'au moins 70 %.
-Spaceship: Elite;Créez un jeu de simulation avec une note d'au moins 70 %.
-California Cup;Créez un jeu de sport avec une note d'au moins 70 %.
-Mad Oil Tycoon;Créez un jeu Simulation Economique avec une note d'au moins 70 %.
-Backstreet Fighter;Créez un jeu de combat avec une note d'au moins 70 %.
-Simulation City: 1602;Créez un jeu de construction avec une note d'au moins 70 %.
-Dragon's Cave;Créez un film interactif avec une note d'au moins 70 %.
-Commander Yuri;Créez un jeu de stratégie en temps réel avec une note d'au moins 70 %.
-BOOM;Créez un jeu de tir à la première personne.
-Better Than a Book;Créez un roman visuel avec une note d'au moins 70 %.
-Max Brain;Créez un jeu de tir à la troisième personne avec une note d'au moins 70 %.
-The Test Drivers;Créez un jeu de course avec une note d'au moins 70 %.
+Hurricain;Créer un jeu d'action avec une cote d'au moins 70 %.
+Crystal Maze;Créez un jeu d'adresse avec une note d'au moins 70 %.
+Dr. Mario;Créez un jeu de puzzle avec une note d'au moins 70 %.
+Monkey Island;Créer un jeu d'aventure avec une note d'au moins 70 %.
+Fus Roh Dah;Créer un jeu RPG avec une cote d'au moins 70 %.
+Civilisation ;Créer un jeu de stratégie avec une cote d'au moins 70 %.
+Super Mario World;Créez un jeu de plateforme avec une cote d'au moins 70 %.
+Vaisseau spatial : Elite ;Créez un jeu de simulation avec une cote d'au moins 70 %.
+California Cup;Créer un jeu de sport avec une note d'au moins 70 %.
+Mad Oil Tycoon; Créer une simulation économique avec une note d'au moins 70 %.
+Street Fighter;Créer un jeu de combat avec une note d'au moins 70 %.
+SimCity : 1602 ;Créer un jeu de construction avec une cote d'au moins 70 %.
+Dragon's Cave; Créez un film interactif avec une note d'au moins 70 %.
+Commandant Yuri;Créez un jeu de stratégie en temps réel avec une note d'au moins 70 %.
+BOUM ; Créez un jeu de tir à la première personne.
+Mieux qu'un livre;Créez un roman visuel avec une note d'au moins 70 %.
+Max Brain;Créez un jeu de tir à la troisième personne avec une note d'au moins 70 %.
+Test Drive ;Créez un jeu de course avec une note d'au moins 70 %.
 Retromania;Créez un jeu rétro.
-World of Meridian;Créez un jeu MMO.
-Le jeu est-il vraiment gratuit ?;Créez un jeu F2P.
-Insérer une pièce!;Créer une borne d'arcade.
-Tout le monde aime Snakes;Créez un jeu sur téléphone portable.
-Né pour être programmeur;Créez votre propre moteur.
-Console de guerre;Créez votre propre console fixe.
-Cela tient dans ma poche;Créez votre propre console portable.
-Bonus Payment;Créez un jeu de contrat.
-Bundles;Créez un bundle.
-Discount;Publiez un jeu de budget.
-Complete Edition;Publiez un ensemble de jeux d'extension.
-Spin Off;Créez un spin off.
-I, II, III, IV;Créer une suite à un jeu.
-Le portage de jeu simplifié;Portez un jeu sur une autre plateforme.
-Meilleur que l'original?;Créez un remaster de l'un de vos jeux.
-Avant gardiste;L'un de vos jeux devrait créer une nouvelle tendance.
-Jeu de l'année;L'un de vos jeux doit être élu Jeu de l'année.
-Développeur de l'année.;Gagnez le prix du développeur de l'année.
-Editeur de l'année.;Gagnez le prix de l'éditeur de l'année.
-Bonbon plein les yeux;L'un de vos jeux doit obtenir un prix pour les meilleurs graphismes.
-Une grande bande-son;L'un de vos jeux doit obtenir un prix pour le meilleur son.
-C'est po juste !;L'un de vos jeux doit être élu le pire jeu de l'année.
+World of WarCraft;Créez un jeu MMO.
+Le jeu est-il vraiment gratuit ? Créez un jeu F2P.
+Insérez une pièce ! Créez une machine d'arcade.
+Tout le monde aime les serpents ; créez un jeu pour téléphone portable.
+Né pour être un programmeur;Créez votre propre moteur.
+Console War;Créez votre propre console fixe.
+Cela tient dans ma poche ; créez votre propre console mobile.
+Paiement de bonus;Créez un jeu de contrat.
+Bundles;Créer un bundle de jeu.
+Remise ; Publier un jeu à petit budget.
+Complete Edition;Publier un bundle de jeu addon.
+Spin Off;Créer un spin off.
+Épisode V : L'Empire contre-attaque ; Créez une suite à un jeu.
+Portage de jeu simplifié ; Porter un jeu sur une autre plate-forme.
+Mieux que l'original ? Créez un remaster de l'un de vos jeux.
+Trendsetter ; L'un de vos jeux devrait créer une nouvelle tendance.
+Jeu de l'année ;Un de vos jeux doit être nommé Jeu de l'année.
+Développeur de l'année ; Gagnez le prix du développeur de l'année.
+Éditeur de l'année ; Gagnez le prix de l'éditeur de l'année.
+Eye Candy ; Un de vos jeux doit recevoir un prix pour les meilleurs graphismes.
+Une excellente bande son ; l'un de vos jeux doit recevoir un prix pour le meilleur son.
+Ça ne peut pas être vrai ! ;L'un de vos jeux doit être élu le pire jeu de l'année.
 Overhype!;Créez un overhype pour l'un de vos jeux.
-Entrepreneurs(e)s;Signez un contrat d'exclusivité avec un éditeur.
-C'était beaucoup d'emplois !;Atteindre une réputation auprès des clients à 100%.
-Maintenant je vais devenir riche;Produire et distribuer un jeu sans éditeur.
-C'est le futur!;Atteignez l'année 2050 dans le jeu.
-Editeur;Publiez un jeu d'une société de PNJ.
-Mon meilleur ami!;Maximiser la relation avec un éditeur.
-OR;Vendez au moins 1 000 000 d'unités d'un jeu.
-Platine;Vendez au moins 10 000 000 d'unités d'un jeu.
-Diamand;Vendez au moins 50 000 000 d'unités d'un jeu.
-80%;L'un de vos jeux doit recevoir une note globale d'au moins 80 %.
-90%;L'un de vos jeux doit recevoir une note globale d'au moins 90 %.
-100%;L'un de vos jeux doit recevoir une note globale d'au moins 100 %.
-Tout le monde m'aime !;Avoir au moins 1 000 000 de fans.
-Je n'aime pas être seul;Démarrez une partie multijoueur avec au moins un ami.
-C'est mon équipe !;Démarrez une partie multijoueur avec quatre amis.
-Propriété intellectuelle;Maximiser la popularité d'une IP.
-Entreprise de jeu légendaire;Maximisez la réputation de votre studio.
-Masterful;Avoir un employé avec une expérience de 100% à n'importe quelle compétence.
-Employer I;Avoir au moins 20 employés.
-Employer II;Avoir au moins 50 employés.
-Employer III;Avoir au moins 100 employés.
-Argent de poche;Avoir au moins 50 000 000 $.
-Ce n'est pas suffisant!;Avoir au moins 500 000 000 $.
-Club des trois virgules;Avoir au moins un milliard de dollars.
-Console de guerre II;Vendez au moins 10 000 000 d'unités de votre propre console.
-Leader du marché;Vendez au moins 50 000 000 d'unités de votre propre console.
-Je m'appelle Sid Maier;Embauchez une légende du développeur.
-Shopping Tour I;Buy an NPC developer or publisher.
-Shopping Tour II;Buy at least 10 NPC developers or publishers.
-Shopping Tour III;Buy at least 30 NPC developers or publishers.
+Entrepreneurs;Signer un contrat d'exclusivité avec un éditeur.
+C'était beaucoup d'emplois !; Atteindre une réputation auprès des clients de 100 %.
+Maintenant je deviendrai riche ; Produire et distribuer un jeu sans éditeur.
+C'est l'avenir ! Atteignez l'an 2050 dans le jeu.
+Éditeur !; Publier un jeu d'une société de PNJ.
+My Best Friend ! ;Maximiser la relation avec un éditeur.
+Or ; Vendre au moins 1 000 000 d'unités d'un jeu.
+Platine ; Vendre au moins 10 000 000 d'unités d'un jeu.
+Diamant ; Vendre au moins 50 000 000 d'unités d'un jeu.
+80 % ;L'un de vos jeux doit recevoir une note globale d'au moins 80 %.
+90 % ;L'un de vos jeux doit recevoir une note globale d'au moins 90 %.
+100 % ;L'un de vos jeux doit recevoir une note globale d'au moins 100 %.
+Tout le monde m'aime ! Avoir au moins 1 000 000 de fans.
+Je n'aime pas être seul ; Commencez une partie multijoueur avec au moins un ami.
+C'est mon équipe ! Démarrez une partie multijoueur avec quatre amis.
+Propriété intellectuelle ; Maximiser la popularité d'une propriété intellectuelle.
+Legendary Game Company; Maximisez la réputation de votre studio.
+Maîtrise ; Avoir un employé avec une expérience de 100 % dans n'importe quelle compétence.
+Employeur I;Avoir au moins 20 employés.
+Employeur II; Avoir au moins 50 employés.
+Employeur III;Avoir au moins 100 employés.
+Argent de poche ; Posséder au moins 50 000 000 $.
+Ce n'est pas assez ! Avoir au moins 500 000 000 $.
+Three Commas Club ; avoir au moins un milliard de dollars.
+Console war II ; Vendez au moins 10 000 000 d'unités de votre propre console.
+Leader du marché ; Vendez au moins 50 000 000 d'unités de votre propre console.
+Je m'appelle Sid Meier ; engagez une légende du développement.
+Shopping Tour I ; Acheter un développeur ou un éditeur de PNJ.
+Shopping Tour II ; Achetez au moins 10 développeurs ou éditeurs de PNJ.
+Shopping Tour III ; Achetez au moins 30 développeurs ou éditeurs de PNJ.
