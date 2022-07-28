@@ -366,4 +366,303 @@ juego exclusivo
 ▪ <b>Los juegos exclusivos</b> solo se pueden publicar en una plataforma.<br>Por la exclusividad, las cifras de ventas de la plataforma pueden aumentar.<br>Además, una parte de los costos de desarrollo los cubre la plataforma fabricante.
 Cuota de mercado total:
 Se desbloqueará si uno de tus juegos obtiene una<br>puntuación general de al menos <color=blue>70 %</color>.
-Se desbloqueará en <
+Se desbloqueará en <color=blue>abril de 1986</color>.
+Motor
+Plataformas
+Se desbloqueará si has publicado al menos <color=blue>5 juegos</color>.
+Se desbloqueará si has publicado al menos <color=blue>10 juegos</color>.
+Se desbloqueará si has publicado al menos <color=blue>15 juegos</color>.
+Quitar plataforma
+desarrollo costos
+Nivel mínimo de tecnología
+Mostrar plataformas ocultas
+El nivel de tecnología de esta plataforma es demasiado bajo.<br>Solo se pueden seleccionar plataformas con el mismo o mayor<br>nivel de tecnología que el motor.
+Esta plataforma ya ha sido seleccionada.
+Las siguientes plataformas han sido eliminadas por no contar con el nivel tecnológico requerido:
+Protección contra copias
+Quitar la protección contra copia
+Sin protección anticopia
+Aún no se ha lanzado ningún <color=blue>software de protección contra copia</color>.
+Prioridad de diseño
+prioridad de trabajo
+Idiomas
+Como se Juega
+Visuales
+Historia
+Duración del juego
+Atmósfera
+Contenido
+Profundidad del juego
+Apto para principiantes
+Jugadores principales
+Jugadores casuales
+Para cada idioma hay costos de traducción de <color=red>$5.000</color>.
+Activar/desactivar todos los idiomas
+¡La prioridad de trabajo no debe ser superior al 100%!
+¡Se debe seleccionar un género principal!
+¡Se debe seleccionar un tema principal!
+¡Se debe seleccionar una plataforma principal!
+¡Se debe seleccionar al menos un idioma!
+Conceptos de juego
+Análisis del juego
+Cartas de fans
+Esta función aún no se ha agregado.
+Activar/desactivar todas las funciones
+Cantidad
+Se activaron demasiadas funciones de juego.<br>Si desea agregar más funciones de juego a su juego,<br> necesita cambiar el tamaño del juego.
+¡Debes darle un nombre al juego!
+Tipo de característica
+Costos de investigación
+Puntos de investigación
+¡La prioridad de trabajo está por debajo del 100%!
+Juego completado
+Se ha completado el trabajo más necesario en este juego y está <color=blue>listo para su lanzamiento</color>. Si quieres, puedes seguir trabajando en el juego y hacer mejoras. Sin embargo, en la <color=blue>fase de pulido</color>, los resultados del trabajo se reducen y los errores se eliminan lentamente.
+¡Nuevo record!
+Editor de búsqueda
+Autodistribución
+Descartar producto
+Continuar el desarrollo
+Insectos
+Programación completada
+Nueva leyenda del desarrollador de juegos
+En el mercado laboral <NOMBRE> está disponible.
+La experiencia con los géneros afecta la jugabilidad.
+La experiencia con los temas afecta la jugabilidad.
+La experiencia con las plataformas repercute en los gráficos, el sonido y la tecnología.
+nuevo competidor
+Editor
+Bombo publicitario
+Fortaleza del mercado
+Relación
+Pago
+Base de fans
+Sí
+Experiencia adquirida
+Sin experiencia adquirida
+Descripción general, cuántos juegos están disponibles actualmente, que también tienen el género <color=blue><GENRE></color> o el tema <color=blue><THEME></color>.
+Análisis de mercado
+total [género]
+Total [Tema]
+En Plataforma [Género]
+En la plataforma [tema]
+Informe de desarrollo
+Cambiar plataforma
+Captura de pantalla actual
+Progreso
+Costos de desarrollo hasta la fecha:
+Calificación estimada actual:
+Información sobre herramientas: Jugabilidad 1
+Información sobre herramientas: Jugabilidad 2
+Información sobre herramientas: Jugabilidad 3
+Información sobre herramientas: Jugabilidad 4
+Información sobre herramientas: Jugabilidad 5
+Información sobre herramientas: Jugabilidad 6
+Información sobre herramientas: Sonido 1
+Información sobre herramientas: Sonido 2
+Información sobre herramientas: Sonido 3
+Información sobre herramientas: Sonido 4
+Información sobre herramientas: Sonido 5
+Información sobre herramientas: Sonido 6
+Información sobre herramientas: Gráfico 1
+Información sobre herramientas: Gráfico 2
+Información sobre herramientas: Gráfico 3
+Información sobre herramientas: Gráfico 4
+Información sobre herramientas: Gráfico 5
+Información sobre herramientas: Gráfico 6
+MoCap [Animaciones del jugador]
+MoCap [animaciones NPC]
+Para apoyar a otro equipo, haz clic en una sala del mismo tipo con el <color=blue>botón izquierdo del ratón</color>.
+Apoyo
+Cancelar soporte
+Esperar ...
+<b>Reputación con los clientes</b><br>Cuanto mayor sea la reputación, más trabajos se le ofrecerán.<br>Además, el pago es mayor.
+Motivación media de tus empleados
+El género <color=green><NAME1></color> y el tema <color=green><NAME2></color> están de moda actualmente.
+El género <color=red><NAME1></color> y el tema <color=red><NAME2></color> actualmente son impopulares.
+Esta tendencia continuará durante <color=blue><TIME></color> semanas.
+Nueva tendencia
+Semana
+Total
+Muestra cuántas semanas lleva el juego en el mercado.
+Juego
+Minimizar/Maximizar ventana
+Juego retirado del mercado
+Lucro
+Las cifras de ventas de <color=blue><NAME></color> se han reducido drásticamente, por lo que el producto se retiró del mercado.
+Semanas en oferta
+costos de mercadeo
+Tarifas del motor
+<color=blue><NAME1></color> ha publicado el juego <color=blue><NAME2></color>.
+Su editor ha iniciado una campaña de marketing para <color=blue><NAME1></color>.
+Muestra la calidad de tus oficinas.
+Muestra lo sucias que están sus oficinas.
+Esto le permite ver si sus oficinas están demasiado frías.
+Aquí puede establecer qué mensajes se muestran.
+<color=blue><NAME1></color> obtuvo la licencia de su motor <color=blue><NAME2></color>.
+Declaración
+El desarrollador <color=blue><NAME1></color> obtuvo la licencia de su motor para <color=blue><NAME2></color>. Se le acaba de enviar la factura.
+Compartir en porcentaje
+Compartir por juego
+<b>CEO</b><br>Tu personaje no pierde la motivación.
+personaje del jugador
+Sin habitación asignada
+El empleado ha renunciado
+El departamento de personal informa que <color=blue><NAME></color> ha renunciado. Siempre debe prestar atención a las necesidades de sus empleados y evitar largos tiempos de crisis y falta de motivación.
+Enfriamiento
+CAMPAÑA de Marketing
+¿Para qué quieres iniciar una nueva campaña de marketing?
+Consola de juego
+Campaña de marketing para un juego.
+Campaña de marketing parar una consola
+Deje de comercializar tan pronto como la exageración esté en su punto máximo
+Repetición automática
+carteles
+Revistas de juegos
+Radio
+anuncios de internet
+Streamer superior
+TELEVISOR
+Máximo hype que se puede generar con esta campaña.
+Se desbloqueará en <color=blue>febrero de 2005</color>.
+Se desbloqueará en <color=blue>marzo de 1993</color>.
+desbloqueado
+En desarrollo
+Campaña de marketing para <NAME1> completada
+Costos de producción
+costos del servidor
+Calidad
+Bonificación por resultados de trabajo: <NUM>%
+Se desbloqueará si has investigado <color=blue>una característica del motor</color>.
+Está disponible desde el año <NUM>
+Iniciar curso de formación
+Cursos de formación
+Diseño de juegos para principiantes.
+Diseño de juegos para avanzados.
+Diseño de juegos para profesionales.
+Programación para principiantes
+Programación para avanzados
+Programación para profesionales
+Diseño gráfico para principiantes.
+Diseño gráfico para avanzados.
+Diseño gráfico para profesionales
+Música y sonido para principiantes
+Música y sonido para avanzados
+Música y sonido para profesionales
+Marketing y soporte para principiantes
+Marketing y soporte avanzados
+Marketing y soporte para profesionales
+Pruebas de juegos para principiantes.
+Pruebas de juego para avanzados
+Testeo de juegos para profesionales
+Hardware y tecnología para principiantes
+Hardware y tecnología para avanzados
+Hardware y tecnología para profesionales
+Investigación para principiantes.
+Investigación para avanzados
+Investigación para profesionales
+Nivel máximo: <color=azul><NUM></color>
+Efectividad: <color=blue>Baja</color>
+Efectividad: <color=blue>Media</color>
+Efectividad: <color=blue>Alta</color>
+Curso de formación "<NOMBRE>" completado
+¿Realmente desea desechar este producto? ¡Este proceso es irreversible!
+¿Está seguro de que desea cancelar la tarea actual?
+Se le reembolsará <color=green><NUM></color>.
+Licencias
+GFX [Gráficos ambientales]
+GFX [GUI]
+GFX [Fondos]
+GFX [Efectos especiales]
+GFX [Personajes]
+GFX [secuencias de corte]
+SFX [Efectos de sonido]
+SFX [Sonidos de interfaz de usuario]
+SFX [música]
+SFX [Sonidos ambientales]
+SFX [Sonidos dinámicos]
+SFX [Grabación de voz]
+MC [Animaciones de jugadores I]
+MC [Animaciones de jugadores II]
+MC [Animaciones de jugadores III]
+MC [Animaciones NPC I]
+MC [Animaciones NPC II]
+MC [Animaciones NPC III]
+control de calidad [saldo]
+Control de calidad [Controles]
+Control de calidad [Rendimiento]
+Control de calidad [interfaz de usuario]
+Control de calidad [Mecánica del juego]
+Control de calidad [diseño de niveles]
+Trabajo encargado
+¿Qué tipo de pedido quieres hacer?
+Tarea corta
+juego de contrato
+Procesar todos los trabajos automáticamente
+Pago
+Sanción contractual
+Plazo
+Carga de trabajo
+Cliente
+Plazo: <b><NUM> semanas</b>
+Eliminar trabajo
+Trabajo encargado completado: <NAME><br>Pago: <NUM>
+Debe pagar una multa contractual de <color=red><NUM></color>.
+Semanas: <NUM>
+El trabajo encargado falló: <NAME><br>Sanción contractual: <NUM>
+Selecciona un juego
+Juegos disponibles
+Hype que se crea al comienzo del desarrollo.
+¿De qué juego debería desarrollarse una secuela?
+<b>Sequel</b><br>Las secuelas de los juegos se benefician del éxito de sus predecesores.<br>Al comienzo del desarrollo se genera una exageración,<br>y hay una bonificación en las cifras de ventas.<br>La el desarrollo de una secuela puede afectar negativamente<br>las cifras de ventas del predecesor.
+<b>Remasterización</b><br>Se reducen los costes de desarrollo de las remasterizaciones.<br>Solo se pueden remasterizar los juegos,<br>que ya han sido retirados del mercado.
+<b>Juego nuevo</b><br>Cuando creas un juego nuevo,<br>más tarde puedes desarrollar una remasterización o una secuela.
+¡Este nombre de juego ya existe!
+¿Qué juego quieres remasterizar? Solo se pueden seleccionar juegos que ya hayan sido retirados del mercado.
+Remasterizado
+Oro
+Recargado
+De lujo
+<color=negro>(<NUM>)</color>
+Plataforma
+Calificación mínima para pago de bonificación: <b><NUM>%</b>
+Prima
+entregar el juego
+▪ Juego de contrato ▪<br>Se ha completado el trabajo más necesario en este juego. Puede entregar el juego a su cliente o seguir trabajando en él.
+El cliente le transfirió un salario de <color=blue><NUM1></color>. Recibirás el pago de bonificación de <color=blue><NUM2></color> tan pronto como se haya completado el juego y la prensa haya calificado el juego al menos <color=blue><NUM3></color>.
+No puede aceptar este trabajo porque no tiene el kit de desarrollo requerido.
+Ha recibido la factura final del juego de contrato.
+Salario total
+se cumplió el plazo
+Solo puede reemplazar plataformas que ya hayan sido retiradas del mercado.
+Costos adicionales de portabilidad
+¡Para los juegos de contrato no está permitido cambiar la plataforma!
+¡Debe cancelar la tarea actual para esta sala!
+<b>Número de contratos</b><br><br>
+Número de juegos de contrato
+Esta pantalla le informa si a un empleado<br>no se le ha asignado una habitación.<br><br><color=blue>Haga clic para seleccionar al empleado</color>
+Actualizaciones y complementos
+¿Qué tipo de actualización o complemento quieres desarrollar?
+Actualización gratuita
+Complemento pagado
+Complemento MMO
+Seleccione el contenido de la actualización gratuita.
+¿Para qué juego debería desarrollarse una actualización gratuita?
+Número de actualizaciones
+Paquete de idioma
+Contenido
+Parche
+Nuevo modo de juego
+nuevas misiones
+Nuevos objetos de entorno
+Nuevos gráficos de fondo
+Nuevos efectos de sonido
+Música nueva
+Mejorar el rendimiento
+Mejorar los controles
+máx.
+¡No has elegido ningún contenido para la actualización!
+Se completó una actualización para <NOMBRE>.
+¿Qué concepto de juego te gustaría ver?
+Copiar concepto de juego
+Ajustes básicos
+El motor seleccionado
