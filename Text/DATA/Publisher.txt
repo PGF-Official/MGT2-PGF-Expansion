@@ -1750,13 +1750,13 @@
 [COUNTRY]0
 
 [ID]123
-[NAME EN]Deep Silver
-[NAME GE]Deep Silver
-[NAME TU]Deep Silver
-[NAME FR]Deep Silver
-[NAME JA]ディープシルバ
 [NAME CH]Deep Silver
 [NAME CT]Deep Silver
+[NAME EN]Deep Silver
+[NAME FR]Deep Silver
+[NAME GE]Deep Silver
+[NAME JA]ディープシルバ
+[NAME TU]Deep Silver
 [DATE]MAY 2002
 [PIC]123
 [DEVELOPER]true
@@ -1769,13 +1769,13 @@
 [COUNTRY]2
 
 [ID]124
-[NAME EN]Eggcode Games
-[NAME GE]Eggcode Games
-[NAME TU]Eggcode Games
-[NAME FR]Eggcode Games
-[NAME JA]Eggcode Games
 [NAME CH]Eggcode Games
 [NAME CT]Eggcode Games
+[NAME EN]Eggcode Games
+[NAME FR]Eggcode Games
+[NAME GE]Eggcode Games
+[NAME JA]Eggcode Games
+[NAME TU]Eggcode Games
 [DATE]JAN 2010
 [PIC]124
 [DEVELOPER]true
@@ -1788,13 +1788,13 @@
 [COUNTRY]5
 
 [ID]125
-[NAME EN]Piranha Bytes
-[NAME GE]Piranha Bytes
-[NAME TU]Piranha Bytes
-[NAME FR]Piranha Bytes
-[NAME JA]Piranha Bytes
 [NAME CH]Piranha Bytes
 [NAME CT]Piranha Bytes
+[NAME EN]Piranha Bytes
+[NAME FR]Piranha Bytes
+[NAME GE]Piranha Bytes
+[NAME JA]Piranha Bytes
+[NAME TU]Piranha Bytes
 [DATE]SEP 1997
 [PIC]125
 [DEVELOPER]true
@@ -1807,13 +1807,13 @@
 [COUNTRY]5
 
 [ID]126
-[NAME EN]4A Games
-[NAME GE]4A Games
-[NAME TU]4A Games
-[NAME FR]4A Games
-[NAME JA]4A Games
 [NAME CH]4A Games
 [NAME CT]4A Games
+[NAME EN]4A Games
+[NAME FR]4A Games
+[NAME GE]4A Games
+[NAME JA]4A Games
+[NAME TU]4A Games
 [DATE]DEC 2006
 [PIC]126
 [DEVELOPER]true
@@ -1826,13 +1826,13 @@
 [COUNTRY]19
 
 [ID]127
-[NAME EN]Marvelous Inc.
-[NAME GE]Marvelous Inc.
-[NAME TU]Marvelous Inc.
-[NAME FR]Marvelous Inc.
-[NAME JA]株式会社マーベラス
 [NAME CH]Marvelous Inc.
 [NAME CT]Marvelous Inc.
+[NAME EN]Marvelous Inc.
+[NAME FR]Marvelous Inc.
+[NAME GE]Marvelous Inc.
+[NAME JA]株式会社マーベラス
+[NAME TU]Marvelous Inc.
 [DATE]OCT 1997
 [PIC]127
 [DEVELOPER]true
@@ -1845,13 +1845,13 @@
 [COUNTRY]1
 
 [ID]128
-[NAME EN]SCS Software
-[NAME GE]SCS Software
-[NAME TU]SCS Software
-[NAME FR]SCS Software
-[NAME JA]SCSソフトウェア
 [NAME CH]SCS Software
 [NAME CT]SCS Software
+[NAME EN]SCS Software
+[NAME FR]SCS Software
+[NAME GE]SCS Software
+[NAME JA]SCSソフトウェア
+[NAME TU]SCS Software
 [DATE]AUG 1997
 [PIC]128
 [DEVELOPER]true
@@ -1864,13 +1864,13 @@
 [COUNTRY]20
 
 [ID]129
-[NAME EN]Kalypso Media
-[NAME GE]Kalypso Media
-[NAME TU]Kalypso Media
-[NAME FR]Kalypso Media
-[NAME JA]カリプソ-メディア
 [NAME CH]Kalypso Media
 [NAME CT]Kalypso Media
+[NAME EN]Kalypso Media
+[NAME FR]Kalypso Media
+[NAME GE]Kalypso Media
+[NAME JA]カリプソ-メディア
+[NAME TU]Kalypso Media
 [DATE]JAN 2006
 [PIC]129
 [DEVELOPER]true
@@ -1883,13 +1883,13 @@
 [COUNTRY]5
 
 [ID]130
-[NAME EN]Warner Bros. Games
-[NAME GE]Warner Bros. Games
-[NAME TU]Warner Bros. Games
-[NAME FR]Warner Bros. Games
-[NAME JA]ワーナー-ブラザース-ゲームズ
 [NAME CH]Warner Bros. Games
 [NAME CT]華納兄弟互動娛樂
+[NAME EN]Warner Bros. Games
+[NAME FR]Warner Bros. Games
+[NAME GE]Warner Bros. Games
+[NAME JA]ワーナー-ブラザース-ゲームズ
+[NAME TU]Warner Bros. Games
 [DATE]FEB 2004
 [PIC]130
 [DEVELOPER]false
@@ -1899,17 +1899,16 @@
 [GENRE]5
 [SPEED]0
 [COMVAL]21700000
-[NOTFORSALE]true
 [COUNTRY]0
 
 [ID]131
-[NAME EN]PlayWay S.A.
-[NAME GE]PlayWay S.A.
-[NAME TU]PlayWay S.A.
-[NAME FR]PlayWay S.A.
-[NAME JA]プレイウェイS.A.
 [NAME CH]PlayWay S.A.
 [NAME CT]PlayWay S.A.
+[NAME EN]PlayWay S.A.
+[NAME FR]PlayWay S.A.
+[NAME GE]PlayWay S.A.
+[NAME JA]プレイウェイS.A.
+[NAME TU]PlayWay S.A.
 [DATE]JUN 2011
 [PIC]131
 [DEVELOPER]false
@@ -1919,17 +1918,16 @@
 [GENRE]7
 [SPEED]3
 [COMVAL]8000000
-[NOTFORSALE]false
 [COUNTRY]11
 
 [ID]132
-[NAME EN]Steam
-[NAME GE]Steam
-[NAME TU]Steam
-[NAME FR]Steam
-[NAME JA]Steam
 [NAME CH]Steam
 [NAME CT]Steam
+[NAME EN]Steam
+[NAME FR]Steam
+[NAME GE]Steam
+[NAME JA]Steam
+[NAME TU]Steam
 [DATE]SEP 2003
 [PIC]132
 [DEVELOPER]false
@@ -1937,20 +1935,18 @@
 [MARKET]100
 [SHARE]6
 [GENRE]14
-[PLATFORM]true
 [SPEED]10
 [COMVAL]34000000
-[NOTFORSALE]true
 [COUNTRY]0
 
 [ID]133
-[NAME EN]SNK Corporation
-[NAME GE]SNK Corporation
-[NAME TU]SNK Corporation
-[NAME FR]SNK Corporation
-[NAME JA]SNK Corporation
 [NAME CH]SNK Corporation
 [NAME CT]SNK
+[NAME EN]SNK Corporation
+[NAME FR]SNK Corporation
+[NAME GE]SNK Corporation
+[NAME JA]SNK Corporation
+[NAME TU]SNK Corporation
 [DATE]JUL 1978
 [PIC]133
 [DEVELOPER]true
@@ -1958,20 +1954,18 @@
 [MARKET]75
 [SHARE]7
 [GENRE]10
-[PLATFORM]true
 [SPEED]0
 [COMVAL]15100000
-[NOTFORSALE]true
 [COUNTRY]1
 
 [ID]134
-[NAME EN]Valve
-[NAME GE]Valve
-[NAME TU]Valve
-[NAME FR]Valve
-[NAME JA]Valve
 [NAME CH]V社
 [NAME CT]Valve
+[NAME EN]Valve
+[NAME FR]Valve
+[NAME GE]Valve
+[NAME JA]Valve
+[NAME TU]Valve
 [DATE]AUG 1996
 [PIC]134
 [DEVELOPER]true
@@ -1979,19 +1973,18 @@
 [MARKET]100
 [SHARE]5
 [GENRE]14
-[PLATFORM]true
 [SPEED]0
 [COMVAL]19100000
 [COUNTRY]0
 
 [ID]135
-[NAME EN]Core Design
-[NAME GE]Core Design
-[NAME TU]Core Design
-[NAME FR]Core Design
-[NAME JA]Core Design
 [NAME CH]未来的完美游戏
 [NAME CT]Core Design
+[NAME EN]Core Design
+[NAME FR]Core Design
+[NAME GE]Core Design
+[NAME JA]Core Design
+[NAME TU]Core Design
 [DATE]MAY 1988
 [PIC]135
 [DEVELOPER]true
@@ -2004,13 +1997,13 @@
 [COUNTRY]2
 
 [ID]136
-[NAME EN]BioWare
-[NAME GE]BioWare
-[NAME TU]BioWare
-[NAME FR]BioWare
-[NAME JA]BioWare
 [NAME CH]未来的完美游戏
 [NAME CT]BioWare
+[NAME EN]BioWare
+[NAME FR]BioWare
+[NAME GE]BioWare
+[NAME JA]BioWare
+[NAME TU]BioWare
 [DATE]JUL 1995
 [PIC]136
 [DEVELOPER]true
@@ -2023,13 +2016,13 @@
 [COUNTRY]7
 
 [ID]137
-[NAME EN]Gameforge
-[NAME GE]Gameforge
-[NAME TU]Gameforge
-[NAME FR]Gameforge
-[NAME JA]Gameforge
 [NAME CH]Gameforge
 [NAME CT]Gameforge
+[NAME EN]Gameforge
+[NAME FR]Gameforge
+[NAME GE]Gameforge
+[NAME JA]Gameforge
+[NAME TU]Gameforge
 [DATE]AUG 2008
 [PIC]137
 [DEVELOPER]true
@@ -2043,13 +2036,13 @@
 [COUNTRY]5
 
 [ID]138
-[NAME EN]GungHo Online
-[NAME GE]GungHo Online
-[NAME TU]GungHo Online
-[NAME FR]GungHo Online
-[NAME JA]GungHo Online
 [NAME CH]GungHo Online
 [NAME CT]GungHo Online
+[NAME EN]GungHo Online
+[NAME FR]GungHo Online
+[NAME GE]GungHo Online
+[NAME JA]GungHo Online
+[NAME TU]GungHo Online
 [DATE]JUL 1998
 [PIC]138
 [DEVELOPER]true
@@ -2062,13 +2055,13 @@
 [COUNTRY]1
 
 [ID]139
-[NAME EN]Ubisoft Blue Byte
-[NAME GE]Ubisoft Blue Byte
-[NAME TU]Ubisoft Blue Byte
-[NAME FR]Ubisoft Blue Byte
-[NAME JA]Ubisoft Blue Byte
 [NAME CH]Ubisoft Blue Byte
 [NAME CT]Ubisoft Blue Byte
+[NAME EN]Ubisoft Blue Byte
+[NAME FR]Ubisoft Blue Byte
+[NAME GE]Ubisoft Blue Byte
+[NAME JA]Ubisoft Blue Byte
+[NAME TU]Ubisoft Blue Byte
 [DATE]JAN 1988
 [PIC]139
 [DEVELOPER]true
@@ -2081,13 +2074,13 @@
 [COUNTRY]5
 
 [ID]140
-[NAME EN]Brøderbund
-[NAME GE]Brøderbund
-[NAME TU]Brøderbund
-[NAME FR]Brøderbund
-[NAME JA]ブローバウンド
 [NAME CH]Brøderbund
 [NAME CT]Brøderbund
+[NAME EN]Brøderbund
+[NAME FR]Brøderbund
+[NAME GE]Brøderbund
+[NAME JA]ブローバウンド
+[NAME TU]Brøderbund
 [DATE]DEC 1980
 [PIC]145
 [DEVELOPER]true
@@ -2100,13 +2093,13 @@
 [COUNTRY]0
 
 [ID]141
-[NAME EN]Apogee Software
-[NAME GE]Apogee Software
-[NAME TU]Apogee Software
-[NAME FR]Apogee Software
-[NAME JA]Apogee Software
 [NAME CH]Apogee Software
 [NAME CT]Apogee Software
+[NAME EN]Apogee Software
+[NAME FR]Apogee Software
+[NAME GE]Apogee Software
+[NAME JA]Apogee Software
+[NAME TU]Apogee Software
 [DATE]JUL 2008
 [PIC]141
 [DEVELOPER]true
@@ -2119,13 +2112,13 @@
 [COUNTRY]0
 
 [ID]142
-[NAME EN]Hudson Soft
-[NAME GE]Hudson Soft
-[NAME TU]Hudson Soft
-[NAME FR]Hudson Soft
-[NAME JA]ハトシン
 [NAME CH]Hudson Soft
 [NAME CT]Hudson Soft
+[NAME EN]Hudson Soft
+[NAME FR]Hudson Soft
+[NAME GE]Hudson Soft
+[NAME JA]ハトシン
+[NAME TU]Hudson Soft
 [DATE]JAN 1976
 [PIC]142
 [DEVELOPER]true
@@ -2138,13 +2131,13 @@
 [COUNTRY]1
 
 [ID]143
-[NAME EN]THQ
-[NAME GE]THQ
-[NAME TU]THQ
-[NAME FR]THQ
-[NAME JA]THQ
 [NAME CH]THQ
 [NAME CT]THQ
+[NAME EN]THQ
+[NAME FR]THQ
+[NAME GE]THQ
+[NAME JA]THQ
+[NAME TU]THQ
 [DATE]NOV 1989
 [PIC]143
 [DEVELOPER]true
@@ -2157,13 +2150,13 @@
 [COUNTRY]0
 
 [ID]144
-[NAME EN]Sensible Software
-[NAME GE]Sensible Software
-[NAME TU]Sensible Software
-[NAME FR]Sensible Software
-[NAME JA]Sensible Software
 [NAME CH]Sensible Software
 [NAME CT]Sensible Software
+[NAME EN]Sensible Software
+[NAME FR]Sensible Software
+[NAME GE]Sensible Software
+[NAME JA]Sensible Software
+[NAME TU]Sensible Software
 [DATE]FEB 1986
 [PIC]144
 [DEVELOPER]true
@@ -2176,13 +2169,13 @@
 [COUNTRY]2
 
 [ID]145
-[NAME EN]Rainbow Arts
-[NAME GE]Rainbow Arts
-[NAME TU]Rainbow Arts
-[NAME FR]Rainbow Arts
-[NAME JA]Rainbow Arts
 [NAME CH]Rainbow Arts
 [NAME CT]Rainbow Arts
+[NAME EN]Rainbow Arts
+[NAME FR]Rainbow Arts
+[NAME GE]Rainbow Arts
+[NAME JA]Rainbow Arts
+[NAME TU]Rainbow Arts
 [DATE]JUL 1984
 [PIC]145
 [DEVELOPER]true
@@ -2195,13 +2188,13 @@
 [COUNTRY]5
 
 [ID]146
-[NAME EN]System 3
-[NAME GE]System 3
-[NAME TU]System 3
-[NAME FR]System 3
-[NAME JA]System 3
 [NAME CH]System 3
 [NAME CT]System 3
+[NAME EN]System 3
+[NAME FR]System 3
+[NAME GE]System 3
+[NAME JA]System 3
+[NAME TU]System 3
 [DATE]JUN 1984
 [PIC]146
 [DEVELOPER]true
@@ -2214,13 +2207,13 @@
 [COUNTRY]2
 
 [ID]147
-[NAME EN]Monolith Productions
-[NAME GE]Monolith Productions
-[NAME TU]Monolith Productions
-[NAME FR]Monolith Productions
-[NAME JA]Monolith Productions
 [NAME CH]Monolith Productions
 [NAME CT]Monolith Productions
+[NAME EN]Monolith Productions
+[NAME FR]Monolith Productions
+[NAME GE]Monolith Productions
+[NAME JA]Monolith Productions
+[NAME TU]Monolith Productions
 [DATE]MAY 1994
 [PIC]147
 [DEVELOPER]true
@@ -2233,13 +2226,13 @@
 [COUNTRY]0
 
 [ID]148
-[NAME EN]Sunsoft
-[NAME GE]Sunsoft
-[NAME TU]Sunsoft
-[NAME FR]Sunsoft
-[NAME JA]サンワーク
 [NAME CH]Sunsoft
 [NAME CT]Sunsoft
+[NAME EN]Sunsoft
+[NAME FR]Sunsoft
+[NAME GE]Sunsoft
+[NAME JA]サンワーク
+[NAME TU]Sunsoft
 [DATE]APR 1978
 [PIC]148
 [DEVELOPER]true
@@ -2252,13 +2245,13 @@
 [COUNTRY]1
 
 [ID]149
-[NAME EN]Elite Systems
-[NAME GE]Elite Systems
-[NAME TU]Elite Systems
-[NAME FR]Elite Systems
-[NAME JA]Elite Systems
 [NAME CH]Elite Systems
 [NAME CT]Elite Systems
+[NAME EN]Elite Systems
+[NAME FR]Elite Systems
+[NAME GE]Elite Systems
+[NAME JA]Elite Systems
+[NAME TU]Elite Systems
 [DATE]MAR 1984
 [PIC]149
 [DEVELOPER]true
@@ -2271,13 +2264,13 @@
 [COUNTRY]2
 
 [ID]150
-[NAME EN]Midway Games
-[NAME GE]Midway Games
-[NAME TU]Midway Games
-[NAME FR]Midway Games
-[NAME JA]ミドル
 [NAME CH]Midway Games
 [NAME CT]Midway Games
+[NAME EN]Midway Games
+[NAME FR]Midway Games
+[NAME GE]Midway Games
+[NAME JA]ミドル
+[NAME TU]Midway Games
 [DATE]JAN 1976
 [PIC]150
 [DEVELOPER]true
@@ -2290,13 +2283,13 @@
 [COUNTRY]0
 
 [ID]151
-[NAME EN]Virgin Interactive
-[NAME GE]Virgin Interactive
-[NAME TU]Virgin Interactive
-[NAME FR]Virgin Interactive
-[NAME JA]Virgin Interactive
 [NAME CH]Virgin Interactive
 [NAME CT]Virgin Interactive
+[NAME EN]Virgin Interactive
+[NAME FR]Virgin Interactive
+[NAME GE]Virgin Interactive
+[NAME JA]Virgin Interactive
+[NAME TU]Virgin Interactive
 [DATE]NOV 1983
 [PIC]151
 [DEVELOPER]true
@@ -2309,13 +2302,13 @@
 [COUNTRY]2
 
 [ID]152
-[NAME EN]Interplay Ent.
-[NAME GE]Interplay Ent.
-[NAME TU]Interplay Ent.
-[NAME FR]Interplay Ent.
-[NAME JA]Interplay Ent.
 [NAME CH]Interplay Ent.
 [NAME CT]Interplay Ent.
+[NAME EN]Interplay Ent.
+[NAME FR]Interplay Ent.
+[NAME GE]Interplay Ent.
+[NAME JA]Interplay Ent.
+[NAME TU]Interplay Ent.
 [DATE]SEP 1983
 [PIC]152
 [DEVELOPER]true
@@ -2328,13 +2321,13 @@
 [COUNTRY]0
 
 [ID]153
-[NAME EN]Epyx
-[NAME GE]Epyx
-[NAME TU]Epyx
-[NAME FR]Epyx
-[NAME JA]Epyx
 [NAME CH]Epyx
 [NAME CT]Epyx
+[NAME EN]Epyx
+[NAME FR]Epyx
+[NAME GE]Epyx
+[NAME JA]Epyx
+[NAME TU]Epyx
 [DATE]JAN 1976
 [PIC]153
 [DEVELOPER]true
@@ -2347,13 +2340,13 @@
 [COUNTRY]0
 
 [ID]154
-[NAME EN]Technosoft
-[NAME GE]Technosoft
-[NAME TU]Technosoft
-[NAME FR]Technosoft
-[NAME JA]テクソフト
 [NAME CH]Technosoft
 [NAME CT]Technosoft
+[NAME EN]Technosoft
+[NAME FR]Technosoft
+[NAME GE]Technosoft
+[NAME JA]テクソフト
+[NAME TU]Technosoft
 [DATE]FEB 1980
 [PIC]154
 [DEVELOPER]true
@@ -2364,5 +2357,486 @@
 [SPEED]0
 [COMVAL]10400000
 [COUNTRY]1
+
+[ID]155
+[NAME EN]4J Studios
+[DATE]APR 2005
+[PIC]155
+[DEVELOPER]true
+[PUBLISHER]false
+[MARKET]50
+[SHARE]5
+[GENRE]2
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]156
+[NAME EN]505 Games
+[DATE]JAN 2006
+[PIC]156
+[DEVELOPER]true
+[PUBLISHER]false
+[MARKET]50
+[SHARE]5
+[GENRE]1
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]10
+
+[ID]157
+[NAME EN]Creative Assembly
+[DATE]JAN 1987
+[PIC]157
+[DEVELOPER]true
+[PUBLISHER]false
+[MARKET]50
+[SHARE]5
+[GENRE]13
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]158
+[NAME EN]Criterion Games
+[DATE]JAN 1996
+[PIC]158
+[DEVELOPER]true
+[PUBLISHER]false
+[MARKET]50
+[SHARE]5
+[GENRE]17
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]159
+[NAME EN]Double Eleven
+[DATE]JUN 2009
+[PIC]159
+[DEVELOPER]true
+[PUBLISHER]false
+[MARKET]50
+[SHARE]5
+[GENRE]4
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]160
+[NAME EN]Dovetail Games
+[DATE]JAN 2008
+[PIC]160
+[DEVELOPER]true
+[PUBLISHER]false
+[MARKET]50
+[SHARE]5
+[GENRE]7
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]161
+[NAME EN]Edge of Reality
+[DATE]JAN 1998
+[PIC]161
+[DEVELOPER]true
+[PUBLISHER]false
+[MARKET]50
+[SHARE]5
+[GENRE]5
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]0
+
+[ID]162
+[NAME EN]Electric Dreams
+[DATE]JAN 1985
+[PIC]162
+[DEVELOPER]true
+[PUBLISHER]false
+[MARKET]50
+[SHARE]5
+[GENRE]2
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]163
+[NAME EN]Enlight Software
+[DATE]JAN 1993
+[PIC]163
+[DEVELOPER]true
+[PUBLISHER]false
+[MARKET]50
+[SHARE]5
+[GENRE]4
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]3
+
+[ID]164
+[NAME EN]Eidos
+[DATE]SEP 1995
+[PIC]164
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]2
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]165
+[NAME EN]Firemonkeys Studios
+[DATE]JUL 2012
+[PIC]165
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]17
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]13
+
+[ID]166
+[NAME EN]Just Add Water
+[DATE]OCT 2006
+[PIC]166
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]6
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]167
+[NAME EN]Free Radical
+[DATE]APR 1999
+[PIC]167
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]6
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]168
+[NAME EN]Luxoflux
+[DATE]JAN 1997
+[PIC]168
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]16
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]0
+
+[ID]169
+[NAME EN]Media Molecule
+[DATE]JAN 2006
+[PIC]169
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]6
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]170
+[NAME EN]NaturalMotion
+[DATE]JAN 2001
+[PIC]170
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]17
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]171
+[NAME EN]PopTop Software
+[DATE]JAN 1993
+[PIC]171
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]7
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]0
+
+[ID]172
+[NAME EN]Revolution
+[DATE]JAN 1989
+[PIC]172
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]2
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]173
+[NAME EN]Ritual Entertainment
+[DATE]AUG 1996
+[PIC]173
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]5
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]0
+
+[ID]174
+[NAME EN]Rockstar North
+[DATE]JAN 2002
+[PIC]174
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]16
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]175
+[NAME EN]Rocksteady
+[DATE]DEC 2004
+[PIC]175
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]3
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]176
+[NAME EN]Shiny Entertainment
+[DATE]OCT 1993
+[PIC]176
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]6
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]0
+
+[ID]177
+[NAME EN]Playtonic Games
+[DATE]JAN 2014
+[PIC]177
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]6
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]178
+[NAME EN]Slitherine
+[DATE]JAN 2000
+[PIC]178
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]13
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]179
+[NAME EN]Slightly Mad Studios
+[DATE]JAN 2009
+[PIC]179
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]17
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]180
+[NAME EN]sports Interactive
+[DATE]JAN 1994
+[PIC]180
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]8
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]181
+[NAME EN]Sumo Digital
+[DATE]JAN 2003
+[PIC]181
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]6
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]182
+[NAME EN]Traveller's Tales
+[DATE]JAN 1989
+[PIC]182
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]6
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]183
+[NAME EN]Two Point Studio
+[DATE]JUL 2016
+[PIC]183
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]13
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]184
+[NAME EN]Reflections
+[DATE]JAN 1984
+[PIC]184
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]21
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]185
+[NAME EN]Venom Games
+[DATE]JAN 2003
+[PIC]185
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]10
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]186
+[NAME EN]Warthog
+[DATE]JAN 1997
+[PIC]186
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]21
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]187
+[NAME EN]Puny Astronaut
+[DATE]JAN 2020
+[PIC]187
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]1
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]188
+[NAME EN]Digital Bros
+[DATE]JAN 1989
+[PIC]188
+[DEVELOPER]false
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]21
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]10
+
+[ID]189
+[NAME EN]Amplitude Studios
+[DATE]JAN 2011
+[PIC]189
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]13
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]6
+
+[ID]190
+[NAME EN]Kuju
+[DATE]JAN 1989
+[PIC]190
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]6
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]2
+
+[ID]191
+[NAME EN]Relic
+[DATE]MAY 1997
+[PIC]191
+[DEVELOPER]true
+[PUBLISHER]true
+[MARKET]50
+[SHARE]5
+[GENRE]13
+[SPEED]3
+[COMVAL]10000000
+[COUNTRY]7
 
 [EOF]
