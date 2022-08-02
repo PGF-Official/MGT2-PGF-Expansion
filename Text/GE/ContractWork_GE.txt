@@ -1,0 +1,80 @@
+Optimieren Sie die Grafik-Engine<0>
+Programmieren Sie ein Audiosystem<0>
+Entwickeln Sie einen Level-Editor<0>
+Spielphysik optimieren<0>
+Schreibe Skripte für Quests<0>
+Optimieren Sie die feindliche KI<0>
+Ladezeiten optimieren<0>
+Programmieren Sie ein Speichersystem<0>
+Benutzeroberfläche erstellen<0>
+Datenbanksystem programmieren<0>
+Programmieren Sie einen Spielprototyp<0>
+Entwickeln Sie ein Lokalisierungstool<0>
+Diagnosetools entwickeln<0>
+Komprimieren Sie Spiel-Assets<0>
+Programmieren Sie ein Dialogsystem<0>
+Entwickeln Sie ein Kollisionssystem<0>
+Programmieren Sie einen Dateibrowser<0>
+Programmieren Sie einen Level Loader<0>
+Programmieren Sie einen Eingabemanager<0>
+Programmieren Sie einen Sprite Manager<0>
+Debug Controller entwickeln<0>
+Vereinbaren Sie einen Eventmanager<0>
+Entwickeln Sie ein Animationssystem<0>
+Entwickeln Sie einen Sprite-Editor<0>
+Entwickeln Sie Treiber<0>
+Kopierschutz implementieren<0>
+Optimieren eines Steuerungssystems<1>
+Arbeit am Leveldesign<1>
+Allgemeine Fehlertests<1>
+Teste Quests<1>
+Erstellen Sie ein Spielkonzept<1>
+Hardwarekompatibilität testen<1>
+Testspielstabilität<1>
+ Spielleistung analysieren<1>
+Testspiel-Updates<1>
+Spielbalance optimieren<1>
+Test-Plug-Ins<1>
+Analysieren eines Prototyps<1>
+Testen einer Benutzeroberfläche<1>
+Erstellen Sie ein Storyboard<1>
+Neuen Dialog schreiben<1>
+Erstelle Charakter-Sprites<2>
+Hintergründe zeichnen<2>
+Elemente zeichnen<2>
+Benutzeroberfläche zeichnen<2>
+Konzeptgrafiken erstellen<2>
+Zeichnen von Umgebungsobjekten<2>
+Erstellen Sie Spezialeffekte<2>
+Titelbild zeichnen<2>
+Ebenenkachelsatz erstellen<2>
+Design-Schriftarten<2>
+Animiere Charaktere<2>
+Erstellen eines Soundtracks<3>
+Erstellen Sie Charaktersounds<3>
+Nehmen Sie Waffengeräusche auf<3>
+Erstellen Sie Benutzeroberflächen-Sounds<3>
+Dynamische Klänge erzeugen<3>
+Ambiente-Klänge erzeugen<3>
+Erstellen Sie magische Klänge<3>
+Tiergeräusche aufzeichnen<3>
+Motorgeräusche erzeugen<3>
+Klassische Musik aufnehmen<3>
+Erstellen Sie Robotergeräusche<3>
+Mischen von Explosionsgeräuschen<3>
+Grundbewegungen aufzeichnen<4>
+Record Martial Arts Animation<4>
+Erstellen Sie Zwischensequenzanimationen<4>
+Erstellen Sie Tieranimationen<4>
+Swordplay Animation aufnehmen<4>
+Erstellen Sie Animationen für Monster<4>
+Erstellen Sie Tanzanimationen<4>
+Rekordfußballer<4>
+Erstellen Sie Emote-Animationen<4>
+Zeichnen Sie Roboteranimationen auf<4>
+Konsolen reparieren<7>
+Prototyp der Designkonsole<7>
+Diagnostizieren Sie den Prototyp der Konsole<7>
+Konsolen-Mainboard<7> überarbeiten
+Leistungstest eines Prototyps<7>
+Kühlsystem optimieren<7>

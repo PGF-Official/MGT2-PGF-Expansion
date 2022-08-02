@@ -2,17 +2,17 @@
 Work Desk I;Work desk for development. The higher the quality,<br>the better the work result.
 Radiator;Employees who are freezing become dissatisfied more quickly.
 Lamp I;Your employees are more motivated when<br>they work in well-equipped offices.
-Trash Can;Always keep your offices clean,<br>otherwise your employees will become dissatisfied.
+Bin;Always keep your offices clean,<br>otherwise your employees will become dissatisfied.
 Water Dispenser;Thirsty employees become dissatisfied more quickly.
 Work Desk I;Work desk for research. The higher the quality,<br>the better the work result.
 Plant;Your employees are more motivated when<br>they work in well-equipped offices.
 Cactus;Your employees are more motivated when<br>they work in well-equipped offices.
 Tropical Plant;Your employees are more motivated when<br>they work in well-equipped offices.
 Toilet;Here the most important needs are satisfied.
-Wash Basin;You should always wash your hands!
+Sink;You should always wash your hands!
 UFO Poster;Your employees are more motivated when<br>they work in well-equipped offices.
 Robot Poster;Your employees are more motivated when<br>they work in well-equipped offices.
-Aleon Poster;Your employees are more motivated when<br>they work in well-equipped offices.
+Alien Poster;Your employees are more motivated when<br>they work in well-equipped offices.
 Retro Poster;Your employees are more motivated when<br>they work in well-equipped offices.
 Star Ship Poster;Your employees are more motivated when<br>they work in well-equipped offices.
 Gold Record;You get this award for every game<br>that has sold at least 1.000.000 units.
@@ -30,7 +30,7 @@ Cabinet I;Your employees are more motivated when<br>they work in well-equipped o
 Cabinet II;Your employees are more motivated when<br>they work in well-equipped offices.
 Cabinet III;Your employees are more motivated when<br>they work in well-equipped offices.
 Filing Cabinet;Your employees are more motivated when<br>they work in well-equipped offices.
-Sputnik 3000 Cleaner;This ultra-modern cleaning robot removes all dirt.
+PGF Clean Bot;This ultra-modern cleaning robot removes all dirt.
 Armchair I - Brown;With this object your employees can get new motivation.
 Armchair I - Black;With this object your employees can get new motivation.
 Armchair I - Green;With this object your employees can get new motivation.
@@ -41,9 +41,9 @@ Clock;Your employees are more motivated when<br>they work in well-equipped offic
 Armchair II - Grey;With this object your employees can get new motivation.
 Armchair II - Blue;With this object your employees can get new motivation.
 Armchair II - Orange;With this object your employees can get new motivation.
-Dart Machine;With this object your employees can get new motivation.
+Dart Board;With this object your employees can get new motivation.
 Lamp II;Your employees are more motivated when<br>they work in well-equipped offices.
-Intex Server;Servers are required for MMO and F2P games.<br>This server can handle <b><color=blue><NUM></color></b> players.
+Entex Server;Servers are required for MMO and F2P games.<br>This server can handle <b><color=blue><NUM></color></b> players.
 Air conditioning;Useful to regulate the temperature in server rooms.
 Heavy duty shelf I;Your produced games are stored here.<br>On this object you can store <b><color=blue>25.000</color></b> games.
 Work Desk I;The work desk for the marketing department. The higher the quality,<br>the better the work result.
@@ -123,10 +123,10 @@ Work Desk II;The work desk for the motion capture studio. The higher the quality
 Work Desk III;The work desk for the motion capture studio. The higher the quality,<br>the better the work result.
 Work Desk IV;The work desk for the motion capture studio. The higher the quality,<br>the better the work result.
 Work Desk V;The work desk for the motion capture studio. The higher the quality,<br>the better the work result.
-G-Electic Server;Servers are required for MMO and F2P games.<br>This server can handle <b><color=blue><NUM></color></b> players.
-Metrics Server;Servers are required for MMO and F2P games.<br>This server can handle <b><color=blue><NUM></color></b> players.
-DivoTech Server;Servers are required for MMO and F2P games.<br>This server can handle <b><color=blue><NUM></color></b> players.
-IBN Server;Servers are required for MMO and F2P games.<br>This server can handle <b><color=blue><NUM></color></b> players.
+Toshiba Server;Servers are required for MMO and F2P games.<br>This server can handle <b><color=blue><NUM></color></b> players.
+Microsoft Server;Servers are required for MMO and F2P games.<br>This server can handle <b><color=blue><NUM></color></b> players.
+Google Server;Servers are required for MMO and F2P games.<br>This server can handle <b><color=blue><NUM></color></b> players.
+IBM Server;Servers are required for MMO and F2P games.<br>This server can handle <b><color=blue><NUM></color></b> players.
 Platinum Record;You get this award for every game<br>that has sold at least 5.000.000 units.
 Diamond Record;You get this award for every game<br>that has sold at least 10.000.000 units.
 Coffee Maker;The staple food of a game developer is coffee.<br>The most modern coffee maker comes from "Gronky Industries" and<br>can easily keep the coffee warm for 17 hours.
@@ -141,7 +141,7 @@ Carpet VII;Your employees are more motivated when<br>they work in well-equipped 
 Carpet VIII;Your employees are more motivated when<br>they work in well-equipped offices.
 Carpet IX;Your employees are more motivated when<br>they work in well-equipped offices.
 "Trendsetter" Award;You will receive this award,<br>if one of your games becomes a trendsetter.
-"Publisher of the year" Award;You get this award,<br>when your studio is chosen as "Publisher of the Year".
+"Publisher of the Year" Award;You get this award,<br>when your studio is chosen as "Publisher of the Year".
 Work Desk I;The work desk for the workshop. The higher the quality,<br>the better the work result.
 Work Desk II;The work desk for the workshop. The higher the quality,<br>the better the work result.
 Work Desk III;The work desk for the workshop. The higher the quality,<br>the better the work result.
@@ -152,7 +152,7 @@ Work Desk II;The work desk for the console development. The higher the quality,<
 Work Desk III;The work desk for the console development. The higher the quality,<br>the better the work result.
 Work Desk IV;The work desk for the console development. The higher the quality,<br>the better the work result.
 Work Desk V;The work desk for the console development. The higher the quality,<br>the better the work result.
-Modern air conditioner;Useful to regulate the temperature in server rooms.
+Modern Air Conditioner;Useful to regulate the temperature in server rooms.
 Stool - Green;With this object your employees can get new motivation.
 Stool - Orange;With this object your employees can get new motivation.
 Stool - Blue;With this object your employees can get new motivation.

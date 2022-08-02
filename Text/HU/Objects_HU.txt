@@ -1,0 +1,187 @@
+﻿-;-
+Munkaasztal I;Munkaasztal a fejlesztéshez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Radiátor;A fagyos alkalmazottak hamarabb lesznek elégedetlennek.
+Lámpa I;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Szemetes;Mindig tartsd tisztán az irodákat, különben az alkalmazottak elégedetlenek lesznek.
+Vízadagoló;A szomjas alkalmazottak hamarabb lesznek elégedetlennek.
+Munkaasztal I;Munkaasztal kutatáshoz. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Növény;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Kaktusz;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Tropúsi növény;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+WC;Szükséges, de csak akkor, ha nem szeretnéd, hogy ha az alkalmazottak a szobába pisiljenek.
+Mosdó;Mindig moss kezet!
+UFO Poszter;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Robot Poszter;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Aleon Poszter;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Retro Poszter;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Star Ship Poszter;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Aranylemez;Ezt a díjat akkor kapod, ha a játékod elérte az 1.000.000 eladási darabszámot.
+Művészi rajz I;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Művészi rajz II;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Művészi rajz III;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Művészi rajz IV;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Művészi rajz V;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Kézszárító;Szárítsd meg a kezed különben nedves lesz a számítógép
+Játékgép I;Az alkalmazottak újra motivációra kapnak, ha egy kicsit pihenhetnek.
+Pad - Világosbarna;Itt az alkalmazottak le pihenhetnek mielőtt folytatják a munkát.
+Pad - Sötétbarna;Itt az alkalmazottak le pihenhetnek mielőtt folytatják a munkát.
+Pad - Menta;Itt az alkalmazottak le pihenhetnek mielőtt folytatják a munkát.
+Szekrény I;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Szekrény II;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Szekrény III;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Irattartó szekrény;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak
+Szputnyik 3000 Tisztító;Ez az ultramodern tisztító robot minden szennyeződést eltávolít.
+Szék I - Barna;Az alkalmazottak újra motivációra kapnak, ha egy kicsit pihenhetnek.
+Szék I - Fekete;Az alkalmazottak újra motivációra kapnak, ha egy kicsit pihenhetnek.
+Szék I - Zöld;Az alkalmazottak újra motivációra kapnak, ha egy kicsit pihenhetnek.
+Gyártógép I;Ezzel a géppel játékokat tudsz készíteni.
+Játékgép II;Az alkalmazottak újra motivációra kapnak, ha egy kicsit pihenhetnek.
+Játékgép III;Az alkalmazottak újra motivációra kapnak, ha egy kicsit pihenhetnek.
+Óra;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak
+Szék II - Szürke;Az alkalmazottak újra motivációra kapnak, ha egy kicsit pihenhetnek.
+Szék II - Kék;Az alkalmazottak újra motivációra kapnak, ha egy kicsit pihenhetnek.
+Szék II - Narancs;Az alkalmazottak újra motivációra kapnak, ha egy kicsit pihenhetnek.
+Elektromos darts tábla;Az alkalmazottak újra motivációra kapnak, ha egy kicsit pihenhetnek.
+Lámpa II;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Intex Szerver;Szerverekre van szükséged, hogy MMO és a F2P játékot üzemeltess.<br>Ez a szerver <b><color=blue><NUM></color></b> játékost bír el.
+Légkondíciónálás;Hasznos a szerverszobák hőmérsékletének szabályozására.
+Nagy teherbírású polc I;A gyártott játékok itt tárolódnak.<br>Ezen a polcon <b><color=blue>25.000</color></b> játék fér el.
+Munkaasztal I;Munkaasztal marketinghez.. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Lámpa III;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Munkaasztal II;Munkaasztal a fejlesztéshez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal III;Munkaasztal a fejlesztéshez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal IV;Munkaasztal a fejlesztéshez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal V;Munkaasztal a fejlesztéshez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Gyakorló asztal I;Ez lehetővé teszi az alkalmazottak képzését. Minél magasabb a minőség, annál jobb az eredmény.
+Tábla;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Munkaasztal II;Munkaasztal kutatáshoz. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal II;Munkaasztal marketinghez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal III;Munkaasztal marketinghez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal IV;Munkaasztal marketinghez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal V;Munkaasztal marketinghez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal I;Munkaasztal ügyfélszolgálathoz. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal II;Munkaasztal ügyfélszolgálathoz. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal III;Munkaasztal ügyfélszolgálathoz. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal IV;Munkaasztal ügyfélszolgálathoz. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal V;Munkaasztal ügyfélszolgálathoz. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal III;Munkaasztal kutatáshoz. Minél jobb a minőség,<br>annál jobb a munka eredménye..
+Munkaasztal IV;Munkaasztal kutatáshoz. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal V;Munkaasztal kutatáshoz. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Szék III - Piros;Az alkalmazottak motivációt kapnak ennek köszönhetően.
+Szék III - Zöld;Az alkalmazottak motivációt kapnak ennek köszönhetően.
+Szék III - Kék;Az alkalmazottak motivációt kapnak ennek köszönhetően.
+Gyógyszeres szekrény;Lehetővé teszi a beteg alkalmazottak számára, hogy meggyógyítsák magukat. <br> A beteg alkalmazottak lassabban dolgoznak.
+Fűtőtest;A fagyos alkalmazottak hamarabb lesznek elégedetlennek.<br>Bárhova helyezheted a fűtőtestet.
+Munkaasztal I;Munkahely minőségbiztosításhoz. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal I;Munkaasztal grafikus stúdióhoz. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Hangstúdió I;Hangstúdió hangok felvételéhez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+MoCap stúdió I;MoCap stúdió animációk rögzítéséhez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Zongora;Az alkalmazottak motivációt kapnak ennek köszönhetően.
+Nagy teherbírású polc II;A gyártott játékok itt tárolódnak.<br>Ezen a polcon <b><color=blue>50.000</color></b> játék fér el.
+Nagy teherbírású polc III;A gyártott játékok itt tárolódnak.<br>Ezen a polcon <b><color=blue>100.000</color></b> játék fér el.
+Hangstúdió II;Hangstúdió hangok felvételéhez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Hangstúdió III;Hangstúdió hangok felvételéhez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Állatos festmény I;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Állatos festmény II;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Állatos festmény III;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Állatos festmény IV;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Állatos festmény V;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Munkaasztal II;Munkahely minőségbiztosításhoz. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal III;Munkahely minőségbiztosításhoz. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal IV;Munkahely minőségbiztosításhoz. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal V;Munkahely minőségbiztosításhoz. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Régi sportkocsi;Egy régi sportkocsi, ami sokat érhet.
+Szőnyeg I;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Szőnyeg II;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Szőnyeg III;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Szőnyeg IV;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Szőnyeg V;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Szőnyeg VI;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Hűtőszekrény;Ideális romlandó élelmiszerek tárolására.
+TV;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Modern TV;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Rádió;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Munkaasztal II;Munkaasztal grafikus stúdióhoz. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal III;Munkaasztal grafikus stúdióhoz. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal IV;Munkaasztal grafikus stúdióhoz. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal V;Munkaasztal grafikus stúdióhoz. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Modern rádió;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Kis szekrény I;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Kis szekrény II;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Kis szekrény III;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Gyakorló asztal II;Ez lehetővé teszi az alkalmazottak képzését. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Gyakorló asztal III;Ez lehetővé teszi az alkalmazottak képzését. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Gyakorló asztal IV;Ez lehetővé teszi az alkalmazottak képzését. Minél jobb a minőség,<br>annál jobb a munka eredménye..
+Gyakorló asztal V;Ez lehetővé teszi az alkalmazottak képzését. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Gyártógép II;Ezzel a géppel játékokat tudsz készíteni.
+Gyártógép III;Ezzel a géppel játékokat tudsz készíteni.
+Gyártógép IV;Ezzel a géppel játékokat tudsz készíteni.
+Gyártógép V;Ezzel a géppel játékokat tudsz készíteni.
+Hangstúdió IV;Hangstúdió hangok felvételéhez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Hangstúdió V;Hangstúdió hangok felvételéhez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+MoCap stúdió II;MoCap stúdió animációk rögzítéséhez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+MoCap stúdió III;MoCap stúdió animációk rögzítéséhez. Minél jobb a minőség,<br>annál jobb a munka eredménye..
+MoCap stúdió IV;MoCap stúdió animációk rögzítéséhez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+MoCap stúdió V;MoCap stúdió animációk rögzítéséhez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+G-Electic Szerver;Szerverekre van szükséged, hogy MMO és a F2P játékot üzemeltess.<br>Ez a szerver <b><color=blue><NUM></color></b> játékost bír el.
+Metrics Szerver;Szerverekre van szükséged, hogy MMO és a F2P játékot üzemeltess.<br>Ez a szerver <b><color=blue><NUM></color></b> játékost bír el.
+DivoTech Szerver;Szerverekre van szükséged, hogy MMO és a F2P játékot üzemeltess.<br>Ez a szerver <b><color=blue><NUM></color></b> játékost bír el.
+IBN Szerver;Szerverekre van szükséged, hogy MMO és a F2P játékot üzemeltess.<br>Ez a szerver <b><color=blue><NUM></color></b> játékost bír el.
+Platinalemez;Ezt a díjat akkor kapod, ha a játékod elérte az 5.000.000 eladási darabszámot.
+Gyémántlemez;Ezt a díjat akkor kapod, ha a játékod elérte a 10.000.000 eladási darabszámot.
+Kávéfőző;A játékfejlesztők alapvető étele a kávé.<br>A legmodernebb kávéfőző a "Gronky Industries" cég találmánya, <br> ami egész pontosan 17 órán át tudja melegen tartani a kávét.
+"Az Év Játéka" Díj;Ezt a díjat akkor kapod, ha valamelyik játékodat megkapta "Az Év Játéka" címet.
+"Az Év Fejlesztője" Díj;Ezt a díjat akkor kapod, ha a stúdiódat megválasztják "Az Év Fejlesztőjének".
+"Legjobb Zene" Díj;Ezt a díjat akkor kapod, ha valamelyik játékodat megkapja a "Legjobb Zene" díjat.
+"Legjobb Grafika" Díj;Ezt a díjat akkor kapod, ha valamelyik játékodat megkapja a "Legjobb Grafika" díjat.
+Kis szekrény I;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Kis szekrény II;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Kis szekrény III;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Szőnyeg VII;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Szőnyeg VIII;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+Szőnyeg IX;Az alkalmazottak motiváltabbak, amikor jól felszerelt irodákban dolgoznak.
+"Trend Vezető" Díj;Ezt a díjat akkor kapod, ha valamelyik játékodat trend vezető lesz.
+"Az Év Kiadója" Díj;Ezt a díjat akkor kapod, ha a stúdiódat megválasztják "Az Év kiadójának".
+Műhely I;Műhely, játékgépek fejlesztéséhez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Műhely II;Műhely, játékgépek fejlesztéséhez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Műhely III;Műhely, játékgépek fejlesztéséhez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Műhely IV;Műhely, játékgépek fejlesztéséhez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Műhely V;Műhely, játékgépek fejlesztéséhez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal I;Munkaasztal játékkonzol fejlesztéshez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal II;Munkaasztal játékkonzol fejlesztéshez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal III;Munkaasztal játékkonzol fejlesztéshez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal IV;Munkaasztal játékkonzol fejlesztéshez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Munkaasztal V;Munkaasztal játékkonzol fejlesztéshez. Minél jobb a minőség,<br>annál jobb a munka eredménye.
+Modern air conditioner;Useful to regulate the temperature in server rooms.
+Stool - Green;With this object your employees can get new motivation.
+Stool - Orange;With this object your employees can get new motivation.
+Stool - Blue;With this object your employees can get new motivation.
+Table I;Your employees are more motivated when<br>they work in well-equipped offices.
+Table II;Your employees are more motivated when<br>they work in well-equipped offices.
+Table III;Your employees are more motivated when<br>they work in well-equipped offices.
+Armchair - Light Brown;Here your employees can<br>sit down for a break.
+Armchair - Dark Brown;Here your employees can<br>sit down for a break.
+Armchair - Mint;Here your employees can<br>sit down for a break.
+Mini Golf;With this object your employees can get new motivation.
+Architecture image I;Your employees are more motivated when<br>they work in well-equipped offices.
+Architecture image II;Your employees are more motivated when<br>they work in well-equipped offices.
+Architecture image III;Your employees are more motivated when<br>they work in well-equipped offices.
+Architecture image IV;Your employees are more motivated when<br>they work in well-equipped offices.
+Architecture image V;Your employees are more motivated when<br>they work in well-equipped offices.
+Flower image I;Your employees are more motivated when<br>they work in well-equipped offices.
+Flower image II;Your employees are more motivated when<br>they work in well-equipped offices.
+Flower image III;Your employees are more motivated when<br>they work in well-equipped offices.
+Flower image IV;Your employees are more motivated when<br>they work in well-equipped offices.
+Flower image V;Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet VII;Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet VIII;Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet IX;Your employees are more motivated when<br>they work in well-equipped offices.
+Lamp IV;Your employees are more motivated when<br>they work in well-equipped offices.
+Lamp V;Your employees are more motivated when<br>they work in well-equipped offices.eiten.
+Lamp VI;Your employees are more motivated when<br>they work in well-equipped offices.beiten.
+Sunflower;Your employees are more motivated when<br>they work in well-equipped offices.
+Ball Cactus;Your employees are more motivated when<br>they work in well-equipped offices.
+Palm;Your employees are more motivated when<br>they work in well-equipped offices.
+Table IV;Your employees are more motivated when<br>they work in well-equipped offices.
+Modern Heating System;This highly efficient heating system<br>is particularly suitable for open-plan offices.
+Luxury Toilet;A visit to this luxurious toilet<br>even increases motivation.

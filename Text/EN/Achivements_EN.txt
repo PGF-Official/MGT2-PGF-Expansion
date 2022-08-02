@@ -1,23 +1,23 @@
 ﻿Hurrican;Create an action game with a rating of at least 70%.
 Marble Maze;Create an skill game with a rating of at least 70%.
-Dr. Lario;Create an puzzle Game with a rating of at least 70%.
-The Island of Monkeys;Create an adventure game with a rating of at least 70%.
+Dr. Mario;Create an puzzle Game with a rating of at least 70%.
+Monkey Island;Create an adventure game with a rating of at least 70%.
 Dungeons and Masters;Create an RPG Game with a rating of at least 70%.
-The Civilizations;Create an strategy game with a rating of at least 70%.
-Super Lario World;Create an platformer with a rating of at least 70%.
+Civilization;Create an strategy game with a rating of at least 70%.
+Super Mario World;Create an platformer with a rating of at least 70%.
 Spaceship: Elite;Create an simulation game with a rating of at least 70%.
 California Cup;Create an sports game with a rating of at least 70%.
 Mad Oil Tycoon;Create an economic simulation with a rating of at least 70%.
-Backstreet Fighter;Create an fighting game with a rating of at least 70%.
-Simulation City: 1602;Create an building game with a rating of at least 70%.
+Street Fighter;Create an fighting game with a rating of at least 70%.
+SimCity: 1602;Create an building game with a rating of at least 70%.
 Dragon's Cave;Create an interactive movie with a rating of at least 70%.
 Commander Yuri;Create an Real-Time strategy game with a rating of at least 70%.
-BOOM;Create an First-Person Shooter.
+DOOM;Create an First-Person Shooter.
 Better Than a Book;Create an visual novel with a rating of at least 70%.
 Max Brain;Create an Third-Person Shooter with a rating of at least 70%.
-The Test Drivers;Create an racing game with a rating of at least 70%.
+Test Drive;Create an racing game with a rating of at least 70%.
 Retromania;Create a retro game.
-World of Meridian;Create an MMO game.
+World of WarCraft;Create an MMO game.
 Is the Game Really Free?;Create an F2P game.
 Insert Coin!;Create a arcade machine.
 Everyone Likes Snakes;Create a cell phone game.
