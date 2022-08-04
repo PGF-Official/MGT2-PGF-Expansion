@@ -224,7 +224,7 @@
 [NAME CZ]Strategie
 [DESC CZ]Tento žánr vyžaduje taktické myšlení proti inteligentním protivníkům.<br>Hráči nemusí být profesionálové při používání joysticku,<br>naopak musí dokázat svou inteligenci.
 [DESC EN]This genre requires tactical action against intelligent opponents.<br>The players do not have to be professionals in the use of the joystick,<br>but must demonstrate intelligence.
-[NAME EN]Strategy
+[NAME EN]Turn-Based Strategy
 [DESC ES]Este género requiere acción táctica contra oponentes inteligentes. <br> Los jugadores no tienen que ser profesionales en el uso del joystick, <br> pero deben demostrar inteligencia.
 [NAME ES]Estrategia
 [DESC FR]Ce genre nécessite une action tactique contre des adversaires intelligents.<br>Les joueurs n'ont pas à être des professionnels dans l'utilisation du joystick, mais doivent faire preuve d'intelligence.
@@ -1062,6 +1062,32 @@
 [SOUND]25
 [CONTROL]25
 [GENRE COMB]<5><2><18><14><20><13><3><4><16>
+[FOCUS0]5
+[FOCUS1]5
+[FOCUS2]5
+[FOCUS3]5
+[FOCUS4]5
+[FOCUS5]5
+[FOCUS6]5
+[FOCUS7]5
+[ALIGN0]5
+[ALIGN1]5
+[ALIGN2]5
+
+[ID]22
+[DESC EN]On the rails linear shooter
+[NAME EN]Rail Shooter
+[DATE]JAN 1976
+[RES POINTS]100
+[PRICE]1000
+[DEV COSTS]1000
+[PIC]iconRail_Shooter.png
+[TGROUP]<TEEN><ADULT>
+[GAMEPLAY]25
+[GRAPHIC]25
+[SOUND]25
+[CONTROL]25
+[GENRE COMB]<2><18><10><14><6><13><3><16>
 [FOCUS0]5
 [FOCUS1]5
 [FOCUS2]5

@@ -425,6 +425,8 @@ Action Man <MOVIE>
 Addams Family <MOVIE>
 Addams Family Reunion <MOVIE>
 Addams Family Values <MOVIE>
+The Addams Family <MOVIE>
+The Addams Family 2 <MOVIE>
 Adonis Creed <MOVIE>
 Adventure in Dinosaur City <MOVIE>
 Adventures of Tarzan <MOVIE>
@@ -478,14 +480,9 @@ Angry Birds <MOVIE>
 Animaniacs <MOVIE>
 Annie <MOVIE>
 Ant Bully <MOVIE>
-Ant-Man <MOVIE><Y2015>
-Ant-Man and the Wasp <MOVIE>
-Ant-Man and the Wasp: Quantumania <MOVIE>
 Anti-Gravity <MOVIE>
 Antimatter <MOVIE>
 Antz <MOVIE>
-Aquaman <MOVIE>
-Aquaman and The Lost Kingdom <MOVIE>
 Archetype: The Legend of Ong <MOVIE>
 Arctic Tale <MOVIE>
 Area 51 <MOVIE>
@@ -506,15 +503,11 @@ Attack of the Killer Fruits <MOVIE>
 Austin Powers in Goldmember <MOVIE>
 Austin Powers: International Man of Mystery <MOVIE>
 Austin Powers: The Spy Who Shagged Me <MOVIE>
+Avatar <MOVIE><Y2008>
+Avatar: The Way of Water <MOVIE>
 Avatar 3 <MOVIE>
 Avatar 4 <MOVIE>
 Avatar 5 <MOVIE>
-Avatar <MOVIE><Y2008>
-Avatar: The Way of Water <MOVIE>
-Avengers <MOVIE><Y2012>
-Avengers: Age of Ultron <MOVIE><Y2015>
-Avengers: Endgame <MOVIE>
-Avengers: Infinity War <MOVIE>
 Aviator <MOVIE>
 Azomango Kaioh <MOVIE>
 Baby Driver <MOVIE>
@@ -535,16 +528,6 @@ Barbershop 2: Back in Business <MOVIE>
 Barbershop <MOVIE>
 Barbershop The Next Cut <MOVIE>
 Barnyard <MOVIE>
-Batman & Robin <MOVIE>
-Batman <MOVIE>
-Batman Begins <MOVIE>
-Batman Beyond <MOVIE>
-Batman Forever <MOVIE>
-Batman Returns <MOVIE>
-Batman Triumphant <MOVIE>
-Batman v Superman: Dawn of Justice <MOVIE>
-Batman: DarKnight <MOVIE>
-Batman: Year One <MOVIE>
 Battle: Los Angeles <MOVIE>
 Battlecars <MOVIE>
 Battleship <MOVIE>
@@ -565,6 +548,7 @@ Beyond the Stones <MOVIE>
 Bicycles 2 <MOVIE>
 Big Dinosaur Land <MOVIE>
 Big Hero 6 <MOVIE>
+Baymax! <MOVIE>
 Big Trouble in Little China <MOVIE>
 Biker Mice From Mars <MOVIE>
 Bill and Ted Face the Music <MOVIE>
@@ -572,15 +556,8 @@ Bill and Ted's Bogus Journey <MOVIE>
 Bill and Ted's Excellent Adventure <MOVIE>
 Biology at Work! <MOVIE>
 Bird Box <MOVIE>
-Birds of Prey <MOVIE>
-Black Adam <MOVIE>
 Black Mirror: Bandersnatch <MOVIE>
-Black Panther <MOVIE>
-Black Panther: Wakanda Forever <MOVIE>
-Black Widow <MOVIE>
-Blade <MOVIE>
 Blade Art Online <MOVIE>
-Blade II <MOVIE>
 Blade Runner 2049 <MOVIE>
 Blade Runner <MOVIE>
 Blair Witch Project <MOVIE>
@@ -618,11 +595,7 @@ Caddyshack III <MOVIE>
 Cady Quatermain <MOVIE>
 Calvary <MOVIE>
 Cannonball Run <MOVIE>
-Captain America: Civil War <MOVIE>
-Captain America: The First Avenger <MOVIE>
-Captain America: The Winter Soldier <MOVIE><Y2014>
 Captain Jack <MOVIE>
-Captain Marvel <MOVIE>
 Captain Planet <MOVIE>
 Captain Tsuruta <MOVIE>
 Captain Underpants <MOVIE>
@@ -658,7 +631,6 @@ Clash of the Titans <MOVIE>
 Clear and Present Danger <MOVIE>
 Cleopatra <MOVIE>
 Cliffhanger <MOVIE>
-Cloak and Dagger <MOVIE>
 Close Season <MOVIE>
 Closet of Dr. Cali <MOVIE>
 Clotheshanger <MOVIE>
@@ -685,6 +657,7 @@ Creed IV <MOVIE>
 Creed V <MOVIE>
 Croods 2 <MOVIE>
 Croods <MOVIE>
+Croods: A New Age <MOVIE>
 Crouching Tiger, Hidden Dragon <MOVIE>
 Crow <MOVIE>
 Crow: City of Angels <MOVIE>
@@ -753,8 +726,6 @@ Disney's Turning Red <MOVIE>
 Divergent <MOVIE>
 Django Unchained <MOVIE>
 Doctor Sleep <MOVIE>
-Doctor Strange <MOVIE>
-Doctor Strange in the Multiverse of Madness <MOVIE>
 Document of Ladess War <MOVIE>
 Dogwoman <MOVIE>
 Dollies <MOVIE>
@@ -802,7 +773,6 @@ Eragon: Eldest <MOVIE>
 Eragon: Inheritance <MOVIE>
 Eraser <MOVIE>
 Escape from New York <MOVIE>
-Eternals <MOVIE>
 Evil Dead 2 <MOVIE>
 Evil Dead <MOVIE>
 Expendabelles <MOVIE>
@@ -811,6 +781,7 @@ Expendables 3 <MOVIE>
 Expendables 4 <MOVIE>
 Expendables <MOVIE>
 F9 - Fast & Furious 9 <MOVIE>
+Fast X <MOVIE>
 Fahrenheit 451 <MOVIE>
 Falcon and The Winter Soldier <MOVIE>
 Family Guy <MOVIE>
@@ -845,9 +816,7 @@ First Action Hero <MOVIE>
 First Blood <MOVIE>
 First Man on Earth <MOVIE>
 First Man on the Moon <MOVIE>
-First Purge <MOVIE>
 Fist of the South Star <MOVIE>
-Flash <MOVIE>
 Flash Gordon <MOVIE>
 Flashdance <MOVIE>
 Flintstones <MOVIE>
@@ -892,8 +861,6 @@ Gargoyles <MOVIE>
 Genies <MOVIE>
 Ghajini <MOVIE>
 Ghost House <MOVIE>
-Ghost Rider <MOVIE>
-Ghost Rider: Spirit of Vengeance <MOVIE>
 Ghost in the Shell <MOVIE>
 Ghostbusters <MOVIE>
 Ghostbusters II <MOVIE>
@@ -931,17 +898,12 @@ Great Gatsby <MOVIE>
 Great Mouse Detective <MOVIE>
 Great Professor Onifuda <MOVIE>
 Greedy <MOVIE>
-Green Lantern <MOVIE>
-Green Lantern Corps <MOVIE>
 Green Mile <MOVIE>
 Gremlins 2: The New Batch <MOVIE>
 Gremlins <MOVIE>
 Grey's Anatomy <MOVIE>
 Grim Game <MOVIE>
 Grinch <MOVIE>
-Guardians of the Galaxy <MOVIE><Y2014>
-Guardians of the Galaxy Vol. 2 <MOVIE>
-Guardians of the Galaxy Vol. 3 <MOVIE>
 Gun Woman <MOVIE>
 Gunsmith Dogs <MOVIE>
 Hack/Slash <MOVIE>
@@ -985,7 +947,6 @@ High School Musical 2 <MOVIE>
 High School Musical 3: Senior Year <MOVIE>
 High School Musical <MOVIE>
 Highlander <MOVIE>
-Himmelskibet <MOVIE>
 Hitman <MOVIE>
 Hitman: Agent 47 <MOVIE>
 Hobbit: Battle of the Five Armies <MOVIE>
@@ -1054,9 +1015,6 @@ Inspector Gadget <MOVIE>
 Insurgent <MOVIE>
 Interview <MOVIE>
 Invisible Man <MOVIE>
-Iron Man 2 <MOVIE>
-Iron Man 3 <MOVIE><Y2013>
-Iron Man <MOVIE>
 Irresponsible Commander Taylor <MOVIE>
 Island of the Dead <MOVIE>
 Italian Job <MOVIE>
@@ -1083,11 +1041,10 @@ Jeepers Creepers <MOVIE>
 Jesse Jack Under the Blue Flag <MOVIE>
 Jigsaw <MOVIE>
 Jin Tamo <MOVIE>
-John Wick 4 <MOVIE>
+John Wick: Chapter 4 <MOVIE>
 John Wick <MOVIE>
 John Wick Chapter 2 <MOVIE>
 John Wick Chapter 3: Parabellum <MOVIE>
-Joker <MOVIE>
 Jonah Hex <MOVIE>
 Jonah Hex: No Way Back <MOVIE>
 Jonah Hex: Shadows West <MOVIE>
@@ -1108,7 +1065,6 @@ Jurassic Park III <MOVIE>
 Jurassic World <MOVIE>
 Jurassic World Dominion <MOVIE>
 Jurassic World Fallen Kingdom <MOVIE>
-Justice League <MOVIE>
 Kaman Riser <MOVIE>
 Kannakiman <MOVIE>
 Karate Kid <MOVIE>
@@ -1134,6 +1090,7 @@ Kirikou and the Wizard <MOVIE>
 Kitty Pryde <MOVIE>
 Kong <MOVIE>
 Kong: Skull Island <MOVIE>
+Skull Island: Blood of the Kong <MOVIE>
 Krull <MOVIE>
 Kujo <MOVIE>
 Kung Fu Panda 2 <MOVIE>
@@ -1170,14 +1127,12 @@ Little Nicky <MOVIE>
 Little Soldiers <MOVIE>
 Little Women <MOVIE>
 Live Free or Die Hard <MOVIE>
-Logan <MOVIE>
 London Has Fallen <MOVIE>
 Looney Toons: Back in Action <MOVIE>
 Lost <MOVIE>
 Lucy <MOVIE>
 Lupine the Fourth <MOVIE>
 Lycan Mask <MOVIE>
-MIB: International <MOVIE>
 Mad Max 2 <MOVIE>
 Mad Max <MOVIE>
 Mad Max: Beyond Thunderdome <MOVIE>
@@ -1197,13 +1152,13 @@ Majority Report <MOVIE>
 Makriss <MOVIE>
 Maleficent <MOVIE>
 Maleficent: Mistress of Evil <MOVIE>
-Mamma Italia <MOVIE>
-Man Steel <MOVIE>
+Mamma Mia <MOVIE>
+Mamma Mia: Here We Go Again <MOVIE>
 Many Days of Thunder <MOVIE>
 Marauder 2 <MOVIE>
 Martial Arts Grizzly 2 <MOVIE>
 Mary Poppins <MOVIE>
-Mary Poppins Return <MOVIE>
+Mary Poppins Returns <MOVIE>
 Mask of Zorro <MOVIE>
 Master and Commander: Clarissa Oakes <MOVIE>
 Master and Commander: Desolation Island <MOVIE>
@@ -1246,14 +1201,14 @@ Mighty Ducks <MOVIE>
 Mighty Morphin Power Rangers <MOVIE>
 Mighty Snails <MOVIE>
 Minions <MOVIE>
-Minions: Rise of Gru <MOVIE>
+Minions: The Rise of Gru <MOVIE>
 Minority Report<MOVIE>
-Mission Impossible 2 <MOVIE>
 Mission Impossible <MOVIE>
+Mission Impossible 2 <MOVIE>
+Mission Impossible III <MOVIE>
 Mission Impossible Dead Reckoning <MOVIE>
 Mission Impossible Fallout <MOVIE>
 Mission Impossible Ghost Protocol <MOVIE>
-Mission Impossible III <MOVIE>
 Mission Impossible Rogue Nation <MOVIE>
 Moana <MOVIE>
 Modoku Magical <MOVIE>
@@ -1380,6 +1335,7 @@ Psychon-Cast <MOVIE>
 Pulp Fiction <MOVIE>
 Puss in Boots <MOVIE>
 Puss in Boots: 9 Lives  40 Thieves <MOVIE>
+Puss In Boots: The Last Wish <MOVIE>
 Quantum of Solace <MOVIE>
 Quest for Camelot <MOVIE>
 R.I.P.D. <MOVIE>
@@ -1461,6 +1417,7 @@ Scarface: Money. Power. Respect <MOVIE>
 Scarface: The World is Yours <MOVIE>
 Scientific Ninjitsu Team Gotchamen <MOVIE>
 Scooby-Doo <MOVIE>
+Scoob! <MOVIE>
 Scopion King 2: Rise of a Warrior <MOVIE>
 Scopion King 3: Battle for Redemption <MOVIE>
 Scopion King 4: Quest for Power <MOVIE>
@@ -1481,7 +1438,6 @@ Sharknado 5: Global Swarming <MOVIE>
 Sharknado <MOVIE>
 Sharknado: The 4th Awakens <MOVIE>
 Sharks Tale <MOVIE>
-Shazam! <MOVIE>
 Sherlock Holmes <MOVIE>
 Shout <MOVIE>
 Shrek 2 <MOVIE>
@@ -1496,7 +1452,7 @@ Skyfall <MOVIE>
 Slow Six <MOVIE>
 Small Mind <MOVIE>
 Small Soldiers <MOVIE>
-Snarknado 3: Oh Hell No! <MOVIE>
+Sharknado 3: Oh Hell No! <MOVIE>
 Snow White and The Huntsman <MOVIE>
 Soldier Moon <MOVIE>
 Solo: A Star Wars Story <MOVIE>
@@ -1515,12 +1471,6 @@ Speed Racer: Race for Revenge <MOVIE>
 Speed Racer: The Fire Race <MOVIE>
 Speed Racer: The Secret Engine <MOVIE>
 Spices and Wolves <MOVIE>
-Spider-Man 2 <MOVIE>
-Spider-Man 3 <MOVIE>
-Spider-Man <MOVIE>
-Spider-Man: Far From Home <MOVIE>
-Spider-Man: Homecoming <MOVIE>
-Spider-Man: No Way Home <MOVIE>
 Spiderphobia <MOVIE>
 Spiral: From the Book of Saw <MOVIE>
 Spirit House <MOVIE>
@@ -1545,6 +1495,7 @@ Star Wars Episode V: The Empire Strikes Back <MOVIE>
 Star Wars Episode VI: Return of the Jedi <MOVIE>
 Star Wars Episode VII: A Force Awakens <MOVIE>
 Star Wars Episode VIII: The Last Jedi <MOVIE>
+Obi-Wan Kenobi <MOVIE>
 Stargate <MOVIE>
 Stargate SG-1 <MOVIE>
 Starship Troopers <MOVIE>
@@ -1554,7 +1505,6 @@ Step Up <MOVIE>
 Story of the Universal Heroes <MOVIE>
 Strangled <MOVIE>
 Street Fighter <MOVIE>
-Suicide Squad <MOVIE>
 Sum of All Fears <MOVIE>
 Sumurun <MOVIE>
 Super Sengai <MOVIE>
@@ -1593,7 +1543,6 @@ Texas Chainsaw Massacre III <MOVIE>
 Texas Chainsaw Massacre: Next Generation <MOVIE>
 Texas Chainsaw Massacre: The Beginning <MOVIE>
 The 5th Wave <MOVIE>
-The Batman <MOVIE>
 The Da Vinci Code <MOVIE>
 The Dark Crystal <MOVIE>
 The Dark Knight <MOVIE>
@@ -1625,7 +1574,6 @@ The Lord of the Rings: The Return of the King <MOVIE>
 The Lord of the Rings: The Two Towers <MOVIE>
 The Man with the Golden Gun <MOVIE>
 The Mark of Zorro <MOVIE>
-The Marvels <MOVIE>
 The Mask <MOVIE>
 The Mask of Zorro <MOVIE>
 The Masked Groom <MOVIE>
@@ -1661,6 +1609,8 @@ The Punisher <MOVIE>
 The Purge <MOVIE>
 The Purge Anarchy <MOVIE>
 The Purge Election Year <MOVIE>
+First Purge <MOVIE>
+Forever Purge <MOVIE>
 The Real Ghostbusters <MOVIE>
 The Recruit <MOVIE>
 The Red 2 <MOVIE>
@@ -1699,7 +1649,6 @@ The SpongeBob SquarePants <MOVIE>
 The Spy Who Loved Me <MOVIE>
 The Square <MOVIE>
 The Stooge <MOVIE>
-The Suicide Squad <MOVIE>
 The Sum of All Fears <MOVIE>
 The Ten Commandments <MOVIE>
 The Terminator <MOVIE>
@@ -1831,8 +1780,6 @@ Wisen Cross <MOVIE>
 Witchcraft Killer Robyn <MOVIE>
 Wolfen <MOVIE>
 Wolfer <MOVIE>
-Wonder Woman 1984 <MOVIE>
-Wonder Woman <MOVIE>
 Wonka <MOVIE>
 World War Z <MOVIE>
 Wrath of the Titans <MOVIE>
@@ -1857,3 +1804,206 @@ Zombieland: Double Tap <MOVIE>
 Zoolander 2 <MOVIE>
 Zoolander <MOVIE>
 Zootopia <MOVIE>
+Agatha: Coven of Chaos <MOVIE>
+Agent Carter <MOVIE>
+Agents of S.H.I.E.L.D <MOVIE>
+Ant-Man <MOVIE><Y2015>
+Ant-Man and the Wasp <MOVIE>
+Ant-Man and the Wasp: Quantumania <MOVIE>
+Armor Wars <MOVIE>
+Avengers <MOVIE>
+Avengers: Age of Ultron <MOVIE>
+Avengers: Infinity War <MOVIE>
+Avengers: Endgame <MOVIE>
+Avengers: Secret Wars <MOVIE>
+Avengers: The Kang Dynasty <MOVIE>
+Black Panther <MOVIE>
+Black Panther: Wakanda Forever <MOVIE>
+Blade <MOVIE>
+Captain America: The First Avenger <MOVIE>
+Captain America: The Winter Soldier <MOVIE>
+Captain America: Civil War <MOVIE>
+Captain America: New World Order <MOVIE>
+Cloak & Daggar <MOVIE>
+Daredevil <MOVIE>
+Daredevil: Born Again <MOVIE>
+Echo <MOVIE>
+Guardians of the Galaxy <MOVIE>
+Guardians of the Galaxy Vol. 2 <MOVIE>
+Guardians of the Galaxy Vol. 3 <MOVIE>
+Guardians of the Galaxy: Holiday Special <MOVIE>
+Inhumans <MOVIE>
+Iron Fist <MOVIE>
+Iron Man <MOVIE>
+Iron Man 2 <MOVIE>
+Iron Man 3 <MOVIE>
+Ironheart <MOVIE>
+Eternals <MOVIE>
+Jessica Jones <MOVIE>
+Loki <MOVIE>
+Luke Cage <MOVIE>
+Marvel Zombies <MOVIE>
+Moon Knight <MOVIE>
+Ms. Marvel <MOVIE>
+Nova <MOVIE>
+Runaways <MOVIE>
+Secret Invasion <MOVIE>
+She Hulk: Attorney at Law <MOVIE>
+Doctor Strange <MOVIE>
+Doctor Strange in the Multiverse of Madness <MOVIE>
+Cloak and Dagger <MOVIE>
+Captain Marvel <MOVIE>
+The Marvels <MOVIE>
+Blade <MOVIE>
+Blade II <MOVIE>
+Black Widow <MOVIE>
+Ghost Rider <MOVIE>
+Ghost Rider: Spirit of Vengeance <MOVIE>
+Logan <MOVIE>
+Spider-Man 2 <MOVIE>
+Spider-Man 3 <MOVIE>
+Spider-Man <MOVIE>
+Spider-Man: Far From Home <MOVIE>
+Spider-Man: Homecoming <MOVIE>
+Spider-Man: No Way Home <MOVIE>
+Spider-Man: Freshman Year <MOVIE>
+Spider-Man: Sophomore Year <MOVIE>
+Spider-Man: Into the Spider-Verse <MOVIE>
+Spider-Man: Across the Spider-verse <MOVIE>
+The Defenders <MOVIE>
+The Fantastic Four <MOVIE>
+The Punisher <MOVIE>
+The Punisher: War Zone <MOVIE>
+Thunderbolts <MOVIE>
+Wonder Man <MOVIE>
+Peacemaker <MOVIE>
+Task Force X <MOVIE>
+Man of Steel <MOVIE>
+Aquaman <MOVIE>
+Aquaman and The Lost Kingdom <MOVIE>
+Birds of Prey <MOVIE>
+Black Adam <MOVIE>
+Batman & Robin <MOVIE>
+Batman <MOVIE>
+Batman Begins <MOVIE>
+Batman Beyond <MOVIE>
+Batman Forever <MOVIE>
+Batman Returns <MOVIE>
+Batman Triumphant <MOVIE>
+Batman v Superman: Dawn of Justice <MOVIE>
+Batman: DarKnight <MOVIE>
+Batman: Year One <MOVIE>
+Blue Beetle <MOVIE>
+The Batman <MOVIE>
+Flash <MOVIE>
+Flashpoint <MOVIE>
+Suicide Squad <MOVIE>
+Shazam! <MOVIE>
+Shazam! Fury of the Gods <MOVIE>
+The Suicide Squad <MOVIE>
+Wonder Woman <MOVIE>
+Wonder Woman 1984 <MOVIE>
+The Amazons <MOVIE>
+Black Canary <MOVIE>
+Booster Gold <MOVIE>
+Deadshot <MOVIE>
+Gotham City Sirens <MOVIE>
+Green Lantern <MOVIE>
+Green Lantern Corps <MOVIE>
+Lobo <MOVIE>
+Metal Man <MOVIE>
+Nightwing <MOVIE>
+Plastic Man <MOVIE>
+Static Shock <MOVIE>
+Supergirl <MOVIE>
+Zatanna <MOVIE>
+Justice League <MOVIE>
+Justice League Dark <MOVIE>
+Contantine <MOVIE>
+Madame X <MOVIE>
+Val-Zod <MOVIE>
+Batgirl <MOVIE>
+Cyborg <MOVIE>
+Morbius <MOVIE>
+Deathstroke <MOVIE>
+Harley Quinn vs The Joker <MOVIE>
+Krypton <MOVIE>
+New Gods <MOVIE>
+Black Manta <MOVIE>
+Joker <MOVIE>
+Joker 2 <MOVIE>
+Super Mario Bros.: The Movie <MOVIE>
+Borderlands <MOVIE>
+Django/Zorro <MOVIE>
+Knives Out <MOVIE>
+Glass Onion: A Knives Out Mystery <MOVIE>
+Jackass <MOVIE>
+Jackass 2 <MOVIE>
+Jackass 3 <MOVIE>
+Jackass Forever <MOVIE>
+Jackass 4.5 <MOVIE>
+Extraction <MOVIE>
+Extraction 2 <MOVIE>
+Moonfall <MOVIE>
+Tinder Swindler <MOVIE>
+Bullet Train <MOVIE>
+Lost City <MOVIE>
+Pinocchio <MOVIE>
+The Adam Project <MOVIE>
+Return to Space <MOVIE>
+Elvis <MOVIE>
+Boss Baby <MOVIE>
+Boss Baby 2: Family Business <MOVIE>
+Sing <MOVIE>
+Sing 2 <MOVIE>
+Red Notice <MOVIE>
+Chaos Walking <MOVIE>
+Hitman's Bodyguard <MOVIE>
+Hitman's Wife's Bodyguard <MOVIE>
+The Conjuring <MOVIE>
+The Conjuring 2 <MOVIE>
+The Conjuring: The Devil Made Me Do It <MOVIE>
+Annabelle <MOVIE>
+Annabelle: Creation <MOVIE>
+The Nun <MOVIE>
+The Nun 2 <MOVIE>
+The Curse of La Llorona <MOVIE>
+The Crooked Man <MOVIE>
+The Nurse <MOVIE>
+The Confession <MOVIE>
+Blund's Lullaby <MOVIE>
+Innocent Souls <MOVIE>
+Outside the wire <MOVIE>
+Free Guy <MOVIE>
+Peter Rabbit <MOVIE>
+Peter Rabbit 2: The Runaway <MOVIE>
+Without Remorse <MOVIE>
+Army of the Dead <MOVIE>
+Army of Thieves <MOVIE>
+Wrath of Man <MOVIE>
+Thunder Force <MOVIE>
+Love and Monsters <MOVIE>
+Fear Street: 1994 <MOVIE>
+Fear Street: 1978 <MOVIE>
+Fear Street: 1666 <MOVIE>
+Escape Room 2 <MOVIE>
+Escape Room <MOVIE>
+Don't Breathe <MOVIE>
+Don't Breathe 2 <MOVIE>
+Sweet Girl <MOVIE>
+Vivo <MOVIE>
+Vacation Friends <MOVIE>
+Britney vs Spears <MOVIE>
+V/H/S/94 <MOVIE>
+Don't Look Up <MOVIE>
+Star Wars: Rogue Squadron <MOVIE>
+Barbie <MOVIE>
+A Quiet Place <MOVIE>
+A Quiet Place 2 <MOVIE>
+Dolittle <MOVIE>
+Sonic the Hedgehog <MOVIE>
+Sonic the Hedgehog 2 <MOVIE>
+Underwater <MOVIE>
+My Spy <MOVIE>
+Tenet <MOVIE>
+Old <MOVIE>
