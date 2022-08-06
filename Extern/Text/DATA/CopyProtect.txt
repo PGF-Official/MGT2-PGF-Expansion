@@ -1,0 +1,529 @@
+﻿[ID]1
+[NAME EN]StarForce v1.0
+[NAME GE]StarForce v1.0
+[NAME CH]StarForce v1.0
+[NAME TU]StarForce v1.0
+[NAME FR]StarForce v1.0
+[NAME CT]StarForce v1.0
+[NAME RU]StarForce v1.0
+[NAME IT]StarForce v1.0
+[NAME JA]StarForce v1.0
+[DATE]AUG 1980
+[PRICE]15000
+[DEV COSTS]2000
+
+[ID]2
+[NAME EN]StarForce v2.0
+[NAME GE]StarForce v2.0
+[NAME CH]StarForce v2.0
+[NAME TU]StarForce v2.0
+[NAME FR]StarForce v2.0
+[NAME CT]StarForce v2.0
+[NAME RU]StarForce v2.0
+[NAME IT]StarForce v2.0
+[NAME JA]StarForce v2.0
+[DATE]AUG 1982
+[PRICE]20000
+[DEV COSTS]3000
+
+[ID]3
+[NAME EN]StarForce v3.0
+[NAME GE]StarForce v3.0
+[NAME CH]StarForce v3.0
+[NAME TU]StarForce v3.0
+[NAME FR]StarForce v3.0
+[NAME CT]StarForce v3.0
+[NAME RU]StarForce v3.0
+[NAME IT]StarForce v3.0
+[NAME JA]StarForce v3.0
+[DATE]AUG 1984
+[PRICE]25000
+[DEV COSTS]4000
+
+[ID]4
+[NAME EN]Epic Copy Protection v1.0
+[NAME GE]ATC Protect v1.0
+[NAME CH]A级保护     v1.0
+[NAME TU]ATC Protect v1.0
+[DATE]AUG 1987
+[PRICE]30000
+[DEV COSTS]5000
+
+[ID]5
+[NAME EN]Epic Copy Protection v2.0
+[NAME GE]ATC Protect v2.0
+[NAME CH]A级保护     v2.0
+[NAME TU]ATC Protect v2.0
+[DATE]SEP 1990
+[PRICE]35000
+[DEV COSTS]6000
+
+[ID]6
+[NAME EN]Epic Copy Protection v3.0
+[NAME GE]ATC Protect v3.0
+[NAME CH]A级保护     v3.0
+[NAME TU]ATC Protect v3.0
+[DATE]NOV 1992
+[PRICE]40000
+[DEV COSTS]7000
+
+[ID]7
+[NAME EN]Sony SecuROM v1.0
+[NAME GE]SecuDisc v1.0
+[NAME CH]密探     v1.0
+[NAME TU]SecuDisc v1.0
+[DATE]AUG 1994
+[PRICE]45000
+[DEV COSTS]8000
+
+[ID]8
+[NAME EN]Sony SecuROM v2.0
+[NAME GE]SecuDisc v2.0
+[NAME CN]密探     v2.0
+[NAME TU]SecuDisc v2.0
+[DATE]AUG 1995
+[PRICE]50000
+[DEV COSTS]9000
+
+[ID]9
+[NAME EN]Sony SecuROM v3.0
+[NAME GE]SecuDisc v3.0
+[NAME CH]密探     v3.0
+[NAME TU]SecuDisc v3.0
+[DATE]AUG 1997
+[PRICE]55000
+[DEV COSTS]10000
+
+[ID]10
+[NAME EN]WTM Copy Protection v1.0
+[NAME GE]HHV Protection v1.0
+[NAME CH]破晓           v1.0
+[NAME TU]HHV Protection v1.0
+[DATE]AUG 1998
+[PRICE]60000
+[DEV COSTS]11000
+
+[ID]11
+[NAME EN]WTM Copy Protection v2.0
+[NAME GE]HHV Protection v2.0
+[NAME CH]破晓           v2.0
+[NAME TU]HHV Protection v2.0
+[DATE]AUG 2000
+[PRICE]65000
+[DEV COSTS]12000
+
+[ID]12
+[NAME EN]WTM Copy Protection v3.0
+[NAME GE]HHV Protection v3.0
+[NAME CH]破晓           v3.0
+[NAME TU]HHV Protection v3.0
+[DATE]AUG 2002
+[PRICE]70000
+[DEV COSTS]13000
+
+[ID]13
+[NAME EN]Cactus Data Shield v1.0
+[NAME GE]DATA Shield v1.0
+[NAME CH]数字盾牌    v1.0
+[NAME TU]DATA Shield v1.0
+[DATE]AUG 2004
+[PRICE]75000
+[DEV COSTS]14000
+
+[ID]14
+[NAME EN]Cactus Data Shield v2.0
+[NAME GE]DATA Shield v2.0
+[NAME CH]数字盾牌    v2.0
+[NAME TU]DATA Shield v2.0
+[DATE]AUG 2006
+[PRICE]80000
+[DEV COSTS]15000
+
+[ID]15
+[NAME EN]Cactus Data Shield v3.0
+[NAME GE]DATA Shield v3.0
+[NAME CH]数字盾牌    v3.0
+[NAME TU]DATA Shield v3.0
+[DATE]AUG 2008
+[PRICE]85000
+[DEV COSTS]16000
+
+[ID]16
+[NAME EN]Steam Copy Protection v1.0
+[NAME GE]AR Copy Protect v1.0
+[NAME CH]虚空            v1.0
+[NAME TU]AR Copy Protect v1.0
+[DATE]AUG 2010
+[PRICE]90000
+[DEV COSTS]17000
+
+[ID]17
+[NAME EN]Steam Copy Protection v2.0
+[NAME GE]AR Copy Protect v2.0
+[NAME CH]虚空            v2.0
+[NAME TU]AR Copy Protect v2.0
+[DATE]AUG 2012
+[PRICE]95000
+[DEV COSTS]18000
+
+[ID]18
+[NAME EN]Steam Copy Protection v3.0
+[NAME GE]AR Copy Protect v3.0
+[NAME CH]虚空            v3.0
+[NAME TU]AR Copy Protect v3.0
+[DATE]AUG 2014
+[PRICE]100000
+[DEV COSTS]19000
+
+[ID]19
+[NAME EN]Macrovision SafeDisc v1.0
+[NAME GE]MacroProtect v1.0
+[NAME CH]灭迹         v1.0
+[NAME TU]MacroProtect v1.0
+[DATE]AUG 2016
+[PRICE]105000
+[DEV COSTS]20000
+
+[ID]20
+[NAME EN]Macrovision SafeDisc v2.0
+[NAME GE]MacroProtect v2.0
+[NAME CH]灭迹         v2.0
+[NAME TU]MacroProtect v2.0
+[DATE]AUG 2018
+[PRICE]110000
+[DEV COSTS]21000
+
+[ID]21
+[NAME EN]Macrovision SafeDisc v3.0
+[NAME GE]MacroProtect v3.0
+[NAME CH]灭迹         v3.0
+[NAME TU]MacroProtect v3.0
+[DATE]AUG 2020
+[PRICE]115000
+[DEV COSTS]22000
+
+[ID]22
+[NAME EN]Denuvo Anti-Tamper v1.0
+[NAME GE]Quantum Shield v1.0
+[NAME CH]量子盾         v1.0
+[NAME TU]Quantum Shield v1.0
+[DATE]AUG 2022
+[PRICE]120000
+[DEV COSTS]23000
+
+[ID]23
+[NAME EN]Denuvo Anti-Tamper v2.0
+[NAME GE]Quantum Shield v2.0
+[NAME CH]量子盾         v2.0
+[NAME TU]Quantum Shield v2.0
+[DATE]AUG 2022
+[PRICE]125000
+[DEV COSTS]24000
+
+[ID]24
+[NAME EN]Denuvo Anti-Tamper v3.0
+[NAME GE]Quantum Shield v3.0
+[NAME CH]量子盾         v3.0
+[NAME TU]Quantum Shield v3.0
+[DATE]AUG 2022
+[PRICE]130000
+[DEV COSTS]25000
+[ENDLESS]
+
+
+[ID]25
+[NAME EN]ActControl v1.0
+[NAME GE]ActControl v1.0
+[NAME CH]ActControl v1.0
+[NAME TU]ActControl v1.0
+[NAME FR]ActControl v1.0
+[NAME CT]ActControl v1.0
+[NAME RU]ActControl v1.0
+[NAME IT]ActControl v1.0
+[NAME JA]ActControl v1.0
+[DATE]AUG 1986
+[PRICE]30000
+[DEV COSTS]5000
+
+[ID]26
+[NAME EN]ActControl v2.0
+[NAME GE]ActControl v2.0
+[NAME CH]ActControl v2.0
+[NAME TU]ActControl v2.0
+[NAME FR]ActControl v2.0
+[NAME CT]ActControl v2.0
+[NAME RU]ActControl v2.0
+[NAME IT]ActControl v2.0
+[NAME JA]ActControl v2.0
+[DATE]AUG 1988
+[PRICE]35000
+[DEV COSTS]6000
+
+[ID]27
+[NAME EN]ActControl v3.0
+[NAME GE]ActControl v3.0
+[NAME CH]ActControl v3.0
+[NAME TU]ActControl v3.0
+[NAME FR]ActControl v3.0
+[NAME CT]ActControl v3.0
+[NAME RU]ActControl v3.0
+[NAME IT]ActControl v3.0
+[NAME JA]ActControl v3.0
+[DATE]AUG 1990
+[PRICE]40000
+[DEV COSTS]7000
+
+[ID]28
+[NAME EN]Reality Pump v1.0
+[NAME GE]Reality Pump v1.0
+[NAME CH]Reality Pump v1.0
+[NAME TU]Reality Pump v1.0
+[NAME FR]Reality Pump v1.0
+[NAME CT]Reality Pump v1.0
+[NAME RU]Reality Pump v1.0
+[NAME IT]Reality Pump v1.0
+[NAME JA]Reality Pump v1.0
+[DATE]AUG 1998
+[PRICE]60000
+[DEV COSTS]11000
+
+[ID]29
+[NAME EN]Reality Pump v2.0
+[NAME GE]Reality Pump v2.0
+[NAME CH]Reality Pump v2.0
+[NAME TU]Reality Pump v2.0
+[NAME FR]Reality Pump v2.0
+[NAME CT]Reality Pump v2.0
+[NAME RU]Reality Pump v2.0
+[NAME IT]Reality Pump v2.0
+[NAME JA]Reality Pump v2.0
+[DATE]AUG 2000
+[PRICE]65000
+[DEV COSTS]12000
+
+[ID]30
+[NAME EN]Reality Pump v3.0
+[NAME GE]Reality Pump v3.0
+[NAME CH]Reality Pump v3.0
+[NAME TU]Reality Pump v3.0
+[NAME FR]Reality Pump v3.0
+[NAME CT]Reality Pump v3.0
+[NAME RU]Reality Pump v3.0
+[NAME IT]Reality Pump v3.0
+[NAME JA]Reality Pump v3.0
+[DATE]AUG 2002
+[PRICE]70000
+[DEV COSTS]13000
+
+[ID]31
+[NAME EN]RockStar DRM v1.0
+[NAME GE]RockStar DRM v1.0
+[NAME CH]RockStar DRM v1.0
+[NAME TU]RockStar DRM v1.0
+[NAME FR]RockStar DRM v1.0
+[NAME CT]RockStar DRM v1.0
+[NAME RU]RockStar DRM v1.0
+[NAME IT]RockStar DRM v1.0
+[NAME JA]ロックスター DRM v1.0
+[DATE]AUG 2016
+[PRICE]105000
+[DEV COSTS]20000
+
+[ID]32
+[NAME EN]RockStar DRM v2.0
+[NAME GE]RockStar DRM v2.0
+[NAME CH]RockStar DRM v2.0
+[NAME TU]RockStar DRM v2.0
+[NAME FR]RockStar DRM v2.0
+[NAME CT]RockStar DRM v2.0
+[NAME RU]RockStar DRM v2.0
+[NAME IT]RockStar DRM v2.0
+[NAME JA]ロックスター DRM v2.0
+[DATE]AUG 2018
+[PRICE]110000
+[DEV COSTS]21000
+
+[ID]33
+[NAME EN]RockStar DRM v3.0
+[NAME GE]RockStar DRM v3.0
+[NAME CH]RockStar DRM v3.0
+[NAME TU]RockStar DRM v3.0
+[NAME FR]RockStar DRM v3.0
+[NAME CT]RockStar DRM v3.0
+[NAME RU]RockStar DRM v3.0
+[NAME IT]RockStar DRM v3.0
+[NAME JA]ロックスター DRM v3.0
+[DATE]AUG 2020
+[PRICE]115000
+[DEV COSTS]22000
+
+[ID]34
+[NAME EN]PirateKiller Prime
+[NAME GE]PirateKiller Prime
+[NAME CH]海盗杀手 Prime
+[NAME TU]Korsan Katili Prime
+[NAME FR]PirateKiller Prime
+[NAME RU]PirateKiller Prime
+[NAME CT]海盜殺手 Prime
+[NAME IT]PirateKiller Prime
+[NAME JA]PirateKiller Prime
+[DATE]AUG 2028
+[PRICE]150000
+[DEV COSTS]28000
+
+[ID]35
+[NAME EN]PirateKiller Pro
+[NAME GE]PirateKiller Pro
+[NAME CH]海盗杀手专业版
+[NAME TU]Korsan Katili Pro
+[NAME FR]PirateKiller Pro
+[NAME RU]PirateKiller Pro
+[NAME CT]海盜殺手專業版
+[NAME IT]PirateKiller Pro
+[NAME JA]PirateKiller Pro
+[DATE]AUG 2030
+[PRICE]160000
+[DEV COSTS]31000
+
+[ID]36
+[NAME EN]PirateKiller Extreme
+[NAME GE]PirateKiller Extreme
+[NAME CH]海盗杀手极限
+[NAME TU]Korsan Katili Aşırı
+[NAME FR]PirateKiller Extreme
+[NAME RU]PirateKiller Extreme
+[NAME CT]海盜殺手極限
+[NAME IT]PirateKiller Extreme
+[NAME JA]PirateKiller Extreme
+[DATE]AUG 2032
+[PRICE]170000
+[DEV COSTS]34000
+[ENDLESS]
+
+[ID]37
+[NAME EN]Steam Bind v1.0
+[NAME GE]Steam Bind v1.0
+[NAME CH]Steam Bind v1.0
+[NAME TU]Steam Bind v1.0
+[NAME FR]Steam Bind v1.0
+[NAME CT]Steam Bind v1.0
+[NAME RU]Steam Bind v1.0
+[NAME IT]Steam Bind v1.0
+[NAME JA]Steam Bind v1.0
+[DATE]AUG 2010
+[PRICE]90000
+[DEV COSTS]17000
+
+[ID]38
+[NAME EN]Steam Bind v2.0
+[NAME GE]Steam Bind v2.0
+[NAME CH]Steam Bind v2.0
+[NAME TU]Steam Bind v2.0
+[NAME FR]Steam Bind v2.0
+[NAME CT]Steam Bind v2.0
+[NAME RU]Steam Bind v2.0
+[NAME IT]Steam Bind v2.0
+[NAME JA]Steam Bind v2.0
+[DATE]AUG 2012
+[PRICE]95000
+[DEV COSTS]18000
+
+[ID]39
+[NAME EN]Steam Bind v3.0
+[NAME GE]Steam Bind v3.0
+[NAME CH]Steam Bind v3.0
+[NAME TU]Steam Bind v3.0
+[NAME FR]Steam Bind v3.0
+[NAME CT]Steam Bind v3.0
+[NAME RU]Steam Bind v3.0
+[NAME IT]Steam Bind v3.0
+[NAME JA]Steam Bind v3.0
+[DATE]AUG 2014
+[PRICE]100000
+[DEV COSTS]19000
+
+[ID]40
+[NAME EN]Steamworks v1.0
+[NAME GE]Steamworks v1.0
+[NAME CH]Steamworks v1.0
+[NAME TU]Steamworks v1.0
+[NAME FR]Steamworks v1.0
+[NAME CT]Steamworks v1.0
+[NAME RU]Steamworks v1.0
+[NAME IT]Steamworks v1.0
+[NAME JA]Steamworks v1.0
+[DATE]AUG 2004
+[PRICE]75000
+[DEV COSTS]14000
+
+[ID]41
+[NAME EN]Steamworks v2.0
+[NAME GE]Steamworks v2.0
+[NAME CH]Steamworks v2.0
+[NAME TU]Steamworks v2.0
+[NAME FR]Steamworks v2.0
+[NAME CT]Steamworks v2.0
+[NAME RU]Steamworks v2.0
+[NAME IT]Steamworks v2.0
+[NAME JA]Steamworks v2.0
+[DATE]AUG 2006
+[PRICE]80000
+[DEV COSTS]15000
+
+[ID]42
+[NAME EN]Steamworks v3.0
+[NAME GE]Steamworks v3.0
+[NAME CH]Steamworks v3.0
+[NAME TU]Steamworks v3.0
+[NAME FR]Steamworks v3.0
+[NAME CT]Steamworks v3.0
+[NAME RU]Steamworks v3.0
+[NAME IT]Steamworks v3.0
+[NAME JA]Steamworks v3.0
+[DATE]AUG 2008
+[PRICE]85000
+[DEV COSTS]16000
+
+[ID]43
+[NAME EN]ActControl v1.0
+[NAME GE]ActControl v1.0
+[NAME CH]ActControl v1.0
+[NAME TU]ActControl v1.0
+[NAME FR]ActControl v1.0
+[NAME CT]ActControl v1.0
+[NAME RU]ActControl v1.0
+[NAME IT]ActControl v1.0
+[NAME JA]ActControl v1.0
+[DATE]AUG 1986
+[PRICE]30000
+[DEV COSTS]5000
+
+[ID]44
+[NAME EN]ActControl v2.0
+[NAME GE]ActControl v2.0
+[NAME CH]ActControl v2.0
+[NAME TU]ActControl v2.0
+[NAME FR]ActControl v2.0
+[NAME CT]ActControl v2.0
+[NAME RU]ActControl v2.0
+[NAME IT]ActControl v2.0
+[NAME JA]ActControl v2.0
+[DATE]AUG 1988
+[PRICE]35000
+[DEV COSTS]6000
+
+[ID]45
+[NAME EN]ActControl v3.0
+[NAME GE]ActControl v3.0
+[NAME CH]ActControl v3.0
+[NAME TU]ActControl v3.0
+[NAME FR]ActControl v3.0
+[NAME CT]ActControl v3.0
+[NAME RU]ActControl v3.0
+[NAME IT]ActControl v3.0
+[NAME JA]ActControl v3.0
+[DATE]AUG 1990
+[PRICE]40000
+[DEV COSTS]7000
+
+[EOF]
