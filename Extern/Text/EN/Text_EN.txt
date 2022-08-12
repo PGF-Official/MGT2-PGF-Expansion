@@ -779,7 +779,7 @@ Load Game
 Options
 Credits
 Exit Game
-Mad Games Tycoon® 2: PGF Expansion<br>©2020 Eggcode Games x PGF Entertainment
+Mad Games Tycoon® 2: PGF Expansion - v2.2<br>©2022 Eggcode Games x PGF Entertainment
 Do you really want to close the game?
 <Empty>
 Delete Save Game

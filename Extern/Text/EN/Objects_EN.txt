@@ -72,7 +72,7 @@ Armchair III - Green;With this object your employees can get new motivation.
 Armchair III - Blue;With this object your employees can get new motivation.
 Medicine Cabinet;This enables sick employees to heal themselves.<br>Sick employees work more slowly.
 Electric Heater;Employees who are freezing become dissatisfied more quickly.<br>This heater can be placed on any position.
-WA Desk [Level 1];The work desk for quality assurance. The higher the quality,<br>the better the work result.
+QA Desk [Level 1];The work desk for quality assurance. The higher the quality,<br>the better the work result.
 Artist's Desk [Level 1];The work desk for the graphic studio. The higher the quality,<br>the better the work result.
 Sound Board [Level 1];The work desk for the sound studio. The higher the quality,<br>the better the work result.
 Motion Capture Area [Level 1];The work desk for the motion capture studio. The higher the quality,<br>the better the work result.
