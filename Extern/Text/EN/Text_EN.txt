@@ -5,7 +5,7 @@
 Technology level
 Experience
 Development costs
-£
+$
 As the experience level increases, the development costs decrease.<br>Additionally, the gameplay, graphics, technology and sound points increase.
 Graphics
 Sound
@@ -96,7 +96,7 @@ This allows you to disable the lifting of objects.
 Disables the room icons and info boxes.
 Money
 Fans
-Have all employees controlled by the AI?
+Have all employees controlled by the AI
 ▲
 ▼
 ■
@@ -203,7 +203,7 @@ Unassigned employees
 Group
 Select group
 Management
-Buy Devkits
+Buy DevKits
 Buy Engine
 Buy Copy Protection
 Buy Licenses
@@ -211,9 +211,9 @@ Publishing Offers
 Bank
 Real Estate
 Company Name & Logo
-Remove Game from Market
-Devkits for purchase
-Devkits owned
+Remove Game From Market
+DevKits for purchase
+DevKits owned
 Manufacturer
 Release date
 Purchase price
@@ -425,7 +425,7 @@ Continue development
 Bugs
 Programming completed
 New Game Developer Legend
-On the labour market <NAME> is available.
+On the labor market <NAME> is available.
 The experience with genres affects the gameplay.
 The experience with topics affects the gameplay.
 The experience with platforms has an impact on graphics, sound and technology.
@@ -463,12 +463,12 @@ Tooltip: Sound 3
 Tooltip: Sound 4
 Tooltip: Sound 5
 Tooltip: Sound 6
-Tooltip: Graphic 1
-Tooltip: Graphic 2
-Tooltip: Graphic 3
-Tooltip: Graphic 4
-Tooltip: Graphic 5
-Tooltip: Graphic 6
+Tooltip: Grafik 1
+Tooltip: Grafik 2
+Tooltip: Grafik 3
+Tooltip: Grafik 4
+Tooltip: Grafik 5
+Tooltip: Grafik 6
 MoCap [Player animations]
 MoCap [NPC animations]
 To support another team, click on a room of the same type with the <color=blue>left mouse button</color>.
@@ -551,9 +551,9 @@ Music & Sound for professionals
 Marketing & Support for beginners
 Advanced Marketing & Support
 Marketing & Support for Professionals
-Game testing for beginners
-Game testing for advanced
-Game testing for professionals
+Gametesting for beginners
+Gametesting for advanced
+Gametesting for professionals
 Hardware & Technology for beginners
 Hardware & Technology for advanced
 Hardware & Technology for professionals
@@ -742,7 +742,7 @@ Satisfaction Survey
 Distribute Autograph Cards
 Raffle
 Studio Tour
-High score Championship
+Highscore Championship
 Games Convention
 Customer Support
 Marketing & Support
@@ -758,7 +758,7 @@ Average workload
 High workload
 Unanswered questions: <NUM>
 Golden record received
-Your game <color=blue><NAME></color> is considered a ground-breaking milestone in the video game industry and has set a new trend.
+Your game <color=blue><NAME></color> is considered a groundbreaking milestone in the video game industry and has set a new trend.
 Trendsetter
 Mad Games Awards
 <NUM> Fans
@@ -779,7 +779,7 @@ Load Game
 Options
 Credits
 Exit Game
-Mad Games Tycoon® 2: PGF Expansion - v2.3.1<br>©2022 Eggcode Games x PGF Entertainment
+Mad Games Tycoon®<br>©2020 Eggcode Games
 Do you really want to close the game?
 <Empty>
 Delete Save Game
@@ -836,7 +836,7 @@ Disable Tutorial
 Random platform popularity
 Random game concept settings
 No random events
-<size=20>Mad Games Tycoon 2: PGF Expansion</size><br><br>Thanks for purchasing <color=blue>Mad Games Tycoon 2</color>. Please keep in mind that the early-access version still lacks many features, the game is unbalanced in some places, and bugs may occur. Furthermore, all translations are very faulty.<br><br>Have fun!
+<size=20>Mad Games Tycoon 2</size><br><br>Thanks for purchasing <color=blue>Mad Games Tycoon 2</color>. Please keep in mind that the early-access version still lacks many features, the game is unbalanced in some places, and bugs may occur. Furthermore, all translations are very faulty.<br><br>Have fun!
 The lower the speed of the game, the more tasks<br>your employees can complete in a week.<br>This makes the game easier.
 The difficulty level mainly affects<br>the sales figures of your games.
 For a quick start in the game,<br>you can increase the starting year.
@@ -877,9 +877,9 @@ Set settings to default
 -
 -
 -
-<b>Marketing [Streamer] has been unlocked</b><br><br>More and more people are watching games on the Internet as gamers play their favourite games. If we do it right, we can use it to promote our games and reach the target group directly.
+<b>Marketing [Streamer] has been unlocked</b><br><br>More and more people are watching games on the Internet as gamers play their favorite games. If we do it right, we can use it to promote our games and reach the target group directly.
 <b>Marketing [Internet] has been unlocked</b><br><br>The internet is becoming more and more important for advertising campaigns. Therefore, we should also consider starting advertising campaigns on the Internet.
-<b>Remaster has been unlocked</b><br><br>Wouldn't it be a great idea to let an old game shine in new splendour? Fast money and happy players!
+<b>Remaster has been unlocked</b><br><br>Wouldn't it be a great idea to let an old game shine in new splendor? Fast money and happy players!
 <b>MMOs and server room unlocked</b><br><br>You can now develop MMO games and build the necessary server room.
 -
 <b>Licences have been unlocked</b><br><br>You now have enough money to buy licenses. Even games with weak gameplay will sell respectably with an official license.
@@ -897,7 +897,7 @@ Set settings to default
 <b>Sequel has been unlocked</b><br><br>One of your games has received a good rating from the press. We should think about developing a sequel at a later date.
 -
 -
-Bug fixing
+Bugfixing
 Improve Gameplay
 Create Game Report
 Multiplatform game
@@ -923,7 +923,7 @@ Sound improvement for <NAME1> completed
 High quality animations
 Motion Capture recording for <NAME1> completed
 Show room connections
-UI-Drop up (Pause game)
+UI-Dropup (Pause game)
 View Game Reports
 When you create a report of your games, you can check the positive and negative settings of your game concept.
 Create game reports automatically
@@ -953,7 +953,7 @@ You must choose at least one product which will be exhibited at the <color=blue>
 Number of visitors to your booth
 This year up to <color=blue><NUM></color> visitors are expected.
 The organizer reports that <color=blue><NUM></color> tickets for the fair have been sold.
-For which game should a paid Add-on be developed?
+For which game should a paid AddOn be developed?
 Number of Addons
 Name of the addon
 Best Selling Budget Games
@@ -984,7 +984,7 @@ The most necessary work on this addon was completed. If the main game is distrib
 Interested publishers
 Give Addon to Publisher
 Main Game
-And finally, the short reviews for the latest addons of your favourite games. As usual, we show you which addon is worthwhile!
+And finally the short reviews for the latest addons of your favorite games. As usual, we show you which addon is worthwhile!
 Estimated age rating
 Lead Designer
 Mad Games Software Rating
@@ -1014,7 +1014,7 @@ Automate salary negotiations
 The fewer breaks are allowed,<br>the faster the motivation decreases.
 High work pressure makes your employees work faster.<br>However, the quality of their work suffers as a result.
 Here you can set the motivation level<br>for your employees to use the lounge.
-This allows you to determine at what stage of development the crunch time starts.<br>In the Crunch time all the needs of your employees are ignored.<br><br>But be careful! In crunch times, employees tend to quit.
+This allows you to determine at what stage of development the crunch time starts.<br>In the Crunchtime all the needs of your employees are ignored.<br><br>But be careful! In crunch times, employees tend to quit.
 The profession decides which ability can be trained to <color=blue>100</color>.<br>All other abilities have a limit of <color=blue>50</color>.
 Profession
 Required Gameplay Features
@@ -1040,7 +1040,7 @@ IP of the host
 The server has disconnected!
 Waiting for players ...
 The connection was terminated because the game versions are different.
-Leader board [Multiplayer]
+Leaderboard [Multiplayer]
 Chat [Multiplayer]
 >> Pays to you <NUM> Engine license fees <<
 >> Has purchased your engine for <NUM <<
@@ -1051,7 +1051,7 @@ Do you really want to sign an exclusive contract with <NAME>?
 You already have an exclusive contract with <NAME>! The remaining term is <NUM> months.
 The product became <NAME> an exclusive contract! The remaining term is <NUM> months.
 Hand over to <color=blue><NAME></color>
-The exclusive contract with <NAME> has expired. You can now distribute your games yourself again or find a new publisher.
+The exclusive contract with <NAME> has expired. You can now distribute your games yourself again, or find a new publisher.
 <b>Leadership</b><br>Employees with strong leadership skills give a bonus if they are deployed as lead developer.
 <b>All-Rounder</b><br>The limit for secondary abilities is increased.
 You have not selected all Perks yet!
@@ -1066,7 +1066,7 @@ Do you really want to buy this property?
 This building has a floor area of <color=blue><NUM1></color> square meters. The purchase price is <color=red><NUM2></color>.
 A virus has deleted some of your graphics assets for the current game. Your graphic artists are now trying to make up for the losses.
 A music star friend of an employee has composed a free soundtrack for your current game.
-An exhausted programmer has spent the last few hours reworking some core elements. Unfortunately, he was so unfocused that some bugs crept in.
+An exhausted programmer has spent the last few hours reworking some core elements. Unfortunately he was so unfocused that some bugs crept in.
 One of your programmers probably wants to be "employee of the month" and has worked a night shift. The result is a significantly increased performance of the game.
 During a spontaneous brainstorming session with your staff, some good ideas for your new game were born. The developers immediately got to work and implemented some of these ideas.
 A high-circulation gaming magazine has published a negative report about your current game. Unfortunately, this caused the interest to drop a bit.
@@ -1075,13 +1075,13 @@ A piece of music for the current game resembles too much a hit from the charts. 
 There were problems with current drivers for different input devices. Some functions must be rewritten immediately.
 One of your level designers has accidentally overwritten a level that has already been completed. The complete level must now be recreated.
 Your programmers are lucky. Some bug reports turned out to be wrong. This saves us a lot of time.
-One of your graphic designers has continued working on the current game in his spare time. As a result, many inferior graphics were improved.
+One of your graphic designers has continued working on the current game in his spare time. As a result many inferior graphics were improved.
 One of your sound specialists has found an old piece of music he created in his library. This track fits the current game extraordinarily well.
 Your programmers have received the latest SDK and updated it immediately. Thereby some technical problems could be fixed.
 <b>Video Game Crash<br><color=blue>-50% games and consoles sold</color></b><br><br>The computer games market has collapsed.<br>In the coming months, sales figures for all games will decline sharply.<br>Hopefully the market will stabilize soon.
 <b>Video Game Boom<br><color=blue>+50% games and consoles sold</color></b><br><br>The computer games industry is experiencing a strong upswing.<br>In the coming months, all games will sell significantly better.
 <b>Order stagnation<br><color=blue>no new orders</color></b><br><br>A global slump in orders has broken out.<br>You will not be offered new jobs in the near future.
-<b>Labour shortage<br><color=blue>no new employee applications</color></b><br><br>The IT industry complains of a severe shortage of employees.<br>No employees will be applying to you in the near future.
+<b>Labor shortage<br><color=blue>no new employee applications</color></b><br><br>The IT industry complains of a severe shortage of employees.<br>No employees will be applying to you in the near future.
 <b>Banking crisis<br><color=blue>+200% interest</color></b><br><br>A worldwide banking crisis has broken out.<br>All banks now demand significantly higher interest rates for loans.
 <b>Era of Legends<br><color=blue>+200% chance that legends apply</color></b><br><br>Many experienced employees are looking for a new job.<br>In the coming months more game development legends will apply to you.
 <b>Real Estate Boom<br><color=blue>+100% property prices</color></b><br><br>A worldwide real estate boom has greatly increased the purchase prices for real estate.<br>Even for buildings that are due for demolition, enormous sums are demanded.
@@ -1089,7 +1089,7 @@ Your programmers have received the latest SDK and updated it immediately. Thereb
 <b>Energy crisis<br><color=blue>+100% operating costs for servers</color></b><br><br>An energy crisis is causing electricity prices to skyrocket.<br>In the near future, operating costs for servers will increase by 100%.
 <b>Semiconductor shortage<br><color=blue>+$100 production costs for consoles</color></b><br><br>The prices for semiconductors have risen abruptly.<br>In the near future, the production costs for consoles will increase enormously.
 Game manual b/w
-Game manual coloured
+Game manual colored
 Edition
 Poster
 Sticker
@@ -1103,7 +1103,7 @@ Prices & Package Contents
 Production costs
 Standard Edition
 Deluxe Edition
-Collector’s Edition
+Collectors Edition
 Content of the edition
 Offer edition for sale
 Basic costs
@@ -1119,7 +1119,7 @@ F2P games and digital versions
 <b>F2P games and digital distribution was unlocked</b><br><br>You can now develop F2P games and distribute your games online as digital versions.
 You have not offered a retail or digital version for sale.
 The Deluxe Edition must have more content than the Standard Edition.
-The Collector’s Edition version must have more content than the smaller edition.
+The Collectors Edition edition must have more content than the smaller edition.
 In how many weeks will the game be released?
 <NUM> weeks
 Stock
@@ -1158,7 +1158,7 @@ Top Choice
 Platinum
 <color=blue>Re-release possible</color>
 You can't choose content for budget games!
-Fans are divided according to their favourite genre.
+Fans are divided according to their favorite genre.
 Market Research
 Total fans
 Conduct new market research
@@ -1255,9 +1255,9 @@ New game world & instances
 New main quest series
 <b>Special options for standard games</b><br>▪ Creating Addons & Stand-Alone Addons<br>▪ Creating a remaster<br>▪ Release as a budget game<br>▪ Release in bundle
 <b>Special options MMOs</b><br>▪ Creating an MMO addon<br>▪ The development time is significantly higher.
-<b>Special options for F2Ps</b><br>▪ Create F2P addons<br>▪ Digital distribution only<br>▪ No publisher needed.
+<b>Special options for F2Ps</b><br>▪ Create F2P addons<br>▪ Digial distribution only<br>▪ No publisher needed.
 You have to choose at least 3 new contents for the MMO-Addon!
-The development of the MMO addon <NAME> was cancelled,<br>because the main game was taken off the market.
+The development of the MMO addon <NAME> was canceled,<br>because the main game was taken off the market.
 The servers are overheating!<br><color=red>-50% Performance</color>
 Platform is internet ready
 If you want to develop a MMO or a F2P game, all platforms must be internet ready!
@@ -1269,7 +1269,7 @@ The game pauses automatically when a player opens a menu.
 <color=green> >> Has bought a new property << </color>
 <color=green> >> Released the game '<NAME>' << </color>
 <color=green> >> Released the engine '<NAME>' << </color>
-The bank has informed you that your company account has had a negative balance for several months. You will be given a period of <color=blue>12 months</color> to clear your account balance. Otherwise, the <color=blue>insolvency</color> threatens.
+The bank has informed you that your company account has had a negative balance for several months. You will be given a period of <color=blue>12 months</color> to clear your account balance. Otherwise the <color=blue>insolvency</color> threatens.
 Warning
 Number of months until your account must be balanced.
 Game Over
@@ -1292,11 +1292,11 @@ Press Reviews
 User
 Press
 Start of development
-Mark as favourite
-Favourite
+Mark as favorite
+Favorite
 Scrolling at the edge of the screen
 Disable engine billing
-Open / close all Game Tabs
+Open / close all GameTabs
 <b>Christmas period</b><br>+50% games and consoles sold
 <b>Summer slump</b><br>-30% games and consoles sold
 In the <NAME> the following professions are the most effective: <color=blue><TEXT></color>.
@@ -1314,8 +1314,8 @@ Diamond record received
 System seller: <color=blue>+<NUM> <NAME></color>
 <b>Exclusive game</b><br>Through this game, an estimated <color=blue><NUM> <NAME></color> were sold.
 Disable weather effects
-<b>Real Estate Crash<br><color=blue>-50% building price</color></b><br><br>Real estate prices are collapsing worldwide. Experts are already talking about a worrying crisis.<br>Of course, this does not upset us. We are happy about favourable purchase prices.
-Third Party-Engine
+<b>Real Estate Crash<br><color=blue>-50% building price</color></b><br><br>Real estate prices are collapsing worldwide. Experts are already talking about a worrying crisis.<br>Of course, this does not upset us. We are happy about favorable purchase prices.
+ThirdParty-Engine
 <b>Angry fans</b><br>Your fans are angry because you released an extremely buggy game.<br>▪ -30% units sold<br>▪ No new fans
 <b>Messy</b><br>These employees don't care if they have to work in a dirty office.
 <b>Philanthropist</b><br>These employees do not complain about crowded offices.
@@ -1331,7 +1331,7 @@ You provided <color=blue><NAME1></color> the engine <color=blue>'<NAME2>'</color
 >> Gave you the engine '<NAME>' <<
 You have transferred <color=blue><NAME1></color> the license <color=blue>'<NAME2>'</color> for free.
 >> Gave you the license '<NAME>' <<
-Disable automatic pause [Single player]
+Disable automatic pause [Singleplayer]
 Fan letter display time
 Marathon
 Delete all saved games
@@ -1346,7 +1346,7 @@ No game selected
 Free slot
 You have to enter a name for the bundle!
 For bundles you can't choose any content!
-Again, this month bundles with older games have been released. We take a close look at the content and tell you if you can grab it.
+Again this month bundles with older games have been released. We take a close look at the content and tell you if you can grab it.
 These games are included in the bundle
 Addon Bundles
 GOTY Editions
@@ -1374,7 +1374,7 @@ Manage In-App Purchases
 Unlocked when you have researched the<br>gameplay feature <color=blue>In-App Purchases</color>.
 Delete application
 You cannot set in-app purchases for <color=orange>contract games</color>.
-Automatic was cancelled!<br>No further research is available.
+Automatic was canceled!<br>No further research is available.
 <b>Loss of confidence<br><color=blue>No new licenses</color></b><br><br>Due to a series of bad licensed games, trust among licensors has declined.<br>At present, all licensors refuse to cooperate with the games industry.
 Polishing
 Which game should be improved? Polishing only <color=blue>slowly</color> increases the quality of the game.
@@ -1411,7 +1411,7 @@ Archive
 Archived game concepts, engines or game reports are hidden in all menus and lists.
 Available
 In the archive
-Special marketing is cheap but can also have a <color=blue>negative effect</color>. Each action can be used <color=blue>per game only 1x</color>.
+Special marketing is cheap, but can also have a <color=blue>negative effect</color>. Each action can be used <color=blue>per game only 1x</color>.
 Release beta demo
 Pre-release for press
 Create overhype
@@ -1424,13 +1424,13 @@ You can only generate overhype,<br>if your game has a hype of at least 90.<br>Be
 If you create fake user reviews and get caught,<br>it doesn't make a good impression.
 This has already been done
 Special marketing campaign for <NAME1> completed
-We analysed all the comments and found that many players are dissatisfied with the beta demo. Your game loses some hype because of that.
+We analyzed all the comments and found that many players are dissatisfied with the beta demo. Your game loses some hype because of that.
 We have received mostly positive comments for the beta demo. Your fans are looking forward to the release of the game. The hype of your game is growing.
 The press has tested the preview version of your game. Unfortunately, the previews were mostly negative. We have to expect that this will have a negative impact on the final rating.
 The press has tested the pre-release version of your game. The game was highly praised in all previews. We can assume that this result will have a positive impact on the final rating.
-Unfortunately, we were not able to hype the game as much as we would have liked. The hype of the game remains at a normal level.
+Unfortunately, we were not able to hype the game as much as we would have liked. The hype of the game, remains at a normal level.
 We were able to extremely increase the hype of the game. Hopefully, we will not disappoint the fans with an average product.
-Some players have noticed that many user reviews are fake. Due to this fraud, we have lost a large number of fans.
+Some players have noticed that many user reviews are fake. Due to this fraud we have lost a large number of fans.
 Our marketing department has created some user reviews for this game. Fortunately, no one has noticed this scam.
 Publish a demo
 Many players are disappointed with the quality of the demo version. Your game loses some hype because of that.
@@ -1585,7 +1585,7 @@ New stationary console
 New handheld
 You can pre-install an already released game on the console.<br>The emulation of the game on this console is done automatically.
 The more input devices are added to the console,<br>the higher the production costs.
-A visually modern console can have a<br>positive effect on buying behaviour.
+A visually modern console can have a<br>positive effect on buying behavior.
 Main Processor
 Main Memory
 Graphics Chip
@@ -1636,7 +1636,7 @@ Not all platforms have been released yet!<br>In order to release this product, a
 Console has been completed
 Publish console
 Discard console
-Your hardware department has completed a market-ready prototype of your console. You can release the console now or postpone the release to a later date.
+Your hardware department has completed a market-ready prototype of your console. You can release the console now, or postpone the release to a later date.
 Do you really want to discard this console? This operation cannot be undone!
 Console Selling Price
 Current production costs of the console
@@ -1649,7 +1649,7 @@ Set selling price automatically
 Current cost reduction
 Console Rating
 The press has compared the performance and overall package of your new console with already available consoles.
-Remove Console from Market
+Remove Console From Market
 Performance rating
 Overall rating of the console
 Are you sure you want to take the console off the market?
@@ -1657,7 +1657,7 @@ Console production
 Console Development
 Performance compared to other consoles
 >> Purchased your Development Kit for <NUM>. <<
-<color=blue><NAME1></color> has acquired the Devkit from <color=blue><NAME2></color>.
+<color=blue><NAME1></color> has acquired the DevKit from <color=blue><NAME2></color>.
 You can't publish the game because no main platform is selected! First select a main platform in the "Change Platform" menu.
 Console Details
 <NUM> Consoles
@@ -1672,7 +1672,7 @@ Automatically apply known optimal settings.
 Workplaces
 Indicates how many employees can work in this room,<br>without complaining about overcrowding.
 <DATE1> to <DATE2>
-This save game is outdated.<br>Bugs may occur with outdated save games,<br>and some features may not work.
+This savegame is outdated.<br>Bugs may occur with outdated savegames,<br>and some features may not work.
 All Consoles
 Stationary Consoles
 Handhelds
@@ -1727,16 +1727,16 @@ Player is ready
 Ready
 Publishing offer
 Which game do you want to distribute?
-▪ The higher your studio reputation, the more games you will be offered.<br>▪ You don't get experience for these games.<br>▪ The IP and the game concept remains the<br>property of the developer. Therefore, you cannot develop successors,<br>addons or port the game.
+▪ The higher your studio reputation, the more games you will be offered.<br>▪ You don't get experience for these games.<br>▪ The IP and the game concept remains the<br>property of the developer. Therefore you cannot develop successors,<br>addons or port the game.
 Guarantee amount
 Turnover share
 Estimated quality
 Number of publishing offers
-Contract offers
+Contract offer
 Send the developer <color=blue><NAME1></color> a contract offer for the game <color=blue><NAME2></color>.
 Mood
 Make offer
-The contract negotiations have failed! The developer will look for another publisher.
+The contract negotiations has failed! The developer will look for another publisher.
 Sign contract
 Annoyed
 Tense
@@ -1754,7 +1754,7 @@ Average skills
 Employees per profession
 Total skills
 Applicants per profession
-It is not necessary to produce all editions.<br>If no Deluxe or Collector’s edition is produced,<br>buyers will automatically purchase the Standard edition.
+It is not necessary to produce all editions.<br>If no Deluxe or Collectors edition is produced,<br>buyers will automatically purchase the Standard edition.
 Commercial failure
 Despite good ratings, <color=blue><NAME></color> cannot hold its own in the market and seems to become a commercial failure.
 Bugs detected
@@ -1768,7 +1768,7 @@ Latest Applicants
 <b>New topic combination</b><br>▪ +3% Units sold
 New genre combination
 New topic combination
-Industrial Park
+Industrial park
 Palm Beach Resort
 [Tutorial available]
 Sandbox
@@ -1863,7 +1863,7 @@ You can change the design priority during development. This is especially recomm
 Rotate camera by 90 degrees
 Exclusive Games
 Next week
-Self-developed games
+Self developed games
 Desks
 Cabinets
 TVs & Radios
@@ -1983,7 +1983,7 @@ Estimated Rating:
 <b>Self-distribution</b><br>▪ Your revenue share is <NUM>%.<br>▪ Arcade machine games, mobile games and F2Ps are always distributed by the subsidiary.
 Revenue sharing with developers
 Hide games removed from the market
-Current Games from Subsidiaries
+Current Games From Subsidiaries
 Your profit sharing
 Subsidiary game
 Your subsidiary <NAME1> has sent you a statement for the game <NAME2>.
@@ -2009,7 +2009,7 @@ Transfer IP
 Which IP do you want to assign to your company or a subsidiary?
 A product is currently being developed for this IP. You must first cancel the development to be able to transfer the IP.
 Transfer of the IP is currently not possible.
-<b>Mad Games Awards - Winner</b><br>Your fans are delighted that you were honoured at the "Mad Games Awards".<br>+<NUM>% games sold<br>
+<b>Mad Games Awards - Winner</b><br>Your fans are delighted that you were honored at the "Mad Games Awards".<br>+<NUM>% games sold<br>
 European Manor
 Due to the price increase <NUM> pre-orders have been cancelled!
 Automatically activated
@@ -2030,3 +2030,25 @@ Current project
 This subsidiary is not a developer
 Set game speed
 Each player has permission to set the game speed.<br>If this function is disabled,<br>only the host may set the game speed.
+Show result of market research
+Calls are chargeable <color=blue>[2$]</color>
+If the support is paid, you will lose<br>significantly more dissatisfied fans.
+You can perform customer support in the support department.
+Number of products
+Standard prices
+Standard prices for newly created IPs
+Propose salary
+-
+Salary negotiation
+An employee asks for a salary increase
+If your employee is angry,<br>he will stop the negotiation
+I would like a monthly salary of <NUM>.
+Willingness to negotiate
+Accept salary increase
+No willingness to negotiate!
+You haven't chosen a main genre yet!
+Remove all
+OK. I agree with your offer. (monthly salary: <NUM>).
+Last chance! I want a monthly salary in the amount of <NUM>.
+Arcade Machines [Orders]
+No platform is <color=blue>internet enabled</color>.
