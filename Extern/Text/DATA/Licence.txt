@@ -238,7 +238,7 @@ Star Wars: Ewoks <COMIC><Y1985>
 Star Wars: Droids <COMIC><Y1986>
 Darth Maul: Son of Dathomir <COMIC><Y2017>
 Star Wars: Heir to the Empire <COMIC><Y1995>
-Star Wars: Dark Force Rising <COMIC><Y1997
+Star Wars: Dark Force Rising <COMIC><Y1997>
 Star Wars: The Last Command <COMIC><Y1997>
 Star wars: Splinter of the Mind's Eye <COMIC><Y1995>
 Star Wars: Han Solo at Star's End <COMIC><Y1997>
@@ -1460,7 +1460,7 @@ Vitaminamulch: Air Spectacular <MOVIE><Y2014>
 Casper <MOVIE><Y1995>
 Casper 2 <MOVIE><Y1996>
 Casper and Wendy <MOVIE><Y
-Casper's Scare School <MOVIE><Y
+Casper's Scare School <MOVIE><Y2006>
 Agent Carter [Season 1] <MOVIE><Y2015>
 Agent Carter [Season 2] <MOVIE><Y2016>
 Agent Carter [Season 3] <MOVIE><Y2017>
@@ -1591,10 +1591,10 @@ Blade <MOVIE><Y1998>
 Blade II <MOVIE><Y2002>
 Blade Trinity <MOVIE><Y2004>
 Blade: The Series <MOVIE><Y2006>
-Black Widow <MOVIE><Y2021.>
+Black Widow <MOVIE><Y2021>
 Ghost Rider <COMIC>
-Ghost Rider <MOVIE><Y
-Ghost Rider: Spirit of Vengeance <MOVIE><Y
+Ghost Rider <MOVIE><Y2007>
+Ghost Rider: Spirit of Vengeance <MOVIE><Y2011>
 Logan <MOVIE><Y2017>
 Wolverine <COMIC>
 The Wolverine <MOVIE><Y2013>
@@ -1804,7 +1804,7 @@ The Moneypenny Diaries: Final Fling <BOOK><Y2008>
 Chitty Chitty Bang Bang <MOVIE>
 Chitty Chitty Bang Bang <TOY>
 Chitty Chitty Bang Bang <BOOK>
-Sabrina the Teenage Witch: The Movie <MOVIE><Y1996
+Sabrina the Teenage Witch: The Movie <MOVIE><Y1996>
 Sabrina the Teenage Witch [Season 1] <MOVIE><Y1996>
 Sabrina the Teenage Witch [Season 2] <MOVIE><Y1997>
 Sabrina the Teenage Witch [Season 3] <MOVIE><Y1998>
@@ -2367,7 +2367,7 @@ Defiance <MOVIE><Y2008>
 Defiance [Season 1] <MOVIE><Y2013>
 Defiance [Season 1] <MOVIE><Y2014>
 Defiance [Season 1] <MOVIE><Y2015>
-Depression of Harumi Suzuka <MOVIE><Y
+Depression of Harumi Suzuka <MOVIE><Y2000>
 Despicable Me <MOVIE><Y2010>
 Despicable Me 2 <MOVIE><Y2013>
 Despicable Me 3 <MOVIE><Y2017>
@@ -16747,7 +16747,7 @@ Promised Lands <MOVIE><Y2010>
 Promises <MOVIE><Y2002>
 Promises in the Dark <MOVIE><Y1979>
 Promising Young Woman <MOVIE><Y2020>
-PGF Entertainment made this list
+PGF Entertainment made this list <MOVIE><Y2040>
 Proof <MOVIE><Y1992>
 Proof of Life <MOVIE><Y2000>
 Prophecy <MOVIE><Y1979>
@@ -18945,18 +18945,6 @@ Star Trek IV: The Voyage Home <MOVIE><Y1986>
 Star Trek Into Darkness <MOVIE><Y2013>
 Star Trek V: The Final Frontier <MOVIE><Y1989>
 Star Trek VI: The Undiscovered Country <MOVIE><Y1991>
-Star Wars Ep. IV: A New Hope <MOVIE><Y1978>
-Star Wars Ep. IV: A New Hope <MOVIE><Y1979>
-Star Wars Ep. IV: A New Hope <MOVIE><Y1981>
-Star Wars Ep. IV: A New Hope <MOVIE><Y1977>
-Star Wars Ep. V: The Empire Strikes Back <MOVIE><Y1980>
-Star Wars Ep. V: The Empire Strikes Back <MOVIE><Y1981>
-Star Wars Ep. V: The Empire Strikes Back <MOVIE><Y2020>
-Star Wars Ep. VI: Return of the Jedi <MOVIE><Y1983>
-Star Wars Ep. VII: The Force Awakens <MOVIE><Y2015>
-Star Wars Ep. VIII: The Last Jedi <MOVIE><Y2017>
-Star Wars: The Phantom Menace 3D <MOVIE><Y2012>
-Star Wars: The Rise of Skywalker <MOVIE><Y2019>
 StarDog and TurboCat <MOVIE><Y2020>
 Starbuck <MOVIE><Y2011>
 Starbuck <MOVIE><Y2013>
