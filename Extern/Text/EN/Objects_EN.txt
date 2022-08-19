@@ -1,7 +1,7 @@
 ﻿-;-
 Developer's Desk [Level 1];Work desk for development. The higher the quality,<br>the better the work result.
 Radiator;Employees who are freezing become dissatisfied more quickly.
-Lamp I;Your employees are more motivated when<br>they work in well-equipped offices.
+Lamp [Type 1];Your employees are more motivated when<br>they work in well-equipped offices.
 Bin;Always keep your offices clean,<br>otherwise your employees will become dissatisfied.
 Water Dispenser;Thirsty employees become dissatisfied more quickly.
 Research Desk [Level 1];Work desk for research. The higher the quality,<br>the better the work result.
@@ -16,38 +16,38 @@ Alien Poster;Your employees are more motivated when<br>they work in well-equippe
 Retro Poster;Your employees are more motivated when<br>they work in well-equipped offices.
 Star Ship Poster;Your employees are more motivated when<br>they work in well-equipped offices.
 Gold Record;You get this award for every game<br>that has sold at least 1.000.000 units.
-Artistic Drawing I;Your employees are more motivated when<br>they work in well-equipped offices.
-Artistic Drawing II;Your employees are more motivated when<br>they work in well-equipped offices.
-Artistic Drawing III;Your employees are more motivated when<br>they work in well-equipped offices.
-Artistic Drawing IV;Your employees are more motivated when<br>they work in well-equipped offices.
-Artistic Drawing V;Your employees are more motivated when<br>they work in well-equipped offices.
+Artistic Drawing [Type 1];Your employees are more motivated when<br>they work in well-equipped offices.
+Artistic Drawing [Type 2];Your employees are more motivated when<br>they work in well-equipped offices.
+Artistic Drawing [Type 3];Your employees are more motivated when<br>they work in well-equipped offices.
+Artistic Drawing [Type 4];Your employees are more motivated when<br>they work in well-equipped offices.
+Artistic Drawing [Type 5];Your employees are more motivated when<br>they work in well-equipped offices.
 Hand Dryer;Make noise, wind and dry your hands.
-Arcade Cabinet [Level 1];With this object your employees<br>can get new motivation.
+Arcade Cabinet [Type 1];With this object your employees<br>can get new motivation.
 Bench - Light Brown;Here your employees can<br>sit down for a break.
 Bench - Dark Brown;Here your employees can<br>sit down for a break.
 Bench - Mint;Here your employees can<br>sit down for a break.
-Cabinet I;Your employees are more motivated when<br>they work in well-equipped offices.
-Cabinet II;Your employees are more motivated when<br>they work in well-equipped offices.
-Cabinet III;Your employees are more motivated when<br>they work in well-equipped offices.
+Cabinet [Type 1];Your employees are more motivated when<br>they work in well-equipped offices.
+Cabinet [Type 2];Your employees are more motivated when<br>they work in well-equipped offices.
+Cabinet [Type 3];Your employees are more motivated when<br>they work in well-equipped offices.
 Filing Cabinet;Your employees are more motivated when<br>they work in well-equipped offices.
 PGF Clean Bot;This ultra-modern cleaning robot removes all dirt.
-Armchair I - Brown;With this object your employees can get new motivation.
-Armchair I - Black;With this object your employees can get new motivation.
-Armchair I - Green;With this object your employees can get new motivation.
+Armchair [Type 1] - Brown;With this object your employees can get new motivation.
+Armchair [Type 1] - Black;With this object your employees can get new motivation.
+Armchair [Type 1] - Green;With this object your employees can get new motivation.
 Production machine I;With this machine you can produce games.
-Arcade Cabinet [Level 2];With this object your employees can get new motivation.
-Arcade Cabinet [Level 3];With this object your employees can get new motivation.
+Arcade Cabinet [Type 2];With this object your employees can get new motivation.
+Arcade Cabinet [Type 3];With this object your employees can get new motivation.
 Clock;Your employees are more motivated when<br>they work in well-equipped offices.
-Armchair II - Grey;With this object your employees can get new motivation.
-Armchair II - Blue;With this object your employees can get new motivation.
-Armchair II - Orange;With this object your employees can get new motivation.
+Armchair [Type 2] - Grey;With this object your employees can get new motivation.
+Armchair [Type 2] - Blue;With this object your employees can get new motivation.
+Armchair [Type 2] - Orange;With this object your employees can get new motivation.
 Dart Board;With this object your employees can get new motivation.
-Lamp II;Your employees are more motivated when<br>they work in well-equipped offices.
+Lamp [Type 2];Your employees are more motivated when<br>they work in well-equipped offices.
 Entex Server;Servers are required for MMO and F2P games.<br>This server can handle <b><color=blue><NUM></color></b> players.
 Air conditioning;Useful to regulate the temperature in server rooms.
 Heavy Duty Shelf [Level 1];Your produced games are stored here.<br>On this object you can store <b><color=blue>25.000</color></b> games.
 Marketing Desk [Level 1];The work desk for the marketing department. The higher the quality,<br>the better the work result.
-Lamp III;Your employees are more motivated when<br>they work in well-equipped offices.
+Lamp [Type 3];Your employees are more motivated when<br>they work in well-equipped offices.
 Developer's Desk [Level 2];Work desk for development. The higher the quality,<br>the better the work result.
 Developer's Desk [Level 3];Work desk for development. The higher the quality,<br>the better the work result.
 Developer's Desk [Level 4];Work desk for development. The higher the quality,<br>the better the work result.
@@ -67,9 +67,9 @@ Support Desk [Level 5];The work desk for the support department. The higher the 
 Research Desk [Level 3];Work desk for research. The higher the quality,<br>the better the work result.
 Research Desk [Level 4];Work desk for research. The higher the quality,<br>the better the work result.
 Research Desk [Level 5];Work desk for research. The higher the quality,<br>the better the work result.
-Armchair III - Red;With this object your employees can get new motivation.
-Armchair III - Green;With this object your employees can get new motivation.
-Armchair III - Blue;With this object your employees can get new motivation.
+Armchair [Type 3] - Red;With this object your employees can get new motivation.
+Armchair [Type 3] - Green;With this object your employees can get new motivation.
+Armchair [Type 3] - Blue;With this object your employees can get new motivation.
 Medicine Cabinet;This enables sick employees to heal themselves.<br>Sick employees work more slowly.
 Electric Heater;Employees who are freezing become dissatisfied more quickly.<br>This heater can be placed on any position.
 QA Desk [Level 1];The work desk for quality assurance. The higher the quality,<br>the better the work result.
@@ -81,22 +81,22 @@ Heavy Duty Shelf [Level 2];Your produced games are stored here.<br>On this objec
 Heavy Duty Shelf [Level 3];Your produced games are stored here.<br>On this object you can store <b><color=blue>100.000</color></b> games.
 Sound Board [Level 2];The work desk for the sound studio. The higher the quality,<br>the better the work result.
 Sound Board [Level 3];The work desk for the sound studio. The higher the quality,<br>the better the work result.
-Animal Painting I;Your employees are more motivated when<br>they work in well-equipped offices.
-Animal Painting II;Your employees are more motivated when<br>they work in well-equipped offices.
-Animal Painting III;Your employees are more motivated when<br>they work in well-equipped offices.
-Animal Painting IV;Your employees are more motivated when<br>they work in well-equipped offices.
-Animal Painting V;Your employees are more motivated when<br>they work in well-equipped offices.
+Animal Painting [Type 1];Your employees are more motivated when<br>they work in well-equipped offices.
+Animal Painting [Type 2];Your employees are more motivated when<br>they work in well-equipped offices.
+Animal Painting [Type 3];Your employees are more motivated when<br>they work in well-equipped offices.
+Animal Painting [Type 4];Your employees are more motivated when<br>they work in well-equipped offices.
+Animal Painting [Type 5];Your employees are more motivated when<br>they work in well-equipped offices.
 QA Desk [Level 2];The work desk for quality assurance. The higher the quality,<br>the better the work result.
 QA Desk [Level 3];The work desk for quality assurance. The higher the quality,<br>the better the work result.
 QA Desk [Level 4];The work desk for quality assurance. The higher the quality,<br>the better the work result.
 QA Desk [Level 5];The work desk for quality assurance. The higher the quality,<br>the better the work result.
 Ferarri;You should sell your<br>old sports car to make some money.
-Carpet I;Your employees are more motivated when<br>they work in well-equipped offices.
-Carpet II;Your employees are more motivated when<br>they work in well-equipped offices.
-Carpet III;Your employees are more motivated when<br>they work in well-equipped offices.
-Carpet IV;Your employees are more motivated when<br>they work in well-equipped offices.
-Carpet V;Your employees are more motivated when<br>they work in well-equipped offices.
-Carpet VI;Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet [Type 1];Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet [Type 2];Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet [Type 3];Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet [Type 4];Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet [Type 5];Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet [Type 6];Your employees are more motivated when<br>they work in well-equipped offices.
 Fridge;Ideal for storing perishable food.
 TV;Your employees are more motivated when<br>they work in well-equipped offices.
 Modern TV;Your employees are more motivated when<br>they work in well-equipped offices.
@@ -106,9 +106,9 @@ Artist's Desk [Level 3];The work desk for the graphic studio. The higher the qua
 Artist's Desk [Level 4];The work desk for the graphic studio. The higher the quality,<br>the better the work result.
 Artist's Desk [Level 5];The work desk for the graphic studio. The higher the quality,<br>the better the work result.
 Modern Radio;Your employees are more motivated when<br>they work in well-equipped offices.
-Medium Sized Cabinet I;Your employees are more motivated when<br>they work in well-equipped offices.
-Medium Sized Cabinet II;Your employees are more motivated when<br>they work in well-equipped offices.
-Medium Sized Cabinet III;Your employees are more motivated when<br>they work in well-equipped offices.
+Medium Sized Cabinet [Type 1];Your employees are more motivated when<br>they work in well-equipped offices.
+Medium Sized Cabinet [Type 2];Your employees are more motivated when<br>they work in well-equipped offices.
+Medium Sized Cabinet [Type 3];Your employees are more motivated when<br>they work in well-equipped offices.
 Training Desk [Level 2];This allows employees to be trained.<br>The higher the quality, the better the result.
 Training Desk [Level 3];This allows employees to be trained.<br>The higher the quality, the better the result.
 Training Desk [Level 4];This allows employees to be trained.<br>The higher the quality, the better the result.
@@ -134,12 +134,12 @@ Coffee Maker;The staple food of a game developer is coffee.<br>The most modern c
 "Developer of the Year" Award;You get this award,<br>when your studio is chosen as "Developer of the Year".
 "Best Soundtrack" Award;You get this award,<br>when one of your games gets the "Best Soundtrack" award.
 "Best Graphics" Award;You get this award,<br>when one of your games gets the "Best Graphics" award.
-Small Cupboard I;Your employees are more motivated when<br>they work in well-equipped offices.
-Small Cupboard II;Your employees are more motivated when<br>they work in well-equipped offices.
-Small Cupboard III;Your employees are more motivated when<br>they work in well-equipped offices.
-Carpet VII;Your employees are more motivated when<br>they work in well-equipped offices.
-Carpet VIII;Your employees are more motivated when<br>they work in well-equipped offices.
-Carpet IX;Your employees are more motivated when<br>they work in well-equipped offices.
+Small Cupboard [Type 1];Your employees are more motivated when<br>they work in well-equipped offices.
+Small Cupboard [Type 2];Your employees are more motivated when<br>they work in well-equipped offices.
+Small Cupboard [Type 3];Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet [Type 7];Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet [Type 8];Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet [Type 9];Your employees are more motivated when<br>they work in well-equipped offices.
 "Trendsetter" Award;You will receive this award,<br>if one of your games becomes a trendsetter.
 "Publisher of the Year" Award;You get this award,<br>when your studio is chosen as "Publisher of the Year".
 Workshop Bench [Level 1];The work desk for the workshop. The higher the quality,<br>the better the work result.
@@ -156,33 +156,33 @@ Modern Air Conditioner;Useful to regulate the temperature in server rooms.
 Stool - Green;With this object your employees can get new motivation.
 Stool - Orange;With this object your employees can get new motivation.
 Stool - Blue;With this object your employees can get new motivation.
-Table I;Your employees are more motivated when<br>they work in well-equipped offices.
-Table II;Your employees are more motivated when<br>they work in well-equipped offices.
-Table III;Your employees are more motivated when<br>they work in well-equipped offices.
+Table [Type 1];Your employees are more motivated when<br>they work in well-equipped offices.
+Table [Type 2];Your employees are more motivated when<br>they work in well-equipped offices.
+Table [Type 3];Your employees are more motivated when<br>they work in well-equipped offices.
 Armchair - Light Brown;Here your employees can<br>sit down for a break.
 Armchair - Dark Brown;Here your employees can<br>sit down for a break.
 Armchair - Mint;Here your employees can<br>sit down for a break.
 Mini Golf;With this object your employees can get new motivation.
-Architecture Image I;Your employees are more motivated when<br>they work in well-equipped offices.
-Architecture Image II;Your employees are more motivated when<br>they work in well-equipped offices.
-Architecture Image III;Your employees are more motivated when<br>they work in well-equipped offices.
-Architecture Image IV;Your employees are more motivated when<br>they work in well-equipped offices.
-Architecture Image V;Your employees are more motivated when<br>they work in well-equipped offices.
+Architecture Image [Type 1];Your employees are more motivated when<br>they work in well-equipped offices.
+Architecture Image [Type 2];Your employees are more motivated when<br>they work in well-equipped offices.
+Architecture Image [Type 2]I;Your employees are more motivated when<br>they work in well-equipped offices.
+Architecture Image[Type 4];Your employees are more motivated when<br>they work in well-equipped offices.
+Architecture Image[Type 5];Your employees are more motivated when<br>they work in well-equipped offices.
 Flower Image I;Your employees are more motivated when<br>they work in well-equipped offices.
-Flower Image II;Your employees are more motivated when<br>they work in well-equipped offices.
-Flower Image III;Your employees are more motivated when<br>they work in well-equipped offices.
-Flower Image IV;Your employees are more motivated when<br>they work in well-equipped offices.
-Flower Image V;Your employees are more motivated when<br>they work in well-equipped offices.
-Carpet VII;Your employees are more motivated when<br>they work in well-equipped offices.
-Carpet VIII;Your employees are more motivated when<br>they work in well-equipped offices.
+Flower Image [Type 2];Your employees are more motivated when<br>they work in well-equipped offices.
+Flower Image [Type 2]I;Your employees are more motivated when<br>they work in well-equipped offices.
+Flower Image[Type 4];Your employees are more motivated when<br>they work in well-equipped offices.
+Flower Image[Type 5];Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet[Type 5][Type 2];Your employees are more motivated when<br>they work in well-equipped offices.
+Carpet[Type 5][Type 2]I;Your employees are more motivated when<br>they work in well-equipped offices.
 Carpet IX;Your employees are more motivated when<br>they work in well-equipped offices.
-Lamp IV;Your employees are more motivated when<br>they work in well-equipped offices.
-Lamp V;Your employees are more motivated when<br>they work in well-equipped offices.eiten.
-Lamp VI;Your employees are more motivated when<br>they work in well-equipped offices.beiten.
+Lamp[Type 4];Your employees are more motivated when<br>they work in well-equipped offices.
+Lamp[Type 5];Your employees are more motivated when<br>they work in well-equipped offices.eiten.
+Lamp[Type 5]I;Your employees are more motivated when<br>they work in well-equipped offices.beiten.
 Sunflower;Your employees are more motivated when<br>they work in well-equipped offices.
 Ball Cactus;Your employees are more motivated when<br>they work in well-equipped offices.
 Palm;Your employees are more motivated when<br>they work in well-equipped offices.
-Table IV;Your employees are more motivated when<br>they work in well-equipped offices.
+Table[Type 4];Your employees are more motivated when<br>they work in well-equipped offices.
 Modern Heating System;This highly efficient heating system<br>is particularly suitable for open-plan offices.
-Luxury Toilet;A visit to this luxurious toilet<br>even increases motivation.
+Luxury Toilet;A[Type 5]isit to this luxurious toilet<br>even increases motivation.
 Luxury Sink;This sink is so refreshing<br>that it even increases motivation.
