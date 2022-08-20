@@ -2052,3 +2052,10 @@ OK. I agree with your offer. (monthly salary: <NUM>).
 Last chance! I want a monthly salary in the amount of <NUM>.
 Arcade Machines [Orders]
 No platform is <color=blue>internet enabled</color>.
+▪ The better your game is, the higher the chance that you will level up.<br>▪ Addons have a lower chance of getting XP.
+<b>Disappointed fans</b><br>Your fans are disappointed because you released a series of bad games.<br>▪ -40% units sold<br>▪ No new fans
+Announced game
+No game was announced
+<color=blue><NAME1></color> has announced the game <color=blue><NAME2></color>.
+NPC developer announces a game
+Announced games
