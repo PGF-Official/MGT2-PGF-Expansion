@@ -1391,7 +1391,7 @@ Transformers Generation 1 <TOY><Y1984>
 Transformers Generation 2 <TOY><Y1993>
 Beast Wars and Beast Machines <TOY><Y1996>
 The Transformers [Season 1] <MOVIE><Y1984>
-The Transformers [Season 2] <MOVIE<Y1986>
+The Transformers [Season 2] <MOVIE><Y1986>
 The Transformers [Season 3] <MOVIE><Y1986>
 The Transformers [Season 4] <MOVIE><Y1987>
 Transformers: The Headmasters <MOVIE><Y1987>
@@ -2470,7 +2470,7 @@ Django In White Hell <MOVIE><Y2015>
 Django/Zorro <MOVIE><Y2023>
 Hateful Eight <MOVIE><Y2015>
 Dr. Jekyll and Mr. Hyde <MOVIE><Y2002>
-Dr. Mabuse: The Gambler <MOVIE><Y1977
+Dr. Mabuse: The Gambler <MOVIE><Y1977>
 Dragonball <BOOK>
 Dragon Ball Evolution <MOVIE><Y2009>
 Dragon Ball Z [Season 1] <MOVIE><Y1989>
