@@ -760,7 +760,7 @@ Unanswered questions: <NUM>
 Golden record received
 Your game <color=blue><NAME></color> is considered a groundbreaking milestone in the video game industry and has set a new trend.
 Trendsetter
-Mad Games Awards
+E3 Games Awards
 <NUM> Fans
 Positive Awards
 Negative Awards
@@ -779,14 +779,14 @@ Load Game
 Options
 Credits
 Exit Game
-Mad Games Tycoon®<br>©2020 Eggcode Games
+Mad Games Tycoon® 2: PGF Expansion <br>©2022 Eggcode Games x PGF Entertainment
 Do you really want to close the game?
 <Empty>
 Delete Save Game
 Loading ...
 Do you really want to delete this save game?
 Autosave
-Mad Games Tycoon 2
+Mad Games Tycoon 2: PGF Expansion
 Save Game
 Exit Game
 Do you really want to return to the start menu?
@@ -836,7 +836,7 @@ Disable Tutorial
 Random platform popularity
 Random game concept settings
 No random events
-<size=20>Mad Games Tycoon 2</size><br><br>Thanks for purchasing <color=blue>Mad Games Tycoon 2</color>. Please keep in mind that the early-access version still lacks many features, the game is unbalanced in some places, and bugs may occur. Furthermore, all translations are very faulty.<br><br>Have fun!
+<size=20>Mad Games Tycoon 2: PGF Expansion</size><br><br>Thanks for using the <color=blue>PGF Expansion</color>. Please keep in mind that the early-access version still lacks many features, the game is unbalanced in some places, and bugs may occur. Furthermore, all translations are very faulty.<br><br>Have fun!
 The lower the speed of the game, the more tasks<br>your employees can complete in a week.<br>This makes the game easier.
 The difficulty level mainly affects<br>the sales figures of your games.
 For a quick start in the game,<br>you can increase the starting year.
@@ -936,20 +936,20 @@ Perfect design settings
 Firing employees can cause a<br>bad mood among all your employees!
 Bad mood
 The dismissal of an employee has caused a bad mood. Your employees now fear for their jobs and the motivation has decreased.
-Would you like to participate at the <color=blue>Mad Games Convention</color> this year?
+Would you like to participate at the <color=blue>E3 Games Convention</color> this year?
 Please select the size of your booth. The bigger the stand, the more products you can present. Additionally, large stands attract more attention.
 Small booth
 Middle booth
 Large booth
 Game consoles
 Do not participate
-Mad Games Convention
+E3 Games Convention
 Size of the booth
-Which products would you like to exhibit at the <color=blue>Mad Games Convention</color>?
+Which products would you like to exhibit at the <color=blue>E3 Games Convention</color>?
 Select game
 Select console
 Remove product
-You must choose at least one product which will be exhibited at the <color=blue>Mad Games Convention</color>!
+You must choose at least one product which will be exhibited at the <color=blue>E3 Games Convention</color>!
 Number of visitors to your booth
 This year up to <color=blue><NUM></color> visitors are expected.
 The organizer reports that <color=blue><NUM></color> tickets for the fair have been sold.
@@ -987,7 +987,7 @@ Main Game
 And finally the short reviews for the latest addons of your favorite games. As usual, we show you which addon is worthwhile!
 Estimated age rating
 Lead Designer
-Mad Games Software Rating
+E3 Games Software Rating
 Age rating
 <color=blue><NAME></color> has received the following age classification from the MGSR:
 Available employees
@@ -1771,7 +1771,7 @@ New topic combination
 Industrial park
 Palm Beach Resort
 [Tutorial available]
-Sandbox
+Giant Warehouse
 Hide contract games
 Development time: <color=blue><NUM> weeks</color>
 Automatically select best employee
@@ -1918,8 +1918,8 @@ Critical error! There is no connection to Steam.
 Platform popularity increases platform lifetime
 When you develop an exclusive game, you receive a financial subsidy from the platform manufacturer to reduce development costs.
 It is not possible to change the platforms for an exclusive game!
-"Do not show "Mad Games Convention
-"Do not show "Mad Games Awards
+"Do not show "E3 Games Convention
+"Do not show "E3 Games Awards
 Do not show random events
 Subsidiaries
 Subsidiary
@@ -2009,7 +2009,7 @@ Transfer IP
 Which IP do you want to assign to your company or a subsidiary?
 A product is currently being developed for this IP. You must first cancel the development to be able to transfer the IP.
 Transfer of the IP is currently not possible.
-<b>Mad Games Awards - Winner</b><br>Your fans are delighted that you were honored at the "Mad Games Awards".<br>+<NUM>% games sold<br>
+<b>E3 Games Awards - Winner</b><br>Your fans are delighted that you were honored at the "E3 Games Awards".<br>+<NUM>% games sold<br>
 European Manor
 Due to the price increase <NUM> pre-orders have been cancelled!
 Automatically activated
@@ -2059,3 +2059,8 @@ No game was announced
 <color=blue><NAME1></color> has announced the game <color=blue><NAME2></color>.
 NPC developer announces a game
 Announced games
+Game mode
+▪ In sandbox mode, some stuff is already unlocked and<br>you have infinite money.<br><br>▪ No Steam achievements are unlocked in sandbox mode.
+Standard game
+Sandbox
+<size=20>∞</size>
