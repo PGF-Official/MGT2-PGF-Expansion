@@ -286,7 +286,7 @@ Star Wars Episode VII: A Force Awakens <MOVIE><Y2015>
 Star Wars Episode VIII: The Last Jedi <MOVIE><Y2017>
 Star Wars Episode IX: Rise of Skywalker <MOVIE><Y2019>
 Star Wars Rogue Squadron <MOVIE><Y2023>
-Rogue One <MOVIE><Y2016>
+Rogue One: A Star Wars Story <MOVIE><Y2016>
 Solo: A Star Wars Story <MOVIE><Y2018>
 Droids <MOVIE><Y1985>
 Ewok Adventure <MOVIE><Y1984>
@@ -567,7 +567,7 @@ Aliens: Space Marines <COMIC><Y1993>
 Aliens: Fast Track to Heavan <COMIC><Y2011>
 Aliens: Acceptable Loss <COMIC><Y2017>
 Aliens vs. Predator <COMIC><Y1990>
-Aliens vs. Predator II <COMIC><Y1992
+Aliens vs. Predator II <COMIC><Y1992>
 Aliens Vs. Predator: Deadliest of the Species <COMIC><Y1993>
 Aliens vs. Predator: Blood Time <COMIC><Y1994>
 Aliens vs. Predator: Booty <COMIC><Y1995>
@@ -776,7 +776,7 @@ American Dad [Season 19] <MOVIE><Y2022>
 American Dad [Season 20] <MOVIE><Y2023>
 American Pie <MOVIE><Y1999>
 American Pie 2 <MOVIE><Y2001>
-American Pie Wedding <MOVIE><Y2003
+American Pie Wedding <MOVIE><Y2003>
 American Pie Reuinion <MOVIE><Y2012>
 American Pie: Band Camp <MOVIE><Y2005>
 American Pie: The Naked Mile <MOVIE><Y2006>
@@ -1459,7 +1459,7 @@ Planes: Beyond the Sky <MOVIE><Y2017>
 Vitaminamulch: Air Spectacular <MOVIE><Y2014>
 Casper <MOVIE><Y1995>
 Casper 2 <MOVIE><Y1996>
-Casper and Wendy <MOVIE><Y
+Casper and Wendy <MOVIE><Y1998>
 Casper's Scare School <MOVIE><Y2006>
 Agent Carter [Season 1] <MOVIE><Y2015>
 Agent Carter [Season 2] <MOVIE><Y2016>
@@ -1630,8 +1630,8 @@ Inhumans <COMIC>
 Inhumans <TOY>
 The Defenders [Season 1] <MOVIE><Y2017>
 Punisher <COMIC>
-The Punisher <MOVIE><Y
-The Punisher: War Zone <MOVIE><Y
+The Punisher <MOVIE>
+The Punisher: War Zone <MOVIE>
 Punisher [Season 1] <MOVIE><Y2017>
 Punisher [Season 2] <MOVIE><Y2019>
 Agatha: Coven of Chaos [Season 1] <MOVIE><Y2023>
@@ -17453,7 +17453,6 @@ Roger Waters the Wall <MOVIE><Y2015>
 Rogue <MOVIE><Y2008>
 Rogue Agent <MOVIE><Y2022>
 Rogue Elements <MOVIE><Y2017>
-Rogue One: A Star Wars Story <MOVIE><Y2016>
 Rogue Warfare <MOVIE><Y2019>
 Rogue Warfare: Death of a Nation <MOVIE><Y2020>
 Roh <MOVIE><Y2021>
