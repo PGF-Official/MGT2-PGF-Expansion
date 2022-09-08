@@ -2064,3 +2064,6 @@ Game mode
 Standard game
 Sandbox
 <size=20>∞</size>
+This review is about the port of <NAME>. We check how the game performs on the system.
+Automatically place furniture
+Improved pathfinding for your employees [Beta]

@@ -69,7 +69,8 @@ Create Animal Animations<4>
 Record Swordplay Animation<4>
 Create Animations for Monsters<4>
 Create Dance Animations<4>
-Record Soccer Players<4>
+Record Football Players<4>
+Record American Football Players<4>
 Create Emote Animations<4>
 Record Robot Animations<4>
 Repair Consoles<7>
