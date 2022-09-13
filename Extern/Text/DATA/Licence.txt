@@ -776,7 +776,7 @@ American Dad [Season 19] <MOVIE><Y2022>
 American Dad [Season 20] <MOVIE><Y2023>
 American Pie <MOVIE><Y1999>
 American Pie 2 <MOVIE><Y2001>
-American Pie Wedding <MOVIE><Y2003
+American Pie Wedding <MOVIE><Y2003>
 American Pie Reuinion <MOVIE><Y2012>
 American Pie: Band Camp <MOVIE><Y2005>
 American Pie: The Naked Mile <MOVIE><Y2006>
@@ -1459,7 +1459,7 @@ Planes: Beyond the Sky <MOVIE><Y2017>
 Vitaminamulch: Air Spectacular <MOVIE><Y2014>
 Casper <MOVIE><Y1995>
 Casper 2 <MOVIE><Y1996>
-Casper and Wendy <MOVIE><Y
+Casper and Wendy <MOVIE><Y1998>
 Casper's Scare School <MOVIE><Y2006>
 Agent Carter [Season 1] <MOVIE><Y2015>
 Agent Carter [Season 2] <MOVIE><Y2016>
@@ -1631,7 +1631,7 @@ Inhumans <TOY>
 The Defenders [Season 1] <MOVIE><Y2017>
 Punisher <COMIC>
 The Punisher <MOVIE><Y
-The Punisher: War Zone <MOVIE><Y
+The Punisher: War Zone <MOVIE>
 Punisher [Season 1] <MOVIE><Y2017>
 Punisher [Season 2] <MOVIE><Y2019>
 Agatha: Coven of Chaos [Season 1] <MOVIE><Y2023>
