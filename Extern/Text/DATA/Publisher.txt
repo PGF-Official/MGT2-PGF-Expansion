@@ -2760,7 +2760,7 @@
 [NAME UA]Argonaut Games
 [NAME TH]Argonaut Games
 [DATE]JAN 1982
-[PIC]135
+[PIC]134
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]64
@@ -2780,7 +2780,7 @@
 [NAME UA]Team Ninja
 [NAME TH]Team Ninja
 [DATE]JAN 1995
-[PIC]136
+[PIC]135
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -2800,7 +2800,7 @@
 [NAME UA]Irrational Games
 [NAME TH]Irrational Games
 [DATE]JAN 2007
-[PIC]137
+[PIC]136
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -2820,7 +2820,7 @@
 [NAME UA]Ghost Story
 [NAME TH]Ghost Story
 [DATE]JAN 2017
-[PIC]138
+[PIC]137
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -2840,7 +2840,7 @@
 [NAME UA]Jagex
 [NAME TH]Jagex
 [DATE]JAN 1999
-[PIC]139
+[PIC]138
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -2860,7 +2860,7 @@
 [NAME UA]Telltale
 [NAME TH]Telltale
 [DATE]JAN 2004
-[PIC]140
+[PIC]139
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -2880,7 +2880,7 @@
 [NAME UA]Arrowhead Game Studios
 [NAME TH]Arrowhead Game Studios
 [DATE]JAN 2008
-[PIC]141
+[PIC]140
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -2900,7 +2900,7 @@
 [NAME UA]Blue Fang Games
 [NAME TH]Blue Fang Games
 [DATE]JAN 1998
-[PIC]142
+[PIC]141
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -2920,7 +2920,7 @@
 [NAME UA]Coffee Stain Studios
 [NAME TH]Coffee Stain Studios
 [DATE]JAN 2010
-[PIC]143
+[PIC]142
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -2940,7 +2940,7 @@
 [NAME UA]Colossal Order
 [NAME TH]Colossal Order
 [DATE]JAN 2009
-[PIC]144
+[PIC]143
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -2960,7 +2960,7 @@
 [NAME UA]Curve Games
 [NAME TH]Curve Games
 [DATE]JAN 2005
-[PIC]145
+[PIC]144
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -2980,7 +2980,7 @@
 [NAME UA]Facepunch
 [NAME TH]Facepunch
 [DATE]JAN 2004
-[PIC]146
+[PIC]145
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -3000,7 +3000,7 @@
 [NAME UA]Firefly Studios
 [NAME TH]Firefly Studios
 [DATE]JAN 1999
-[PIC]147
+[PIC]146
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -3021,7 +3021,7 @@
 [NAME UA]Frictional Games
 [NAME TH]Frictional Games
 [DATE]JAN 2007
-[PIC]148
+[PIC]147
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -3041,7 +3041,7 @@
 [NAME UA]Frontier Developments
 [NAME TH]Frontier Developments
 [DATE]JAN 1994
-[PIC]149
+[PIC]148
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]50
@@ -3061,7 +3061,7 @@
 [NAME UA]HAL Laboratory
 [NAME TH]HAL Laboratory
 [DATE]JAN 1980
-[PIC]150
+[PIC]149
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -3081,7 +3081,7 @@
 [NAME UA]Hello Games
 [NAME TH]Hello Games
 [DATE]FEB 2008
-[PIC]151
+[PIC]150
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -3101,7 +3101,7 @@
 [NAME UA]Introversion Software
 [NAME TH]Introversion Software
 [DATE]JAN 2001
-[PIC]152
+[PIC]151
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -3121,7 +3121,7 @@
 [NAME UA]Polyphony Digital
 [NAME TH]Polyphony Digital
 [DATE]JAN 1994
-[PIC]153
+[PIC]152
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -3141,7 +3141,7 @@
 [NAME UA]Psyonix
 [NAME TH]Psyonix
 [DATE]JAN 2000
-[PIC]154
+[PIC]153
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -3161,7 +3161,7 @@
 [NAME UA]Rovio
 [NAME TH]Rovio
 [DATE]JAN 2003
-[PIC]155
+[PIC]154
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]50
@@ -3181,7 +3181,7 @@
 [NAME UA]thatgamecompany
 [NAME TH]thatgamecompany
 [DATE]JAN 2006
-[PIC]156
+[PIC]155
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -3201,7 +3201,7 @@
 [NAME UA]The Behemoth
 [NAME TH]The Behemoth
 [DATE]MAY 2003
-[PIC]157
+[PIC]156
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -3221,7 +3221,7 @@
 [NAME UA]Toys For Bob
 [NAME TH]Toys For Bob
 [DATE]JAN 1989
-[PIC]158
+[PIC]157
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]50
@@ -3241,7 +3241,7 @@
 [NAME UA]Deep Silver
 [NAME TH]Deep Silver
 [DATE]MAY 2002
-[PIC]159
+[PIC]158
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]65
@@ -3261,7 +3261,7 @@
 [NAME UA]Eggcode Games
 [NAME TH]Eggcode Games
 [DATE]JAN 2010
-[PIC]160
+[PIC]159
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]45
@@ -3282,7 +3282,7 @@
 [NAME TH]Piranha Bytes
 [DATE]SEP 1997
 [DATE END]JUN 2024
-[PIC]161
+[PIC]160
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]40
@@ -3302,7 +3302,7 @@
 [NAME UA]4A Games
 [NAME TH]4A Games
 [DATE]DEC 2006
-[PIC]162
+[PIC]161
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]65
@@ -3322,7 +3322,7 @@
 [NAME UA]Marvelous Inc.
 [NAME TH]Marvelous Inc.
 [DATE]OCT 1997
-[PIC]163
+[PIC]162
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]65
@@ -3342,7 +3342,7 @@
 [NAME UA]SCS Software
 [NAME TH]SCS Software
 [DATE]AUG 1997
-[PIC]164
+[PIC]163
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]40
@@ -3362,7 +3362,7 @@
 [NAME UA]Kalypso Media
 [NAME TH]Kalypso Media
 [DATE]JAN 2006
-[PIC]165
+[PIC]164
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]70
@@ -3382,7 +3382,7 @@
 [NAME UA]Warner Bros. Games
 [NAME TH]Warner Bros. Games
 [DATE]FEB 2004
-[PIC]166
+[PIC]165
 [DEVELOPER]false
 [PUBLISHER]true
 [MARKET]75
@@ -3402,7 +3402,7 @@
 [NAME UA]4J Studios
 [NAME TH]4J Studios
 [DATE]APR 2005
-[PIC]167
+[PIC]166
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -3422,7 +3422,7 @@
 [NAME UA]505 Games
 [NAME TH]505 Games
 [DATE]JAN 2006
-[PIC]168
+[PIC]167
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -3442,7 +3442,7 @@
 [NAME UA]Creative Assembly
 [NAME TH]Creative Assembly
 [DATE]JAN 1987
-[PIC]169
+[PIC]168
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -3462,7 +3462,7 @@
 [NAME UA]Criterion Games
 [NAME TH]Criterion Games
 [DATE]JAN 1996
-[PIC]170
+[PIC]169
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -3482,7 +3482,7 @@
 [NAME UA]Double Eleven
 [NAME TH]Double Eleven
 [DATE]JUN 2009
-[PIC]171
+[PIC]170
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -3502,7 +3502,7 @@
 [NAME UA]Dovetail Games
 [NAME TH]Dovetail Games
 [DATE]JAN 2008
-[PIC]172
+[PIC]171
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -3522,7 +3522,7 @@
 [NAME UA]Edge of Reality
 [NAME TH]Edge of Reality
 [DATE]JAN 1998
-[PIC]173
+[PIC]172
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -3542,7 +3542,7 @@
 [NAME UA]Electric Dreams
 [NAME TH]Electric Dreams
 [DATE]JAN 1985
-[PIC]174
+[PIC]173
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -3562,7 +3562,7 @@
 [NAME UA]Enlight Software
 [NAME TH]Enlight Software
 [DATE]JAN 1993
-[PIC]175
+[PIC]174
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -3573,16 +3573,16 @@
 [COUNTRY]3
 
 [ID]175
-[NAME EN]Tantalus Media
-[NAME GE]Tantalus Media
-[NAME TU]Tantalus Media
-[NAME FR]Tantalus Media
-[NAME JA]タンタラスメディア
-[NAME CH]Tantalus Media
-[NAME UA]Tantalus Media
-[NAME TH]Tantalus Media
+[NAME EN]
+[NAME GE]
+[NAME TU]
+[NAME FR]
+[NAME JA]
+[NAME CH]
+[NAME UA]
+[NAME TH]
 [DATE]JAN 1994
-[PIC]122
+[PIC]175
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]53
@@ -4860,251 +4860,7 @@
 [COMVAL]10000000
 [COUNTRY]7
 
-[ID]231
-[NAME EN]Pandemic Studios
-[NAME GE]Pandemic Studios
-[NAME TU]Pandemic Studios
-[NAME FR]Pandemic Studios
-[NAME JA]パンデミックスタジオ
-[NAME CH]Pandemic Studios
-[NAME UA]Pandemic Studios
-[NAME TH]Pandemic Studios
-[DATE]JAN 1998
-[DATE END]NOV 2009
-[PIC]231
-[DEVELOPER]true
-[PUBLISHER]true
-[MARKET]50
-[SHARE]5
-[GENRE]13
-[SPEED]3
-[COMVAL]10000000
-[COUNTRY]7
-
-[ID]232
-[NAME EN]Weappy
-[NAME GE]Weappy
-[NAME TU]Weappy
-[NAME FR]Weappy
-[NAME JA]ウィーピー
-[NAME CH]Weappy
-[NAME UA]Weappy
-[NAME TH]Weappy
-[DATE]MAY 2015
-[PIC]232
-[DEVELOPER]true
-[PUBLISHER]true
-[MARKET]50
-[SHARE]5
-[GENRE]13
-[SPEED]3
-[COMVAL]10000000
-[COUNTRY]7
-
-[ID]233
-[NAME EN]Item42
-[NAME GE]Item42
-[NAME TU]Item42
-[NAME FR]Item42
-[NAME JA]アイテム42
-[NAME CH]Item42
-[NAME UA]Item42
-[NAME TH]Item42
-[DATE]MAY 2020
-[PIC]233
-[DEVELOPER]true
-[PUBLISHER]false
-[MARKET]50
-[SHARE]5
-[GENRE]13
-[SPEED]3
-[COMVAL]10000000
-[COUNTRY]7
-
-[ID]234
-[NAME EN]Massive Miniteam
-[NAME GE]Massive Miniteam
-[NAME TU]Massive Miniteam
-[NAME FR]Massive Miniteam
-[NAME JA]マッシブミニチーム
-[NAME CH]Massive Miniteam
-[NAME UA]Massive Miniteam
-[NAME TH]Massive Miniteam
-[DATE]FEB 2020
-[PIC]234
-[DEVELOPER]true
-[PUBLISHER]false
-[MARKET]50
-[SHARE]5
-[GENRE]13
-[SPEED]3
-[COMVAL]10000000
-[COUNTRY]7
-
-[ID]235
-[NAME EN]Zootfly
-[NAME GE]Zootfly
-[NAME TU]Zootfly
-[NAME FR]Zootfly
-[NAME JA]ズートフライ
-[NAME CH]Zootfly
-[NAME UA]Zootfly
-[NAME TH]Zootfly
-[DATE]MAY 2002
-[DATE END]DEC 2013
-[PIC]235
-[DEVELOPER]true
-[PUBLISHER]true
-[MARKET]50
-[SHARE]5
-[GENRE]13
-[SPEED]3
-[COMVAL]10000000
-[COUNTRY]7
-
-[ID]236
-[NAME EN]NetEast
-[NAME GE]NetEast
-[NAME TU]NetEast
-[NAME FR]NetEast
-[NAME JA]ネットイースト
-[NAME CH]NetEast
-[NAME UA]NetEast
-[NAME TH]NetEast
-[DATE]JUN 1997
-[PIC]236
-[DEVELOPER]false
-[PUBLISHER]true
-[MARKET]50
-[SHARE]5
-[GENRE]13
-[SPEED]3
-[COMVAL]10000000
-[COUNTRY]7
-
-[ID]237
-[NAME EN]Embracer Group
-[NAME GE]Embracer Group
-[NAME TU]Embracer Group
-[NAME FR]Embracer Group
-[NAME JA]エムブレイサーグループ
-[NAME CH]Embracer Group
-[NAME UA]Embracer Group
-[NAME TH]Embracer Group
-[DATE]MAY 2011
-[PIC]237
-[DEVELOPER]false
-[PUBLISHER]true
-[MARKET]50
-[SHARE]5
-[GENRE]13
-[SPEED]3
-[COMVAL]10000000
-[COUNTRY]7
-
-[ID]238
-[NAME EN]Kee Games
-[NAME GE]Kee Games
-[NAME TU]Kee Games
-[NAME FR]Kee Games
-[NAME JA]キーゲームズ
-[NAME CH]Kee Games
-[NAME UA]Kee Games
-[NAME TH]Kee Games
-[DATE]MAY 1978
-[DATE END]DEC 1978
-[PIC]238
-[DEVELOPER]true
-[PUBLISHER]false
-[MARKET]50
-[SHARE]5
-[GENRE]13
-[SPEED]3
-[COMVAL]10000000
-[COUNTRY]7
-
-[ID]239
-[NAME EN]Uprising Studios
-[NAME GE]Uprising Studios
-[NAME TU]Uprising Studios
-[NAME FR]Uprising Studios
-[NAME JA]アップライジングスタジオズ
-[NAME CH]Uprising Studios
-[NAME UA]Uprising Studios
-[NAME TH]Uprising Studios
-[DATE]JAN 2017
-[PIC]239
-[DEVELOPER]true
-[PUBLISHER]false
-[MARKET]50
-[SHARE]5
-[GENRE]13
-[SPEED]3
-[COMVAL]10000000
-[COUNTRY]7
-
-[ID]240
-[NAME EN]Paradigm Entertainment
-[NAME GE]Paradigm Entertainment
-[NAME TU]Paradigm Entertainment
-[NAME FR]Paradigm Entertainment
-[NAME JA]パラダイムエンターテインメント
-[NAME CH]Paradigm Entertainment
-[NAME UA]Paradigm Entertainment
-[NAME TH]Paradigm Entertainment
-[DATE]MAR 1990
-[DATE END]NOV 2008
-[PIC]240
-[DEVELOPER]true
-[PUBLISHER]false
-[MARKET]50
-[SHARE]5
-[GENRE]13
-[SPEED]3
-[COMVAL]10000000
-[COUNTRY]7
-
-[ID]241
-[NAME EN]Heavy Iron Studios
-[NAME GE]Heavy Iron Studios
-[NAME TU]Heavy Iron Studios
-[NAME FR]Heavy Iron Studios
-[NAME JA]ヘビーアイアンスタジオ
-[NAME CH]Heavy Iron Studios
-[NAME UA]Heavy Iron Studios
-[NAME TH]Heavy Iron Studios
-[DATE]MAY 1999
-[PIC]241
-[DEVELOPER]true
-[PUBLISHER]false
-[MARKET]50
-[SHARE]5
-[GENRE]13
-[SPEED]3
-[COMVAL]10000000
-[COUNTRY]7
-
-[ID]242
-[NAME EN]Grimlore Games
-[NAME GE]Grimlore Games
-[NAME TU]Grimlore Games
-[NAME FR]Grimlore Games
-[NAME JA]グリムロアゲームズ
-[NAME CH]Grimlore Games
-[NAME UA]Grimlore Games
-[NAME TH]Grimlore Games
-[DATE]MAY 2013
-[PIC]242
-[DEVELOPER]true
-[PUBLISHER]false
-[MARKET]50
-[SHARE]5
-[GENRE]13
-[SPEED]3
-[COMVAL]10000000
-[COUNTRY]7
-
-[ID]303
+[ID]243
 [NAME EN]Iguana Entertainment
 [NAME GE]Iguana Entertainment
 [NAME TU]Iguana Entertainment
@@ -5115,7 +4871,7 @@
 [NAME TH]Iguana Entertainment
 [DATE]JAN 1991
 [DATE END]AUG 2004
-[PIC]300
+[PIC]243
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -5125,7 +4881,7 @@
 [COMVAL]10000000
 [COUNTRY]7
 
-[ID]304
+[ID]244
 [NAME EN]Bizarre Creations
 [NAME GE]Bizarre Creations
 [NAME TU]Bizarre Creations
@@ -5136,7 +4892,7 @@
 [NAME TH]Bizarre Creations
 [DATE]JAN 1986
 [DATE END]FEB 2011
-[PIC]301
+[PIC]244
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -5146,7 +4902,7 @@
 [COMVAL]10000000
 [COUNTRY]7
 
-[ID]305
+[ID]245
 [NAME EN]Lucid Games
 [NAME GE]Lucid Games
 [NAME TU]Lucid Games
@@ -5156,7 +4912,7 @@
 [NAME UA]Lucid Games
 [NAME TH]Lucid Games
 [DATE]JAN 2011
-[PIC]302
+[PIC]245
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -5166,7 +4922,7 @@
 [COMVAL]10000000
 [COUNTRY]7
 
-[ID]306
+[ID]246
 [NAME EN]Distinctive Software
 [NAME GE]Distinctive Software
 [NAME TU]Distinctive Software
@@ -5177,7 +4933,7 @@
 [NAME TH]Distinctive Software
 [DATE]JAN 1982
 [DATE END]JAN 1991
-[PIC]303
+[PIC]246
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -5187,7 +4943,7 @@
 [COMVAL]10000000
 [COUNTRY]7
 
-[ID]307
+[ID]247
 [NAME EN]Harmonix
 [NAME GE]Harmonix
 [NAME TU]Harmonix
@@ -5197,7 +4953,7 @@
 [NAME UA]Harmonix
 [NAME TH]Harmonix
 [DATE]JAN 1995
-[PIC]305
+[PIC]247
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -5207,7 +4963,7 @@
 [COMVAL]10000000
 [COUNTRY]7
 
-[ID]308
+[ID]248
 [NAME EN]Radical Entertainment
 [NAME GE]Radical Entertainment
 [NAME TU]Radical Entertainment
@@ -5217,7 +4973,7 @@
 [NAME UA]Radical Entertainment
 [NAME TH]Radical Entertainment
 [DATE]JAN 1991
-[PIC]306
+[PIC]248
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -5227,7 +4983,7 @@
 [COMVAL]10000000
 [COUNTRY]7
 
-[ID]309
+[ID]249
 [NAME EN]Gameloft
 [NAME GE]Gameloft
 [NAME TU]Gameloft
@@ -5237,7 +4993,7 @@
 [NAME UA]Gameloft
 [NAME TH]Gameloft
 [DATE]DEC 1999
-[PIC]309
+[PIC]249
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]50
@@ -5247,7 +5003,7 @@
 [COMVAL]10000000
 [COUNTRY]6
 
-[ID]310
+[ID]250
 [NAME EN]PlatinumGames
 [NAME GE]PlatinumGames
 [NAME TU]PlatinumGames
@@ -5257,7 +5013,7 @@
 [NAME UA]PlatinumGames
 [NAME TH]PlatinumGames
 [DATE]OCT 2007
-[PIC]310
+[PIC]250
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -5267,7 +5023,7 @@
 [COMVAL]10000000
 [COUNTRY]1
 
-[ID]311
+[ID]251
 [NAME EN]Bandai Namco Entertainment
 [NAME GE]Bandai Namco Entertainment
 [NAME TU]Bandai Namco Entertainment
@@ -5277,7 +5033,7 @@
 [NAME UA]Bandai Namco Entertainment
 [NAME TH]Bandai Namco Entertainment
 [DATE]MAR 2006
-[PIC]311
+[PIC]251
 [DEVELOPER]true
 [PUBLISHER]true
 [MARKET]50
@@ -5287,7 +5043,7 @@
 [COMVAL]10000000
 [COUNTRY]1
 
-[ID]312
+[ID]252
 [NAME EN]Focus Entertainment
 [NAME GE]Focus Entertainment
 [NAME TU]Focus Entertainment
@@ -5297,7 +5053,7 @@
 [NAME UA]Focus Entertainment
 [NAME TH]Focus Entertainment
 [DATE]1996
-[PIC]312
+[PIC]252
 [DEVELOPER]false
 [PUBLISHER]true
 [MARKET]50
@@ -5307,7 +5063,7 @@
 [COMVAL]10000000
 [COUNTRY]6
 
-[ID]313
+[ID]253
 [NAME EN]Respawn Entertainment
 [NAME GE]Respawn Entertainment
 [NAME TU]Respawn Entertainment
@@ -5317,7 +5073,7 @@
 [NAME UA]Respawn Entertainment
 [NAME TH]Respawn Entertainment
 [DATE]APR 2010
-[PIC]313
+[PIC]253
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
@@ -5327,7 +5083,7 @@
 [COMVAL]10000000
 [COUNTRY]0
 
-[ID]314
+[ID]254
 [NAME EN]Insomniac Games
 [NAME GE]Insomniac Games
 [NAME TU]Insomniac Games
@@ -5337,7 +5093,7 @@
 [NAME UA]Insomniac Games
 [NAME TH]Insomniac Games
 [DATE]FEB 1994
-[PIC]314
+[PIC]254
 [DEVELOPER]true
 [PUBLISHER]false
 [MARKET]50
