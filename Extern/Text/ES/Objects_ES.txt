@@ -1,0 +1,189 @@
+﻿-;-
+Escritorio de trabajo [Tipo 1];Escritorio de trabajo para desarrollo. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Radiador;Los empleados que tienen frío se vuelven insatisfechos más rápidamente.
+Lámpara [Tipo 1];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Papelera;Mantén siempre limpias tus oficinas,<br>de lo contrario tus empleados se volverán insatisfechos.
+Dispensador de agua;Los empleados sedientos se vuelven insatisfechos más rápidamente.
+Escritorio de trabajo [Tipo 1];Escritorio de trabajo para investigación. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Planta;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Cactus;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Planta tropical;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Baño;Aquí se satisfacen las necesidades más importantes.
+Lavabo;¡Siempre debes lavarte las manos!
+Póster de OVNI;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Póster de robot;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Póster de Aleon;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Póster retro;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Póster de nave espacial;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Disco de oro;Recibes este premio por cada juego<br>que haya vendido al menos 1.000.000 unidades.
+Dibujo artístico [Tipo 1];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Dibujo artístico [Tipo 2];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Dibujo artístico [Tipo 3];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Dibujo artístico [Tipo 4];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Dibujo artístico [Tipo 5];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Secador de manos;Hace ruido, viento y seca tus manos.
+Máquina arcade [Tipo 1];Con este objeto tus empleados<br>pueden obtener nueva motivación.
+Banco - Marrón claro;Aquí tus empleados pueden<br>sentarse para tomar un descanso.
+Banco - Marrón oscuro;Aquí tus empleados pueden<br>sentarse para tomar un descanso.
+Banco - Menta;Aquí tus empleados pueden<br>sentarse para tomar un descanso.
+Armario [Tipo 1];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Armario [Tipo 2];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Armario [Tipo 3];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Archivador;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Limpiador Sputnik 3000;Este robot de limpieza ultramoderno elimina toda la suciedad.
+Sillón [Tipo 1] - Marrón;Con este objeto tus empleados pueden obtener nueva motivación.
+Sillón [Tipo 1] - Negro;Con este objeto tus empleados pueden obtener nueva motivación.
+Sillón [Tipo 1] - Verde;Con este objeto tus empleados pueden obtener nueva motivación.
+Máquina de producción [Tipo 1];Con esta máquina puedes producir juegos.
+Máquina arcade [Tipo 2];Con este objeto tus empleados pueden obtener nueva motivación.
+Máquina arcade [Tipo 3];Con este objeto tus empleados pueden obtener nueva motivación.
+Reloj;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Sillón [Tipo 2] - Gris;Con este objeto tus empleados pueden obtener nueva motivación.
+Sillón [Tipo 2] - Azul;Con este objeto tus empleados pueden obtener nueva motivación.
+Sillón [Tipo 2] - Naranja;Con este objeto tus empleados pueden obtener nueva motivación.
+Máquina de dardos;Con este objeto tus empleados pueden obtener nueva motivación.
+Lámpara [Tipo 2];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Servidor Entex;Se requieren servidores para juegos MMO y F2P.<br>Este servidor puede manejar <b><color=blue><NUM></color></b> jugadores.
+Aire acondicionado;Útil para regular la temperatura en salas de servidores.
+Estantería industrial [Tipo 1];Tus juegos producidos se almacenan aquí.<br>En este objeto puedes almacenar <b><color=blue><NUM></color></b> juegos.
+Escritorio de trabajo [Tipo 1];Escritorio de trabajo para el departamento de marketing. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Lámpara [Tipo 3];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Escritorio de trabajo [Tipo 2];Escritorio de trabajo para desarrollo. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 3];Escritorio de trabajo para desarrollo. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 4];Escritorio de trabajo para desarrollo. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 5];Escritorio de trabajo para desarrollo. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de entrenamiento [Tipo 1];Esto permite entrenar a los empleados.<br>Cuanto mayor sea la calidad, mejor será el resultado.
+Pizarra;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Escritorio de trabajo [Tipo 2];Escritorio de trabajo para investigación. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 2];Escritorio de trabajo para el departamento de marketing. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 3];Escritorio de trabajo para el departamento de marketing. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 4];Escritorio de trabajo para el departamento de marketing. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 5];Escritorio de trabajo para el departamento de marketing. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 1];Escritorio de trabajo para el departamento de soporte. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 2];Escritorio de trabajo para el departamento de soporte. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 3];Escritorio de trabajo para el departamento de soporte. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 4];Escritorio de trabajo para el departamento de soporte. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 5];Escritorio de trabajo para el departamento de soporte. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 3];Escritorio de trabajo para investigación. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 4];Escritorio de trabajo para investigación. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 5];Escritorio de trabajo para investigación. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Sillón [Tipo 3] - Rojo;Con este objeto tus empleados pueden obtener nueva motivación.
+Sillón [Tipo 3] - Verde;Con este objeto tus empleados pueden obtener nueva motivación.
+Sillón [Tipo 3] - Azul;Con este objeto tus empleados pueden obtener nueva motivación.
+Botiquín;Esto permite que los empleados enfermos se curen.<br>Los empleados enfermos trabajan más lentamente.
+Calefactor eléctrico;Los empleados que tienen frío se vuelven insatisfechos más rápidamente.<br>Este calefactor puede colocarse en cualquier posición.
+Escritorio de trabajo [Tipo 1];Escritorio de trabajo para control de calidad. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 1];Escritorio de trabajo para el estudio gráfico. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 1];Escritorio de trabajo para el estudio de sonido. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 1];Escritorio de trabajo para el estudio de captura de movimiento. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Teclado;Con este objeto tus empleados pueden obtener nueva motivación.
+Estantería industrial [Tipo 2];Tus juegos producidos se almacenan aquí.<br>En este objeto puedes almacenar <b><color=blue><NUM></color></b> juegos.
+Estantería industrial [Tipo 3];Tus juegos producidos se almacenan aquí.<br>En este objeto puedes almacenar <b><color=blue><NUM></color></b> juegos.
+Escritorio de trabajo [Tipo 2];Escritorio de trabajo para el estudio de sonido. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 3];Escritorio de trabajo para el estudio de sonido. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Pintura de animales [Tipo 1];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Pintura de animales [Tipo 2];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Pintura de animales [Tipo 3];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Pintura de animales [Tipo 4];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Pintura de animales [Tipo 5];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Escritorio de trabajo [Tipo 2];Escritorio de trabajo para control de calidad. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 3];Escritorio de trabajo para control de calidad. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 4];Escritorio de trabajo para control de calidad. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 5];Escritorio de trabajo para control de calidad. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Ferarri;Deberías vender tu<br>viejo coche deportivo para ganar algo de dinero.
+Alfombra [Tipo 1];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Alfombra [Tipo 2];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Alfombra [Tipo 3];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Alfombra [Tipo 4];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Alfombra [Tipo 5];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Alfombra [Tipo 6];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Frigorífico;Ideal para almacenar alimentos perecederos.
+Televisor;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Televisor moderno;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Radio;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Escritorio de trabajo [Tipo 2];Escritorio de trabajo para el estudio gráfico. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 3];Escritorio de trabajo para el estudio gráfico. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 4];Escritorio de trabajo para el estudio gráfico. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 5];Escritorio de trabajo para el estudio gráfico. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Radio moderna;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Armario mediano [Tipo 1];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Armario mediano [Tipo 2];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Armario mediano [Tipo 3];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Escritorio de entrenamiento [Tipo 2];Esto permite entrenar a los empleados.<br>Cuanto mayor sea la calidad, mejor será el resultado.
+Escritorio de entrenamiento [Tipo 3];Esto permite entrenar a los empleados.<br>Cuanto mayor sea la calidad, mejor será el resultado.
+Escritorio de entrenamiento [Tipo 4];Esto permite entrenar a los empleados.<br>Cuanto mayor sea la calidad, mejor será el resultado.
+Escritorio de entrenamiento [Tipo 5];Esto permite entrenar a los empleados.<br>Cuanto mayor sea la calidad, mejor será el resultado.
+Máquina de producción [Tipo 2];Con esta máquina puedes producir juegos.
+Máquina de producción [Tipo 3];Con esta máquina puedes producir juegos.
+Máquina de producción [Tipo 4];Con esta máquina puedes producir juegos.
+Máquina de producción [Tipo 5];Con esta máquina puedes producir juegos.
+Escritorio de trabajo [Tipo 4];Escritorio de trabajo para el estudio de sonido. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 5];Escritorio de trabajo para el estudio de sonido. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 2];Escritorio de trabajo para el estudio de captura de movimiento. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 3];Escritorio de trabajo para el estudio de captura de movimiento. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 4];Escritorio de trabajo para el estudio de captura de movimiento. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 5];Escritorio de trabajo para el estudio de captura de movimiento. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Servidor Toshiba;Se requieren servidores para juegos MMO y F2P.<br>Este servidor puede manejar <b><color=blue><NUM></color></b> jugadores.
+Servidor Microsoft;Se requieren servidores para juegos MMO y F2P.<br>Este servidor puede manejar <b><color=blue><NUM></color></b> jugadores.
+Servidor Google;Se requieren servidores para juegos MMO y F2P.<br>Este servidor puede manejar <b><color=blue><NUM></color></b> jugadores.
+Servidor IBM;Se requieren servidores para juegos MMO y F2P.<br>Este servidor puede manejar <b><color=blue><NUM></color></b> jugadores.
+Disco de platino;Recibes este premio por cada juego<br>que haya vendido al menos 5.000.000 unidades.
+Disco de diamante;Recibes este premio por cada juego<br>que haya vendido al menos 10.000.000 unidades.
+Cafetera;El alimento básico de un desarrollador de juegos es el café.<br>La cafetera más moderna proviene de "Gronky Industries" y<br>puede mantener el café caliente durante 17 horas.
+Premio "Juego del Año";Recibes este premio<br>cuando uno de tus juegos es elegido como "Juego del Año".
+Premio "Desarrollador del Año";Recibes este premio<br>cuando tu estudio es elegido como "Desarrollador del Año".
+Premio "Mejor Banda Sonora";Recibes este premio<br>cuando uno de tus juegos obtiene el premio a la "Mejor Banda Sonora".
+Premio "Mejores Gráficos";Recibes este premio<br>cuando uno de tus juegos obtiene el premio a los "Mejores Gráficos".
+Armario pequeño [Tipo 1];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Armario pequeño [Tipo 2];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Armario pequeño [Tipo 3];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Alfombra [Tipo 7];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Alfombra [Tipo 8];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Alfombra [Tipo 9];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Premio "Creador de Tendencias";Recibirás este premio<br>si uno de tus juegos se convierte en un creador de tendencias.
+Premio "Editor del Año";Recibes este premio<br>cuando tu estudio es elegido como "Editor del Año".
+Escritorio de trabajo [Tipo 1];Escritorio de trabajo para el taller. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 2];Escritorio de trabajo para el taller. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 3];Escritorio de trabajo para el taller. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 4];Escritorio de trabajo para el taller. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 5];Escritorio de trabajo para el taller. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 1];Escritorio de trabajo para el desarrollo de consolas. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 2];Escritorio de trabajo para el desarrollo de consolas. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 3];Escritorio de trabajo para el desarrollo de consolas. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 4];Escritorio de trabajo para el desarrollo de consolas. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Escritorio de trabajo [Tipo 5];Escritorio de trabajo para el desarrollo de consolas. Cuanto mayor sea la calidad,<br>mejor será el resultado del trabajo.
+Aire acondicionado moderno;Útil para regular la temperatura en salas de servidores.
+Taburete - Verde;Con este objeto tus empleados pueden obtener nueva motivación.
+Taburete - Naranja;Con este objeto tus empleados pueden obtener nueva motivación.
+Taburete - Azul;Con este objeto tus empleados pueden obtener nueva motivación.
+Mesa [Tipo 1];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Mesa [Tipo 2];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Mesa [Tipo 3];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Sillón - Marrón claro;Aquí tus empleados pueden<br>sentarse para tomar un descanso.
+Sillón - Marrón oscuro;Aquí tus empleados pueden<br>sentarse para tomar un descanso.
+Sillón - Menta;Aquí tus empleados pueden<br>sentarse para tomar un descanso.
+Minigolf;Con este objeto tus empleados pueden obtener nueva motivación.
+Imagen de arquitectura [Tipo 1];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Imagen de arquitectura [Tipo 2];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Imagen de arquitectura [Tipo 3];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Imagen de arquitectura [Tipo 4];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Imagen de arquitectura [Tipo 5];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Imagen de flores [Tipo 1];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Imagen de flores [Tipo 2];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Imagen de flores [Tipo 3];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Imagen de flores [Tipo 4];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Imagen de flores [Tipo 5];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Alfombra [Tipo 10];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Alfombra [Tipo 11];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Alfombra [Tipo 12];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Lámpara [Tipo 4];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Lámpara [Tipo 5];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Lámpara [Tipo 6];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Girasol;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Cactus bola;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Palmera;Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Mesa [Tipo 4];Tus empleados están más motivados cuando<br>trabajan en oficinas bien equipadas.
+Sistema de calefacción moderno;Este sistema de calefacción altamente eficiente<br>es especialmente adecuado para oficinas de planta abierta.
+Baño de lujo;Sentarse en este baño lujoso<br>incluso aumenta la motivación.
+Lavabo de lujo;Este lavabo es tan refrescante<br>que incluso aumenta la motivación.
+Cinta de correr;Con este objeto tus empleados pueden obtener nueva motivación.
