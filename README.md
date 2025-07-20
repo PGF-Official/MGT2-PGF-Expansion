@@ -12,6 +12,7 @@ Over 30,000 Licenses **[Base: 1005]**
 2565 NPC Spin off titles
 54 Hardware Features **[Base:29}**
 Hardware improved and increased
+Completely Reworked Engine & Hardware Features
 
 Theme translations: German, Italian, Spanish and French
 
