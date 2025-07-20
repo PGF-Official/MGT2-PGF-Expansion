@@ -5,14 +5,24 @@ Its easier to delete the Mad Games Tycoon 2 folder itself and then click verify 
 The game with the expansion might be quite a bit harder now...
 
 Over 3000 Game IPs for the AI to create **[Base: 2018]**
+
 Over 30,000 Licenses **[Base: 1005]**
+
 899 Dev Legends **[Base: 207]**
+
 2394 New NPC Games **[Base: 2018]**
+
 283 Publishers/Developers **[Base: 99]**
+
 2565 NPC Spin off titles
+
 54 Hardware Features **[Base:29}**
+
 Hardware improved and increased
+
 Completely Reworked Engine & Hardware Features
+
+
 
 Theme translations: German, Italian, Spanish and French
 
