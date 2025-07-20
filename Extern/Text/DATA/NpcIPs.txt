@@ -1,4 +1,4 @@
-﻿////										NPC IPS 									  ////
+////										NPC IPS 									  ////
 // Tags:                                              		  			  	  				//
 //                                                    		  			      				//
 // <P(ID)> 		= Which publisher owns the IP.      			  			  				//
@@ -2285,9 +2285,9 @@ Call of Duty: Ghosts <P105><G14><T19><%80><Y2013><TG2><PLSTATIC><NOSPIN>
 Call of Duty: Infinite Warfare <P105><G14><T19><%80><Y2016><TG2><PLSTATIC><NOSPIN>
 
 // Square Enix Co., Ltd.
-Final Fantasy X <P106><G5><T11><%95><Y2001><TG2><PLSTATIC><NOSPIN>
-Final Fantasy: A Realm Reborn <P106><G5><T11><%85><Y2013><TG2><PLSTATIC><NOSPIN><MMO>
-Final Fantasy: Endwalker <P106><G5><T11><%90><Y2021><TG2><PLSTATIC><NOSPIN><MMO>
+Final Fantasy X <P106><G5><T11><%95><Y2001><TG2><PLSTATIC><ROM><NOSPIN>
+Final Fantasy: A Realm Reborn <P106><G5><T11><%85><Y2013><ROM><TG2><PLSTATIC><NOSPIN><MMO>
+Final Fantasy: Endwalker <P106><G5><T11><%90><Y2021><TG2><ROM><PLSTATIC><NOSPIN><MMO>
 The World Ends With You <P106><G5><T11><%85><Y2007><TG2><PLSTATIC><NOSPIN>
 NEO: The World Ends With You <P106><G5><T11><%80><Y2021><TG2><PLSTATIC><NOSPIN>
 Dragon Quest: Echoes of an Elusive Age <P106><G5><T11><%90><Y2017><TG2><PLSTATIC><NOSPIN>
@@ -2681,7 +2681,7 @@ Ninja Gaiden: Razor’s Edge <P135><G14><T19><%75><Y2013><TG2><PLSTATIC><NOSPIN>
 Yaiba: Ninja Gaiden Z <P135><G14><T19><%65><Y2014><TG2><PLSTATIC><NOSPIN>
 Nioh <P135><G5><T11><%90><Y2017><TG2><PLSTATIC><NOSPIN>
 Wo Long: Fallen Dynasty <P135><G5><T11><%85><Y2023><TG2><PLSTATIC><NOSPIN>
-Stranger of Paradise: Final Fantasy Origin <P135><G5><T11><%80><Y2022><TG2><PLSTATIC><NOSPIN>
+Stranger of Paradise: Final Fantasy Origin <P135><G5><T11><%80><Y2022><TG2><ROM><PLSTATIC><NOSPIN>
 Rise of the Rōnin <P135><G5><T11><%85><Y2024><TG2><PLSTATIC><NOSPIN>
 Metroid: Other M <P135><G5><T11><%75><Y2010><TG2><PLSTATIC><NOSPIN>
 
@@ -3100,7 +3100,7 @@ Story of Seasons: Trio of Towns <P162><G13><T47><%80><Y2016><TG2><PLSTATIC><NOSP
 Story of Seasons: Friends of Mineral Town <P162><G13><T47><%85><Y2019><TG2><PLSTATIC><NOSPIN>
 Story of Seasons: Pioneers of Olive Town <P162><G13><T47><%80><Y2021><TG2><PLSTATIC><NOSPIN>
 Story of Seasons: A Wonderful Life <P162><G13><T47><%85><Y2023><TG2><PLSTATIC><NOSPIN>
-Farmagia <P162><G13><T47><%NR><Y2024><TG2><PLSTATIC><NOSPIN>
+Farmagia <P162><G13><T47><%80><Y2024><TG2><PLSTATIC><NOSPIN>
 Rune Factory: Guardians of Azuma <P162><G13><T47><%80><Y2025><TG2><PLSTATIC><NOSPIN>
 Silent Hope <P162><G5><T11><%75><Y2023><TG2><PLSTATIC><NOSPIN>
 BurgerTime Party! <P162><G6><T28><%70><Y2019><TG2><PLSTATIC><NOSPIN>
@@ -3134,8 +3134,8 @@ Euro Truck Simulator – Beyond the Baltic Sea <P163><G17><T67><%80><Y2018><TG2>
 Euro Truck Simulator – Road to the Black Sea <P163><G17><T67><%80><Y2019><TG2><PLSTATIC><NOSPIN>
 Euro Truck Simulator – Iberia <P163><G17><T67><%85><Y2021><TG2><PLSTATIC><NOSPIN>
 Euro Truck Simulator – West Balkans <P163><G17><T67><%85><Y2023><TG2><PLSTATIC><NOSPIN>
-Euro Truck Simulator – Greece <P163><G17><T67><%NR><Y2024><TG2><PLSTATIC><NOSPIN>
-Euro Truck Simulator – Nordic Horizons <P163><G17><T67><%NR><Y2025><TG2><PLSTATIC><NOSPIN>
+Euro Truck Simulator – Greece <P163><G17><T67><%80><Y2024><TG2><PLSTATIC><NOSPIN>
+Euro Truck Simulator – Nordic Horizons <P163><G17><T67><%80><Y2025><TG2><PLSTATIC><NOSPIN>
 American Truck Simulator – Arizona <P163><G17><T67><%75><Y2016><TG2><PLSTATIC><NOSPIN>
 American Truck Simulator – New Mexico <P163><G17><T67><%80><Y2017><TG2><PLSTATIC><NOSPIN>
 American Truck Simulator – Oregon <P163><G17><T67><%85><Y2018><TG2><PLSTATIC><NOSPIN>
@@ -3158,7 +3158,7 @@ Imperium Romanum <P164><G13><T47><%65><Y2008><TG2><PLSTATIC><NOSPIN>
 The First Templar <P164><G5><T11><%65><Y2011><TG2><PLSTATIC><NOSPIN>
 Praetorians <P164><G13><T47><%70><Y2020><TG2><PLSTATIC><NOSPIN>
 The Inquisitor <P164><G5><T11><%70><Y2024><TG2><PLSTATIC><NOSPIN>
-Commandos: Origins <P164><G13><T47><%NR><Y2025><TG2><PLSTATIC><NOSPIN>
+Commandos: Origins <P164><G13><T47><%80><Y2025><TG2><PLSTATIC><NOSPIN>
 
 // Warner Bros. Games
 Game Party <P165><G3><T47><%60><Y2007><TG2><PLSTATIC><NOSPIN>
@@ -3167,10 +3167,10 @@ TouchMaster 2 <P165><G3><T47><%60><Y2008><TG2><PLSTATIC><NOSPIN>
 TouchMaster: Connect <P165><G3><T47><%60><Y2010><TG2><PLSTATIC><NOSPIN>
 Batman: Arkham City Lockdown <P165><G5><T11><%65><Y2011><TG2><PLSTATIC><NOSPIN>
 Scribblenauts Remix <P165><G3><T47><%70><Y2011><TG2><PLSTATIC><NOSPIN>
-Scribblenauts Universe <P165><G3><T47><%NR><Y2020><TG2><PLSTATIC><NOSPIN>
+Scribblenauts Universe <P165><G3><T47><%80><Y2020><TG2><PLSTATIC><NOSPIN>
 Scribblenauts Showdown <P165><G3><T47><%65><Y2018><TG2><PLSTATIC><NOSPIN>
-Harry Potter: Wizarding Duels <P165><G5><T11><%NR><Y2022><TG2><PLSTATIC><NOSPIN>
-Harry Potter: Quidditch Champions <P165><G9><T67><%NR><Y2024><TG2><PLSTATIC><NOSPIN>
+Harry Potter: Wizarding Duels <P165><G5><T11><%80><Y2022><TG2><PLSTATIC><NOSPIN>
+Harry Potter: Quidditch Champions <P165><G9><T67><%80><Y2024><TG2><PLSTATIC><NOSPIN>
 
 // 4J Studios
 Banjo-Kazooie: Grunty’s Revenge <P166><G6><T28><%70><Y2003><TG2><PLSTATIC><NOSPIN>
@@ -3209,12 +3209,12 @@ Total War: Attila <P168><G13><T47><%75><Y2015><TG2><PLSTATIC><NOSPIN>
 Total War Battles: Kingdom <P168><G13><T47><%65><Y2015><TG2><PLSTATIC><NOSPIN>
 Total War: Warhammer <P168><G13><T47><%85><Y2016><TG2><PLSTATIC><NOSPIN>
 Total War Saga: Thrones of Britannia <P168><G13><T47><%70><Y2018><TG2><PLSTATIC><NOSPIN>
-Total War: Arena <P168><G13><T47><%NR><Y2018><TG2><PLSTATIC><NOSPIN>
+Total War: Arena <P168><G13><T47><%80><Y2018><TG2><PLSTATIC><NOSPIN>
 Total War: Three Kingdoms <P168><G13><T47><%85><Y2019><TG2><PLSTATIC><NOSPIN>
 Total War Saga: Troy <P168><G13><T47><%75><Y2020><TG2><PLSTATIC><NOSPIN>
 Total War: Pharaoh <P168><G13><T47><%70><Y2023><TG2><PLSTATIC><NOSPIN>
-Hyenas <P168><G14><T19><%NR><Y2023><TG2><PLSTATIC><NOSPIN>
-Total War: Star Wars <P168><G13><T47><%NR><Y2025><TG2><PLSTATIC><NOSPIN>
+Hyenas <P168><G14><T19><%80><Y2023><TG2><PLSTATIC><NOSPIN>
+Total War: Star Wars <P168><G13><T47><%80><Y2025><TG2><PLSTATIC><NOSPIN>
 
 // Criterion Games
 Scorched Planet <P169><G14><T19><%60><Y1996><TG2><PLSTATIC><NOSPIN>
@@ -3230,10 +3230,10 @@ Burnout Legends <P169><G17><T67><%75><Y2005><TG2><PLSTATIC><NOSPIN>
 Black <P169><G14><T19><%80><Y2006><TG2><PLSTATIC><NOSPIN>
 Burnout Paradise <P169><G17><T67><%90><Y2008><TG2><PLSTATIC><NOSPIN>
 Burnout Crash! <P169><G17><T67><%70><Y2011><TG2><PLSTATIC><NOSPIN>
-Need for Speed: Split Second <P169><G17><T67><%NR><Y2014><TG2><PLSTATIC><NOSPIN>
-Burnout: Crash and Burn <P169><G17><T67><%NR><Y2012><TG2><PLSTATIC><NOSPIN>
-Need for Speed: Takedown <P169><G17><T67><%NR><Y2015><TG2><PLSTATIC><NOSPIN>
-Project Skyline <P169><G17><T67><%NR><Y2016><TG2><PLSTATIC><NOSPIN>
+Need for Speed: Split Second <P169><G17><T67><%80><Y2014><TG2><PLSTATIC><NOSPIN>
+Burnout: Crash and Burn <P169><G17><T67><%80><Y2012><TG2><PLSTATIC><NOSPIN>
+Need for Speed: Takedown <P169><G17><T67><%80><Y2015><TG2><PLSTATIC><NOSPIN>
+Project Skyline <P169><G17><T67><%80><Y2016><TG2><PLSTATIC><NOSPIN>
 Need for Speed: Rivals <P169><G17><T67><%75><Y2013><TG2><PLSTATIC><NOSPIN>
 Battlefield: Firestorm <P169><G14><T19><%65><Y2019><TG2><PLSTATIC><NOSPIN>
 Need for Speed Unbound <P169><G17><T67><%75><Y2022><TG2><PLSTATIC><NOSPIN>
@@ -3245,30 +3245,30 @@ Nom Nom Galaxy <P170><G6><T28><%70><Y2015><TG2><PLSTATIC><ROM><NOSPIN>
 Super Cloudbuilt <P170><G6><T28><%70><Y2017><TG2><PLSTATIC><ROM><NOSPIN>
 Songbringer <P170><G5><T3><%70><Y2017><TG2><PLSTATIC><ROM><NOSPIN>
 Minecraft Dungeons <P170><G5><T11><%80><Y2020><TG2><PLSTATIC><ROM><NOSPIN>
-Blindfire <P170><G14><T19><%NR><Y2024><TG2><PLSTATIC><ROM><NOSPIN>
+Blindfire <P170><G14><T19><%80><Y2024><TG2><PLSTATIC><ROM><NOSPIN>
 
 // Dovetail Games
 Train Simulator <P171><G17><T67><%80><Y2009><TG2><PLSTATIC><ROM><NOSPIN>
-Train Simulator – West Somerset Railway <P171><G17><T67><%NR><Y2016><TG2><PLSTATIC><ROM><NOSPIN>
-Train Simulator – Riviera Line in the Fifties <P171><G17><T67><%NR><Y2017><TG2><PLSTATIC><ROM><NOSPIN>
-Train Simulator – North Wales Coastal <P171><G17><T67><%NR><Y2018><TG2><PLSTATIC><ROM><NOSPIN>
+Train Simulator – West Somerset Railway <P171><G17><T67><%80><Y2016><TG2><PLSTATIC><ROM><NOSPIN>
+Train Simulator – Riviera Line in the Fifties <P171><G17><T67><%80><Y2017><TG2><PLSTATIC><ROM><NOSPIN>
+Train Simulator – North Wales Coastal <P171><G17><T67><%80><Y2018><TG2><PLSTATIC><ROM><NOSPIN>
 Train Sim World <P171><G17><T67><%80><Y2018><TG2><PLSTATIC><ROM><NOSPIN>
-Train Sim World – Great Western Express <P171><G17><T67><%NR><Y2018><TG2><PLSTATIC><ROM><NOSPIN>
-Train Sim World – Rapid Transit <P171><G17><T67><%NR><Y2018><TG2><PLSTATIC><ROM><NOSPIN>
+Train Sim World – Great Western Express <P171><G17><T67><%80><Y2018><TG2><PLSTATIC><ROM><NOSPIN>
+Train Sim World – Rapid Transit <P171><G17><T67><%80><Y2018><TG2><PLSTATIC><ROM><NOSPIN>
 Euro Fishing <P171><G13><T47><%70><Y2015><TG2><PLSTATIC><ROM><NOSPIN>
 Fishing Sim World <P171><G13><T47><%75><Y2018><TG2><PLSTATIC><ROM><NOSPIN>
 Fishing Sim World: Pro Tour <P171><G13><T47><%75><Y2019><TG2><PLSTATIC><ROM><NOSPIN>
 The Catch: Carp & Coarse <P171><G13><T47><%70><Y2020><TG2><PLSTATIC><ROM><NOSPIN>
-Train Sim World – Isle of Wight <P171><G17><T67><%NR><Y2020><TG2><PLSTATIC><ROM><NOSPIN>
+Train Sim World – Isle of Wight <P171><G17><T67><%80><Y2020><TG2><PLSTATIC><ROM><NOSPIN>
 Bassmaster Fishing <P171><G13><T47><%75><Y2021><TG2><PLSTATIC><ROM><NOSPIN>
-Bassmaster Fishing – Predator Pack <P171><G13><T47><%NR><Y2022><TG2><PLSTATIC><ROM><NOSPIN>
-Train Sim World – Southeastern High Speed <P171><G17><T67><%NR><Y2021><TG2><PLSTATIC><ROM><NOSPIN>
-Train Sim World – Birmingham Cross-City Line <P171><G17><T67><%NR><Y2022><TG2><PLSTATIC><ROM><NOSPIN>
+Bassmaster Fishing – Predator Pack <P171><G13><T47><%80><Y2022><TG2><PLSTATIC><ROM><NOSPIN>
+Train Sim World – Southeastern High Speed <P171><G17><T67><%80><Y2021><TG2><PLSTATIC><ROM><NOSPIN>
+Train Sim World – Birmingham Cross-City Line <P171><G17><T67><%80><Y2022><TG2><PLSTATIC><ROM><NOSPIN>
 TramSim <P171><G17><T67><%70><Y2023><TG2><PLSTATIC><ROM><NOSPIN>
-Train Sim World – ScotRail Express: Edinburgh – Glasgow <P171><G17><T67><%NR><Y2023><TG2><PLSTATIC><ROM><NOSPIN>
-Train Sim World – East Coast Main Line <P171><G17><T67><%NR><Y2023><TG2><PLSTATIC><ROM><NOSPIN>
-Train Sim World – Blackpool Branches <P171><G17><T67><%NR><Y2024><TG2><PLSTATIC><ROM><NOSPIN>
-City Transport Simulator: Tram <P171><G17><T67><%NR><Y2025><TG2><PLSTATIC><ROM><NOSPIN>
+Train Sim World – ScotRail Express: Edinburgh – Glasgow <P171><G17><T67><%80><Y2023><TG2><PLSTATIC><ROM><NOSPIN>
+Train Sim World – East Coast Main Line <P171><G17><T67><%80><Y2023><TG2><PLSTATIC><ROM><NOSPIN>
+Train Sim World – Blackpool Branches <P171><G17><T67><%80><Y2024><TG2><PLSTATIC><ROM><NOSPIN>
+City Transport Simulator: Tram <P171><G17><T67><%80><Y2025><TG2><PLSTATIC><ROM><NOSPIN>
 
 // Edge of Reality
 Pitfall: The Lost Expedition <P172><G6><T28><%70><Y2004><TG2><PLSTATIC><ROM><NOSPIN>
@@ -3335,7 +3335,7 @@ Spy Mouse <P176><G6><T28><%80><Y2011><TG2><PLSTATIC><ROM><NOSPIN>
 The Sims FreePlay <P176><G13><T47><%80><Y2011><TG2><PLSTATIC><ROM><NOSPIN>
 Flight Control Rocket <P176><G3><T47><%75><Y2012><TG2><PLSTATIC><ROM><NOSPIN>
 Mass Effect: Infiltrator <P176><G14><T19><%75><Y2012><TG2><PLSTATIC><ROM><NOSPIN>
-Flight Control: World Tour <P176><G3><T47><%NR><Y2013><TG2><PLSTATIC><NOSPIN>
+Flight Control: World Tour <P176><G3><T47><%80><Y2013><TG2><PLSTATIC><NOSPIN>
 SOCOM: Mobile Recon <P176><G14><T19><%65><Y2005><TG2><PLSTATIC><ROM><NOSPIN>
 
 // Just Add Water
@@ -3344,12 +3344,12 @@ Oddworld: Stranger’s Wrath HD <P177><G5><T11><%80><Y2011><TG2><PLSTATIC><ROM><
 Oddworld: Munch’s Oddysee HD <P177><G5><T11><%70><Y2012><TG2><PLSTATIC><ROM><NOSPIN>
 Gravity Crash Ultra <P177><G14><T19><%70><Y2014><TG2><PLSTATIC><ROM><NOSPIN>
 Oddworld: New 'n' Tasty <P177><G6><T28><%80><Y2014><TG2><PLSTATIC><ROM><NOSPIN>
-Oddworld: Squeek’s Oddysee <P177><G5><T11><%NR><Y2015><TG2><PLSTATIC><NOSPIN>
+Oddworld: Squeek’s Oddysee <P177><G5><T11><%80><Y2015><TG2><PLSTATIC><NOSPIN>
 Ice Age: Scrat’s Nutty Adventure <P177><G6><T28><%65><Y2019><TG2><PLSTATIC><ROM><NOSPIN>
 Race With Ryan <P177><G17><T67><%60><Y2019><TG2><PLSTATIC><ROM><NOSPIN>
 Doctor Who: The Edge of Reality <P177><G5><T3><%60><Y2021><TG2><PLSTATIC><ROM><NOSPIN>
 Sniper Elite VR <P177><G14><T19><%70><Y2021><TG2><PLSTATIC><EX>
-DIG VR <P177><G3><T47><%NR><Y2024><TG2><PLSTATIC><EX>
+DIG VR <P177><G3><T47><%80><Y2024><TG2><PLSTATIC><EX>
 
 // Free Radical Design
 TimeSplitters <P178><G14><T19><%80><Y2000><TG2><PLSTATIC><ROM><NOSPIN>
@@ -3399,10 +3399,10 @@ Broken Sword: The Smoking Mirror <P183><G3><T47><%85><Y1997><TG2><PLSTATIC><ROM>
 In Cold Blood <P183><G3><T47><%75><Y2000><TG2><PLSTATIC><ROM><NOSPIN>
 Broken Sword: The Sleeping Dragon <P183><G3><T47><%80><Y2003><TG2><PLSTATIC><ROM><NOSPIN>
 Broken Sword: The Angel of Death <P183><G3><T47><%75><Y2006><TG2><PLSTATIC><ROM><NOSPIN>
-Good Cop Bad Cop <P183><G3><T47><%NR><Y2005><TG2><PLSTATIC><NOSPIN>
+Good Cop Bad Cop <P183><G3><T47><%80><Y2005><TG2><PLSTATIC><NOSPIN>
 Broken Sword: The Serpent’s Curse <P183><G3><T47><%80><Y2013><TG2><PLSTATIC><ROM><NOSPIN>
 Beyond a Steel Sky <P183><G3><T47><%80><Y2020><TG2><PLSTATIC><ROM><NOSPIN>
-Broken Sword: The Gaian Engine <P183><G3><T47><%NR><Y2025><TG2><PLSTATIC><NOSPIN>
+Broken Sword: The Gaian Engine <P183><G3><T47><%80><Y2025><TG2><PLSTATIC><NOSPIN>
 
 // Ritual Entertainment
 SiN <P184><G14><T19><%80><Y1998><TG2><PLSTATIC><ROM><NOSPIN>
@@ -4396,8 +4396,8 @@ Puzzle'n Desu! <P265><G1><T1><%80><Y1995><TG1><NOSPIN>
 Artelius <P265><G3><T25><%80><Y1987><TG2><NOSPIN>
 
 // Meadows Games
-Flim-Flam <P266><G1><T1><%80><Y1974><TG2><NOSPIN>
-Drop Zone <P266><G5><T188><%80><Y1975><TG2><NOSPIN>
+Flim-Flam <P266><G1><T1><%80><Y1976><TG2><NOSPIN>
+Drop Zone <P266><G5><T188><%80><Y1976><TG2><NOSPIN>
 Bigfoot Bonkers <P266><G17><T17><%80><Y1976><TG2><NOSPIN>
 Bombs Away <P266><G5><T188><%80><Y1976><TG2><NOSPIN>
 Ckidzo <P266><G1><T1><%80><Y1976><TG2><NOSPIN>
