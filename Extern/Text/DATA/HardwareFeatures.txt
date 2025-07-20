@@ -1,4 +1,4 @@
-﻿////							 			HARDWARE FEATURES 									  ////
+////							 			HARDWARE FEATURES 									  ////
 // Parameters:                                                                              		//
 //                                                                         							//
 // [ID]int 					= The ID of the object.                                   				//
@@ -2195,5 +2195,84 @@
 [QUALITY]3
 [ONLY_HANDHELD]
 [NEEDINTERNET]
+
+[ID]55
+[NAME EN]Support for Wired Controllers
+[NAME GE]Unterstützung für kabelgebundene Controller
+[NAME TU]Kablolu Kontrolcü Desteği
+[NAME PB]Suporte para Controladores com Fio
+[NAME ES]Compatibilidad con Mandos con Cable
+[NAME JA]有線コントローラー対応
+[NAME CH]支持有线控制器
+[NAME CT]支援有線控制器
+[NAME IT]Supporto per Controller Cablati
+[NAME FR]Support des Manettes Filaires
+[NAME PL]Obsługa Kontrolerów Przewodowych
+[NAME CZ]Podpora Kabelových Ovladačů
+[NAME UA]Підтримка Провідних Контролерів
+[NAME KO]유선 컨트롤러 지원
+[NAME TH]รองรับคอนโทรลเลอร์แบบมีสาย
+[NAME RU]Поддержка Проводных Контроллеров
+[DESC EN]Allows the use of traditional wired controllers<br>via USB or proprietary ports for reliable input.
+[DESC GE]Ermöglicht die Verwendung traditioneller kabelgebundener Controller<br>über USB oder proprietäre Anschlüsse für zuverlässige Eingabe.
+[DESC TU]USB veya özel bağlantılar ile geleneksel kablolu kontrolcülerin<br>güvenilir şekilde kullanılmasını sağlar.
+[DESC PB]Permite usar controladores com fio tradicionais<br>através de portas USB ou proprietárias para entrada confiável.
+[DESC ES]Permite usar mandos con cable tradicionales<br>por USB o puertos propietarios para una entrada fiable.
+[DESC JA]USBや専用端子を介して<br>有線コントローラーの使用が可能。
+[DESC CH]通过USB或专用接口<br>允许使用传统有线控制器。
+[DESC CT]透過USB或專用介面<br>可使用傳統有線控制器。
+[DESC IT]Permette l’uso di controller cablati tradizionali<br>tramite USB o porte proprietarie per input affidabile.
+[DESC FR]Permet l’utilisation de manettes filaires classiques<br>via USB ou ports propriétaires pour une saisie fiable.
+[DESC PL]Umożliwia korzystanie z klasycznych przewodowych kontrolerów<br>przez USB lub porty firmowe, zapewniając niezawodne sterowanie.
+[DESC CZ]Umožňuje použití klasických kabelových ovladačů<br>přes USB nebo proprietární porty pro spolehlivé ovládání.
+[DESC UA]Дозволяє використовувати класичні провідні контролери<br>через USB або спеціальні порти для надійного управління.
+[DESC KO]USB 또는 독점 포트를 통해<br>전통적인 유선 컨트롤러 사용을 지원합니다.
+[DESC TH]รองรับการใช้คอนโทรลเลอร์แบบมีสายทั่วไป<br>ผ่าน USB หรือพอร์ตเฉพาะเพื่อการควบคุมที่แม่นยำ
+[DESC RU]Позволяет использовать традиционные проводные контроллеры<br>через USB или фирменные порты для надёжного ввода.
+[DATE]JAN 1976
+[RES POINTS]800
+[PRICE]160000
+[DEV COSTS]80000
+[QUALITY]2
+[ONLY_STATIONARY]
+
+[ID]56
+[NAME EN]Support for Wireless Controllers
+[NAME GE]Unterstützung für drahtlose Controller
+[NAME TU]Kablosuz Kontrolcü Desteği
+[NAME PB]Suporte para Controladores sem Fio
+[NAME ES]Compatibilidad con Mandos Inalámbricos
+[NAME JA]ワイヤレスコントローラー対応
+[NAME CH]支持无线控制器
+[NAME CT]支援無線控制器
+[NAME IT]Supporto per Controller Wireless
+[NAME FR]Support des Manettes sans Fil
+[NAME PL]Obsługa Kontrolerów Bezprzewodowych
+[NAME CZ]Podpora Bezdrátových Ovladačů
+[NAME UA]Підтримка Бездротових Контролерів
+[NAME KO]무선 컨트롤러 지원
+[NAME TH]รองรับคอนโทรลเลอร์แบบไร้สาย
+[NAME RU]Поддержка Беспроводных Контроллеров
+[DESC EN]Enables pairing of wireless game controllers<br>via Bluetooth or proprietary RF for untethered play.
+[DESC GE]Ermöglicht die Verbindung kabelloser Controller<br>über Bluetooth oder proprietäre RF-Technologie für freies Spielen.
+[DESC TU]Bluetooth veya özel RF teknolojisi ile<br>kablosuz kontrolcülerin eşleştirilmesini sağlar.
+[DESC PB]Permite emparelhar controladores sem fio<br>através de Bluetooth ou RF para jogar livremente.
+[DESC ES]Permite emparejar mandos inalámbricos<br>con Bluetooth o RF propietarios para jugar sin cables.
+[DESC JA]Bluetoothや独自のRF技術を通じて<br>ワイヤレスコントローラーのペアリングが可能。
+[DESC CH]通过蓝牙或专有射频技术<br>可配对无线控制器，实现自由操作。
+[DESC CT]透過藍牙或專有RF技術<br>可配對無線控制器，自由遊玩。
+[DESC IT]Consente il pairing di controller wireless<br>tramite Bluetooth o RF proprietaria per giocare senza cavi.
+[DESC FR]Permet l’appairage de manettes sans fil<br>via Bluetooth ou RF propriétaire pour jouer sans fil.
+[DESC PL]Umożliwia parowanie kontrolerów bezprzewodowych<br>przez Bluetooth lub RF dla swobodnej gry.
+[DESC CZ]Umožňuje spárování bezdrátových ovladačů<br>pomocí Bluetooth nebo proprietární RF pro volné hraní.
+[DESC UA]Забезпечує спарювання бездротових контролерів<br>через Bluetooth або власну RF для гри без проводів.
+[DESC KO]Bluetooth 또는 전용 RF로 무선 컨트롤러를 페어링하여<br>자유롭게 게임을 즐길 수 있습니다.
+[DESC TH]สามารถเชื่อมต่อกับคอนโทรลเลอร์แบบไร้สาย<br>ผ่านบลูทูธหรือคลื่น RF สำหรับการเล่นแบบไม่มีสาย
+[DESC RU]Позволяет сопрягать беспроводные контроллеры<br>по Bluetooth или фирменной RF-связи для игры без кабелей.
+[DATE]NOV 2004
+[RES POINTS]1000
+[PRICE]200000
+[DEV COSTS]90000
+[QUALITY]2
 
 [EOF]
