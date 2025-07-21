@@ -8,13 +8,15 @@ Over 3000 Game IPs for the AI to create **[Base: 2018]**
 
 Over 30,000 Licenses **[Base: 1005]**
 
-899 Dev Legends **[Base: 207]**
+2565 NPC Spin off titles
 
 2394 New NPC Games **[Base: 2018]**
 
+899 Dev Legends **[Base: 207]**
+
 283 Publishers/Developers **[Base: 99]**
 
-2565 NPC Spin off titles
+100 Extra Reviews
 
 54 Hardware Features **[Base:29}**
 
