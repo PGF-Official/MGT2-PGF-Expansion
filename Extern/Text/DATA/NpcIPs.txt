@@ -4614,32 +4614,32 @@ Produce <P277><G3><T25><%80><Y1987><TG2><NOSPIN>
 The Story of Melroon <P277><G3><T25><%80><Y1989><TG2><NOSPIN>
 
 // Spectral Associates
-Android Attack <P278><G5><T188><%80><Y1982><TG2><NOSPIN>
-Beam Rider <P278><G5><T188><%80><Y1983><TG2><NOSPIN>
-Cave Walker <P278><G2><T25><%80><Y1984><TG2><NOSPIN>
-Color Space Invaders <P278><G5><T188><%80><Y1984><TG2><NOSPIN>
-Color Trek <P278><G5><T188><%80><Y1984><TG2><NOSPIN>
-Cubix <P278><G1><T1><%80><Y1984><TG2><NOSPIN>
-Decathlon <P278><G8><T8><%80><Y1984><TG2><NOSPIN>
-Galagon <P278><G5><T188><%80><Y1984><TG2><NOSPIN>
-Galax Attax <P278><G5><T188><%80><Y1984><TG2><NOSPIN>
-Ghost Gobbler <P278><G5><T188><%80><Y1984><TG2><NOSPIN>
-Keys of the Wizard <P278><G3><T25><%80><Y1984><TG2><NOSPIN>
-Lancer <P278><G5><T188><%80><Y1984><TG2><NOSPIN>
-Le Mans <P278><G17><T17><%80><Y1984><TG2><NOSPIN>
-Lunar Rover Patrol <P278><G5><T188><%80><Y1984><TG2><NOSPIN>
-Meteoroids <P278><G5><T188><%80><Y1984><TG2><NOSPIN>
-Miss Gobbler <P278><G5><T188><%80><Y1984><TG2><NOSPIN>
-Pegasus and the Phantom Riders <P278><G5><T188><%80><Y1984><TG2><NOSPIN>
-Planet Invasion <P278><G5><T188><%80><Y1984><TG2><NOSPIN>
-Slay the Nereis <P278><G5><T188><%80><Y1984><TG2><NOSPIN>
-Soko-ban <P278><G1><T1><%80><Y1984><TG2><NOSPIN>
-Space Race <P278><G5><T188><%80><Y1984><TG2><NOSPIN>
-Space Wrek <P278><G5><T188><%80><Y1984><TG2><NOSPIN>
-Star Spores <P278><G5><T188><%80><Y1984><TG2><NOSPIN>
-Storm Arrows <P278><G5><T188><%80><Y1984><TG2><NOSPIN>
-Syzygy <P278><G5><T188><%80><Y1984><TG2><NOSPIN>
-Whirlybird Run <P278><G5><T188><%80><Y1982><TG2><NOSPIN>
+Android Attack <P3><G5><T188><%80><Y1982><TG2><NOSPIN>
+Beam Rider <P3><G5><T188><%80><Y1983><TG2><NOSPIN>
+Cave Walker <P3><G2><T25><%80><Y1984><TG2><NOSPIN>
+Color Space Invaders <P3><G5><T188><%80><Y1984><TG2><NOSPIN>
+Color Trek <P3><G5><T188><%80><Y1984><TG2><NOSPIN>
+Cubix <P3><G1><T1><%80><Y1984><TG2><NOSPIN>
+Decathlon <P3><G8><T8><%80><Y1984><TG2><NOSPIN>
+Galagon <P3><G5><T188><%80><Y1984><TG2><NOSPIN>
+Galax Attax <P3><G5><T188><%80><Y1984><TG2><NOSPIN>
+Ghost Gobbler <P3><G5><T188><%80><Y1984><TG2><NOSPIN>
+Keys of the Wizard <P3><G3><T25><%80><Y1984><TG2><NOSPIN>
+Lancer <P3><G5><T188><%80><Y1984><TG2><NOSPIN>
+Le Mans <P3><G17><T17><%80><Y1984><TG2><NOSPIN>
+Lunar Rover Patrol <P3><G5><T188><%80><Y1984><TG2><NOSPIN>
+Meteoroids <P3><G5><T188><%80><Y1984><TG2><NOSPIN>
+Miss Gobbler <P3><G5><T188><%80><Y1984><TG2><NOSPIN>
+Pegasus and the Phantom Riders <P3><G5><T188><%80><Y1984><TG2><NOSPIN>
+Planet Invasion <P3><G5><T188><%80><Y1984><TG2><NOSPIN>
+Slay the Nereis <P3><G5><T188><%80><Y1984><TG2><NOSPIN>
+Soko-ban <P3><G1><T1><%80><Y1984><TG2><NOSPIN>
+Space Race <P3><G5><T188><%80><Y1984><TG2><NOSPIN>
+Space Wrek <P3><G5><T188><%80><Y1984><TG2><NOSPIN>
+Star Spores <P3><G5><T188><%80><Y1984><TG2><NOSPIN>
+Storm Arrows <P3><G5><T188><%80><Y1984><TG2><NOSPIN>
+Syzygy <P3><G5><T188><%80><Y1984><TG2><NOSPIN>
+Whirlybird Run <P3><G5><T188><%80><Y1982><TG2><NOSPIN>
 
 // Attic Entertainment
 Lords of Doom <P279><G2><T25><%80><Y1990><TG2><NOSPIN>
@@ -4698,12 +4698,15 @@ The Shadow of Zorro <P282><G5><T19><%80><Y2001><TG2><NOSPIN>
 Gift <P282><G6><T164><%80><Y2000><TG2><NOSPIN>
 
 // Artoon
-Yoshi Topsy-Turvy <P283><G6><T164><%80><Y2004><TG0><NOSPIN>
-Yoshi's Island DS <P283><G6><T164><%80><Y2006><TG0><ARA>
-Pinobee: Wings of Adventure <P283><G6><T164><%80><Y2001><TG0><ARA>
-Pinobee and Phoebee <P283><G6><T164><%80><Y2002><TG0><ARA>
-Blinx: The Time Sweeper <P283><G6><T55><%80><Y2002><TG1><ARA>
-Blinx: Masters of Time and Space <P283><G6><T55><%80><Y2004><TG1><ARA>
-Egg Monster Hero <P283><G3><T25><%80><Y2005><TG1><NOSPIN>
-Blue Dragon Plus <P283><G3><T25><%80><Y2008><TG1><ARA>
-Away: Shuffle Dungeon <P283><G3><T25><%80><Y2008><TG1><NOSPIN>
+Yoshi Topsy-Turvy <P278><G6><T164><%80><Y2004><TG0><NOSPIN>
+Yoshi's Island DS <P278><G6><T164><%80><Y2006><TG0><ARA>
+Pinobee: Wings of Adventure <P278><G6><T164><%80><Y2001><TG0><ARA>
+Pinobee and Phoebee <P278><G6><T164><%80><Y2002><TG0><ARA>
+Blinx: The Time Sweeper <P278><G6><T55><%80><Y2002><TG1><ARA>
+Blinx: Masters of Time and Space <P278><G6><T55><%80><Y2004><TG1><ARA>
+Egg Monster Hero <P278><G3><T25><%80><Y2005><TG1><NOSPIN>
+Blue Dragon Plus <P278><G3><T25><%80><Y2008><TG1><ARA>
+Away: Shuffle Dungeon <P278><G3><T25><%80><Y2008><TG1><NOSPIN>
+
+// Roblox
+Roblox <P228><G7><SG11><T176><ST316><%85><Y2006><TG0><ARA><PL8><PLSTATIC><F2P>
