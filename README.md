@@ -34,3 +34,5 @@ Licenses errors fixed, including suitable genres.
 Translations added and fixed in:
 Copy Protection
 Anti-Cheat
+Publishers have correct closure dates and opening dates
+Publishers have correct countries
