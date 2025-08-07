@@ -2337,7 +2337,7 @@ Battlestar Galactica <MOVIE><Y2003><Q6>
 Battlestar Galactica: Blood & Chrome <MOVIE><Y2012><Q6>
 Battlestar Galactica: Razor <MOVIE><Y2007><Q6>
 Battlestar Galactica: The Plan <MOVIE><Y2009><Q6>
-Battling Butler <MOVIE><><Q6>
+Battling Butler <MOVIE><Y2000><Q6>
 Baudelaire <MOVIE><Y2023><Q8>
 Bauhaus Spirit: 100 Years of Bauhaus <MOVIE><Y2018><Q6>
 Bauhaus: The Face of the 20th Century <MOVIE><Y1994><Q6>
@@ -12826,7 +12826,7 @@ Looking for an Echo <MOVIE><Y2000><Q6>
 Looking for an Icon <MOVIE><Y2007><Q6>
 Lookout <MOVIE><Y2007><Q6>
 Looney, Looney, Looney Bugs Bunny Movie <MOVIE><Y1981><Q4>
-Looney Tunes: Back in Action <MOVIE><Y2003><Q4>>
+Looney Tunes: Back in Action <MOVIE><Y2003><Q4>
 Bugs Bunny Superstar <MOVIE><Y1976><Q4>
 The Bugs Bunny/Road-Runner Movie <MOVIE><Y1979><Q4>
 Bugs Bunny's 3rd Movie: 1001 Rabbit Tales <MOVIE><Y1982><Q4>
@@ -14963,7 +14963,7 @@ Never Back Down <MOVIE><Y2008><Q6>
 Never Back Down 2: The Beatdown <MOVIE><Y2011><Q4>
 Never Back Down: No Surrender <MOVIE><Y2016><Q4>
 Never Back Down: Revolt <MOVIE><Y2021><Q4>
-Never Back Down 5 [SCRIPT] <MOVIE><Y2020s><Q8>
+Never Back Down 5 [SCRIPT] <MOVIE><Y2020><Q8>
 Never Been Kissed <MOVIE><Y1999><Q6>
 Never Been Thawed <MOVIE><Y2005><Q6>
 Never Cry Wolf <MOVIE><Y1983><Q6>
@@ -17264,7 +17264,7 @@ Ragnarok <MOVIE><Y2014><Q6>
 Ragtime <MOVIE><Y1981><Q6>
 The Raid: Redemption <MOVIE><Y2011><Q8>
 The Raid 2 <MOVIE><Y2014><Q8>
-The Raid 3 <MOVIE><Y202X><Q8>
+The Raid 3 <MOVIE><Y2020><Q8>
 Raiders! The Story of the Greatest Fan Film Ever Made <MOVIE><Y2016><Q6>
 Railroad Tigers <MOVIE><Y2017><Q6>
 Rails & Ties <MOVIE><Y2007><Q6>
@@ -17590,7 +17590,7 @@ Resident Evil: Retribution <MOVIE><Y2012><Q4>
 Resident Evil: The Final Chapter <MOVIE><Y2017><Q4>
 Resident Evil: Welcome to Raccoon City <MOVIE><Y2021><Q6>
 Resident Evil (Reboot) <MOVIE><Y2026><Q8>
-Biohazard 4D-Executer <MOVIE><Y2000><QX>
+Biohazard 4D-Executer <MOVIE><Y2000><Q8>
 Resident Evil: Degeneration <MOVIE><Y2008><Q6>
 Resident Evil: Damnation <MOVIE><Y2012><Q6>
 Resident Evil: Vendetta <MOVIE><Y2017><Q6>
@@ -19312,9 +19312,9 @@ Smurfs <MOVIE><Y2025><Q6>
 Snake Eyes <MOVIE><Y1998><Q6>
 Snake Eyes: G.I. Joe Origins <MOVIE><Y2021><Q4>
 G.I. Joe: Ever Vigilant [SCRIPT] <MOVIE><Y2020><Q8>
-G.I. Joe: Cobra [SCRIPT] <MOVIE><Y202X><Q6>
-G.I. Joe: Roadblock Origins [SCRIPT] <MOVIE><Y202X><Q6>
-G.I. Joe: M.A.S.K. [SCRIPT] <MOVIE><Y202X><Q6>
+G.I. Joe: Cobra [SCRIPT] <MOVIE><Y2025><Q6>
+G.I. Joe: Roadblock Origins [SCRIPT] <MOVIE><Y2027><Q6>
+G.I. Joe: M.A.S.K. [SCRIPT] <MOVIE><Y2028><Q6>
 Snake and Mongoose <MOVIE><Y2013><Q6>
 Snakehead <MOVIE><Y2021><Q6>
 Snakes on a Plane <MOVIE><Y2006><Q6>
@@ -20841,7 +20841,7 @@ Tetsuo II: Body Hammer <MOVIE><Y1992><Q6>
 Tetsuo: The Bullet Man <MOVIE><Y2010><Q4>
 Tevar <MOVIE><Y2015><Q6>
 Tex <MOVIE><Y1981><Q6>
-The Texas Chain Saw Massacre <MOVIE><Y1974><Q8>
+The Texas Chain Saw Massacre <MOVIE><Y1976><Q8>
 The Texas Chainsaw Massacre 2 <MOVIE><Y1986><Q6>
 Leatherface: Texas Chainsaw Massacre III <MOVIE><Y1990><Q6>
 Texas Chainsaw Massacre: The Next Generation <MOVIE><Y1995><Q4>
