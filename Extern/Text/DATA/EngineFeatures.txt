@@ -1,4 +1,4 @@
-﻿////							 		ENGINE FEATURES 									  	////
+////							 		ENGINE FEATURES 									  	////
 // Parameters:                                                                              	  //
 //                                                                         					      //
 // [ID]int 					= The ID of the object.                                   			  //
@@ -1095,7 +1095,7 @@
 [RES POINTS]250
 [PRICE]40000
 [DEV COSTS]18000
-[TECHLEVEL]3
+[TECHLEVEL]1
 [PIC]
 [GAMEPLAY]0
 [GRAPHIC]0
@@ -1144,7 +1144,7 @@
 [RES POINTS]300
 [PRICE]50000
 [DEV COSTS]25000
-[TECHLEVEL]3
+[TECHLEVEL]2
 [PIC]
 [GAMEPLAY]0
 [GRAPHIC]0
