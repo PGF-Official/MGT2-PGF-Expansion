@@ -463,6 +463,29 @@
 [DEV COSTS]300000
 [TECHLEVEL]1
 
+[ID]178
+[TYP]1
+[NAME EN]RCA Pixie Video Chip 2
+[NAME GE]RCA Pixie Video Chip 2
+[NAME TU]RCA Pixie Video Yongası 2
+[NAME ES]Chip de Video RCA Pixie 2
+[NAME PB]Chip de Vídeo RCA Pixie 2
+[NAME JA]RCA Pixie ビデオチップ 2
+[NAME CH]RCA Pixie 视频芯片 2
+[NAME CT]RCA Pixie 視頻晶片 2
+[NAME IT]Chip Video RCA Pixie 2
+[NAME FR]Puce Vidéo RCA Pixie 
+[NAME PL]Układ Graficzny RCA Pixie 2
+[NAME UA]Відеочіп RCA Pixie 2
+[NAME CZ]Grafický Čip RCA Pixie 2
+[NAME TH]ชิปวิดีโอ RCA Pixie 2
+[NAME RU]Видеочип RCA Pixie 2
+[DATE]JAN 1980
+[RES POINTS]0
+[PRICE]100000
+[DEV COSTS]300000
+[TECHLEVEL]2
+
 [ID]19
 [TYP]1
 [NAME EN]IBM Color Graphics Adapter
@@ -1319,6 +1342,30 @@
 [TECHLEVEL]1
 [ONLY_HANDHELD]
 
+[ID]55
+[TYP]3
+[NAME EN]Improved Cassette Tape Drive
+[NAME GE]Verbessertes Kassettenlaufwerk
+[NAME TU]Geliştirilmiş Kaset Sürücü
+[NAME ES]Unidad de Cinta de Casete Mejorada
+[NAME PB]Unidade de Fita Cassete Aprimorada
+[NAME JA]改良型カセットテープドライブ
+[NAME CH]改进型磁带驱动器
+[NAME CT]改良式錄音帶磁碟機
+[NAME IT]Unità a Nastro Cassette Migliorata
+[NAME FR]Lecteur de Cassette Amélioré
+[NAME PL]Ulepszony Napęd Kasetowy
+[NAME UA]Покращений Касетний Привід
+[NAME CZ]Vylepšený Kazetový Mechanismus
+[NAME TH]ไดรฟ์เทปคาสเซ็ตที่ปรับปรุงแล้ว
+[NAME RU]Улучшенный Кассетный Привод
+[DATE]JAN 1981
+[RES POINTS]238
+[PRICE]100000
+[DEV COSTS]300000
+[TECHLEVEL]2
+[ONLY_HANDHELD]
+
 [ID]56
 [TYP]3
 [NAME EN]5.25-Inch Floppy Disk Drive
@@ -1340,7 +1387,7 @@
 [RES POINTS]476
 [PRICE]150000
 [DEV COSTS]400000
-[TECHLEVEL]1
+[TECHLEVEL]2
 [ONLY_STATIONARY]
 
 [ID]57
