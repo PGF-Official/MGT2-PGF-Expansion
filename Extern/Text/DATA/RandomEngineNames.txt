@@ -1,0 +1,254 @@
+﻿Super Engine
+X-Engine
+Ultra Engine
+Mod-Engine
+GameTech
+GameEnx
+MegaTech
+Advanced-E
+Sol Engine
+Freetech Engine
+Daniu Engine
+Dog Engine
+Shock Engine
+Ice Engine
+ib Game Engine
+Thunder SDK
+C8 Game Engine
+Real Space
+Sphere Engine
+Gamma3D
+Dev Studio 3D
+Gameplay Tech
+A-Light Engine
+Axis SDK
+Troll Engine
+Bear Engine
+Mega Factory
+Z-Revolution
+RealPixel
+Quad Base
+Visual X
+Sync Game Engine
+ACX Engine
+AnimatiX
+Vector Engine
+E-Master Engine
+Titan Engine
+Matrix SDK
+Cell Engine
+Panther Studio
+Parallax Tech
+Level-Q Studio
+Video Game Engine
+Direct-G Engine
+Elite Tech
+Mayan Game Studio
+Galaxy Studio
+Rocket Game Engine
+Vortican Engine
+Conrad Engine
+Nuclear Tech
+Micro Engine
+Evolution Engine
+Astro Game Engine
+Pix-Tech
+Equonix Tech
+XenoTech
+Double Pixel Engine
+ExoTech Engine
+Chrome Tech
+Q-Tech Engine
+Mirage Game Studio
+Nemesis Game Studio
+Flash Engine
+Eclipse Studio
+Unreal Engine  
+Unity  
+Godot  
+CryEngine  
+GameMaker Studio  
+RPG Maker  
+Phaser  
+Cocos2d  
+Defold  
+Panda3D  
+Amazon Lumberyard  
+Source Engine  
+Frostbite  
+id Tech  
+Anvil  
+RE Engine  
+Creation Engine  
+Snowdrop  
+Red Engine  
+Crystal Tools  
+Fox Engine  
+IW Engine  
+MT Framework  
+Scimitar  
+UnityX  
+Flax Engine  
+Stride  
+GDevelop  
+Construct  
+PlayCanvas  
+MonoGame  
+Torque3D  
+Banshee Engine  
+Blender Game Engine  
+Ren'Py  
+Adventure Game Studio  
+Build Engine  
+GoldSrc  
+Quake Engine  
+LithTech  
+BigWorld  
+HeroEngine  
+Vision Engine  
+NeoAxis  
+Delta Engine  
+Open 3D Engine  
+A-Frame  
+Babylon.js  
+Blend4Web  
+jMonkeyEngine  
+HaxeFlixel  
+Love2D  
+Solar2D  
+Heaps  
+Armory3D  
+Polycode  
+GameSalad  
+Clickteam Fusion  
+Stencyl  
+Wintermute Engine  
+OpenBOR  
+OpenRA  
+OpenMW  
+OpenTTD  
+OpenXcom  
+Xenko  
+Duality  
+CraftStudio  
+Superpowers  
+GeeXLab  
+Raylib  
+Castle Game Engine  
+Maratis  
+Isogenic Engine  
+ImpactJS  
+MelonJS  
+Three.js  
+PlayCanvas  
+Turbulenz  
+QICI Engine  
+Egret Engine  
+PixiJS  
+Gideros  
+Corona SDK  
+Moai SDK  
+ShiVa3D  
+CopperLicht  
+Away3D  
+Papaya Engine  
+Gamebryo  
+RenderWare  
+KiriKiri  
+AGE  
+Infinity Engine  
+Aurora Engine  
+GemRB  
+TyranoBuilder  
+Ink  
+Twine  
+4A Engine  
+A-Frame  
+Adventure Game Interpreter  
+Adventure Game Studio  
+Aleph One  
+Amazon Lumberyard  
+Anvil  
+AppGameKit  
+Ardor3D  
+Aurora Toolset  
+Babylon.js  
+Blend4Web  
+Blender Game Engine  
+Build Engine  
+Carbon Engine  
+Cafu Engine  
+Cafu 3D  
+Cafu Game Engine  
+Canvas Engine  
+Cocos Creator  
+Cocos2d-x  
+CopperLicht  
+CryEngine
+DarkBASIC  
+DarkGDK  
+DimensioneX  
+Dragonfly  
+Duality  
+Ego Engine  
+Enlighten  
+Esenthel Engine  
+Flax Engine  
+Frostbite  
+Gamebryo  
+GameMaker Studio 
+GemRB  
+GoldSrc  
+Havok Vision  
+HeroEngine  
+Infinity Engine  
+Ink  
+Irrlicht  
+Isogenic Engine  
+jMonkeyEngine  
+KiriKiri  
+Leadwerks  
+LithTech  
+Love2D  
+Maratis  
+MelonJS  
+MonoGame  
+Nebula Device  
+NeoAxis  
+OGRE  
+OpenBOR  
+OpenMW  
+OpenRA  
+OpenTTD  
+OpenXcom  
+Panda3D  
+Papaya Engine  
+Phaser  
+PixiJS  
+PlayCanvas  
+Polycode  
+QICI Engine  
+Quake Engine  
+RAGE  
+Raylib  
+Red Engine  
+RenderWare  
+Ren'Py  
+Scimitar  
+ShiVa3D  
+Snowdrop  
+Solar2D  
+Source Engine  
+Stencyl  
+Stride  
+Superpowers  
+Turbulenz  
+Torque2D  
+Torque3D  
+Twine  
+Unigine  
+UnityX  
+Unreal Engine 
+Vision Engine  
+Wintermute Engine  
+Xenko  
