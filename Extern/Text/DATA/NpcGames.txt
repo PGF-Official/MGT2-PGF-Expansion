@@ -1,0 +1,2413 @@
+﻿////									NPC GAMES 									////
+// Tags:                                              		  						  //
+//                                                    		  						  //
+// <genre1><genre2>... 		= For what genre can this name be used.      			  //
+// <T(ID)> 					= What topic is used.    						  		  //
+// <ST(ID)> 				= What sub-topic is used.     					  		  //
+// <TG(0-4)>				= Target group used.                 		  		  	  //
+//								0 = Children                                          //
+//								1 = Teenagers                                         //
+//								2 = Adults                                            //
+//								3 = Seniors                                           //
+//								4 = All                                               //
+// <ROM>					= Roman Numbers for sequels.       						  //
+// <ARA>					= Arabic Numbers for sequels.							  //
+// <NOSPIN>					= No spin-offs allowed.									  //
+//                                                    		  						  //
+////////////////////////////////////////////////////////////////////////////////////////
+//
+//Line 20 = ID 0
+360 Degrees <1>
+3D Bowling USA <8>
+3D Virtual Pool <8>
+4 Elements <1>
+7.62 <14>
+A Kingdom for Keflings <9>
+A Way Out <2>
+A Year Of Rain <13>
+A-Train <9>
+AO Tennis <8>
+ARK Park <7>
+ATV <17>
+Academy of Darkness <2>
+Accelerated <17>
+Accelerator <17>
+Act of Danger <5>
+Action <5>
+Acts of Anarchy <5>
+Adrenalin Misfits <8>
+Adrum Conflict <13>
+Advanced Warfare <14>
+Adventure <3>
+Adventure Fun-Pak <3>
+Afterlife <3>
+Age of War <13>
+Agent 1000 <5>
+Agents And Hunters <5>
+Agents of Mayhem <5>
+Agrar Simulator <7><T48>
+Agriculture Company <9><T164>
+Air Wars <14><T19>
+Airline Manager <9><T164>
+Airline Tycoon <9><T164>
+Airport CEO <9><T164>
+Airport Empire <9><T164>
+Airport Manager <9><T164>
+Akuji the Heartless <3><T47>
+Alexander <13><T47>
+Alexy Girl <0><T128>
+Alice: Madness Returns <3><T47>
+Alien Arena <14><T19>
+Alien Attack <14><T19>
+Alien Legions <14><T19>
+Alien Quest <3><T47>
+Alien Rampage <3><T47>
+Alien Resurrection <14><T19>
+Alien Seed <14><T19>
+Alien Ship <14><T19>
+Alien Shooter <14><T19>
+Alien Warrior <14><T19>
+Alienattack <14><T19>
+Alliances and Space <13><T47>
+Alphashot <14><T19>
+Alterium Beast <3><T47>
+Amberdoom <3><T47>
+America's 10 Most Wanted <5><T11>
+American Conquest <13><T47>
+American Dream <3><T47>
+American Football <8><T180>
+American Fugitive <5><T11>
+Amped: Freestyle Snowboarding <8><T180>
+AnReal <5><T11>
+Anarchy and Alliances <13><T47>
+Anarchy and Wonder <13><T47>
+Anataris <13><T47>
+Ancient Domination <13><T47>
+Android Master <5><T11>
+Andying <5><T11>
+Angelrise <13><T47>
+Angels Five <3><T47>
+Animal Planet: Vet Life <3><T47>
+Anna Kurnikowa Tennis <8><T180>
+Another World <3><T47>
+Ant War <3><T47>
+Antares <13><T47>
+Anthem <3><T47>
+Antichamber <1><T128>
+Antitale <13><T47>
+Apache Air Assault <14><T19>
+Apache Strike <14><T19>
+Apees Exodus <1><T128>
+Apex Legends <14><T19>
+Approach <3><T47>
+Aquanox <14><T19>
+Aquatic Combat <14><T19>
+Aquinoxis <14><T19>
+Arcade Racer 3000 <17><T67>
+Arcanemaster <3><T47>
+Arcanetech <3><T47>
+Archery Masters <8><T180>
+Arctic Planet <3><T47>
+Area 51 <14><T19>
+Arena 2172 <14><T19>
+Arena <14><T19>
+Arena of Death <14><T19>
+Armageddon Predator <14><T19>
+Armed and Dangerous <5><T11>
+Armed to the Gears <5><T11>
+Armies And Cats <5><T11>
+Armies Of The Forest <5><T11>
+Armies of Exigo <13><T47>
+Armor Clash <13><T47>
+Armored Destruction <5><T11>
+Army Of A Shadow <5><T11>
+Army of Corruption <13><T47>
+Arx Fatalis <3><T47>
+Ashes <3><T47>
+Ask and Answer <1><T128>
+Asphalt <17><T67>
+Asphalt Urban GT <17><T67>
+Assault <5><T11>
+Assetto Corsa <17><T67>
+Asteroids Rescue <14><T19>
+Astrofight <14><T19>
+Astroneer <7><T48>
+Astrostorm <14><T19>
+Astroworks <1><T128>
+Atlantis <3><T47>
+Atomic Society <9><T164>
+Atominus <3><T47>
+Auto Age: Standoff <17><T67>
+Automation Empire <9><T164>
+Aventure <3><T47>
+Axiom Verge <3><T47>
+Aztec <9><T164>
+Aztek <9><T164>
+BADLAND <3><T47>
+BMX Heat <17><T67>
+BRINK <14><T19>
+Back To Water <3><T47>
+Back to Bed <3><T47>
+Back to Earth <3><T47>
+Bad Doctors <3><T47>
+Bad Machine <1><T128>
+Bad Treasure <1><T128>
+Bakugan: Defenders of the Core <10><T11>
+Balan Wonderworld <3><T47>
+Balance of Havoc <13><T47>
+Ballance <1><T128>
+Banana Bros <5><T11>
+Banished <9><T164>
+Bank Manager <9><T164>
+Barnstorming <3><T47>
+Baseball Fever <8><T180>
+Baseball Super Stars <8><T180>
+Basketball <8><T180>
+Basketslam <8><T180>
+Bastard <3><T47>
+Bastion <3><T47>
+Battle <5><T11>
+Battle Axe <5><T11>
+Battle Brothers <10><T11>
+Battle Mech <10><T11>
+Battle Princess Madelyn <3><T47>
+Battle Race <17><T67>
+Battle Universe <13><T47>
+Battle Warriors <10><T11>
+BattleTech <13><T47>
+Battlefleet Gothic <13><T47>
+Battlerain <13><T47>
+Beach Buggy <17><T67>
+Beach Buggy Racing <17><T67>
+Beach Resort Simulator <9><T164>
+Beach Super Stars <8><T180>
+Beach Taxi <17><T67>
+Beach Tycoon <9><T164>
+Beach Volleyball <8><T180>
+Beamrider <5><T11>
+Beast Busters <5><T11>
+Beasts And Aliens <10><T11>
+Beasts In The Elevator <3><T47>
+Beasts and Bumpkins <10><T11>
+Beasts of Bermuda <3><T47>
+Beasts of Twilight <13><T47>
+Bee Simulator <7><T48>
+Beer Tycoon <9><T164>
+Bendy and the Ink Machine <3><T47>
+Beneath a Iron Sky <3><T47>
+Bermuda <3><T47>
+Berzerk Quest <3><T47>
+Besiege <7><T48>
+Best of the Best <10><T11>
+Beyond the Titanic <3><T47>
+Big Airline Manager <9><T164>
+Big Biz Tycoon! <9><T164>
+Big Business Tycoon <9><T164>
+Big City <9><T164>
+Big Computer People <3><T47>
+Big Farm <9><T164>
+Big Football <8><T180>
+Big Nemo <3><T47>
+Big Park <9><T164>
+Big Penguin <3><T47>
+Big People <9><T164>
+Big Questions <1><T128>
+Big Samson <3><T47>
+BigFest <9><T164>
+Binary Choice <1><T128>
+BioMetal <5><T11>
+Bit Closer to Heaven <3><T47>
+Black Mesa <14><T19>
+Black Moon <3><T47>
+Black Moon Chronicles <3><T47>
+Black Ninja <10><T11>
+Black Sun <3><T47>
+Black The Fall <3><T47>
+Black Way <1><T128>
+Blackguards <3><T47>
+Blacksmith <3><T47>
+Blackwake <7><T48>
+Blade Fighter <10><T11>
+Bladeblaze <5><T11>
+Bladeguard <5><T11>
+Blake Stone: Aliens of Gold <14><T19>
+Blasphemous <3><T47>
+Blast Chamber <5><T11>
+Blaster Master Zero <3><T47>
+BlazBlue: Calamity Trigger <10><T11>
+Blazing Dragons <3><T47>
+Blazing Sails <5><T11>
+Bleach <10><T11>
+Bleach: Heat the Soul <10><T11>
+Bleeding Edge <5><T11>
+Block Five <5><T11>
+Blocklight <1><T128>
+Blood <14><T19>
+Blood Bowl <8><T180>
+Blood Drive <5><T11>
+Blood Kombat <10><T11>
+Blood Will Be Spilled <3><T47>
+BloodLust <10><T11>
+Bloodage <5><T11>
+Bloodborne <3><T47>
+Bloodstained <3><T47>
+Bloody Doors <5><T11>
+Bloody Effect <10><T11>
+Bloody Roads <5><T11>
+Bloody Roar <10><T11>
+Blue Abyss <5><T11>
+Blue Boyfriend <3><T47>
+Blue Fantasies <1><T128>
+Blue Fire <3><T47>
+Blue Max <5><T11>
+Blue Maxim <5><T11>
+Blue Spiders <3><T47>
+Bluemind <1><T128>
+Blueprint Tycoon <9><T164>
+Blur <17><T67>
+Bomb Runner <5><T11>
+Bombs <3><T47>
+Bombs and Cannons <5><T11>
+Bonanza Bros. <5><T11>
+Boomerang X <5><T11>
+Borrowed Time <3><T47>
+Botal <10><T11>
+Bothersome Hunnybunz <3><T47>
+Bottle <10><T11>
+Boulder <1><T128>
+Boulder Dash <1><T128>
+BoulderDash 5000 <5><T11>
+Bound by Flame <3><T47>
+Bowling Master <8><T180>
+Box Champion <10><T11>
+Boxing <8><T180>
+Boy Behind Me <3><T47>
+Boy's Legend <3><T47>
+Braid <3><T47>
+Brainstorm <1><T128>
+Bravo Sector <5><T11>
+Brawlhalla <10><T11>
+Break down <1><T128>
+Breakout <1><T128>
+Breath of Ice <3><T47>
+Bridge <3><T47>
+Bridge Constructor <7><T48>
+Bridge of Storm <13><T47>
+Bright Bird <13><T47>
+Bright Memory <5><T11>
+Bright Paw <1><T128>
+Bright Rain <13><T47>
+Broken Age <3><T47>
+Broken Edge <5><T11>
+Bronco <3><T47>
+Brothers in Arms <14><T19>
+Brutal Barbarians <10><T11>
+Brutalcraft <10><T11>
+Brutalfire <5><T11>
+Brutalspace <5><T11>
+Brute Force <13><T47>
+Bubble Shooter <3><T47>
+Bubbles <3><T47>
+Bucks Dream <3><T47>
+Buddies <5><T11>
+Buggy Racing <17><T67>
+Build-A-Bear Workshop <3><T47>
+Building Blocks <9><T164>
+Bullet Age <3><T47>
+Bullet Curse <5><T11>
+Bulletfight <13><T47>
+Bulletreign <13><T47>
+Burning Serpent <3><T47>
+Business Tycoon <9><T164>
+CONTROL <5><T11>
+Cabela's African Adventures <7><T48>
+Cabela's Big Game Hunter <7><T48>
+Cabela's Dangerous Hunts <7><T48>
+Caesar <9><T164>
+Campfire Cooking <3><T47>
+Can't Drive This <17><T67>
+Cannon Champion <5><T11>
+Captain Of Moondust <3><T47>
+Car <17><T67>
+Car Dealer <9><T164>
+Car Race <17><T67>
+Car Racing <17><T67>
+Car and Driver <17><T67>
+Caribbean <3><T47>
+Carrier Command <13><T47>
+Cars <17><T67>
+Cars Race-O-Rama <17><T67>
+Cartel Tycoon <9><T164>
+Casino Inc. <9><T164>
+Castle Action <3><T47>
+Castle Hero <13><T47>
+Castle Master <3><T47>
+Castle of Blood <10><T11>
+Castlegear <13><T47>
+Castlemaster <3><T47>
+Castleplan <9><T164>
+Castles and Crowns <13><T47>
+Cat Colony Crisis <7><T48>
+Cat Quest <3><T47>
+Cattle and Crops <7><T48>
+Caves Below <3><T47>
+Caves of Thor <3><T47>
+Cayleth Adventure <3><T47>
+Celeste <3><T47>
+Cell <1><T128>
+Cell Theory <1><T128>
+Celtic Kings: Rage of War <13><T47>
+Censaiden <5><T11>
+Center <1><T128>
+Center Of The Earth <3><T47>
+Championship Karate <10><T11>
+Champs of Fame <8><T180>
+Chaos Lords <3><T47>
+Chasm: The Rift <14><T19>
+Chemicals and Stars <1><T128>
+Chickens In My Town <3><T47>
+Child Of Joy <3><T47>
+Child of Light <3><T47>
+Children of Morta <3><T47>
+Chinatown <10><T11>
+Chopper Command <14><T19>
+Chopter <7><T48>
+Chuck Yeager's Advanced Flight Trainer <7><T48>
+City Bus Driver <7><T48>
+Clanlife <13><T47>
+Clans and History <13><T47>
+Claw <3><T47>
+Cleopatra <9><T164>
+Clones <1><T128>
+Cloud Lord <3><T47>
+Clown Of Stunts <3><T47>
+Clustertruck <3><T47>
+Coal - The Black Gold <9><T164>
+Cobra <5><T11>
+Cobra Quad <5><T11>
+Code 451 <5><T11>
+Code Dreamland <13><T47>
+Code Vein <3><T47>
+Code of Honor <5><T11>
+Codename Raiders <5><T11>
+Coffee Tycoon <9><T164>
+Cold Day in Hell <3><T47>
+Cold East <13><T47>
+Cold War <13><T47>
+Cold Waters <13><T47>
+Colonies of Androids <13><T47>
+Colony Crisis <7><T48>
+Colors <1><T128>
+Colors Of Outer Space <7><T48>
+Columbus <13><T47>
+Columnuss <3><T47>
+Comanche Action <7><T48>
+Combat <5><T11>
+Combatcorp <5><T11>
+Combatland <13><T47>
+Combustion <5><T11>
+Comic Girl <5><T11>
+Comic Kart <17><T67>
+Command <13><T47>
+Commander Red <5><T11>
+Computer Giant <9><T164>
+Constantino <13><T47>
+Construction Simulator <7><T48>
+Contact <5><T11>
+Contraband Police <7><T48>
+Cool Dissy <3><T47>
+Cool Kart Racer <17><T67>
+Cool Puzzle <1><T128>
+Cool Simon <3><T47>
+Cool Trains <9><T164>
+Core <13><T47>
+Corporation <5><T11>
+Corsair <7><T48>
+Corvette <17><T67>
+Cosmic Communter <5><T11>
+Cosmic Freedom <13><T47>
+Cossacks <13><T47>
+Countdown <10><T11>
+Cradias Gaiden <5><T11>
+Craft The World <13><T47>
+Crash 'n Burn <17><T67>
+Crash <3><T47>
+Crashday <17><T67>
+Crazy Baby <3><T47>
+Crazy Bingo <3><T47>
+Crazy Colors <1><T128>
+Crazy Drift <17><T67>
+Crazy Frog <3><T47>
+Crazy Machines <1><T128>
+Crazy Rabbit <3><T47>
+Crazy Tiger <10><T11>
+Crazy Truckers <17><T67>
+Creators Of The Shield <10><T11>
+Creators Of Wood <3><T47>
+Cricket Super Stars <8><T180>
+Cricketpro <8><T180>
+Cricketsim <8><T180>
+Crocos World <3><T47>
+Cross Days <15><T15>
+Crossbow Tales <3><T47>
+Crossroads Inn <7><T48>
+Crown Offensive <13><T47>
+Crowns and Gladiators <13><T47>
+Crowns and Machines <13><T47>
+Crystal Carnage <5><T11>
+Crystalcast <3><T47>
+Crystalcry <3><T47>
+Cult of the Lamb <5><T11>
+Cute Army: A Cat Story <5><T11>
+Cyber Driver <17><T67>
+Cyberball <8><T180>
+Cyberbots <10><T11>
+Cyberbots: Fullmetal Madness <10><T11>
+Cyberdroids <5><T11>
+Cyberforce <5><T11>
+Cyberrise <5><T11>
+Cyberstar <5><T11>
+Cyberstorm <10><T11>
+Cybertank 3D <5><T11>
+Cybertank <5><T11>
+Cyborg Warrior <5><T11>
+Big Superworm <3><T47>
+Big World <9><T164>
+DNS - Project <13><T47>
+Dakar <17><T67>
+Dandy <5><T11>
+Danganronpa <3><T47>
+Danger Express <5><T11>
+Dangerous Driving <17><T67>
+Dangerous Morning <5><T11>
+Daniels Hotel <3><T47>
+Dark Cave <3><T47>
+Dark Cloud <3><T47>
+Dark Envoy <3><T47>
+Dark Kiss <3><T47>
+Dark Messiah of Might and Magic <5><T11>
+Dark Metro <14><T19>
+Dark Sector <14><T19>
+Dark Shadows <5><T11>
+Dark Species <10><T11>
+Dark Spellcaster <3><T47>
+Dark Streets <10><T11>
+Dark Wasteland <3><T47>
+Dark X-Dungeons <3><T47>
+Dark Zools <3><T47>
+Darkage <3><T47>
+Darkcraft <13><T47>
+Darkest Dungeon <3><T47>
+Darkhunt <5><T11>
+Darkness <5><T11>
+Darkness Inside <5><T11>
+Darkness of the Sky <3><T47>
+Darkside <3><T47>
+Darkwatch <13><T47>
+Darkwing Pig <3><T47>
+Dart Champion <8><T180>
+Dart Unleashed <8><T180>
+Dauntless <3><T47>
+Dawn of Man <9><T164>
+Day Of The Moon <3><T47>
+Day of Defeat <14><T19>
+Dayfall <5><T11>
+Days of Thunder <17><T67>
+Dazzmania <3><T47>
+Dead Cells <3><T47>
+Dead In The Dungeons <3><T47>
+Dead Island <5><T11>
+Dead Space <5><T11>
+Dead World <13><T47>
+Deadfight <10><T11>
+Deadly Adventure <3><T47>
+Deadly Cannons <5><T11>
+Deadly Comanche <7><T48>
+Deadly Dogfights <7><T48>
+Deadly Dozen <14><T19>
+Deadly Premonition <3><T47>
+Death Rally <17><T67>
+Death Stranding <5><T11>
+Death of Elves <3><T47>
+Deathgarden <5><T11>
+Deaths Gambit <3><T47>
+Decathalon <8><T180>
+Deep Sea <5><T11>
+Defcore <5><T11>
+Deflektor Puzzle <1><T128>
+Democracy <7><T48>
+Demolition Man <5><T11>
+Demon Attack <5><T11>
+Demon Hunter <5><T11>
+Demon Wars <5><T11>
+Demonheart <3><T47>
+Demonic Speedway <17><T67>
+Demons <5><T11>
+Denchu <5><T11>
+Desert Planet <5><T11>
+Desert Thunder <14><T19>
+Destination Home <5><T11>
+Destroy of Logic <1><T128>
+Destruction AllStars <17><T67>
+Destruction Control <5><T11>
+Destruction Driver <17><T67>
+Destruction Initiative <14><T19>
+Destruction's Men <5><T11>
+Detective <1><T128>
+Detective Cooper <3><T47>
+Detroit <1><T128>
+Dice Legacy <9><T164>
+Die, Fuhrer, Die! <5><T11>
+Diesel Guns <17><T67>
+Digital Enigma <3><T47>
+Dirty Track <17><T67>
+Disco Elysium <3><T47>
+Discs of Tron <5><T11>
+Distant Kingdoms <9><T164>
+Divinum <3><T47>
+Dodgeballart <8><T180>
+Dog and Cat <3><T47>
+Dogcat <3><T47>
+Dogfight 1942 <7><T48>
+Dolmen <3><T47>
+Dolphin <5><T11>
+Domination and Corruption <13><T47>
+Don't Roll Away <3><T47>
+Double <1><T128>
+Double Bobble <3><T47>
+Double Cross <3><T47>
+Double Dragon <5><T11>
+Double Snakes <10><T11>
+Dr Mangle's Lab <5><T11>
+Dr No Body <5><T11>
+Dr. Atominus <3><T47>
+Dr.Bads Labor <3><T47>
+Drag Racing: Evolution <17><T67>
+Dragon Brothers <10><T11>
+Dragon Chronicles <3><T47>
+Dragon Crisis <13><T47>
+Dragon Hunter <3><T47>
+Dragon Liberation <13><T47>
+Dragonbot <5><T11>
+Dragonhunt <3><T47>
+Dragonpro <13><T47>
+Dragons And Mice <3><T47>
+Dragons of Conjury <3><T47>
+Dragons of Lioma <3><T47>
+Dragonsky <3><T47>
+Dragster <17><T67>
+Dreadrage <5><T11>
+Dreadshock <5><T11>
+Dreadtide <13><T47>
+DreamLand <13><T47>
+Dreamer of Sword <3><T47>
+Dreamland Story <3><T47>
+Dreammist <3><T47>
+Dreampath <1><T128>
+Dreamtiger <10><T11>
+Drift Champions <17><T67>
+Droid Of Sunshine <3><T47>
+Droids Of Eternity <3><T47>
+Drome Racers <17><T67>
+Druids And Werewolves <3><T47>
+Duke Caribbean: Life's A Beach <13><T47>
+Dungeon <5><T11>
+Dungeon Defenders <13><T47>
+Dungeon Fighter <5><T11>
+Dungeon Siege <3><T47>
+Dungeonhearth <3><T47>
+Dungeons of Doom <5><T11>
+Dunk Shot <8><T180>
+Durimy Fantasy <3><T47>
+Dustborn <3><T47>
+Duum <5><T11>
+Dwarrows <9><T164>
+Dynablade <5><T11>
+Dynamind <1><T128>
+Dynamite Dux <5><T11>
+Dynamite Joe <5><T11>
+Dynamityman <3><T47>
+Dynaphaser <1><T128>
+Echoes of Bureaucracy <9><T164>
+Egg of the Ancients <3><T47>
+Elastic Warfare <14><T19>
+Elevator Knights <3><T47>
+Ember of the Taxman <3><T47>
+Emergency Conflict <13><T47>
+Emoji Kombat <10><T11>
+Empire of the Left Sock <3><T47>
+Emperor's Storm <13><T47>
+Enclave <3><T47>
+Endless Memories <3><T47>
+Enduro <17><T67>
+Enduro Racer <17><T67>
+Enemy Zero <14><T19>
+Enslaved <3><T47>
+Enter the Wang <5><T11>
+Epic Chef <7><T48>
+Epic Destiny <3><T47>
+Eradicator <14><T19>
+Escape <3><T47>
+Escape from Tarkov <5><T11>
+Escape from the Moon <3><T47>
+Eternal Champions <10><T11>
+Eternal Signs <3><T47>
+Eurofighter Action <7><T48>
+Everybody's Golf <8><T180>
+Evil Bank Manager <9><T164>
+Evil Dragon <3><T47>
+Evil Genius <13><T47>
+Evil Zone <10><T11>
+Evomania <13><T47>
+Ex Machina <3><T47>
+Exdoomed <5><T11>
+Exolonia <5><T11>
+Experiences Of Time <1><T128>
+Explore GruzzleBad Caverns <5><T11>
+Extreme Contact <10><T11>
+Extreme Curves <17><T67>
+Extreme Decathlon <8><T180>
+Extreme Motors <17><T67>
+Extreme Sports Ultra <8><T180>
+Factory of Screams <9><T164>
+Fake Taxi Tycoon <9><T164>
+Fall of the Mustache King <3><T47>
+Fame and Misery <13><T47>
+Familymaster <1><T128>
+Fanatsy Warriors <10><T11>
+Fantasy 3D <5><T11>
+Fantasy Battlefield <13><T47>
+Fantasy Soccer <8><T180>
+Fantasy Sports <8><T180>
+Fantasy Sports Super Challenge <8><T180>
+Fantasy Tactics <13><T47>
+Fantasy World <3><T47>
+Farlight Explorers <7><T48>
+Farm Manager <9><T164>
+Farmhero <9><T164>
+Farming Simulator <7><T48>
+Fast Cars <17><T67>
+Fast Food Manager <9><T164>
+Fast Tracks <17><T67>
+Fat Frog <3><T47>
+Fatal Racing <17><T67>
+Fate/Tiger Colosseum <10><T11>
+Faxana <3><T47>
+Fear Effect <13><T47>
+Felizium <13><T47>
+Fernbus Simulator <7><T48>
+Fez <1><T128>
+Fields <1><T128>
+Fields of Siege <13><T47>
+Fight Night Round <8><T180>
+Fight Simulator <10><T11>
+Fight Spirit <10><T11>
+Fighter Squad <10><T11>
+Fighter Within <10><T11>
+Fighters And Elves <10><T11>
+Fighters Uncaged <10><T11>
+Fighting <10><T11>
+Fighting Soccer <8><T180>
+Fightinglife <10><T11>
+Fights of Blood <10><T11>
+Fightstyle <10><T11>
+Film Producer <9><T164>
+Final Assault <13><T47>
+Final Doom <14><T19>
+Final Exam <3><T47>
+Fire N' Water <3><T47>
+Fire of the Worlds <3><T47>
+FireTrack <8><T180>
+FireTrap <3><T47>
+Fireaxe <5><T11>
+Fires of Fortune <13><T47>
+Firewatch <3><T47>
+First Contact <5><T11>
+First Super Monk <5><T11>
+Fishing Sim World <7><T48>
+Fist Slash: Of Ultimate Fury <3><T47>
+FlatOut <17><T67>
+Fleet of Britain <13><T47>
+Fleetnight <13><T47>
+Flight Control <9><T164>
+Flight Sim <7><T48>
+Flight Unlimted <7><T48>
+Flightbots <7><T48>
+Flightcommand <7><T48>
+Flightstrike <7><T48>
+Flip and Flop <3><T47>
+Floating Fortress <5><T11>
+Flying Fortress <7><T48>
+Flying Hero <5><T11>
+Flying Isles <13><T47>
+Flying Taxi <7><T48>
+Football <8><T180>
+Football Fever <8><T180>
+Foray into the Fire <5><T11>
+Force Of The Slaves <5><T11>
+Force of Chaos <13><T47>
+Force of Pain <13><T47>
+Force of Wrath <13><T47>
+Forgotten Blade <3><T47>
+Forgotten Lands <5><T11>
+Forgotton Anne <3><T47>
+Formula One Master Challenge <17><T67>
+Forsaken Curse <3><T47>
+Fortress of Doom <5><T11>
+Fracked <8><T180>
+Fragile Allegiance <13><T47>
+Freedom Fighters <14><T19>
+Freescape Driller <7><T48>
+Freeway <5><T11>
+Freeze <1><T128>
+Freggy and Froggy <3><T47>
+Frog In My House <3><T47>
+Frogs And Bunnies <3><T47>
+Front Mission <3><T47>
+Front Mission: Alternative <13><T47>
+Front Mission: Gun Hazard <3><T47>
+Frontblade <13><T47>
+Frostbite <5><T11>
+Frostpunk <9><T164>
+Frozen Call <3><T47>
+Frozen Princess <3><T47>
+Frozen Sword <3><T47>
+Frozenheim <9><T164>
+Full Control <1><T128>
+Full Fire <10><T11>
+Full On Magic <1><T128>
+Full Spectrum Warrior <14><T19>
+Fumes <5><T11>
+Fuse <14><T19>
+Fussball Manager <9><T164>
+Future Alert <13><T47>
+Future Mega Cop <5><T11>
+Galactic Bureaucracy Tycoon <9><T164>
+Galaxy of Forgotten Passwords <3><T47>
+Game of Loans <9><T164>
+Garden of Violence <5><T11>
+Garlic & Gunpowder <5><T11>
+Gassy Gladiators <10><T11>
+Gate of the Unpaid Intern <3><T47>
+Gearshift Apocalypse <17><T67>
+Gemstone Bureau <9><T164>
+General Mayhem <13><T47>
+Ghosts of the DMV <3><T47>
+Giggle Protocol <1><T128>
+Gladiator Spreadsheet <9><T164>
+Glitch of Destiny <3><T47>
+Goat of War <10><T11>
+Goblin Tax Audit <9><T164>
+Golf Cart Carnage <17><T67>
+Granny Kombat <10><T11>
+Graveyard Shift Simulator <7><T48>
+Gremlin Accounting <9><T164>
+Grumpy Wizards <3><T47>
+Gunfight at the Salad Bar <5><T11>
+Hackathon Havoc <1><T128>
+Hamster Warfare <5><T11>
+Haunted Spreadsheet <9><T164>
+Helicopter of Regret <7><T48>
+Hero of the DMV <3><T47>
+High-Speed Bureaucracy <17><T67>
+Hoarders of the Realm <13><T47>
+Hotdog Tycoon <9><T164>
+Houseplant Gladiators <10><T11>
+Hoverboard Tax Evasion <17><T67>
+Hyperdrive Janitors <7><T48>
+Ice Cream Apocalypse <3><T47>
+Idle Dungeon Manager <9><T164>
+Invasion of the Budget Cuts <13><T47>
+Jellyfish Justice <5><T11>
+Jousting for Rent <9><T164>
+Jumpkick Bureau <10><T11>
+Karaoke Kombat <10><T11>
+Kingdom of Lost Socks <3><T47>
+Laser Llamas <5><T11>
+Lawnmower Knights <17><T67>
+Legend of the Overdraft <3><T47>
+Librarian Rampage <5><T11>
+Lootbox Empire <9><T164>
+Magic of the Filing Cabinet <3><T47>
+Mall Cop Simulator <7><T48>
+Mecha Bureau <13><T47>
+Microwave Mayhem <5><T11>
+Midnight Tax Return <3><T47>
+Milk Wars <5><T11>
+Minesweeper Reborn <1><T128>
+Monster Under the Desk <3><T47>
+Moonbase Bureau <13><T47>
+Moustache Tactics <13><T47>
+Mystery of the Missing Stapler <3><T47>
+Nap Quest <3><T47>
+Ninja Accountants <10><T11>
+Office of the Undead <3><T47>
+Outrageous Parking Simulator <7><T48>
+Overcooked Bureau <9><T164>
+Paintball Diplomacy <8><T180>
+Paperclip Apocalypse <1><T128>
+Paranormal Payroll <9><T164>
+Parking Lot Gladiators <10><T11>
+Penguin Warfare <5><T11>
+Petty Cash Crusade <9><T164>
+Phantom Filing <3><T47>
+Pixelated Bureaucrats <1><T128>
+Plumber of the Wasteland <3><T47>
+Potion Permit Office <9><T164>
+PowerPoint Warriors <10><T11>
+Quest for the Lost WiFi <3><T47>
+Rage Against the Printer <5><T11>
+Ramen Tycoon <9><T164>
+Revenge of the Receipts <9><T164>
+Robot Janitor Uprising <13><T47>
+Rocket-Powered Bureau <7><T48>
+Rollercoaster of Debt <9><T164>
+Royal Tax Simulator <9><T164>
+RPG: Revenue Processing Guild <9><T164>
+Rubber Duck Armada <13><T47>
+Sandwich Simulator <7><T48>
+Sasquatch HR Manager <9><T164>
+School of Bureaucracy <9><T164>
+Shadow of the Spreadsheet <3><T47>
+Shark Accountant <9><T164>
+Shouting Simulator <7><T48>
+Simulated Regret <1><T128>
+Snack Attack Arena <10><T11>
+Sock Puppet Empire <13><T47>
+Space Elevator Tycoon <9><T164>
+Spaghetti Showdown <5><T11>
+Spellcheck Sorcerers <3><T47>
+Spooky Filing Cabinet <3><T47>
+Spreadsheet Showdown <9><T164>
+Stairwell of Doom <3><T47>
+Starship Bureau <13><T47>
+Stealthy Sandwich <5><T11>
+Supermarket Siege <5><T11>
+Sword of the Intern <3><T47>
+Tactical Teapots <13><T47>
+Tax Evasion Tycoon <9><T164>
+Tea Party Tactics <13><T47>
+Tech Support Showdown <5><T11>
+Tentacle Bureau <13><T47>
+Toaster Defense Force <5><T11>
+Toilet Paper Tycoon <9><T164>
+Traffic Jam Simulator <7><T48>
+Trashcan Gladiators <10><T11>
+Treadmill of Fate <3><T47>
+Troll Payroll <9><T164>
+Turbo Bureau <17><T67>
+Typo Tactics <1><T128>
+Unicorn Tax Audit <9><T164>
+Unpaid Internship Simulator <9><T164>
+Vampire Bureau <3><T47>
+Vegetable Warfare <5><T11>
+Virtual Filing Cabinet <1><T128>
+Waffle Wars <5><T11>
+Wand of the Spreadsheet <3><T47>
+Wasteland HR <9><T164>
+Werewolf Accountant <9><T164>
+Wizard of Forms <3><T47>
+Zombie Bureaucracy <3><T47>
+Accounting Apocalypse <9><T164>
+Alien Tax Inspector <9><T164>
+Angry Librarians <5><T11>
+Antique Warfare <13><T47>
+Arcade of Regret <1><T128>
+Armchair Gladiators <10><T11>
+Asteroid Filing Crisis <13><T47>
+Banana Republic Tycoon <9><T164>
+Battle of the Budget Cuts <13><T47>
+Battlefield of Bureaucracy <13><T47>
+Bean Counter Blitz <9><T164>
+Bureau of Lost Souls <3><T47>
+Bureaucracy Kart <17><T67>
+Caffeine Crusaders <5><T11>
+Candy Corn Command <13><T47>
+Catastrophic Clerks <5><T11>
+Chair Simulator X <7><T48>
+Chaos in the Cubicle <5><T11>
+Clerical Combat <5><T11>
+Coffee Break Tactics <13><T47>
+Combat Spreadsheet <9><T164>
+Conquest of the Cubicle <13><T47>
+Corporate Crusade <9><T164>
+Cosmic Filing Frenzy <13><T47>
+Couch Knights <10><T11>
+Crayon Warfare <5><T11>
+Cursed Calculator <1><T128>
+Cybernetic Clerks <13><T47>
+Dance Dance Bureaucracy <8><T180>
+Deadlines & Dragons <3><T47>
+Desk Job Dungeon <3><T47>
+Doomed Deliverables <3><T47>
+Dragon Spreadsheet Saga <3><T47>
+Duct Tape Tactics <13><T47>
+Dungeon of Deadlines <3><T47>
+Eldritch HR <9><T164>
+Epic Email Quest <1><T128>
+Escape from Cubicle 9 <3><T47>
+Excel Warriors <9><T164>
+Executive Showdown <5><T11>
+Fantasy Filing Force <3><T47>
+Fast Food Gladiators <5><T11>
+Feline Bureau <3><T47>
+Filing Frenzy <9><T164>
+Flaming Staplers <5><T11>
+Floating Desk Simulator <7><T48>
+Galactic HR Crisis <13><T47>
+Ghosts of the Filing Room <3><T47>
+Goblin Office Party <3><T47>
+Graveyard Shift Tycoon <9><T164>
+Hamster CEO <9><T164>
+Haunted Office Simulator <3><T47>
+Hero of the Filing Cabinet <3><T47>
+High Stakes Stapler <5><T11>
+Hoverboard Bureaucrats <17><T67>
+Ice Cream Empire <9><T164>
+Intergalactic Paperwork <13><T47>
+Intern Kombat <10><T11>
+Jellybean Generals <13><T47>
+Keyboard Knights <10><T11>
+Kingdom of Coffee <9><T164>
+Laser Filing Squad <13><T47>
+Lawn Chair Commanders <10><T11>
+Legend of the Lost Memo <3><T47>
+Library Siege <5><T11>
+Lootbox Lords <9><T164>
+Magic of the Memo <3><T47>
+Mailroom Mayhem <5><T11>
+Mall of the Undead <3><T47>
+Manager of Mayhem <9><T164>
+Mecha Filing Force <13><T47>
+Microwave Gladiators <5><T11>
+Midnight Memo <3><T47>
+Monster of the Month Report <3><T47>
+Moonbase HR <9><T164>
+Moustache Bureau <9><T164>
+Mystery of the Missing Stapler 2 <3><T47>
+Nap Simulator 3000 <7><T48>
+Ninja Filing Force <10><T11>
+Office Escape Simulator <3><T47>
+Outrageous Office Olympics <8><T180>
+Overdraft Overlords <9><T164>
+Paintball Payroll <8><T180>
+Paperclip Command <13><T47>
+Paranormal Paperwork <3><T47>
+Parking Lot Tactics <13><T47>
+Penguin CEO <9><T164>
+Petty Cash Combat <5><T11>
+Phantom Office <3><T47>
+Pixelated Paper Pushers <1><T128>
+Plumber of the Apocalypse <5><T11>
+Potion Permit Bureau <9><T164>
+PowerPoint Paladins <10><T11>
+Quest for the Lost Password <3><T47>
+Rage Against the Memo <5><T11>
+Ramen Empire <9><T164>
+Receipts of Wrath <9><T164>
+Robot HR Simulator <9><T164>
+Rocket-Powered Filing <13><T47>
+Rollercoaster of Reimbursements <9><T164>
+Royal Memo Simulator <9><T164>
+RPG: Requisition Processing Guild <9><T164>
+Rubber Duck Diplomacy <13><T47>
+Sandwich Siege <5><T11>
+Sasquatch CEO <9><T164>
+School of Lost Memos <9><T164>
+Shadow of the Office <3><T47>
+Shark HR <9><T164>
+Shouting Simulator 2 <7><T48>
+Simulated Bureaucracy <1><T128>
+Snack Attack Tactics <5><T11>
+Sock Puppet Showdown <10><T11>
+Space Elevator Bureau <13><T47>
+Spaghetti Siege <5><T11>
+Spellcheck Showdown <1><T128>
+Spooky Office Party <3><T47>
+Spreadsheet Siege <9><T164>
+Stairwell Showdown <5><T11>
+Starship HR <13><T47>
+Stealthy Stapler <5><T11>
+Supermarket Siege 2 <5><T11>
+Sword of the Intern II <3><T47>
+Tactical Teacups <13><T47>
+Tax Audit Tycoon <9><T164>
+Tea Party Siege <13><T47>
+Tech Support Tactics <5><T11>
+Tentacle Filing Force <13><T47>
+Toaster Gladiators <5><T11>
+Toilet Paper Empire <9><T164>
+Traffic Jam Tycoon <9><T164>
+Trashcan Tactics <5><T11>
+Treadmill Tactics <8><T180>
+Troll HR <9><T164>
+Turbo Filing Force <17><T67>
+Typo Tactics 2 <1><T128>
+Unicorn CEO <9><T164>
+Unpaid Internship Tycoon <9><T164>
+Vampire Filing Force <3><T47>
+Vegetable Gladiators <5><T11>
+Virtual Memo Simulator <1><T128>
+Waffle Warfare <5><T11>
+Wand of the Memo <3><T47>
+Wasteland HR 2 <9><T164>
+Werewolf Filing Force <3><T47>
+Wizard of Forms 2 <3><T47>
+Zombie Filing Force <3><T47>
+Accounting Showdown <9><T164>
+Alien Memo Crisis <3><T47>
+Angry Accountants <5><T11>
+Antique Spreadsheet Saga <9><T164>
+Arcade of Anxiety <1><T128>
+Armchair Commanders <13><T47>
+Asteroid Audit <9><T164>
+Banana Budget Blitz <9><T164>
+Battle of the Briefcases <5><T11>
+Battlefield Bureau <13><T47>
+Bean Counter Clash <9><T164>
+Bureau of Shadows <3><T47>
+Bureaucracy Kart 2 <17><T67>
+Caffeine Command <5><T11>
+Candy Corn Crisis <3><T47>
+Catastrophic Clerks 2 <5><T11>
+Chair Simulator 2 <7><T48>
+Chaos in the Cubicle 2 <5><T11>
+Clerical Combat 2 <5><T11>
+Coffee Break Crusade <13><T47>
+Combat Spreadsheet 2 <9><T164>
+Conquest of the Cubicle 2 <13><T47>
+Corporate Clash <9><T164>
+Cosmic Filing Force <13><T47>
+Couch Gladiators <10><T11>
+Crayon Command <5><T11>
+Cursed Spreadsheet <1><T128>
+Cyber Clerks <13><T47>
+Dance Dance Filing <8><T180>
+Deadlines & Dragons 2 <3><T47>
+Desk Job Dungeon 2 <3><T47>
+Doomed Deliverables 2 <3><T47>
+Dragon Memo Saga <3><T47>
+Duct Tape Diplomacy <13><T47>
+Dungeon of Deadlines 2 <3><T47>
+Eldritch Office <3><T47>
+Epic Email Saga <1><T128>
+Escape from Cubicle 10 <3><T47>
+Excel Knights <9><T164>
+Executive Siege <5><T11>
+Fantasy Filing Force 2 <3><T47>
+Fast Food Commanders <5><T11>
+Feline Filing Force <3><T47>
+Filing Frenzy 2 <9><T164>
+Flaming Staplers 2 <5><T11>
+Floating Desk Simulator 2 <7><T48>
+Galactic HR Showdown <13><T47>
+Ghosts of the Filing Room 2 <3><T47>
+Goblin Office Party 2 <3><T47>
+Graveyard Shift Tycoon 2 <9><T164>
+Hamster CEO 2 <9><T164>
+Haunted Office Simulator 2 <3><T47>
+Hero of the Filing Cabinet 2 <3><T47>
+High Stakes Stapler 2 <5><T11>
+Hoverboard Bureaucrats 2 <17><T67>
+Ice Cream Empire 2 <9><T164>
+Intergalactic Paperwork 2 <13><T47>
+Intern Kombat 2 <10><T11>
+Jellybean Generals 2 <13><T47>
+Keyboard Knights 2 <10><T11>
+Kingdom of Coffee 2 <9><T164>
+Laser Filing Squad 2 <13><T47>
+Lawn Chair Commanders 2 <10><T11>
+Legend of the Lost Memo 2 <3><T47>
+Library Siege 2 <5><T11>
+Lootbox Lords 2 <9><T164>
+Magic of the Memo 2 <3><T47>
+Mailroom Mayhem 2 <5><T11>
+Mall of the Undead 2 <3><T47>
+Manager of Mayhem 2 <9><T164>
+Mecha Filing Force 2 <13><T47>
+Microwave Gladiators 2 <5><T11>
+Midnight Memo 2 <3><T47>
+Monster of the Month Report 2 <3><T47>
+Moonbase HR 2 <9><T164>
+Moustache Bureau 2 <9><T164>
+Mystery of the Missing Stapler 3 <3><T47>
+Nap Simulator 4000 <7><T48>
+Ninja Filing Force 2 <10><T11>
+Office Escape Simulator 2 <3><T47>
+Outrageous Office Olympics 2 <8><T180>
+Overdraft Overlords 2 <9><T164>
+Paintball Payroll 2 <8><T180>
+Paperclip Command 2 <13><T47>
+Paranormal Paperwork 2 <3><T47>
+Parking Lot Tactics 2 <13><T47>
+Penguin CEO 2 <9><T164>
+Petty Cash Combat 2 <5><T11>
+Phantom Office 2 <3><T47>
+Pixelated Paper Pushers 2 <1><T128>
+Plumber of the Apocalypse 2 <5><T11>
+Potion Permit Bureau 2 <9><T164>
+PowerPoint Paladins 2 <10><T11>
+Quest for the Lost Password 2 <3><T47>
+Rage Against the Memo 2 <5><T11>
+Ramen Empire 2 <9><T164>
+Receipts of Wrath 2 <9><T164>
+Robot HR Simulator 2 <9><T164>
+Rocket-Powered Filing 2 <13><T47>
+Rollercoaster of Reimbursements 2 <9><T164>
+Royal Memo Simulator 2 <9><T164>
+RPG: Requisition Processing Guild 2 <9><T164>
+Rubber Duck Diplomacy 2 <13><T47>
+Ashes of Valor <13><T47>
+Battlefield Echo <14><T19>
+Bloodline Protocol <5><T11>
+Broken Signal <3><T47>
+Chrono Divide <3><T47>
+City of Echoes <9><T164>
+Cold Horizon <3><T47>
+Command Vector <13><T47>
+Crimson Reign <5><T11>
+Dark Sector: Eclipse <14><T19>
+Deadlight Syndicate <5><T11>
+Deep Protocol <14><T19>
+Delta Shift <5><T11>
+Descent: Blackout <14><T19>
+Dominion Core <13><T47>
+Echoes of Iron <13><T47>
+Edge of Silence <3><T47>
+Empire Drift <17><T67>
+Endstate <14><T19>
+Eternal Siege <13><T47>
+Fall of Meridian <3><T47>
+Final Directive <14><T19>
+Firestorm Legacy <5><T11>
+Forgotten Signal <3><T47>
+Fractured Alliance <13><T47>
+Frostline <3><T47>
+Ghost Protocol: Extraction <5><T11>
+Gloryfront <13><T47>
+Grey Sector <14><T19>
+Hollow March <3><T47>
+Iron Pulse <14><T19>
+Kingdoms of Dust <3><T47>
+Last Ember <3><T47>
+Legacy of Steel <13><T47>
+Lightfall <3><T47>
+Lunar Divide <14><T19>
+Magnetron <1><T128>
+Midnight Protocol <5><T11>
+Neon Bastion <5><T11>
+Nightfall Syndicate <5><T11>
+Nova Reign <13><T47>
+Obsidian Crown <3><T47>
+Operation Blackwake <14><T19>
+Orbital Command <13><T47>
+Outpost Zero <13><T47>
+Overclocked <1><T128>
+Phantom Line <5><T11>
+Project Revenant <14><T19>
+Quantum Rift <1><T128>
+Radiant Core <13><T47>
+Redshift Protocol <14><T19>
+Remnant Field <13><T47>
+Rogue Horizon <3><T47>
+Runes of Ashenhold <3><T47>
+Scorched Earth: Uprising <14><T19>
+Shadowfront <13><T47>
+Signal Lost <1><T128>
+Silent Vector <5><T11>
+Skyhold Dominion <13><T47>
+Solar Reign <13><T47>
+Specter Unit <5><T11>
+Starlight Armada <13><T47>
+Steel Requiem <14><T19>
+Stormbound <13><T47>
+Subsurface <3><T47>
+Syndicate Protocol <13><T47>
+System Override <1><T128>
+Tactical Horizon <13><T47>
+Terminal Conflict <14><T19>
+The Ashen Pact <3><T47>
+The Forgotten War <13><T47>
+The Last Directive <14><T19>
+The Outer Signal <3><T47>
+Titanfall Legacy <14><T19>
+Twilight Siege <13><T47>
+Underwatch <5><T11>
+Unreal Dominion <13><T47>
+Urban Reclaimer <5><T11>
+Vectorline <1><T128>
+Void Protocol <14><T19>
+Warfare Nexus <13><T47>
+Wasteland Crown <3><T47>
+Whiteout <3><T47>
+Zero Hour: Extraction <14><T19>
+FIFA: Rise of Substitutes <8><T180>
+FIFA: Ultimate Sidelines <8><T180>
+FIFA: Manager Meltdown <8><T180>
+FIFA: Red Card Revolution <8><T180>
+FIFA: VAR Protocol <8><T180>
+FIFA: League of Whistles <8><T180>
+FIFA: Transfer Turmoil <8><T180>
+FIFA: Grassroots Glory <8><T180>
+FIFA: Penalty Showdown <8><T180>
+FIFA: World Cup of Chaos <8><T180>
+Call of Booty: Tactical Pants <14><T19>
+Call of Duty: Spreadsheet Ops <14><T19>
+Call of Duty: Queue for Extraction <14><T19>
+Call of Duty: Reloaded Bureau <14><T19>
+Call of Duty: Ghosted <14><T19>
+Call of Duty: Infinite Deadlines <14><T19>
+Call of Duty: Modern Excuses <14><T19>
+Call of Duty: Blackout Protocol <14><T19>
+Call of Duty: Warzone of Regret <14><T19>
+Call of Duty: Tactical Misfire <14><T19>
+Helldivers: Bureaucratic Drop <14><T19>
+Helldivers: Mission Misclick <14><T19>
+Helldivers: Friendly Firestorm <14><T19>
+Helldivers: Galactic Paperwork <14><T19>
+Helldivers: Tactical Panic <14><T19>
+Helldivers: Dropzone Dilemma <14><T19>
+Helldivers: Democracy Unleashed <14><T19>
+Helldivers: Alien Audit <14><T19>
+Helldivers: Chaos Command <14><T19>
+Helldivers: Super Earth Shutdown <14><T19>
+Need for Speed: Parking Lot Panic <17><T67>
+Need for Speed: Bureaucratic Drift <17><T67>
+Need for Speed: Red Light Rampage <17><T67>
+Need for Speed: Traffic Jam Turbo <17><T67>
+Need for Speed: License to Stall <17><T67>
+Need for Speed: DMV Showdown <17><T67>
+Need for Speed: Midnight Oil <17><T67>
+Need for Speed: Speedtrap Saga <17><T67>
+Need for Speed: Curbside Carnage <17><T67>
+Need for Speed: Road Rage Royale <17><T67>
+Battlefield: Paperclip Protocol <14><T19>
+Battlefield: Office Siege <14><T19>
+Battlefield: Tactical Typo <14><T19>
+Battlefield: Deskbound Division <14><T19>
+Battlefield: Cubicle Combat <14><T19>
+Battlefield: Requisition Wars <13><T47>
+Battlefield: Memo of Honor <13><T47>
+Battlefield: Strategic Misfire <13><T47>
+Battlefield: Command & Coffee <13><T47>
+Battlefield: Operation Overdue <14><T19>
+Shadow Protocol <14><T19>
+Crimson Drift <17><T67>
+Echoes of War <13><T47>
+Final Directive <14><T19>
+Steel Horizon <14><T19>
+Quantum Siege <13><T47>
+Urban Pursuit <17><T67>
+Zero Rebellion <5><T11>
+Silent Dominion <3><T47>
+Neon Outlaws <14><T19>
+Tactical Override <13><T47>
+Wasteland Circuit <17><T67>
+Ghostline <5><T11>
+Iron Pulse <14><T19>
+Solar Bastion <13><T47>
+Midnight Protocol <5><T11>
+Obsidian Order <3><T47>
+Rapid Response <14><T19>
+Twilight Siege <13><T47>
+Deadzone Syndicate <5><T11>
+Craterfall <3><T47>
+Velocity Burn <17><T67>
+Ashen Pact <3><T47>
+Overdrive Syndicate <17><T67>
+Phantom Core <14><T19>
+Rogue Horizon <3><T47>
+Stormbound <13><T47>
+Black Echo <5><T11>
+Titan Circuit <17><T67>
+Radiant Collapse <3><T47>
+Operation Frostline <14><T19>
+Gravemind <3><T47>
+Pulsefire <14><T19>
+Redshift Protocol <14><T19>
+Command Vector <13><T47>
+Broken Signal <1><T128>
+Skyhold Dominion <13><T47>
+Entropy Wars <13><T47>
+Crimson Reign <5><T11>
+Subterra <3><T47>
+Final Horizon <14><T19>
+Echofront <13><T47>
+Steel Requiem <14><T19>
+Runes of Ashenhold <3><T47>
+Oblivion Pact <3><T47>
+Delta Reign <13><T47>
+Specter Unit <5><T11>
+Operation Blackwake <14><T19>
+Vectorline <1><T128>
+Underwatch <5><T11>
+Twilight Protocol <13><T47>
+Magnetron <1><T128>
+Neon Bastion <5><T11>
+Cyberfront <14><T19>
+Silent Vector <5><T11>
+Redline Conflict <17><T67>
+Ashes of Valor <13><T47>
+Nova Reign <13><T47>
+Terminal Conflict <14><T19>
+Riftborn <3><T47>
+Void Protocol <14><T19>
+Urban Reclaimer <5><T11>
+Tactical Horizon <13><T47>
+Broken Citadel <3><T47>
+Digital Eclipse <1><T128>
+Starlight Armada <13><T47>
+Final Directive <14><T19>
+Bloodline Protocol <5><T11>
+Chrono Divide <3><T47>
+City of Echoes <9><T164>
+Cold Horizon <3><T47>
+Crimson Vector <14><T19>
+Dark Sector: Eclipse <14><T19>
+Deadlight Syndicate <5><T11>
+Deep Protocol <14><T19>
+Descent: Blackout <14><T19>
+Dominion Core <13><T47>
+Echoes of Iron <13><T47>
+Edge of Silence <3><T47>
+Empire Drift <17><T67>
+Endstate <14><T19>
+Eternal Siege <13><T47>
+Fall of Meridian <3><T47>
+Firestorm Legacy <5><T11>
+Forgotten Signal <3><T47>
+Fractured Alliance <13><T47>
+Frostline <3><T47>
+Ghost Protocol: Extraction <5><T11>
+Gloryfront <13><T47>
+Grey Sector <14><T19>
+Hollow March <3><T47>
+Iron Rebellion <13><T47>
+Kingdoms of Dust <3><T47>
+Last Ember <3><T47>
+Legacy of Steel <13><T47>
+Lightfall <3><T47>
+Lunar Divide <14><T19>
+Midnight Siege <13><T47>
+Neon Requiem <5><T11>
+Nightfall Syndicate <5><T11>
+Obsidian Crown <3><T47>
+Orbital Command <13><T47>
+Outpost Zero <13><T47>
+Overclocked <1><T128>
+Phantom Line <5><T11>
+Project Revenant <14><T19>
+Quantum Rift <1><T128>
+Radiant Core <13><T47>
+Redshift Bastion <13><T47>
+Remnant Field <13><T47>
+Rogue Bastion <5><T11>
+Scorched Earth: Uprising <14><T19>
+Shadowfront <13><T47>
+Signal Lost <1><T128>
+Skyforge Dominion <13><T47>
+Solar Reign <13><T47>
+Specter Protocol <5><T11>
+Starlight Siege <13><T47>
+Steel Horizon <14><T19>
+Stormbound <13><T47>
+Subsurface <3><T47>
+Syndicate Protocol <13><T47>
+System Override <1><T128>
+Tactical Override <13><T47>
+Terminal Siege <14><T19>
+The Ashen Pact <3><T47>
+The Forgotten War <13><T47>
+The Last Directive <14><T19>
+The Outer Signal <3><T47>
+Titanfall Legacy <14><T19>
+Twilight Siege <13><T47>
+Underwatch <5><T11>
+Unreal Dominion <13><T47>
+Urban Reclaimer <5><T11>
+Vectorline <1><T128>
+Void Protocol <14><T19>
+Warfare Nexus <13><T47>
+Wasteland Crown <3><T47>
+Whiteout <3><T47>
+Zero Hour: Extraction <14><T19>
+Aegis Protocol <14><T19>
+Anomaly Drift <1><T128>
+Arcblade <10><T11>
+Ashen Core <3><T47>
+Atlas Reborn <13><T47>
+Binary Reign <1><T128>
+Black Echo <5><T11>
+Bloodspire <5><T11>
+Broken Citadel <3><T47>
+Carbon Siege <13><T47>
+Celestial Divide <3><T47>
+Chrono Rebellion <3><T47>
+Cinderfall <3><T47>
+Citadel of Dust <3><T47>
+Cloudbreaker <17><T67>
+Cold Protocol <14><T19>
+Command Nexus <13><T47>
+Crimson Vector <14><T19>
+Dark Horizon <3><T47>
+Deadzone <14><T19>
+Deepstrike <14><T19>
+Delta Reign <13><T47>
+Descent Vector <14><T19>
+Digital Eclipse <1><T128>
+Dreadpoint <5><T11>
+Echofront <13><T47>
+Edge of Ruin <3><T47>
+Endless Siege <13><T47>
+Entropy Wars <13><T47>
+Erebus Rising <3><T47>
+Exile Protocol <5><T11>
+Fall of Aether <3><T47>
+Final Horizon <14><T19>
+Fireline <5><T11>
+Frostborn <3><T47>
+Ghostline <5><T11>
+Gravemind <3><T47>
+Greyfall <3><T47>
+Halo Drift <14><T19>
+Iron Rebellion <13><T47>
+Kingdoms of Hollow <3><T47>
+Last Signal <1><T128>
+Lightforge <3><T47>
+Lunar Bastion <13><T47>
+Magnetide <1><T128>
+Midnight Siege <13><T47>
+Neon Requiem <5><T11>
+Night Protocol <5><T11>
+Nova Bastion <13><T47>
+Oblivion Pact <3><T47>
+Operation Frostline <14><T19>
+Orbital Siege <13><T47>
+Outrider Core <14><T19>
+Overwatch: Blackout <5><T11>
+Phantom Bastion <5><T11>
+Project Eclipse <1><T128>
+Quantum Bastion <13><T47>
+Radiant Siege <13><T47>
+Redline Conflict <17><T67>
+Remnant Protocol <14><T19>
+Riftborn <3><T47>
+Rogue Bastion <5><T11>
+Runes of Dominion <3><T47>
+Scorched Protocol <14><T19>
+Shadow Reign <13><T47>
+Signalfall <1><T128>
+Silent Bastion <5><T11>
+Skyforge Dominion <13><T47>
+Solar Bastion <13><T47>
+Specter Protocol <5><T11>
+Starlight Siege <13><T47>
+Steel Horizon <14><T19>
+Stormfront <13><T47>
+Subterra <3><T47>
+Syndicate Bastion <13><T47>
+Systemfall <1><T128>
+Tactical Reign <13><T47>
+Terminal Siege <14><T19>
+The Ashen Order <3><T47>
+The Forgotten Bastion <13><T47>
+The Last Horizon <14><T19>
+The Outer Bastion <13><T47>
+Titanfall Echo <14><T19>
+Twilight Protocol <13><T47>
+Underfire <5><T11>
+Unreal Bastion <13><T47>
+Urban Siege <5><T11>
+Vectorfall <1><T128>
+Void Rebellion <14><T19>
+Warfare Protocol <13><T47>
+Wasteland Protocol <3><T47>
+Whitefall <3><T47>
+Zero Bastion <14><T19>
+Ashen Rebellion <3><T47>
+Binary Dominion <1><T128>
+Crimson Protocol <14><T19>
+Deadlight Horizon <5><T11>
+Echoes of Silence <3><T47>
+Final Bastion <13><T47>
+Ghostline Tactics <5><T11>
+Iron Divide <14><T19>
+Kingdoms of Ruin <3><T47>
+Last Emberfall <3><T47>
+Lightforge Rising <3><T47>
+Lunar Siege <13><T47>
+Magnetron Drift <1><T128>
+Midnight Reign <13><T47>
+Neon Collapse <5><T11>
+Nightfall Protocol <5><T11>
+Nova Directive <14><T19>
+Obsidian Rift <3><T47>
+Operation Redshift <14><T19>
+Orbital Bastion <13><T47>
+Outpost Reclaimer <13><T47>
+Overclock Protocol <1><T128>
+Phantom Siege <5><T11>
+Project Dominion <13><T47>
+Quantum Collapse <1><T128>
+Radiant Horizon <13><T47>
+Redline Pursuit <17><T67>
+Remnant Bastion <13><T47>
+Rift Protocol <3><T47>
+Rogue Directive <5><T11>
+Runes of Silence <3><T47>
+Scorched Bastion <14><T19>
+Shadow Drift <13><T47>
+Signal Protocol <1><T128>
+Silent Reign <5><T11>
+Skyhold Protocol <13><T47>
+Solar Divide <13><T47>
+Specter Rebellion <5><T11>
+Starlight Protocol <13><T47>
+Steel Collapse <14><T19>
+Storm Siege <13><T47>
+Subterra Reign <3><T47>
+Syndicate Rebellion <13><T47>
+System Reclaimer <1><T128>
+Tactical Collapse <13><T47>
+Terminal Bastion <14><T19>
+The Ashen Divide <3><T47>
+The Forgotten Protocol <13><T47>
+The Last Rebellion <14><T19>
+The Outer Collapse <3><T47>
+Twilight Reign <13><T47>
+Underwatch Protocol <5><T11>
+Unreal Rebellion <13><T47>
+Urban Collapse <5><T11>
+Vector Protocol <1><T128>
+Void Bastion <14><T19>
+Warfare Collapse <13><T47>
+Wasteland Reign <3><T47>
+Whiteout Protocol <3><T47>
+Zero Directive <14><T19>
+Aegis Rebellion <14><T19>
+Anomaly Protocol <1><T128>
+Arcblade Rising <10><T11>
+Ashen Bastion <3><T47>
+Atlas Collapse <13><T47>
+Binary Siege <1><T128>
+Black Reign <5><T11>
+Bloodspire Protocol <5><T11>
+Broken Horizon <3><T47>
+Carbon Rebellion <13><T47>
+Celestial Bastion <3><T47>
+Chrono Collapse <3><T47>
+Cinder Reign <3><T47>
+Citadel Protocol <3><T47>
+Cloudbreaker Rebellion <17><T67>
+Cold Reclaimer <14><T19>
+Command Bastion <13><T47>
+Crimson Collapse <14><T19>
+Dark Rebellion <3><T47>
+Deadzone Protocol <14><T19>
+Deep Reclaimer <14><T19>
+Delta Bastion <13><T47>
+Descent Protocol <14><T19>
+Digital Reign <1><T128>
+Dreadline <5><T11>
+Echofront Rebellion <13><T47>
+Edge of Collapse <3><T47>
+Endless Reign <13><T47>
+Entropy Protocol <13><T47>
+Erebus Protocol <3><T47>
+Exile Rebellion <5><T11>
+Fall of Silence <3><T47>
+Final Collapse <14><T19>
+Fireline Protocol <5><T11>
+Frostborn Reign <3><T47>
+Ghostline Collapse <5><T11>
+Gravemind Protocol <3><T47>
+Greyfall Rebellion <3><T47>
+Iron Reclaimer <13><T47>
+Kingdoms of Silence <3><T47>
+Last Signal Protocol <1><T128>
+Lightforge Protocol <3><T47>
+Lunar Rebellion <13><T47>
+Magnetide Protocol <1><T128>
+Midnight Collapse <13><T47>
+Neon Protocol <5><T11>
+Night Reclaimer <5><T11>
+Nova Collapse <13><T47>
+Oblivion Reign <3><T47>
+Operation Bastion <14><T19>
+Orbital Reclaimer <13><T47>
+Outrider Protocol <14><T19>
+Overwatch Collapse <5><T11>
+Phantom Reign <5><T11>
+Project Reclaimer <1><T128>
+Quantum Reign <1><T128>
+Radiant Collapse <13><T47>
+Redline Protocol <17><T67>
+Remnant Rebellion <14><T19>
+Rift Reclaimer <3><T47>
+Rogue Collapse <5><T11>
+Runes of Rebellion <3><T47>
+Scorched Reign <14><T19>
+Shadow Protocol <13><T47>
+Signal Reclaimer <1><T128>
+Silent Collapse <5><T11>
+Skyforge Reign <13><T47>
+Solar Protocol <13><T47>
+Specter Collapse <5><T11>
+Starlight Reclaimer <13><T47>
+Steel Protocol <14><T19>
+Storm Rebellion <13><T47>
+Subterra Protocol <3><T47>
+Syndicate Collapse <13><T47>
+System Protocol <1><T128>
+Tactical Reclaimer <13><T47>
+Terminal Reign <14><T19>
+The Ashen Collapse <3><T47>
+The Forgotten Reclaimer <13><T47>
+The Last Protocol <14><T19>
+The Outer Rebellion <3><T47>
+Twilight Collapse <13><T47>
+Underfire Protocol <5><T11>
+Unreal Reclaimer <13><T47>
+Urban Reign <5><T11>
+Vector Reclaimer <1><T128>
+Void Reclaimer <14><T19>
+Warfare Reclaimer <13><T47>
+Wasteland Protocol <3><T47>
+Whitefall Reign <3><T47>
+Zero Reclaimer <14><T19>
+Orbital Command <7><T48>
+Nova Reign <7><T48>
+Lunar Divide <7><T48>
+Starlight Armada <7><T48>
+Void Protocol <7><T48>
+Outpost Zero <7><T48>
+Solar Bastion <7><T48>
+Echoes of the Rift <7><T48>
+Cosmic Drift <7><T48>
+Terminal Orbit <7><T48>
+Arcblade <10><T11>
+Bloodspire <10><T11>
+Crimson Arena <10><T11>
+Shadow Brawl <10><T11>
+Iron Clash <10><T11>
+Specter Unit <10><T11>
+Obsidian Fighters <10><T11>
+Rogue Combat <10><T11>
+Steel Fist <10><T11>
+Twilight Duel <10><T11>
+Dominion Core <13><T47>
+Entropy Wars <13><T47>
+Radiant Collapse <13><T47>
+Command Vector <13><T47>
+Skyhold Dominion <13><T47>
+Tactical Override <13><T47>
+Fractured Alliance <13><T47>
+Stormbound <13><T47>
+Syndicate Protocol <13><T47>
+Twilight Siege <13><T47>
+Signal Lost <1><T128>
+Digital Eclipse <1><T128>
+Magnetron <1><T128>
+Quantum Shift <1><T128>
+Echo Grid <1><T128>
+Shadowplay <1><T128>
+Circuit Collapse <1><T128>
+Neural Drift <1><T128>
+Puzzleframe <1><T128>
+Logicfall <1><T128>
+Final Formation <8><T180>
+Deadball League <8><T180>
+Kickoff Protocol <8><T180>
+Penalty Showdown <8><T180>
+Grassroots Glory <8><T180>
+Transfer Turmoil <8><T180>
+League of Whistles <8><T180>
+Stadium Siege <8><T180>
+Tactical Playmaker <8><T180>
+World Cup of Chaos <8><T180>
+Redline Drift <17><T67>
+Turbo Reign <17><T67>
+Velocity Burn <17><T67>
+Midnight Pursuit <17><T67>
+Neon Circuit <17><T67>
+Overdrive Syndicate <17><T67>
+Crimson Rally <17><T67>
+Terminal Speed <17><T67>
+Quantum Racer <17><T67>
+Urban Velocity <17><T67>
+Runes of Ashenhold <3><T47>
+Kingdoms of Dust <3><T47>
+Obsidian Pact <3><T47>
+Chrono Rebellion <3><T47>
+Ashen Core <3><T47>
+Twilight Sigil <3><T47>
+Gravemind <3><T47>
+Cinderfall <3><T47>
+Echoes of Valor <3><T47>
+The Hollow March <3><T47>
+Crimson Trigger <14><T19>
+Deadzone Protocol <14><T19>
+Ironfire <14><T19>
+Bulletwake <14><T19>
+Tactical Collapse <14><T19>
+Zero Extraction <14><T19>
+Ghostline Assault <14><T19>
+Operation Redshift <14><T19>
+Steel Recoil <14><T19>
+Warfare Nexus <14><T19>
+Bunny Bounce <0><T128>
+Rainbow Rescue <0><T128>
+Tiny Tank Trouble <0><T128>
+Bubble Quest <0><T128>
+Snacktime Showdown <0><T128>
+Fuzzy Fortress <0><T128>
+Puzzle Pals <0><T128>
+Giggle Galaxy <0><T128>
+Toybox Tactics <0><T128>
+Magic Crayon Adventure <0><T128>
+Echoes of the Hollow <2><T47>
+The Forgotten Path <2><T47>
+Whispers of the Vale <2><T47>
+Lanternbound <2><T47>
+Dreamwalker <2><T47>
+The Last Storyteller <2><T47>
+Twilight Caravan <2><T47>
+Letters from Nowhere <2><T47>
+The Longest Rain <2><T47>
+Ashes of Memory <2><T47>
+Empire Architect <9><T164>
+City of Gears <9><T164>
+Mall Tycoon: Rebooted <9><T164>
+Pixel Planner <9><T164>
+Suburb Simulator <9><T164>
+Factory Frontier <9><T164>
+Tower Tycoon <9><T164>
+Budget Builder <9><T164>
+District Manager <9><T164>
+Gridline Empire <9><T164>
+Blockscape <6><T128>
+Craftstorm <6><T128>
+Dreamforge <6><T128>
+Sandbox Saga <6><T128>
+Pixel Painter <6><T128>
+Buildbound <6><T128>
+Creative Collapse <6><T128>
+Sketchworld <6><T128>
+Brickverse <6><T128>
+Openworld Oddity <6><T128>
+Glitchfield <4><T128>
+Signaljam <4><T128>
+Neuroverse <4><T128>
+Echoform <4><T128>
+Fragment Protocol <4><T128>
+Unstable Orbit <4><T128>
+Chaos Engineered <4><T128>
+The Abstract Layer <4><T128>
+Quantum Bloom <4><T128>
+Nullspace <4><T128>
+Blood Harvest <5><T11>
+Darkness Within <5><T11>
+The Last Pulse <5><T11>
+Cursed Hollow <5><T11>
+Echoes of Fear <5><T11>
+Deadlight Ascent <5><T11>
+Graveborn <5><T11>
+Phantom Warden <5><T11>
+Shadow of Hunger <5><T11>
+Wraith Protocol <5><T11>
+Runes of the Ancients <11><T47>
+Spellbound Legacy <11><T47>
+Mythborn <11><T47>
+Arcane Dominion <11><T47>
+Chronicles of the Sigil <11><T47>
+The Wandering Flame <11><T47>
+Mystic Reign <11><T47>
+Echoes of the Oracle <11><T47>
+Sorcery Unbound <11><T47>
+The Forgotten Tome <11><T47>
+Casefile Echo <12><T15>
+The Crimson Ledger <12><T15>
+Detective Protocol <12><T15>
+Shadow Evidence <12><T15>
+Crimewave <12><T15>
+The Last Witness <12><T15>
+Puzzle of Guilt <12><T15>
+The Hollow Alibi <12><T15>
+Interrogation Room <12><T15>
+The Missing Truth <12><T15>
+Letters to Ember <15><T15>
+The Last Embrace <15><T15>
+Heartline <15><T15>
+Twilight Promises <15><T15>
+Love in the Fog <15><T15>
+The Quiet Flame <15><T15>
+Echoes of Us <15><T15>
+Rosebound <15><T15>
+The Long Goodbye <15><T15>
+Starlight Confessions <15><T15>
+Logic Lab <18><T128>
+Mathstorm <18><T128>
+History Quest <18><T128>
+Eco Empire <18><T128>
+Wordbound <18><T128>
+Science Siege <18><T128>
+Puzzle Academy <18><T128>
+Codecraft <18><T128>
+Brainwave Builder <18><T128>
+The Learning Grid <18><T128>
+Bullet Protocol <14><T19>
+Crimson Barrage <14><T19>
+Deadzone Recoil <14><T19>
+Echoes of Fire <14><T19>
+Final Extraction <14><T19>
+Ghostline Siege <14><T19>
+Ironfront <14><T19>
+Last Directive <14><T19>
+Midnight Barricade <14><T19>
+Nova Trigger <14><T19>
+Operation Blackwake <14><T19>
+Phantom Assault <14><T19>
+Pulsefire <14><T19>
+Redshift Conflict <14><T19>
+Shadow Barrage <14><T19>
+Silent Recoil <14><T19>
+Steel Horizon <14><T19>
+Stormfire <14><T19>
+Tactical Override <14><T19>
+Terminal Siege <14><T19>
+Twilight Barricade <14><T19>
+Underwatch <14><T19>
+Urban Offensive <14><T19>
+Vectorline <14><T19>
+Warfare Protocol <14><T19>
+Ashen Sigil <3><T47>
+Bloodbound <3><T47>
+Chrono Vale <3><T47>
+Cinderlight <3><T47>
+Echoes of the Hollow <3><T47>
+Ember Pact <3><T47>
+Frostborn Legacy <3><T47>
+Gravemind <3><T47>
+Kingdoms of Clay <3><T47>
+Lanternbound <3><T47>
+Lightforge <3><T47>
+Mystic Reign <3><T47>
+Obsidian Crown <3><T47>
+Runes of Silence <3><T47>
+Shadowmarch <3><T47>
+Sorcery Unbound <3><T47>
+Spellbound Dominion <3><T47>
+Starlight Sigil <3><T47>
+The Forgotten Flame <3><T47>
+The Hollow Pact <3><T47>
+Twilight Caravan <3><T47>
+Vale of Whispers <3><T47>
+Warden of Ashes <3><T47>
+Wraithborn <3><T47>
+Zephyrblade <3><T47>
+Asphalt Reign <17><T67>
+Burnout Syndicate <17><T67>
+Circuit Overdrive <17><T67>
+Crimson Drift <17><T67>
+Deadlap <17><T67>
+Drift Horizon <17><T67>
+Fastline <17><T67>
+Gearshift Protocol <17><T67>
+Gridstorm <17><T67>
+Iron Rally <17><T67>
+Last Lap Legends <17><T67>
+Midnight Pursuit <17><T67>
+Neon Velocity <17><T67>
+Nitro Rebellion <17><T67>
+Overdrive Circuit <17><T67>
+Quantum Racer <17><T67>
+Redline Burn <17><T67>
+Roadrage Royale <17><T67>
+Speedtrap Saga <17><T67>
+Street Apex <17><T67>
+Terminal Drift <17><T67>
+Turbo Reign <17><T67>
+Urban Velocity <17><T67>
+Velocity Burnout <17><T67>
+Zero Traction <17><T67>
+Ballistic League <8><T180>
+Champions of the Pitch <8><T180>
+Deadball Protocol <8><T180>
+Final Formation <8><T180>
+Goalstorm <8><T180>
+Grassroots Glory <8><T180>
+Kickoff Rebellion <8><T180>
+League of Whistles <8><T180>
+Midfield Mayhem <8><T180>
+Penalty Showdown <8><T180>
+Playmaker Protocol <8><T180>
+Red Card Rampage <8><T180>
+Sideline Siege <8><T180>
+Stadium Clash <8><T180>
+Substitution Wars <8><T180>
+Tactical Kickers <8><T180>
+Transfer Turmoil <8><T180>
+Ultimate Sidelines <8><T180>
+VAR Uprising <8><T180>
+Victory Whistle <8><T180>
+World Cup Chaos <8><T180>
+Zone Defense <8><T180>
+Header Havoc <8><T180>
+Offside Protocol <8><T180>
+Goalkeeper’s Gambit <8><T180>
+Circuit Collapse <1><T128>
+Codegrid <1><T128>
+Digital Bloom <1><T128>
+Echoform <1><T128>
+Fragment Protocol <1><T128>
+Glitchfield <1><T128>
+Logicfall <1><T128>
+Magnetron <1><T128>
+Neural Drift <1><T128>
+Nullspace <1><T128>
+Puzzleframe <1><T128>
+Quantum Bloom <1><T128>
+Shadowplay <1><T128>
+Signaljam <1><T128>
+The Abstract Layer <1><T128>
+Thoughtline <1><T128>
+Unstable Orbit <1><T128>
+Vectorlock <1><T128>
+Wordbound <1><T128>
+Mindshift <1><T128>
+Logicstorm <1><T128>
+Patternfall <1><T128>
+Gridlock Echo <1><T128>
+Synapse Puzzle <1><T128>
+Brainwave Protocol <1><T128>
+Budget Empire <13><T47>
+Command Nexus <13><T47>
+District Manager <13><T47>
+Dominion Core <13><T47>
+Empire Architect <13><T47>
+Entropy Wars <13><T47>
+Factory Frontier <13><T47>
+Fractured Alliance <13><T47>
+Gridline Empire <13><T47>
+Mall Tycoon: Rebooted <13><T47>
+Pixel Planner <13><T47>
+Radiant Collapse <13><T47>
+Skyhold Dominion <13><T47>
+Stormbound <13><T47>
+Suburb Simulator <13><T47>
+Syndicate Protocol <13><T47>
+Tactical Override <13><T47>
+Tower Tycoon <13><T47>
+Twilight Siege <13><T47>
+Urban Strategist <13><T47>
+Warfare Nexus <13><T47>
+Zone Architect <13><T47>
+City of Gears <13><T47>
+Terminal Planner <13><T47>
+District Reign <13><T47>
+Arcblade <10><T11>
+Bloodspire <10><T11>
+Crimson Arena <10><T11>
+Dark Brawl <10><T11>
+Echo Clash <10><T11>
+Fistbound <10><T11>
+Iron Duel <10><T11>
+Last Stand Arena <10><T11>
+Obsidian Fighters <10><T11>
+Phantom Combat <10><T11>
+Rogue Clash <10><T11>
+Shadow Fist <10><T11>
+Specter Unit <10><T11>
+Steel Rebellion <10><T11>
+Storm Arena <10><T11>
+Terminal Brawl <10><T11>
+Twilight Duel <10><T11>
+Underwatch Arena <10><T11>
+Urban Fighters <10><T11>
+Vector Combat <10><T11>
+Warfist <10><T11>
+Zero Clash <10><T11>
+Punch Protocol <10><T11>
+Combat Reign <10><T11>
+Gladiator Grid <10><T11>
+Crimson Sentinel <10><T11>
+Shadow Titan <10><T11>
+Iron Vow <10><T11>
+Nova Justice <10><T11>
+Echoblade <10><T11>
+Quantum Valor <10><T11>
+Stormborn Legacy <2><T47>
+The Vigilant <10><T11>
+Obsidian Guardian <10><T11>
+Solar Warden <10><T11>
+Midnight Pact <2><T47>
+The Sovereign Code <2><T47>
+Pulsebreaker <10><T11>
+The Ember Directive <2><T47>
+Steelheart Protocol <10><T11>
+The Last Paragon <2><T47>
+Phantom Reign <10><T11>
+Justice Vector <10><T11>
+The Arcbound <2><T47>
+Titanfall Legacy <10><T11>
+The Radiant Order <2><T47>
+Warden of the Rift <10><T11>
+Chrono Sentinel <10><T11>
+The Crimson Pact <2><T47>
+Echoes of Honor <2><T47>
+The Unyielding <10><T11>
+Valorstorm <10><T11>
+The Hollow Mask <2><T47>
+Shadow Protocol <10><T11>
+The Infinite Guard <2><T47>
+Pulseborn <10><T11>
+The Sovereign Flame <2><T47>
+Quantum Crusade <10><T11>
+The Ember Watch <2><T47>
+Steelbound <10><T11>
+The Last Directive <2><T47>
+Oblivion Pact <10><T11>
+The Vigil Protocol <2><T47>
+Stormveil <10><T11>
+The Titan Accord <2><T47>
+Echoblade Rebellion <10><T11>
+The Radiant Pact <2><T47>
+Crimson Valor <10><T11>
+The Paragon Code <2><T47>
+Shadowbound <10><T11>
+The Infinite Pact <2><T47>
+Nova Protocol <10><T11>
+The Ember Guard <2><T47>
+Iron Reign <10><T11>
+The Sovereign Rift <2><T47>
+Pulsefire Legacy <10><T11>
+The Titan Protocol <2><T47>
+Justiceborn <10><T11>
+The Arc Directive <2><T47>
+Stormbreaker Pact <10><T11>
+The Crimson Guard <2><T47>
+Quantum Sentinel <10><T11>
+The Ember Accord <2><T47>
+Steelveil <10><T11>
+The Last Crusade <2><T47>
+Obsidian Pact <10><T11>
+The Vigilant Flame <2><T47>
+Shadow Reign <10><T11>
+The Sovereign Watch <2><T47>
+Nova Crusade <10><T11>
+The Titan Guard <2><T47>
+Echobound <10><T11>
+The Radiant Flame <2><T47>
+Crimson Crusade <10><T11>
+The Paragon Pact <2><T47>
+Iron Protocol <10><T11>
+The Infinite Flame <2><T47>
+Pulseborn Rebellion <10><T11>
+The Ember Code <2><T47>
+Justice Protocol <10><T11>
+The Sovereign Legacy <2><T47>
+Stormbound Reign <10><T11>
+The Titan Watch <2><T47>
+Quantum Pact <10><T11>
+The Crimson Protocol <2><T47>
+Steelborn <10><T11>
+The Last Flame <2><T47>
+Obsidian Reign <10><T11>
+The Vigilant Pact <2><T47>
+Shadow Crusade <10><T11>
+The Sovereign Protocol <2><T47>
+Nova Reign <10><T11>
+The Titan Flame <2><T47>
+Echofire <10><T11>
+The Radiant Guard <2><T47>
+Crimson Protocol <10><T11>
+The Paragon Reign <2><T47>
+Ironbound <10><T11>
+The Infinite Pact <2><T47>
+Pulseveil <10><T11>
+The Ember Reign <2><T47>
+Justice Rebellion <10><T11>
+The Sovereign Crusade <2><T47>
+Stormfire <10><T11>
+The Titan Legacy <2><T47>
+The Vanguard Accord <2><T47>
+Echo Force <10><T11>
+The Radiant Circle <2><T47>
+Titanwatch <10><T11>
+The Ember Coalition <2><T47>
+Nova Pact <10><T11>
+The Sovereign Guard <2><T47>
+Justice Vector <10><T11>
+The Infinite Flame <2><T47>
+Pulsebound <10><T11>
+The Crimson League <2><T47>
+Steelheart Alliance <10><T11>
+The Paragon Order <2><T47>
+Stormbound Unity <10><T11>
+The Arc Directive <2><T47>
+Obsidian Shield <10><T11>
+The Titan Protocol <2><T47>
+Valorfront <10><T11>
+The Vigilant Flame <2><T47>
+Chrono Guard <10><T11>
+The Sovereign Pact <2><T47>
+Echoblade Syndicate <10><T11>
+The Ember Watch <2><T47>
+Justiceborn <10><T11>
+The Radiant Pact <2><T47>
+Shadowline Alliance <10><T11>
+The Infinite Guard <2><T47>
+Steelbound Unity <10><T11>
+The Titan Accord <2><T47>
+Nova Reign <10><T11>
+Crimson Tyrant <10><T11>
+The Hollow Crown <5><T11>
+Oblivion Syndicate <10><T11>
+Dark Dominion <5><T11>
+The Iron Curse <10><T11>
+Shadow Sovereign <10><T11>
+Warden of Ruin <5><T11>
+The Ember Scourge <10><T11>
+Phantom Empire <5><T11>
+The Last Dictator <10><T11>
+Nova Malice <10><T11>
+The Sovereign Rot <5><T11>
+Pulsebreaker <10><T11>
+The Crimson Order <10><T11>
+Steelborn Tyranny <10><T11>
+The Infinite Grasp <5><T11>
+Obsidian Reign <10><T11>
+The Radiant Plague <5><T11>
+Justicebreaker <10><T11>
+The Titan Blight <5><T11>
+Echoes of Control <5><T11>
+The Arc Syndicate <10><T11>
+Stormveil Conquest <10><T11>
+The Paragon’s Fall <5><T11>
+Ironbound Chaos <10><T11>
+The Ember Throne <5><T11>
+Shadow Pact <10><T11>
+The Sovereign Collapse <5><T11>
+Pulsefire Tyrant <10><T11>
+The Crimson Eclipse <5><T11>
+Ashes of Oracles <3><T47>
+Ashes of Oracles: The Hollow Flame <3><T47>
+Ashes of Oracles: Echoes of the Pact <3><T47>
+Ashes of Oracles: The Sovereign Mask <3><T47>
+Ashes of Oracles: Warden of the Rift <3><T47>
+Ashes of Oracles: The Ember Accord <3><T47>
+Ashes of Oracles: Twilight Sigil <3><T47>
+Ashes of Oracles: The Forgotten Crown <3><T47>
+Ashes of Oracles: The Radiant Curse <3><T47>
+Ashes of Oracles: The Paragon’s Fall <3><T47>
+Oracles: Tactics of the Flame <13><T47>
+Oracles: Dominion Protocol <13><T47>
+Oracles: Echoes of the Labyrinth <1><T128>
+Oracles: The Crimson Ledger <12><T15>
+Oracles: Trial of the Warden <10><T11>
+Oracles: The Arcane Duelist <10><T11>
+Oracles: The Last Pariah <2><T47>
+Oracles: Cursebound <5><T11>
+Oracles: The Hollow Pact <15><T15>
+Oracles: The Ember Watch <2><T47>
+Ashes of Oracles: Shattered Realms <3><T47>
+Ashes of Oracles: The Oracle’s Grasp <3><T47>
+Ashes of Oracles: Blood of the Heralds <3><T47>
+Ashes of Oracles: The Sigil Reclaimed <3><T47>
+Ashes of Oracles: Chains of the Sovereign <3><T47>
+Ashes of Oracles: The Flame Below <3><T47>
+Ashes of Oracles: Pactbreaker’s Trial <3><T47>
+Ashes of Oracles: The Oracle’s Tomb <3><T47>
+Ashes of Oracles: The Warden’s Wake <3><T47>
+Ashes of Oracles: The Mask Unbound <3><T47>
+Ashes of Oracles: Requiem of the Rift <3><T47>
+Ashes of Oracles: Sovereign Eclipse <3><T47>
+Ashes of Oracles: Oracleborn <3><T47>
+Ashes of Oracles: The Pact Rewritten <3><T47>
+Ashes of Oracles: The Sigil of Dust <3><T47>
+Ashes of Oracles: The Ember Reversed <3><T47>
+Ashes of Oracles: The Hollow Reign <3><T47>
+Ashes of Oracles: The Flame Reforged <3><T47>
+Ashes of Oracles: The Oracle’s Silence <3><T47>
+Ashes of Oracles: The Sovereign’s Dream <3><T47>
+Oracles: Sigilbound <6><T47>
+Oracles: Emberlight <1><T128>
+Oracles: Pactfall <5><T11>
+Oracles: Sovereign’s Gambit <9><T164>
+Oracles: Oracle’s Echo <15><T15>
+Oracles: The Masked Flame <2><T47>
+Oracles: Twilight Bloom <3><T47>
+Oracles: The Hollow Thread <2><T47>
+Oracles: Emberveil <3><T47>
+Oracles: Oracle’s Descent <3><T47>
+Fracturepoint <14><T19>
+Fracturepoint: Black Echo <14><T19>
+Fracturepoint: Phantom Directive <14><T19>
+Fracturepoint: Crimson Protocol <14><T19>
+Fracturepoint: Tactical Collapse <14><T19>
+Fracturepoint: Ghostline Siege <14><T19>
+Fracturepoint: Terminal Reign <14><T19>
+Fracturepoint: Shadowfront <14><T19>
+Fracturepoint: Operation Emberwake <14><T19>
+Fracturepoint: Sovereign Rift <14><T19>
+Fracturepoint: Echoes of War <14><T19>
+Fracturepoint: Dominion Core <13><T47>
+Fracturepoint: Command Nexus <13><T47>
+Fracturepoint: Radiant Collapse <13><T47>
+Fracturepoint: Skyhold Protocol <13><T47>
+Fracturepoint: Tactical Override <13><T47>
+Fracturepoint: Syndicate Protocol <13><T47>
+Fracturepoint: Twilight Siege <13><T47>
+Fracturepoint: Subterra Reign <13><T47>
+Fracturepoint: Warfare Nexus <13><T47>
+Fracturepoint: The Paragon Accord <2><T47>
+Fracturepoint: The Ember Pact <2><T47>
+Fracturepoint: The Sovereign Flame <2><T47>
+Fracturepoint: The Last Directive <2><T47>
+Fracturepoint: The Hollow Mask <2><T47>
+Fracturepoint: The Infinite Guard <2><T47>
+Fracturepoint: The Vigilant Flame <2><T47>
+Fracturepoint: The Titan Protocol <2><T47>
+Fracturepoint: The Radiant Order <2><T47>
+Fracturepoint: The Arc Directive <2><T47>
+Fracturepoint: Pulsebreaker <10><T11>
+Fracturepoint: Ironbound <10><T11>
+Fracturepoint: Steelheart Arena <10><T11>
+Fracturepoint: Obsidian Clash <10><T11>
+Fracturepoint: Shadow Brawl <10><T11>
+Fracturepoint: Crimson Duel <10><T11>
+Fracturepoint: Specter Unit <10><T11>
+Fracturepoint: Justiceborn <10><T11>
+Fracturepoint: Valorfront <10><T11>
+Fracturepoint: Stormveil Combat <10><T11>
+Fracturepoint: Echo Grid <1><T128>
+Fracturepoint: Logicfall <1><T128>
+Fracturepoint: Quantum Bloom <1><T128>
+Fracturepoint: Signaljam <1><T128>
+Fracturepoint: Puzzleframe <1><T128>
+Fracturepoint: Circuit Collapse <1><T128>
+Fracturepoint: Thoughtline <1><T128>
+Fracturepoint: Fragment Protocol <1><T128>
+Fracturepoint: Shadowplay <1><T128>
+Fracturepoint: Gridlock Echo <1><T128>
+Neuroveil <3><T47>
+Neuroveil: The Hollow Signal <3><T47>
+Neuroveil: Echoes of the Mind <3><T47>
+Neuroveil: The Sovereign Thread <3><T47>
+Neuroveil: Oracle’s Descent <3><T47>
+Neuroveil: The Ember Dream <3><T47>
+Neuroveil: Sigil of Silence <3><T47>
+Neuroveil: The Paragon’s Grasp <3><T47>
+Neuroveil: Twilight Bloom <3><T47>
+Neuroveil: The Masked Flame <3><T47>
+Neuroveil: Pulse of Memory <2><T47>
+Neuroveil: The Last Whisper <2><T47>
+Neuroveil: Threads of Fate <2><T47>
+Neuroveil: The Infinite Pact <2><T47>
+Neuroveil: The Radiant Echo <2><T47>
+Neuroveil: The Vigil Protocol <2><T47>
+Neuroveil: The Sovereign Watch <2><T47>
+Neuroveil: The Ember Accord <2><T47>
+Neuroveil: The Titan’s Dream <2><T47>
+Neuroveil: The Forgotten Flame <2><T47>
+Neuroveil: Dominion Protocol <13><T47>
+Neuroveil: Tactical Reign <13><T47>
+Neuroveil: Command Collapse <13><T47>
+Neuroveil: Skyhold Dominion <13><T47>
+Neuroveil: Radiant Core <13><T47>
+Neuroveil: Syndicate Rebellion <13><T47>
+Neuroveil: Twilight Siege <13><T47>
+Neuroveil: Subterra Nexus <13><T47>
+Neuroveil: Warfare Directive <13><T47>
+Neuroveil: Sovereign Collapse <13><T47>
+Neuroveil: Phantom Reign <14><T19>
+Neuroveil: Blackout Protocol <14><T19>
+Neuroveil: Crimson Barrage <14><T19>
+Neuroveil: Tactical Silence <14><T19>
+Neuroveil: Ghostline Extraction <14><T19>
+Neuroveil: Ironfront <14><T19>
+Neuroveil: Stormbound Assault <14><T19>
+Neuroveil: Terminal Conflict <14><T19>
+Neuroveil: Shadow Directive <14><T19>
+Neuroveil: Emberwake Siege <14><T19>
+Neuroveil: Sigilbound <1><T128>
+Neuroveil: Logicstorm <1><T128>
+Neuroveil: Thoughtbreaker <1><T128>
+Neuroveil: Puzzle of Echoes <1><T128>
+Neuroveil: Circuit of Silence <1><T128>
+Neuroveil: Gridline Collapse <1><T128>
+Neuroveil: Quantum Thread <1><T128>
+Neuroveil: Fragment Bloom <1><T128>
+Neuroveil: Neural Rift <1><T128>
+Neuroveil: Echoform <1><T128>
+Neuroveil: Origins of the Sigil <3><T47>
+Neuroveil: The First Oracle <3><T47>
+Neuroveil: Emberborn <3><T47>
+Neuroveil: The Sovereign Seed <3><T47>
+Neuroveil: Twilight Genesis <3><T47>
+Neuroveil: The Pact Forged <3><T47>
+Neuroveil: Warden of the Flame <3><T47>
+Neuroveil: The Mask Awakens <3><T47>
+Neuroveil: Threads of the Rift <3><T47>
+Neuroveil: The Hollow Dawn <3><T47>
+Neuroveil: Dominion Rising <13><T47>
+Neuroveil: Tactical Genesis <13><T47>
+Neuroveil: The Ember Accord Begins <13><T47>
+Neuroveil: Skyhold Rising <13><T47>
+Neuroveil: The Sovereign Protocol <13><T47>
+Neuroveil: The First Collapse <13><T47>
+Neuroveil: Pulsefire Awakening <14><T19>
+Neuroveil: Ghostline Genesis <14><T19>
+Neuroveil: Black Echo Rising <14><T19>
+Neuroveil: Operation Dawnfire <14><T19>
+Neuroveil: The Crimson Directive <14><T19>
+Iron Vow <14><T19>
+Iron Vow: Ember Protocol <14><T19>
+Iron Vow: Dominion Strike <14><T19>
+Iron Vow: Red Echo <14><T19>
+Dominion Strike: Blackout <14><T19>
+Red Echo: Tactical Collapse <14><T19>
+Iron Vow: Phantom Line <14><T19>
+Phantom Line: Extraction Zone <14><T19>
+Extraction Zone: Sovereign Fire <14><T19>
+Sovereign Fire: Final Directive <14><T19>
+Final Directive: Shadowfront <14><T19>
+Shadowfront: Operation Emberwake <14><T19>
+Operation Emberwake: Ghost Protocol <14><T19>
+Ghost Protocol: Recoil <14><T19>
+Recoil: Crimson Pact <14><T19>
+Crimson Pact: Terminal Conflict <14><T19>
+Terminal Conflict: Echoes of Iron <14><T19>
+Echoes of Iron: Tactical Override <14><T19>
+Tactical Override: Dominion Core <13><T47>
+Dominion Core: Skyhold Protocol <13><T47>
+Skyhold Protocol: Radiant Collapse <13><T47>
+Radiant Collapse: Subterra Reign <13><T47>
+Subterra Reign: Warfare Nexus <13><T47>
+Warfare Nexus: Twilight Siege <13><T47>
+Twilight Siege: Sovereign Accord <13><T47>
+Sovereign Accord: The Ember Pact <3><T47>
+The Ember Pact: Oracle’s Wake <3><T47>
+Oracle’s Wake: Sigil of Silence <3><T47>
+Sigil of Silence: The Hollow Crown <3><T47>
+The Hollow Crown: Threads of Fate <3><T47>
+Threads of Fate: Pactbound <3><T47>
+Pactbound: Warden’s Requiem <3><T47>
+Warden’s Requiem: Twilight Bloom <3><T47>
+Twilight Bloom: The Masked Flame <3><T47>
+The Masked Flame: Origins of the Sigil <3><T47>
+Origins of the Sigil: Emberborn <3><T47>
+Emberborn: The Sovereign Seed <3><T47>
+The Sovereign Seed: Genesis of the Oracle <3><T47>
+Genesis of the Oracle: The First Flame <3><T47>
+The First Flame: Vault of Silence <3><T47>
+Vault of Silence: Echoform <1><T128>
+Echoform: Neural Rift <1><T128>
+Neural Rift: Quantum Bloom <1><T128>
+Quantum Bloom: Gridline Collapse <1><T128>
+Gridline Collapse: Circuitfall <1><T128>
+Circuitfall: Fragment Protocol <1><T128>
+Fragment Protocol: Thoughtbreaker <1><T128>
+Thoughtbreaker: Sigilbound <1><T128>
+Sigilbound: Oracle Redux <3><T47>
+Oracle Redux: Iron Vow Reforged <14><T19>
