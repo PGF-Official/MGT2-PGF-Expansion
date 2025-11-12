@@ -510,5 +510,4 @@ Ghost Realm <2><5><12><14><16><M2>
 Monster Escape <5><13><14><16><M2>
 Magic Puzzle <1><6><14><16><M1>
 Alien Hero <3><5><13><14><16><M2>
-
 Monster Adventure <3><5><13><14><15><M2>
