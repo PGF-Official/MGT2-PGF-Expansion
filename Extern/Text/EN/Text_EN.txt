@@ -1,4 +1,4 @@
-<b>Build a Room</b><br>Here you can build rooms.
+﻿<b>Build a Room</b><br>Here you can build rooms.
 -
 -
 -
@@ -13,7 +13,7 @@ Artificial Intelligence
 Physics
 Gameplay
 Controls
-Online
+Multiplayer
 Enable/disable all
 Build a Room
 Close
@@ -760,7 +760,7 @@ Unanswered questions: <NUM>
 Golden record received
 Your game <color=blue><NAME></color> is considered a groundbreaking milestone in the video game industry and has set a new trend.
 Trendsetter
-PGF Games Awards
+Mad Games Awards
 <NUM> Fans
 Positive Awards
 Negative Awards
@@ -779,14 +779,14 @@ Load Game
 Options
 Credits
 Exit Game
-Mad Games Tycoon®: PGF Expansion<br>©2025 Eggcode Games x PGF
+Mad Games Tycoon®<br>©2020 Eggcode Games
 Do you really want to close the game?
 <Empty>
 Delete Save Game
 Loading ...
 Do you really want to delete this save game?
 Autosave
-Mad Games Tycoon 2: PGF Expansion
+Mad Games Tycoon 2
 Save Game
 Exit Game
 Do you really want to return to the start menu?
@@ -836,7 +836,7 @@ Disable Tutorial
 Random platform popularity
 Random game concept settings
 No random events
-<size=20>MGT2: PGF EXPANSION</size><br><br>Thanks for installing the <color=blue>PGF Expansion</color>. I have put a lot of time and effort into this pack, all done by hand and primarily by myself too. I'd like to personally thank you for giving this pack a chance<br><br>Have fun!
+<size=20>Mad Games Tycoon 2</size><br><br>Thanks for purchasing <color=blue>Mad Games Tycoon 2</color>. Please keep in mind that the early-access version still lacks many features, the game is unbalanced in some places, and bugs may occur. Furthermore, all translations are very faulty.<br><br>Have fun!
 Slower game speeds with <color=blue>"Adjust working speed"</color> un-checked allow<br>for much more work to be completed in a week, this makes the game easier.<br>While faster speeds increase the difficulty.<br>Leaving adjusted work speed checked equalizes the<br>amount of time needed to complete a task to the given game speed.
 The game difficulty mainly affects the sales figures of your games,<br>with hard & above difficulties having extra challenges turned on.
 For a quicker start, you can pick a later date.<br>This can be more challenging.
@@ -936,20 +936,20 @@ Perfect design settings
 Firing employees can cause a<br>bad mood among all your employees!
 Bad mood
 The dismissal of an employee has caused a bad mood. Your employees now fear for their jobs and the motivation has decreased.
-Would you like to participate at the <color=blue>PGF Games Convention</color> this year?
+Would you like to participate at the <color=blue>Mad Games Convention</color> this year?
 Please select the size of your booth. The bigger the stand, the more products you can present. Additionally, large stands attract more attention.
 Small booth
 Middle booth
 Large booth
 Game consoles
 Do not participate
-PGF Games Convention
+Mad Games Convention
 Size of the booth
-Which products would you like to exhibit at the <color=blue>PGF Games Convention</color>?
+Which products would you like to exhibit at the <color=blue>Mad Games Convention</color>?
 Select game
 Select console
 Remove product
-You must choose at least one product which will be exhibited at the <color=blue>PGF Games Convention</color>!
+You must choose at least one product which will be exhibited at the <color=blue>Mad Games Convention</color>!
 Number of visitors to your booth
 This year up to <color=blue><NUM></color> visitors are expected.
 The organizer reports that <color=blue><NUM></color> tickets for the fair have been sold.
@@ -987,7 +987,7 @@ Main Game
 And finally the short reviews for the latest addons of your favorite games. As usual, we show you which addon is worthwhile!
 Estimated age rating
 Lead Designer
-PGF Games Software Rating
+Mad Games Software Rating
 Age rating
 <color=blue><NAME></color> has received the following age classification from the MGSR:
 Available employees
@@ -1918,8 +1918,8 @@ Critical error! There is no connection to Steam.
 Platform popularity increases platform lifetime
 When you develop an exclusive game, you receive a financial subsidy from the platform manufacturer to reduce development costs.
 It is not possible to change the platforms for an exclusive game!
-Do not show "PGF Games Convention"
-Do not show "PGF Games Awards"
+Do not show "Mad Games Convention"
+Do not show "Mad Games Awards"
 Do not show random events
 Subsidiaries
 Subsidiary
@@ -2009,7 +2009,7 @@ Transfer IP
 Which IP do you want to assign to your company or a subsidiary?
 A product is currently being developed for this IP. You must first cancel the development to be able to transfer the IP.
 Transfer of the IP is currently not possible.
-<b>PGF Games Awards - Winner</b><br>Your fans are delighted that you were honored at the "PGF Games Awards".<br>+<NUM>% games sold<br>
+<b>Mad Games Awards - Winner</b><br>Your fans are delighted that you were honored at the "Mad Games Awards".<br>+<NUM>% games sold<br>
 European Manor
 Due to the price increase <NUM> pre-orders have been cancelled!
 Automatically activated
@@ -2394,7 +2394,7 @@ What games do you want to fund? [average funding amount]
 <b>Funding</b><br>▪ Significantly more exclusive games will be developed for your console.<br><br>▪ Independent developer studios automatically take the subsidy<br>for development costs from the funding pot.<br><br>▪ As soon as the funding pot is empty, the funding is stopped.
 Information
 You must choose at least one game size!
-<b><size=20>PGF Expansion</size></b><br><br>Congratulations on the founding of the game studio <NAME>!<br><br><color=blue>Mad Games Tycoon 2</color> is a time travel through the history of the gaming industry. Build your own offices, production facilities and server rooms. Develop the games of your dreams and produce the next next-gen console. Rise from a small garage company to a huge corporation.<br><br>Have fun!
+<b><size=20>Mad Games Tycoon 2</size></b><br><br>Congratulations on the founding of the game studio <NAME>!<br><br><color=blue>Mad Games Tycoon 2</color> is a time travel through the history of the gaming industry. Build your own offices, production facilities and server rooms. Develop the games of your dreams and produce the next next-gen console. Rise from a small garage company to a huge corporation.<br><br>Have fun!
 Competition
 Low
 Normal
@@ -2406,7 +2406,7 @@ You can't release this port until the main game is released.
 IP
 How many weeks should the development continue?
 Disable autosave
-Welcome to <color=blue>Mad Games Tycoon 2: PGF Expansion</color> multiplayer!<br>To add players to your lobby, you can invite them through your friends list. Please remember, saved games need to be made while all players are still present in the game. If you are keeping a manual saved game going during multiplayer, do not overwrite the save if another player has already left the game for any reason.
+Welcome to <color=blue>Mad Games Tycoon 2</color> multiplayer!<br>To add players to your lobby, you can invite them through your friends list. Please remember, saved games need to be made while all players are still present in the game. If you are keeping a manual saved game going during multiplayer, do not overwrite the save if another player has already left the game for any reason.
 This game is currently running a special marketing promotion.<br>If you publish the game now, the promotion will be canceled.
 Game studio was closed
 Competitor is closed
