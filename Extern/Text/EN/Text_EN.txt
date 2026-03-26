@@ -1,4 +1,4 @@
-﻿<b>Build a Room</b><br>Here you can build rooms.
+<b>Build a Room</b><br>Here you can build rooms.
 -
 -
 -
@@ -13,7 +13,7 @@ Artificial Intelligence
 Physics
 Gameplay
 Controls
-Multiplayer
+Online
 Enable/disable all
 Build a Room
 Close
@@ -144,7 +144,7 @@ Game Tester
 Technician
 Researcher
 Pause/resume current work
-Employees assigned to this room
+Employees assigned to this room.<br>Press <color=blue>CTRL+LMB</color> to select all employees.
 Disable AI for this room
 Rename room
 Redesign room
@@ -483,7 +483,7 @@ This trend will continue for <color=blue><TIME></color> weeks.
 New Trend
 Week
 Total
-Shows how many weeks the game is already on the market.
+How many weeks the game has been on the market.
 Game
 Minimize / Maximize window
 Game taken off the market
@@ -551,9 +551,9 @@ Music & Sound for professionals
 Marketing & Support for beginners
 Advanced Marketing & Support
 Marketing & Support for Professionals
-Gametesting for beginners
-Gametesting for advanced
-Gametesting for professionals
+Game testing for beginners
+Game testing for advanced
+Game testing for professionals
 Hardware & Technology for beginners
 Hardware & Technology for advanced
 Hardware & Technology for professionals
@@ -614,7 +614,7 @@ Available Games
 Hype that is created at the start of development.
 From which game should a sequel be developed?
 <b>Sequel</b><br>Game sequels benefit from the success of their predecessors.<br>At the start of development hype is generated,<br>and there is a bonus on the sales figures.<br>The development of a sequel may negatively<br>affect the sales figures of the predecessor.
-<b>Remaster</b><br>The development costs for remasters are reduced.<br>Only games can be remastered,<br>which have already been taken off the market.
+<b>Remaster</b><br>▪ The development costs for remasters are reduced<br>▪ Only games can be remastered,<br>which have already been taken off the market<br>▪ MMOs and F2Ps cannot be remastered
 <b>New game</b><br>When you create a new game,<br>you can later develop a remaster or a sequel.
 This game name already exists!
 Which game do you want to remaster? Only games that have already been taken off the market can be selected.
@@ -760,7 +760,7 @@ Unanswered questions: <NUM>
 Golden record received
 Your game <color=blue><NAME></color> is considered a groundbreaking milestone in the video game industry and has set a new trend.
 Trendsetter
-E3 Games Awards
+PGF Games Awards
 <NUM> Fans
 Positive Awards
 Negative Awards
@@ -779,7 +779,7 @@ Load Game
 Options
 Credits
 Exit Game
-Mad Games Tycoon® 2: PGF Expansion <br>©2022 Eggcode Games x PGF Entertainment
+Mad Games Tycoon®: PGF Expansion<br>©2025 Eggcode Games x PGF
 Do you really want to close the game?
 <Empty>
 Delete Save Game
@@ -805,7 +805,7 @@ Easy
 Medium
 Hard
 Legendary
-Slowly
+Slow
 Normal
 Fast
 Very Fast
@@ -836,10 +836,10 @@ Disable Tutorial
 Random platform popularity
 Random game concept settings
 No random events
-<size=20>Mad Games Tycoon 2: PGF Expansion</size><br><br>Thanks for using the <color=blue>PGF Expansion</color>. Please keep in mind that the early-access version still lacks many features, the game is unbalanced in some places, and bugs may occur. Furthermore, all translations are very faulty.<br><br>Have fun!
-The lower the speed of the game, the more tasks<br>your employees can complete in a week.<br>This makes the game easier.
-The difficulty level mainly affects<br>the sales figures of your games.
-For a quick start in the game,<br>you can increase the starting year.
+<size=20>MGT2: PGF EXPANSION</size><br><br>Thanks for installing the <color=blue>PGF Expansion</color>. I have put a lot of time and effort into this pack, all done by hand and primarily by myself too. I'd like to personally thank you for giving this pack a chance<br><br>Have fun!
+Slower game speeds with <color=blue>"Adjust working speed"</color> un-checked allow<br>for much more work to be completed in a week, this makes the game easier.<br>While faster speeds increase the difficulty.<br>Leaving adjusted work speed checked equalizes the<br>amount of time needed to complete a task to the given game speed.
+The game difficulty mainly affects the sales figures of your games,<br>with hard & above difficulties having extra challenges turned on.
+For a quicker start, you can pick a later date.<br>This can be more challenging.
 An update for <NAME> was cancelled<br>because the game was taken off the market.
 <b>Inuit</b><br>Employees with this characteristic never freeze.
 <b>Modest</b><br>Modest employees do not need<br>high-quality office equipment.
@@ -890,9 +890,9 @@ Set settings to default
 -
 -
 -
-<b>2. platform has been unlocked</b><br><br>You can now develop your games for two platforms. This allows you to reach a wider range of customers. 
-<b>3. platform has been unlocked</b><br><br>You can now develop your games for three platforms. This allows you to reach a wider range of customers. 
-<b>4. platform has been unlocked</b><br><br>You can now develop your games for four platforms. This allows you to reach a wider range of customers. 
+<b>2nd platform has been unlocked</b><br><br>You can now develop your games for two platforms. This allows you to reach a wider range of customers. 
+<b>3rd platform has been unlocked</b><br><br>You can now develop your games for three platforms. This allows you to reach a wider range of customers. 
+<b>4th platform has been unlocked</b><br><br>You can now develop your games for four platforms. This allows you to reach a wider range of customers. 
 <b>Copy protection has been unlocked</b><br>Today the first effective copy protection was released. You can now protect your games with copy protection.
 <b>Sequel has been unlocked</b><br><br>One of your games has received a good rating from the press. We should think about developing a sequel at a later date.
 -
@@ -936,20 +936,20 @@ Perfect design settings
 Firing employees can cause a<br>bad mood among all your employees!
 Bad mood
 The dismissal of an employee has caused a bad mood. Your employees now fear for their jobs and the motivation has decreased.
-Would you like to participate at the <color=blue>E3 Games Convention</color> this year?
+Would you like to participate at the <color=blue>PGF Games Convention</color> this year?
 Please select the size of your booth. The bigger the stand, the more products you can present. Additionally, large stands attract more attention.
 Small booth
 Middle booth
 Large booth
 Game consoles
 Do not participate
-E3 Games Convention
+PGF Games Convention
 Size of the booth
-Which products would you like to exhibit at the <color=blue>E3 Games Convention</color>?
+Which products would you like to exhibit at the <color=blue>PGF Games Convention</color>?
 Select game
 Select console
 Remove product
-You must choose at least one product which will be exhibited at the <color=blue>E3 Games Convention</color>!
+You must choose at least one product which will be exhibited at the <color=blue>PGF Games Convention</color>!
 Number of visitors to your booth
 This year up to <color=blue><NUM></color> visitors are expected.
 The organizer reports that <color=blue><NUM></color> tickets for the fair have been sold.
@@ -987,7 +987,7 @@ Main Game
 And finally the short reviews for the latest addons of your favorite games. As usual, we show you which addon is worthwhile!
 Estimated age rating
 Lead Designer
-E3 Games Software Rating
+PGF Games Software Rating
 Age rating
 <color=blue><NAME></color> has received the following age classification from the MGSR:
 Available employees
@@ -1043,7 +1043,7 @@ The connection was terminated because the game versions are different.
 Leaderboard [Multiplayer]
 Chat [Multiplayer]
 >> Pays to you <NUM> Engine license fees <<
->> Has purchased your engine for <NUM <<
+>> Has purchased your engine for <NUM> <<
 Completed [Polishing]
 Finish Development
 <NUM> Months
@@ -1205,7 +1205,7 @@ Level V Items
 <b>Complexity</b><br>The more difficult it is to develop on a platform,<br>the more time is needed to develop the game. 
 The multiplayer mode is still in an early state. Some important functions are missing and the connection may be interrupted.
 No <color=blue>anti-cheat software</color> has been released yet.
-<b>Anti-cheat was unlocked</b><br>In order to combat the growing number of hackers in our online game products, a professional anti-cheat software was released today. You can now add anti-cheat software to your games.
+<b>Anti-cheat was unlocked</b><br><br>In order to combat the growing number of hackers in our online game products, a professional anti-cheat software was released today. You can now add anti-cheat software to your games.
 Anti-cheat software for purchase
 Purchased anti-cheat software
 Hide outdated anti-cheat software
@@ -1255,7 +1255,7 @@ New game world & instances
 New main quest series
 <b>Special options for standard games</b><br>▪ Creating Addons & Stand-Alone Addons<br>▪ Creating a remaster<br>▪ Release as a budget game<br>▪ Release in bundle
 <b>Special options MMOs</b><br>▪ Creating an MMO addon<br>▪ The development time is significantly higher.
-<b>Special options for F2Ps</b><br>▪ Create F2P addons<br>▪ Digial distribution only<br>▪ No publisher needed.
+<b>Special options for F2Ps</b><br>▪ Create F2P addons<br>▪ Digital distribution only<br>▪ No publisher needed.
 You have to choose at least 3 new contents for the MMO-Addon!
 The development of the MMO addon <NAME> was canceled,<br>because the main game was taken off the market.
 The servers are overheating!<br><color=red>-50% Performance</color>
@@ -1364,7 +1364,7 @@ What should the edition be called?
 Adjust working speed
 Show only game name in minimized game tabs
 Special Marketing
-Additional money can be earned with in-app purchases.<br>Concern that an aggressive business model<br>will be negatively received by players.
+Additional income can be earned with in-app purchases.<br>Over monetizing your game can have negative effects.
 Estimated earnings per user/month
 Unpopularity of the business model
 For in-app purchases you need the gameplay features <color=blue>In-App Purchases and Online Multiplayer</color>!
@@ -1768,7 +1768,7 @@ Latest Applicants
 <b>New topic combination</b><br>▪ +3% Units sold
 New genre combination
 New topic combination
-Industrial park
+Business Park
 Palm Beach Resort
 [Tutorial available]
 Giant Warehouse
@@ -1858,7 +1858,7 @@ IPs & Prices
 Your employees have to take the <color=blue>orders</color> of the <color=blue>merchandise items</color>. The higher the <color=blue>demand</color>, the more employees are needed.
 For what type of platform will the sequel to <NAME> be developed?
 For what type of platform will the <NAME> spin-off be developed?
-The higher the value of a rubric, the greater the<br>chance that the employee will earn points for that rubric.
+Increasing a particular priority can increase the<br>points generated by your employees for that priority.<br>This can be beneficial or detrimental depending<br>on the genre requirements and overall balance you choose.
 You can change the design priority during development. This is especially recommended if a section has been severely neglected.
 Rotate camera by 90 degrees
 Exclusive Games
@@ -1918,8 +1918,8 @@ Critical error! There is no connection to Steam.
 Platform popularity increases platform lifetime
 When you develop an exclusive game, you receive a financial subsidy from the platform manufacturer to reduce development costs.
 It is not possible to change the platforms for an exclusive game!
-"Do not show "E3 Games Convention
-"Do not show "E3 Games Awards
+Do not show "PGF Games Convention"
+Do not show "PGF Games Awards"
 Do not show random events
 Subsidiaries
 Subsidiary
@@ -1973,7 +1973,7 @@ Sell subsidiary
 The settings have been applied to all subsidiaries.
 Games developed by subsidiaries
 Do you really want to sell your subsidiary <NAME> for <NUM>?
-The company rejects all takeover offers. Try again at a later date.
+The company rejects all takeover offers.<br>Try again at a later date.
 Your subsidiary <NAME> has a new product ready for release. Do you want to distribute it yourself, or should your subsidiary handle the release?
 Subsidiary company publishes the game
 Publish game yourself
@@ -2009,7 +2009,7 @@ Transfer IP
 Which IP do you want to assign to your company or a subsidiary?
 A product is currently being developed for this IP. You must first cancel the development to be able to transfer the IP.
 Transfer of the IP is currently not possible.
-<b>E3 Games Awards - Winner</b><br>Your fans are delighted that you were honored at the "E3 Games Awards".<br>+<NUM>% games sold<br>
+<b>PGF Games Awards - Winner</b><br>Your fans are delighted that you were honored at the "PGF Games Awards".<br>+<NUM>% games sold<br>
 European Manor
 Due to the price increase <NUM> pre-orders have been cancelled!
 Automatically activated
@@ -2032,7 +2032,7 @@ Set game speed
 Each player has permission to set the game speed.<br>If this function is disabled,<br>only the host may set the game speed.
 Show result of market research
 Calls are chargeable <color=blue>[2$]</color>
-If the support is paid, you will lose<br>significantly more dissatisfied fans.
+If the support is paid, you will lose<br>significantly more fans.
 You can perform customer support in the support department.
 Number of products
 Standard prices
@@ -2074,3 +2074,377 @@ Development time
 Standard
 Realistic
 ▪ As the experience level increases, the development costs decrease.<br>▪ The gameplay, graphics, technology and sound points increase.<br>▪ The development time is reduced.<br>▪ Fewer bugs are generated.
+The development of this game can not be canceled. There is a port in development!
+Do not publish bundles
+Do not publish addon bundles
+Abandoned Bunker
+Set version number automatically
+Game Pass Settings
+Manage Games
+Manage Platforms
+Subscriber Numbers
+Game Charts
+Game Pass is a service to offer users a catalog of games for a monthly base price.
+Here you can activate your Game Pass,<br>set the monthly subscription price or choose a name.
+Here you can choose which games should<br>be included in the Game Pass.
+Here you can select on which<br>platforms the Game Pass is available.
+Here you can check how many subscribers<br>you had the last months.
+Here you can see which games are played most often.
+Game Pass Name
+Activate Game Pass
+Subscription price
+Your Game Pass users consume server capacity.
+How much should the monthly Game Pass subscription cost?
+Games included in Game Pass
+Games available for Game Pass
+Remove all games
+Add all games
+▪ You can add only the games of your IPs, or of your subsidiaries.<br><br>▪ F2P games & MMOs are excluded.<br><br>▪ Arcade machines & mobile games are excluded.<br><br>▪ Addons, bundles, budget games are excluded.
+Transfer all IPs
+▪ You can only select platforms with Internet capability.<br><br>▪ Arcade machines & cell phones are excluded.<br><br>▪ Consoles from other manufacturers require a<br>minimum number of compatible games in Game Pass.<br><br>▪ The platform must still be available on the market.
+Platforms on which your Game Pass is offered
+Platforms available for Game Pass
+Remove all platforms
+Add all platforms
+<NUM> platforms
+Compatible games in Game Pass: <NUM1> of <NUM2>
+Automatically adjust engine features to technology levels.
+Compatible games in Game Pass
+Min. games in Game Pass
+The following platforms have been removed from Game Pass because there are no longer enough games available for the platforms:
+Turnover Trend
+View Platforms Games Catalog
+Here you can see the turnover of the last months.
+Here you can get a quick overview of<br>the game catalogs of each platform.
+All platforms
+<NUM> games in Game Pass
+There were <color=blue><NUM> games</color> removed from your Game Pass that were owned by this company.
+Show only your Game Pass.
+Add all
+Remove all
+<b>Game Pass has been unlocked</b><br><br>You can now create a Game Pass. The Game Pass is a service to offer users a catalog of games for a monthly base price.
+This will be unlocked in <color=blue>June 2004</color>.
+cur. year
+Total revenue
+Most played games
+<NUM> Players
+Included in Game Pass
+Topicality
+New games increase topicality and have a significantly<br>more positive effect on subscriber numbers.
+Included in Game Pass [not available on any platform]
+Availability
+Indicates whether at least one platform is included in Game Pass.
+Turnover in the current year
+Most played game
+Potential users
+MMO Subscription Prices
+Reserve for MMOs
+Reserve for F2Ps
+Reserve for Game Pass
+Unreserve server
+Available on the market
+Backward compatibility
+Console is backward compatible
+Backwards compatibility allows games from older consoles<br>to be playable on this console as well.<br>This allows buyers of the new console<br>to continue using their entire game collection.<br>Another advantage is the high number of<br>compatible games in Game Pass for new consoles. 
+You have not chosen a console for <color=blue>"backwards compatibility"</color>.
+Maximum technology level
+Backward compatibility<br><br>The technology level of one of your selected consoles is too high.
+No Steam achievements are unlocked in Sandbox mode.
+Unlimited money
+[Research] Unlock Topics
+Unlock all available options
+[Research] Unlock Console Technologies
+[Research] Unlock Miscellaneous
+[Research] Unlock Genres
+Employees do not lose motivation
+Employees have no needs
+Unlock all items
+Sandbox settings
+Unlock all genres
+Experience maximized
+Publisher relations maximized
+Employees never get sick
++<NUM>% games sold
++<NUM>% consoles sold
+Set games automatically in Game Pass
+Want to add this game to your Game Pass right at release?
+Maximize studio level
+Maximize reputation with clients
+IP ratings do not decrease
++<NUM>% training speed
+Enabled sandbox settings
+Show optimal game concept settings
+Employees can learn all professions
+<color=blue><NUM></color> of the players are interested in a <color=blue>Game Pass</color>.
+Suitable topics for genres are known
+Copy room
+Rotate room
+Place room
+Move room
+Storage space: <NUM>
+Server power: <NUM>
+Standard
+Desired perk
+Show maximum three messages
+Remove the game from Game Pass.
+Unlock all buildings
+Maximum level of items
+Automatic Production
+Select tech level
+AAAA
+Every month
+No support requests
++<NUM>% Production speed
+The gameplay feature <NAME1> requires the gameplay feature <NAME2>.
+At least one selected platform is not internet capable!<br><br>The following gameplay features require Internet access:
+The host must save the game before you leave, otherwise all game progress will be lost!
+If you buy this company, all consoles of this company will be taken off the market and the console development will be stopped!
+<color=green> >> Has bought a game developer << </color>
+No bugs
+-<NUM>% Bugs
+Default employee salary
+-<NUM>% Employee Salary
+Default number of bugs
+Subsidiaries keep their consoles
+Remove
+Disable money popups
+Hide games without bugs
+Show all available ports
+Show PC / Console ports only
+Show mobile ports only
+Show arcade machine ports only
+Prioritized Publisher
+Remove Publisher
+Pin fan letters
+Normal number of support requests
+-<NUM>% support requests
+A staff member complains that there are not enough <color=blue>medicine cabinets</color>.
+You should provide your employees with more <color=blue>items in the lounge</color>.
+One employee complains that there are not enough <color=blue>water dispensers and coffee makers</color>.
+An employee complains that there are not enough <color=blue>toilets</color>.
+One employee complained that he could not <color=blue>wash his hands</color>.
+You should buy more <color=blue>trash cans</color>, otherwise your offices will get dirty.
+An employee complains that there are too few <color=blue>plants</color> in his area.
+You should place <color=blue>more items in offices</color> to increase the quality.
+Some employees complain that it is <color=blue>too cold</color>.
+Some employees complain about having to work in <color=blue>crowded offices</color>.
+Your offices are dirty! You should buy more <color=blue>cleaning robots</color>.
+<color=blue><NAME></color> is very unhappy and threatens to quit!
+Complaint display time
+Hide archived IPs
+The game is being saved<br><br>Please wait ...
+No employee salary
+IP Trade
+Value of the IP
+Do you want to acquire an IP from another game studio or do you want to sell one of your IPs?
+Buy IP
+Sell IP
+Which <color=blue>IPs</color> do you want to offer for sale? It can take a few <color=blue>weeks</color> before a <color=blue>game studio</color> comes forward that is interested in the IP.
+IP is offered for sale
+This will be unlocked in <color=blue>February 1986</color>.
+<b>IP Trade has been unlocked</b><br><br>Trading in video game brands has increased significantly in recent years. To facilitate the trade, a global trading platform for video game IPs has been created. You can now offer your IPs for sale or purchase IPs from other game studios.
+The game studio <color=blue><NAME1></color> has sent you an offer to buy your IP <color=blue><NAME2></color>. Would you like to accept the offer?
+There is still a game from this IP on the market. In order to transfer the IP, all games from this IP must be removed from the market.
+Detailed view of the IP
+Do you really want to buy the IP <color=blue><NAME></color>?
+>> Bought your IP for <NUM> <<
+Lagoon City
+No review
+Show only purchasable companies
+Map properties
+Number of buildings
+Building area
+<NUM> Buildings
+Description
+The business park has a balanced number of buildings and sufficient building area. In addition, a <color=blue>tutorial is available</color> for this map. This makes this map ideal for getting to know the game.
+On this map you will find an abandoned hotel on a beach. But don't be fooled by the beautiful view. Since <color=blue>only four buildings are available</color>, building area can quickly become scarce. 
+Due to the <color=blue>small building area</color>, this map is very demanding. You will have to decide later in the game which rooms you can do without.
+The warehouse offers you a <color=blue>huge building area</color> right from the start of the game. You don't have to worry about buying more real estate, which makes this map especially <color=blue>suitable for beginners</color>.
+The advantage of this map is the <color=blue>large building area</color>. Another special feature is the possibility to <color=blue>place some objects in the corridors</color> of the abandoned bunker.
+The lagoon city is a map with <color=blue>many buildings of a similar size</color>. This allows you to continuously expand your building area even on higher difficulty levels.
+New game ▪ Map
+Modifiers
+Random events
+Time settings
+For which platform type will the remaster of <NAME> be developed?
+Short development time
+Wait until new research <b>(<NAME>)</b> is available
+Wait for new research<br><b><NAME></b>
+Hide employees with negative perks
+Number of positive perks
+<b>Your company is insolvent!</b><br><br>In order to save your game studio, insolvency proceedings have been initiated. This will have the following effects:<color=green><br><br>▪ Balancing your account<br>▪ Repayment of all loans<br><br></color><color=red>▪ Your studio reputation is reduced<br>▪ Loss of many fans<br>▪ Relations with all publishers deteriorate<br>▪ Reputation with clients deteriorates<br>▪ Ratings of your IPs decrease</color>
+Close insolvency proceedings
+Spread bad PR
+Encourage employees
+Copyright lawsuit
+Fake user reviews
+Spread negative rumours
+Sabotage game development
+-50% new fans
+Motivation decreases faster
+High monthly process costs
++200% negative user reviews
+-20% games and consoles sold
+-50% working speed
+When you carry out sabotage, you get the negative state <color=blue>"Dark Machinations"</color>. As long as this state exists, you cannot carry out any more sabotage and there is a risk that you will be caught during this time.
+<b>Bad PR has been spread about our game studio!</b>
+<b>Our employees have been goaded!</b>
+<b>We were sued for copyright infringement!</b>
+<b>Our games get fake user reviews!</b>
+<b>Negative rumours were spread about our games!</b>
+<b>Our game development is being sabotaged!</b>
+<b>Dark Machinations</b><br>There is a possibility that your sabotage action will be uncovered.
+<b>Ruined reputation</b><br>▪ -50% Games and Consoles Sold<br>▪ No new fans
+At the game studio <color=blue>"<NAME1>"</color> the sabotage action <color=blue>"<NAME2>"</color> was carried out!
+No sabotage possible, because you still have <color=blue>"Dark machinations"</color> or <color=blue>"Ruined reputation"</color> active.
+Sabotage
+<color=red><b>You became the target of a sabotage operation!</b></color>
+Disable sabotage
+Multiplayer settings
+Chance of getting caught
+<b>Your sabotage action has been uncovered!</b><br>The entire games industry and your fans are shocked.
+The order cannot be accepted because you have not researched the following technology:<br><br><color=red><NAME></color>
+Awards
+Freeware
+Which game would you like to offer as <color=blue>freeware</color>?<br>If you offer a game as freeware, you get new <color=blue>fans</color> once, but it can no longer be distributed elsewhere.
+▪ Only games that have already been taken off the market<br>▪ No MMOs & F2Ps<br>▪ No arcade machine games<br>▪ No mobile games<br>▪ No secondary marketing
+Shows how many new fans you get.
+Do you really want to release the game as freeware? A secondary release of the game is then no longer possible.
+Budget, GOTY or Bundle currently available!
+Predecessor model
+A successful predecessor console can have<br>a positive effect on sales figures.
+No predecessor model
+Waiting for release of all platforms
+Predecessor
+Successor
+Revised model
+Which console would you like to release a performance-enhanced model of?
+▪ Only one performance-enhanced model allowed per console<br>▪ Maximum +1 tech level<br>▪ Backwards compatibility and internet capability cannot be modified<br>▪ Development costs are reduced<br>▪ The development effort is reduced
+Pro
+Your hardware department has completed a revised model of your console <NAME>. You can release the console now or postpone the release to a later date.
+The press has taken a close look at the revised model of your console <NAME>.
+Your console has no improvements!
+As long as the revised model of this console is in development, you cannot take this console off the market.
+Deactivate cleaning robot sounds
+Deactivate all employee displays
+Purchase of NPC studios is disabled
+New software is available
+Available
+Announced
+Announced platform
+NPC announces a platform
+The more high-quality games use your engine,<br>the higher the market dominance.<br>Engines with a high market dominance are more likely<br>to be licensed by other game studios.
+-
+-
+Market dominance
+-
+-
+-
+-
+Bonus sales due to the game library
+▪ No games <NUM>
+▪ Per multiplatform game <NUM>
+▪ Per exclusive game <NUM>
+Current bonus: <NUM>
+<color=blue>Bad games</color>
+<color=blue>Mediocre games</color>
+<color=blue>Good games</color>
+<color=blue>No games available</color>
+Current
+Maximum bonus: <NUM>
+<color=blue>Trash games</color>
+<color=blue>Very good games</color>
+<color=blue>Hits</color>
+▪ Per game <NUM>
+Cost optimization
+Optimizing and reworking the hardware design can reduce production costs more quickly. Obsolete consoles can no longer be reworked.
+Less expensive material
+Reduce components
+Optimize mainboard
+▪ By optimizing and revising the hardware design, production costs<br>can be reduced more quickly.<br><br>▪ Obsolete consoles can no longer be reworked.<br><br>▪ Production costs also decrease automatically over time.
+Production costs at release
+You have not chosen anything!
+Cost optimization for <NAME1> completed
+Cost reduct.
+Durability
+Warranty cases
+<b>Durability</b><br>▪ Experienced employees design consoles<br>that have fewer technical problems.<br><br>▪ Consoles with many technical difficulties<br>can become expensive warranty cases.
+Warranty period
+How many months do you want to warranty?
+<b>Warranty</b><br>A long warranty period can increase sales.
+<NUM> months
+Improve durability
+You can improve the durability of your consoles by reworking some hardware components. Consoles with many technical difficulties can quickly lead to high costs.
+Current durability
+Improve durability for <NAME1> completed
+Your console
+For <color=blue>F2P games</color>, the gameplay features <color=blue>In-app purchases and Online multiplayer</color> must be enabled!
+Keyboard layout
+Funding
+<color=blue><NAME1></color> develops the game <color=blue><NAME2></color> for <color=blue><NAME3></color>.
+Financing paid out
+Funded game
+Funded games
+<b>Funding</b><br>There will be significantly more independent developer studios developing exclusive games for your console if you take over part of the development costs.
+Funding pot
+How much money do you want to provide in total?
+Total payments
+Conditions
+What games do you want to fund? [average funding amount]
+<b>Funding</b><br>▪ Significantly more exclusive games will be developed for your console.<br><br>▪ Independent developer studios automatically take the subsidy<br>for development costs from the funding pot.<br><br>▪ As soon as the funding pot is empty, the funding is stopped.
+Information
+You must choose at least one game size!
+<b><size=20>PGF Expansion</size></b><br><br>Congratulations on the founding of the game studio <NAME>!<br><br><color=blue>Mad Games Tycoon 2</color> is a time travel through the history of the gaming industry. Build your own offices, production facilities and server rooms. Develop the games of your dreams and produce the next next-gen console. Rise from a small garage company to a huge corporation.<br><br>Have fun!
+Competition
+Low
+Normal
+Tough
+The tougher the competition,<br>the more games compete with each other.<br>An oversupply of games with the same genre or theme<br>can quickly lead to low sales figures.
+Every engine feature has a technology level,<br>this technology level needs to be at or below your weakest platform.<br>If the technology level exceeds your weakest platform you can downgrade<br>your engine features by selecting them (if weaker technology is programmed into the engine)<br>or on the previous screen change your selection of platforms<br>to match your engine’s technology.
+Each slider has an optimal setting based on the genre(s) you have chosen.<br>The closer you are to the optimal setting the better.<br>(find out what is optimal through Quality Assurance – Game Reports)
+You can't release this port until the main game is released.
+IP
+How many weeks should the development continue?
+Disable autosave
+Welcome to <color=blue>Mad Games Tycoon 2: PGF Expansion</color> multiplayer!<br>To add players to your lobby, you can invite them through your friends list. Please remember, saved games need to be made while all players are still present in the game. If you are keeping a manual saved game going during multiplayer, do not overwrite the save if another player has already left the game for any reason.
+This game is currently running a special marketing promotion.<br>If you publish the game now, the promotion will be canceled.
+Game studio was closed
+Competitor is closed
+Game studios will be closed
+You can set how many game studios are created during the game.<br><br>If you have activated <color=blue>"Game studios will be closed"</color>,<br>some studios will close on a specified date.
+Deactivate "Task completed" icons
+Suitability
+Award
+Remove item
+Automatic research
+Categories
+Which technology categories should be automatically researched?<br><color=red>As soon as you run out of money, automatic research will be paused.</color>
+At least one category must be selected!
+Choose categories
+[Paused]
+Gender
+No negative perks
+Random genre suitability for platforms
+Add to game concept
+Job market: <NUM> applications
+Monthly costs
+Default working speed
+-<NUM>% working speed
+Sorting
+Filter
+Normal quality of the NPC games
+-<NUM>% Quality of the NPC games
+Full
+Show game list inverted
+This is not possible as there is no platform available on the market for this game!
+Games in development
+Annual financial statement
+Do not show annual financial statement
+To join a multiplayer game, you must be in the main menu.
+Join game
+Refresh
+Host game
+Password
+The password is incorrect!
+Create lobby
+Chat
