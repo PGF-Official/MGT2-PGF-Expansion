@@ -1,4 +1,4 @@
-////							 						PLATFORMS 									  					////
+﻿////							 						PLATFORMS 									  					////
 // Parameters:                                                                              							  //
 //                                                                         												  //
 // [ID]int 						= The ID of the object.                                   								  //

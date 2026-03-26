@@ -1,4 +1,4 @@
-Contra;Create an action game with a rating of at least 70%.
+﻿Contra;Create an action game with a rating of at least 70%.
 Marble Madness;Create an skill game with a rating of at least 70%.
 Dr. Mario;Create an puzzle Game with a rating of at least 70%.
 Secret of Monkey Island;Create an adventure game with a rating of at least 70%.
@@ -9,7 +9,7 @@ Elite: Dangerous;Create an simulation game with a rating of at least 70%.
 FIFA;Create an sports game with a rating of at least 70%.
 Capitalism;Create an economic simulation with a rating of at least 70%.
 Street Fighter;Create an fighting game with a rating of at least 70%.
-Simu City: 1602;Create an building game with a rating of at least 70%.
+Sim City;Create an building game with a rating of at least 70%.
 Dragon's Lair;Create an interactive movie with a rating of at least 70%.
 Command & Conquer;Create an Real-Time strategy game with a rating of at least 70%.
 DOOM;Create an First-Person Shooter.

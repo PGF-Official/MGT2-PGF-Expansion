@@ -1,4 +1,4 @@
-////							 			HARDWARE		 								////
+﻿////							 			HARDWARE		 								////
 // Parameters:                                                                                //
 //                                                                         					  //
 // [ID]int 					= The ID of the object.                                   		  //
@@ -1866,27 +1866,27 @@
 [TECHLEVEL]10
 
 [ID]78
-[TYP]3
-[NAME EN]Quantum Tape Cartridge
-[NAME GE]Quantum-Bandkassette
-[NAME TU]Kuantum Bant Kartuşu
-[NAME ES]Cartucho de Cinta Cuántica
-[NAME PB]Cartucho de Fita Quântica
-[NAME JA]量子テープカートリッジ
-[NAME CH]量子磁带卡带
-[NAME CT]量子磁帶卡匣
-[NAME IT]Cartuccia Nastro Quantico
-[NAME FR]Cartouche de Bande Quantique
-[NAME PL]Kaseta Taśmy Kwantowej
-[NAME UA]Картридж Квантової Стрічки
-[NAME CZ]Kazeta Kvantové Pásky
-[NAME TH]ตลับเทปควอนตัม
-[NAME RU]Квантовый Картридж Ленты
-[DATE]JAN 2027
-[RES POINTS]5000
-[PRICE]799000
-[DEV COSTS]1600000
-[TECHLEVEL]10
+[TYP]9
+[NAME EN]2" Backlit LCD
+[NAME GE]2" Backlit LCD
+[NAME TU]2" Backlit LCD
+[NAME ES]2" Backlit LCD
+[NAME PB]2" Backlit LCD
+[NAME JA]2" Backlit LCD
+[NAME CH]2" Backlit LCD
+[NAME CT]2.9英寸背光STN LCD
+[NAME IT]LCD STN Retroilluminato da 2,9 Pollici
+[NAME FR]LCD STN Rétroéclairé 2,9 Pouces
+[NAME PL]2,9-Calowy Podświetlany STN LCD
+[NAME UA]2,9-Дюймовий Підсвічуваний STN LCD
+[NAME CZ]2,9palcový Podsvícený STN LCD
+[NAME TH]LCD STN แบบมีไฟพื้นหลังขนาด 2.9 นิ้ว
+[NAME RU]2,9-Дюймовый Подсвеченный STN LCD
+[DATE]JAN 1995
+[RES POINTS]1875
+[PRICE]250000
+[DEV COSTS]800000
+[TECHLEVEL]4
 [ONLY_HANDHELD]
 
 [ID]79
@@ -2302,7 +2302,7 @@
 [NAME CZ]6,2palcová IPS LCD Dotyková Obrazovka
 [NAME TH]หน้าจอสัมผัส IPS LCD ขนาด 6.2 นิ้ว
 [NAME RU]6,2-Дюймовый Сенсорный IPS LCD-Экран
-[DATE]JAN 2017
+[DATE]JAN 2015
 [RES POINTS]3750
 [PRICE]450000
 [DEV COSTS]1400000
@@ -2310,6 +2310,30 @@
 [ONLY_HANDHELD]
 
 [ID]96
+[TYP]9
+[NAME EN]6.5" IPS LCD Touchscreen
+[NAME GE]6,2-Zoll IPS-LCD-Touchscreen
+[NAME TU]6.2 İnç IPS LCD Dokunmatik Ekran
+[NAME ES]Pantalla Táctil IPS LCD de 6.2 Pulgadas
+[NAME PB]Tela Touch IPS LCD de 6,2 Polegadas
+[NAME JA]6.2インチIPS LCDタッチスクリーン
+[NAME CH]6.2英寸IPS LCD触控屏
+[NAME CT]6.2英寸IPS LCD觸控螢幕
+[NAME IT]Touchscreen IPS LCD da 6,2 Pollici
+[NAME FR]Écran Tactile IPS LCD 6,2 Pouces
+[NAME PL]6,2-Calowy Ekran Dotykowy IPS LCD
+[NAME UA]6,2-Дюймовий Сенсорний IPS LCD-Екран
+[NAME CZ]6,2palcová IPS LCD Dotyková Obrazovka
+[NAME TH]หน้าจอสัมผัส IPS LCD ขนาด 6.2 นิ้ว
+[NAME RU]6,2-Дюймовый Сенсорный IPS LCD-Экран
+[DATE]JAN 2017
+[RES POINTS]3750
+[PRICE]450000
+[DEV COSTS]1400000
+[TECHLEVEL]9
+[ONLY_HANDHELD]
+
+[ID]97
 [TYP]9
 [NAME EN]7.0-Inch OLED HDR Touchscreen
 [NAME GE]7,0-Zoll OLED-HDR-Touchscreen
@@ -2333,29 +2357,6 @@
 [TECHLEVEL]10
 [ONLY_HANDHELD]
 
-[ID]97
-[TYP]9
-[NAME EN]8.0-Inch MicroLED HDR Touchscreen
-[NAME GE]8,0-Zoll MicroLED-HDR-Touchscreen
-[NAME TU]8.0 İnç MicroLED HDR Dokunmatik Ekran
-[NAME ES]Pantalla Táctil MicroLED HDR de 8.0 Pulgadas
-[NAME PB]Tela Touch MicroLED HDR de 8,0 Polegadas
-[NAME JA]8.0インチMicroLED HDRタッチスクリーン
-[NAME CH]8.0英寸MicroLED HDR触控屏
-[NAME CT]8.0英寸MicroLED HDR觸控螢幕
-[NAME IT]Touchscreen MicroLED HDR da 8,0 Pollici
-[NAME FR]Écran Tactile MicroLED HDR 8,0 Pouces
-[NAME PL]8,0-Calowy Ekran Dotykowy MicroLED HDR
-[NAME UA]8,0-Дюймовий Сенсорний MicroLED HDR-Екран
-[NAME CZ]8,0palcová MicroLED HDR Dotyková Obrazovka
-[NAME TH]หน้าจอสัมผัส MicroLED HDR ขนาด 8.0 นิ้ว
-[NAME RU]8,0-Дюймовый Сенсорный MicroLED HDR-Экран
-[DATE]JAN 2030
-[RES POINTS]5000
-[PRICE]600000
-[DEV COSTS]2000000
-[TECHLEVEL]10
-[ONLY_HANDHELD]
 
 ////////////////////////////////////////////////////////////////////
 

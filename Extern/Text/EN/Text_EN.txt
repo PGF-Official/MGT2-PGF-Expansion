@@ -2394,7 +2394,7 @@ What games do you want to fund? [average funding amount]
 <b>Funding</b><br>▪ Significantly more exclusive games will be developed for your console.<br><br>▪ Independent developer studios automatically take the subsidy<br>for development costs from the funding pot.<br><br>▪ As soon as the funding pot is empty, the funding is stopped.
 Information
 You must choose at least one game size!
-<b><size=20>Mad Games Tycoon 2</size></b><br><br>Congratulations on the founding of the game studio <NAME>!<br><br><color=blue>Mad Games Tycoon 2</color> is a time travel through the history of the gaming industry. Build your own offices, production facilities and server rooms. Develop the games of your dreams and produce the next next-gen console. Rise from a small garage company to a huge corporation.<br><br>Have fun!
+<b><size=20>Mad Games Tycoon 2: PGF Expansion</size></b><br><br>Congratulations on the founding of the game studio <NAME>!<br><br><color=blue>Mad Games Tycoon 2</color> is a time travel through the history of the gaming industry. Build your own offices, production facilities and server rooms. Develop the games of your dreams and produce the next next-gen console. Rise from a small garage company to a huge corporation.<br><br>Have fun!
 Competition
 Low
 Normal

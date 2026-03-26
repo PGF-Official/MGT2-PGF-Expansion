@@ -1,4 +1,4 @@
--;-
+﻿-;-
 Work Desk [Type 1];Work desk for development. The higher the quality,<br>the better the work result.
 Radiator;Employees who are freezing become dissatisfied more quickly.
 Lamp [Type 1];Your employees are more motivated when<br>they work in well-equipped offices.

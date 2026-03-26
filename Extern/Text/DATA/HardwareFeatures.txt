@@ -1,4 +1,4 @@
-////							 			HARDWARE FEATURES 									  ////
+﻿////							 			HARDWARE FEATURES 									  ////
 // Parameters:                                                                              		//
 //                                                                         							//
 // [ID]int 					= The ID of the object.                                   				//

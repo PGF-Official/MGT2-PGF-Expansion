@@ -1,4 +1,4 @@
-////									NPC GAMES 									////
+﻿////									NPC GAMES 									////
 // Tags:                                              		  						  //
 //                                                    		  						  //
 // <genre1><genre2>... 		= For what genre can this name be used.      			  //

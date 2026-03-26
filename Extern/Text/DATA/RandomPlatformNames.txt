@@ -1,4 +1,4 @@
-32X-Box
+﻿32X-Box
 Action-Box
 Aether
 Aethra
@@ -1189,4 +1189,4 @@ Xbox Echo
 Xbox Zephyr  
 Xbox Aurora  
 Xbox Rift  
-Xbox Prism  
+Xbox Prism
