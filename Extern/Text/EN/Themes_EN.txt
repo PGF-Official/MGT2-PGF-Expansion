@@ -1,0 +1,510 @@
+﻿////						TOPICS	 					////
+// Tags:                                                  //
+//                                                    	  //
+// <genre1><genre2>... 		= Suitable genres             //
+// <M(1-5)> 				= Age restriction   		  //
+//								1 = MGSR 6                //
+//								2 = MGSR 12               //
+//								3 = MGSR 16               //
+//								4 = MGSR 18               //
+//								5 = MGSR X                //
+//                                                        //
+////////////////////////////////////////////////////////////
+//
+//Line 15 = ID 0
+AI Uprising <3><5><12><14><16><M3>
+Acrobatics <6><8><17><M1>
+Agents <5><12><14><16><M3>
+Agriculture <4><7><9><11><18><M1>
+Airplanes <4><7><17><M1>
+Alchemy <3><4><13><M2>
+Alien Adventure <3><5><13><14><16><M2>
+Alien Artifact <3><12><14><16><M2>
+Alien Circus <1><9><15><M1>
+Alien City <3><5><13><14><16><M2>
+Alien Dungeon <3><5><13><14><16><M2>
+Alien Escape <3><5><13><14><16><M2>
+Alien Hero <3><5><13><14><16><M2>
+Alien Jungle <3><5><13><14><16><M2>
+Alien Kingdom <3><5><13><14><16><M2>
+Alien Mystery <2><12><14><15><M2>
+Alien Portal <2><5><14><16><M2>
+Alien Quest <3><5><13><14><16><M2>
+Alien Rescue <3><13><14><16><M2>
+Alien War <3><5><13><14><16><M3>
+Aliens <3><5><13><14><16><18><M3>
+American Football <8><9><M1>
+Amphibians <6><15><M1>
+Ancient <2><4><5><13><14><16><M2>
+Ancient China <2><4><5><13><14><16><M2>
+Ancient Egypt <2><4><13><14><16><M2>
+Androids <3><5><13><14><16><M2>
+Angels <2><5><14><15><16><M2>
+Animals <5><6><7><8><9><10><11><13><18><M1>
+Anime <2><5><12><15><M2>
+Antique Shop <4><9><11><M1>
+Ants <5><13><14><16><M1>
+Apocalypse <2><5><13><14><16><18><M4>
+Apocalypse Survival <5><13><14><16><18><M4>
+Archaeological Dig <2><4><11><M1>
+Archaeology <2><M1>
+Archery <5><8><14><16><18><M2>
+Art <1><15><M1>
+Artificial Intelligence <3><5><12><14><M2>
+Assassins <5><10><14><15><16><M4>
+Asteroids <5><7><M1>
+Astronauts <2><5><18><M2>
+Athletics <8><9><M1>
+Atlantis <5><13><16><M2>
+Auction <4><9><M1>
+Autopsy <4><12><M3>
+Aztecs <2><5><13><14><16><M2>
+Babysitting <1><15><M1>
+Baking <4><7><9><11><M1>
+Balance <6><8><17><M1>
+Banking <4><9><13><M1>
+Barbarians <3><5><13><14><16><M2>
+Bards <2><5><16><M1>
+Bartering <4><9><13><M1>
+Baseball <8><9><M1>
+Basketball <8><9><M1>
+Beekeeping <4><7><11><M1>
+Bicycle <8><17><M1>
+Billiards <8><M1>
+Birds <6><15><M1>
+Boarding School <2><9><11><15><M1>
+Books <15><M1>
+Bounty Collection <5><14><16><M3>
+Bounty Hunter <5><14><16><M3>
+Bowling <8><M1>
+Boxing <5><10><14><16><M2>
+Brewing <4><7><11><M1>
+Building Blocks <4><6><11><M1>
+Bunker <4><13><14><16><18><M3>
+Cabs <8><17><M1>
+Camping <6><7><11><M1>
+Candy <1><6><9><M1>
+Card Counting <1><4><M2>
+Cars <8><17><M1>
+Cartography <4><9><13><M1>
+Casinos <4><9><M3>
+Castles <3><4><5><13><14><16><M2>
+Cats <6><15><M1>
+Cave Exploration <4><5><13><M2>
+Charity <1><9><15><M1>
+Chemistry <4><M1>
+Chess <4><6><14><M1>
+Chessboxing <4><5><10><M2>
+Chickens <6><15><M1>
+Cinema <4><9><11><M1>
+Circus <1><9><11><M1>
+Cities <4><7><9><13><18><M1>
+Civilizations <4><9><13><M2>
+Cleaning <7><M1>
+Climbing <8><17><M2>
+Cloning <3><9><12><M3>
+Cloud Computing <3><12><M2>
+Colonization <4><9><13><M2>
+Color Matching <1><6><M1>
+Comedy <2><5><12><15><M1>
+Companies <4><9><13><M1>
+Confinement <5><14><16><M3>
+Conquest <4><9><13><16><M2>
+Conspiracies <2><12><14><15><16><M3>
+Contract Killer <5><10><14><16><M4>
+Cooking <4><7><9><11><M1>
+Cooking Competition <4><7><11><M1>
+Courier <4><9><13><M1>
+Court Case <2><12><15><M2>
+Cowboys <5><13><14><15><16><M2>
+Cozy Horror <2><12><15><M2>
+Crafting <4><7><9><11><18><M1>
+Creature Collection <3><5><13><15><M1>
+Cricket <8><9><M1>
+Crime <5><9><12><14><16><M4>
+Crime Scene Investigation <2><12><14><M3>
+Crocodiles <5><6><M1>
+Cryptography <3><12><M2>
+Curling <8><9><M1>
+Curses <2><12><15><M3>
+Cyberpunk <3><5><12><14><16><M3>
+Cybersecurity <3><12><M2>
+Cyberspace <3><5><12><14><16><M2>
+Cyborgs <3><5><13><14><16><M2>
+DJing <1><12><15><M1>
+Dance Battle <1><12><15><M1>
+Dancing <1><12><15><M1>
+Darts <8><M1>
+Data Mining <3><9><12><M2>
+Dating <2><15><M3>
+Debate <1><9><15><M1>
+Deck Building <1><4><13><M1>
+Delivery <4><9><13><M1>
+Demolition <4><13><14><16><M2>
+Demons <2><5><13><14><15><16><18><M4>
+Dental Care <7><15><M1>
+Desert <4><13><14><16><18><M1>
+Detective <2><5><12><14><15><16><M3>
+Devils <3><5><14><16><M4>
+Dice Games <1><4><M1>
+Dieselpunk <4><5><13><16><M2>
+Digging <4><9><11><13><18><M1>
+Digital World <3><12><14><15><M2>
+Dinosaurs <5><13><14><16><18><M2>
+Diplomacy <4><9><13><M2>
+Diplomacy Simulation <4><9><13><M2>
+Diving <8><18><M1>
+Doctors <7><15><M1>
+Dogs <6><15><M1>
+Dolls <6><M1>
+Dolphins <8><M1>
+Dragons <3><5><13><14><15><16><M2>
+Drawing <1><15><M1>
+Dreams <2><6><M1>
+Dreamscape <2><6><15><M1>
+Drones <5><13><17><M2>
+Druids <3><13><14><16><M2>
+Dungeon Escape <3><5><13><14><16><M2>
+Dungeons <3><5><13><14><16><18><M2>
+Dwarfs <3><5><13><14><16><M2>
+Economy <4><9><13><17><M1>
+Education <1><9><11><M1>
+Elements <4><6><M1>
+Elves <3><5><13><14><15><16><M2>
+End Times <2><4><5><13><14><16><18><M3>
+Erotica <2><15><M5>
+Espionage <5><12><13><14><16><M3>
+Everyday Life <1><7><15><M1>
+Evolution <4><6><7><11><M1>
+Expeditions <2><4><11><18><M1>
+Extreme Sports <6><8><17><M2>
+Factories <4><9><13><M1>
+Fairies <3><6><15><M1>
+Fantasy <2><3><5><13><14><15><16><M2>
+Fantasy Adventure <3><5><13><14><15><M2>
+Fantasy Battle <3><5><13><14><16><M2>
+Fantasy Castle <3><4><13><14><16><M2>
+Fantasy Circus <1><9><15><M1>
+Fantasy Dungeon <3><5><13><14><16><M2>
+Fantasy Empire <2><4><13><14><16><M2>
+Fantasy Escape <3><5><13><14><16><M2>
+Fantasy Farming <4><7><11><15><M1>
+Fantasy Forest <3><6><15><M1>
+Fantasy Hero <3><5><13><14><16><M2>
+Fantasy Invasion <3><5><13><14><16><M2>
+Fantasy Portal <2><5><14><16><M2>
+Fantasy Puzzle <1><6><14><16><M1>
+Fantasy Quest <3><5><13><14><16><M2>
+Fantasy Rescue <3><5><13><14><16><M2>
+Fantasy School <2><9><11><15><M1>
+Fantasy Village <3><4><13><14><16><M1>
+Fantasy War <4><5><13><14><16><M2>
+Fashion <1><15><M1>
+Fencing <5><8><10><13><14><16><M2>
+Fire Department <4><9><13><M1>
+Fish <6><7><8><9><M1>
+Fishing <8><18><M1>
+Fitness <8><9><10><11><M1>
+Food <4><9><18><M1>
+Frogs <6><M1>
+Fruit <6><16><M1>
+Gambling <4><9><M3>
+Game Development <4><9><M1>
+Gangsters <5><9><14><16><M4>
+Genetics <1><M1>
+Ghost Adventure <2><5><12><14><16><M2>
+Ghost Camp <6><15><M1>
+Ghost Chase <2><5><14><16><M2>
+Ghost Duel <2><5><14><16><M2>
+Ghost Escape <2><5><14><16><M2>
+Ghost Forest <2><5><12><14><16><M2>
+Ghost Heist <2><5><12><14><16><M3>
+Ghost Hero <3><5><13><14><16><M2>
+Ghost Kingdom <2><5><12><14><16><M2>
+Ghost Lab <2><5><12><14><16><M2>
+Ghost Portal <2><5><14><16><M2>
+Ghost Puzzle <1><6><14><16><M1>
+Ghost Realm <2><5><12><14><16><M2>
+Ghost School <2><5><12><14><15><M2>
+Ghost Ship <2><5><14><16><M3>
+Ghost Tournament <2><5><14><16><M2>
+Ghost Town <2><5><12><14><16><M3>
+Ghosts <2><5><12><14><15><16><M3>
+Gladiators <5><10><14><15><M3>
+Goats <6><15><M1>
+Goblins <3><5><13><14><16><M2>
+Gods <3><5><13><14><16><M2>
+Golf <8><9><M1>
+Graveyards <2><5><14><16><M3>
+Greek Mythology <2><4><5><13><14><16><M2>
+Hacking <3><12><M2>
+Haiku <1><15><M1>
+Handball <8><9><M1>
+Haunted Forest <2><5><14><16><M3>
+Haunted House <2><5><12><14><16><M3>
+Haunted Mansion <2><5><12><14><16><M3>
+Haunted Train <2><5><12><14><16><M3>
+Healthcare <7><9><11><M1>
+Hedgehogs <6><M1>
+Helicopters <5><13><14><16><M2>
+Hell <2><5><14><16><M4>
+Hiking <6><8><16><18><M1>
+Historical <2><4><5><9><13><14><16><17><M2>
+Horror <2><5><12><14><15><16><18><M4>
+Horses <8><17><M1>
+Hospital <7><9><15><M1>
+Hotels <7><9><11><M1>
+Hunting <5><14><18><M3>
+Ice Age <2><5><13><14><16><18><M2>
+Ice Hockey <8><9><M1>
+Inca <2><5><13><14><16><M2>
+Industrialization <4><9><13><M2>
+Insects <5><6><13><14><16><M1>
+Islands <2><6><9><18><M1>
+Jet Ski <8><17><M1>
+Jungle <4><13><14><16><18><M1>
+Karate <5><10><14><16><M2>
+Kart Racing <8><17><M1>
+Kickboxing <5><10><M2>
+Kids <1><6><15><M1>
+Knights <2><3><5><13><14><16><M2>
+Kung Fu <5><10><M2>
+Labyrinth <2><3><M1>
+Languages <1><M1>
+Learning <1><9><11><M1>
+Library <4><9><11><15><M1>
+Machines <4><9><M1>
+Mafia <4><5><9><14><16><M4>
+Magic <2><3><4><5><13><14><15><16><M2>
+Magic Academy <3><5><13><14><15><M2>
+Magic Battle <5><13><14><16><M2>
+Magic Camp <6><15><M1>
+Magic Castle <3><4><13><14><16><M2>
+Magic Circus <1><9><15><M1>
+Magic Duel <3><5><14><16><M2>
+Magic Escape <3><5><13><14><16><M2>
+Magic Garden <3><6><15><M1>
+Magic Hero <3><5><13><14><16><M2>
+Magic Island <3><5><13><15><M1>
+Magic Library <3><6><15><M1>
+Magic Mystery <2><12><15><M2>
+Magic Portal <2><5><14><16><M2>
+Magic Puzzle <1><6><14><16><M1>
+Magic Realm <3><5><13><14><15><16><M2>
+Magic Tournament <3><5><14><16><M2>
+Magic Tower <3><5><13><14><16><M2>
+Magic World <3><5><13><14><15><16><M2>
+Magical Forest <3><6><15><M1>
+Makeup <9><15><M1>
+Martial Arts <5><10><14><16><M3>
+Mathematics <1><9><M1>
+Mecha <5><13><14><16><M2>
+Mercenary <5><13><14><16><M3>
+Mermaids <2><12><15><M1>
+Middle Ages <2><3><4><5><13><14><16><M2>
+Military <4><5><13><14><15><18><M3>
+Mining <4><9><13><M1>
+Monkeys <5><6><M1>
+Monster <3><5><13><14><16><18><M3>
+Monster Academy <3><5><13><15><M1>
+Monster Adventure <3><5><13><14><15><M2>
+Monster Battle <5><13><14><16><M2>
+Monster Castle <3><4><13><14><16><M2>
+Monster Chase <3><5><13><14><16><M2>
+Monster Circus <1><9><15><M1>
+Monster Duel <5><13><14><16><M2>
+Monster Empire <3><5><13><14><16><M2>
+Monster Escape <5><13><14><16><M2>
+Monster Forest <3><6><15><M1>
+Monster Hero <3><5><13><14><16><M2>
+Monster Kingdom <3><5><13><14><16><M2>
+Monster Mystery <2><12><14><15><M2>
+Monster Portal <2><5><14><16><M2>
+Monster Realm <3><5><13><14><16><M2>
+Monster Rescue <5><13><14><16><M2>
+Motorcycles <8><17><M1>
+Motorsports <8><17><M1>
+Mountaineering <8><15><M2>
+Movies <1><12><15><M1>
+Mummies <2><5><14><16><M2>
+Mushrooms <6><M1>
+Music <1><12><15><M1>
+Musical Instrument <1><M1>
+Mutants <3><5><13><14><16><18><M3>
+Mystery Island <2><3><5><13><15><M1>
+Nature <4><7><9><11><18><M1>
+Ninjas <5><10><14><16><M3>
+Noble Houses <2><4><9><13><15><M2>
+Oceans <4><8><11><13><14><16><18><M1>
+Octopus <6><M1>
+Orcs <3><5><13><14><16><M2>
+Origami <1><6><M1>
+Paintball <5><8><17><M2>
+Parallel Universe <2><3><5><12><14><16><M2>
+Parallel Worlds <2><3><5><12><14><16><18><M2>
+Parkour <5><14><16><M2>
+Parlor Games <1><4><11><M1>
+Parties <9><15><M1>
+Pets <1><7><15><M1>
+Pharaohs <2><4><13><14><16><M2>
+Photography <2><12><15><M1>
+Physics <4><14><16><17><M1>
+Pinball <6><7><M1>
+Pirates <2><3><5><13><16><M2>
+Planets <2><4><5><13><M1>
+Plants <4><11><13><M1>
+Playing Cards <1><4><M1>
+Plumber <6><M1>
+Police <5><9><13><14><16><17><M3>
+Politics <4><9><15><M2>
+Portals <2><5><14><16><M2>
+Post Office <4><9><11><M1>
+Predators <5><10><14><16><18><M3>
+Prison <5><9><14><16><M3>
+Puzzles <1><6><14><16><M1>
+Quiz Show <1><M1>
+Rabbits <6><15><M1>
+Radioactivity <4><13><14><16><18><M3>
+Rallycross <8><17><M1>
+Raw Materials <4><9><13><18><M1>
+Recycling <7><9><11><M1>
+Religion <2><M1>
+Renovation <4><9><11><M1>
+Reporters <2><12><15><M1>
+Restaurants <7><9><11><M1>
+Revolution <4><5><12><14><16><M3>
+Riding <8><17><M1>
+Robot Adventure <3><5><13><14><16><M2>
+Robot Arena <5><13><14><16><M2>
+Robot Battle <5><13><14><16><M2>
+Robot Camp <6><15><M1>
+Robot Castle <3><4><13><14><16><M2>
+Robot Duel <5><13><14><16><M2>
+Robot Escape <3><5><13><14><16><M2>
+Robot Hero <3><5><13><14><16><M2>
+Robot Kingdom <3><5><13><14><16><M2>
+Robot Mystery <2><12><14><15><M2>
+Robot Portal <2><5><14><16><M2>
+Robot Puzzle <1><6><14><16><M1>
+Robot Rebellion <3><5><13><14><16><M2>
+Robot Rescue <5><13><14><16><M2>
+Robot School <3><5><13><15><M1>
+Robot War <5><13><14><16><M2>
+Robots <3><5><13><14><16><18><M2>
+Rockstars <1><9><M2>
+Roman Empire <2><4><13><14><16><17><M2>
+Romance <2><15><M2>
+Romans <2><4><5><13><14><16><M2>
+Royal Intrigue <2><4><9><13><15><M2>
+Rugby <8><9><M1>
+Saboteurs <5><12><13><14><16><M3>
+Sailing <4><8><13><16><17><M1>
+Samurai <5><10><13><14><16><M3>
+Sandbox <7><9><14><16><18><M1>
+School <1><15><M1>
+Science <4><9><13><M1>
+Secret Society <2><14><15><16><M3>
+Sewers <5><14><16><M2>
+Sheep <6><15><M1>
+Ships <7><13><M1>
+Showbiz <9><15><M2>
+Singing <1><15><M1>
+Skateboards <8><17><M1>
+Skeletons <3><5><13><14><16><18><M3>
+Skiing <8><17><M1>
+Skydiving <8><17><M2>
+Snowboarding <8><M1>
+Soccer <8><M1>
+Space <2><3><4><5><13><14><16><18><M2>
+Space Colony <4><13><16><18><M2>
+Space Pirates <3><5><13><14><16><M2>
+Space Stations <4><13><14><16><M2>
+Spaceships <4><13><14><16><17><M2>
+Special Forces <5><13><14><16><M3>
+Spiders <3><5><14><16><M2>
+Sports <8><17><M1>
+Squash <8><9><M1>
+Squirrels <5><6><M1>
+Steampunk <2><4><5><13><14><16><M2>
+Stock Car <8><17><M1>
+Stock Exchanges <9><M1>
+Stone Age <2><4><5><13><18><M2>
+Stones <4><6><11><M1>
+Stuffed Animals <6><15><M1>
+Submarines <4><13><14><16><M1>
+Super Villains <5><9><14><15><16><M3>
+Superheroes <5><10><14><16><M2>
+Surfing <8><17><M1>
+Survivalism <5><14><16><18><M3>
+Swimming <8><M1>
+Table Tennis <8><9><M1>
+Tanks <4><13><14><16><M3>
+Tea Shop <4><7><9><11><M1>
+Television <1><9><11><M1>
+Tennis <8><9><M1>
+Terraforming <4><7><13><18><M1>
+Theme Parks <7><9><15><M1>
+Thieves <2><5><14><16><M3>
+Time Arena <2><5><13><14><16><M2>
+Time Castle <3><4><13><14><16><M2>
+Time Crisis <2><5><13><14><16><M3>
+Time Duel <2><5><14><16><M2>
+Time Escape <2><5><13><14><16><M2>
+Time Forest <3><6><15><M1>
+Time Hero <3><5><13><14><16><M2>
+Time Kingdom <3><4><13><14><16><M2>
+Time Lab <2><3><12><14><16><M2>
+Time Loop <2><12><15><M2>
+Time Machine <2><3><12><14><16><M2>
+Time Portal <2><3><12><14><16><M2>
+Time Prison <2><5><14><16><M3>
+Time Puzzle <1><6><14><16><M1>
+Time Rescue <2><5><13><14><16><M2>
+Time Rift <2><3><12><14><16><M2>
+Time Tournament <2><5><13><14><16><M2>
+Time Travel <2><3><5><12><14><16><M2>
+Time Travel Agency <2><3><12><14><16><M2>
+Time Warp <2><3><12><14><16><M2>
+Tourism <9><11><M1>
+Toys <6><15><M1>
+Trains <4><7><13><M1>
+Transportation <4><7><17><M1>
+Treasure <2><5><13><15><M2>
+Treasure Hunters <2><5><14><16><M2>
+Treasure Map <2><5><13><15><M1>
+Trolls <3><5><13><14><16><M2>
+Trucks <8><17><M1>
+Tubes <6><M1>
+UFOs <4><12><13><14><16><M2>
+University <2><9><11><12><15><M1>
+Urban Legends <2><12><15><M2>
+Vacation <7><9><11><M1>
+Vampires <2><5><12><14><16><18><M3>
+Victorian Age <2><4><9><13><M2>
+Vikings <2><3><5><13><14><16><M2>
+Villages <4><9><13><M1>
+Virtual Pet <1><6><15><M1>
+Viruses <5><18><M3>
+Viticulture <7><9><11><M1>
+Volleyball <8><9><M1>
+Werewolves <2><5><12><14><15><16><18><M3>
+Wild West <2><5><13><14><15><16><M2>
+Wilderness Survival <5><14><16><18><M3>
+Witch Trials <2><5><14><16><M3>
+Witches <2><5><12><14><16><M3>
+Wizards <3><5><13><14><16><M2>
+World Wars <4><5><7><13><14><16><M3>
+Worms <5><M1>
+Wrestling <5><10><M2>
+Yakuza <5><9><10><14><16><M4>
+Zeppelins <4><13><M1>
+Zombies <5><14><15><16><18><M4>
+Zoo <4><7><9><11><15><M1>
+Monster Forest <3><6><15><M1>
+Time Duel <2><5><14><16><M2>
+Robot Rescue <5><13><14><16><M2>
+Fantasy Portal <2><5><14><16><M2>
+Monster Escape <5><13><14><16><M2>
+Magic Puzzle <1><6><14><16><M1>
+Alien Hero <3><5><13><14><16><M2>
+Monster Adventure <3><5><13><14><15><M2>
